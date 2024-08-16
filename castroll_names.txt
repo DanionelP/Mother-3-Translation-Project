@@ -4,7 +4,7 @@ Lisa
 Richie
 Lighter
 Fuel
-Bud & Lou
+Bud y Lou
 Bronson
 Abbot
 Abbey
@@ -23,7 +23,7 @@ Butch
 Ed
 Nan
 Alle
-Scamp
+Golfo
 Nippolyte
 Jonel
 Brenda
@@ -40,40 +40,40 @@ Sebastian
 Mapson
 Wess
 *2004256
-Friendly Ghosts
+Fantasmas
 *2038000
-Item Guy
+Chatarrero
 DCMC
-Neckbeard
-Skinhead
+Barbudo
+Calvorota
 *20042C2
 Dr. Andonuts
-Mr. Pump
-Dryguy
-Bucket Bros.
-Claymen
-Ultimate Chimera
+Drenadino
+Secadonte
+Hmnos. Cubeta
+Arcillosos
+Quimera refinitiva
 ~Mr. Saturn
 Leder
-Rope Snake
+Serpicuerda
 Dragos
 Aeolia
 Doria
-Lydia
-Phrygia
-Mixolydia
+Lidia
+Frigia
+Mixolidia
 Ionia
-Save Frogs
-Fassad
-Pigmasks
-Chauffeur
+Ranas
+Falhaz
+Puercaretos
+Chófer
 Mini-Porky
-Oxygen Supply
+Máquina O2
 Porky
-Masked Man
+Enmascarado
 *2038000
 *200432E
 *20041EA
 *200468E
-To continue the game, press Select
-and the L and R Buttons simultaneously.
+Para volver al juego, pulsa los botones
+Select, L y R al mismo tiempo.
