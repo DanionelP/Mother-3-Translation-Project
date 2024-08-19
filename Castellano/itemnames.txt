@@ -201,7 +201,7 @@
 0063: Edible Mushroom
 0063-E: Seta comestible
 0064: Innit Tea
-0064-E: Té
+0064-E: Té lohés
 0065: Beef Jerky
 0065-E: Carne de ternera
 0066: Fresh Egg
