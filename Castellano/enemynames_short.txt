@@ -1,0 +1,331 @@
+// Short enemy names must be 19 letters or less
+(nada)
+Caribú reconst.
+Don pasión
+Osoherpiente
+Arcilloso
+Mecha-Drago
+Tanque porcino
+Don Genetor
+Grillo topo
+Sonrisa macabra
+Sonrisa brillante
+Porky
+Exterm. porcino
+Enmascarado
+Puerc. feroz
+Puerc. feroz
+Bajo celoso
+Porky
+Babosa pegajosa
+PORKY 02
+Estatua real
+Hipolanzadera
+Neo Falhaz
+Sonrisa macabra
+Lord Pasión
+Árbol cariñoso
+PORKY 03
+PORKY 08
+Falhaz milagroso
+Coman. Puercareto
+Gran antillón
+Electroplasma
+Rinocohete v2
+Sustobot
+"El Rata"
+Pirodóptero
+Mecha-León
+Corte de carretera
+Trotaseta
+Petardo graznante
+Gran pescánido
+Sr. Murchiflado
+Ratón gorrón
+Mosca fogosa
+Tuberculoide
+Ratón volador
+PORKY 01
+Jabalí agitado
+Serp. mordedora
+Bola de hollín
+Tuberc. asado
+Arbustito andante
+Medusa despreoc.
+Metalmono mist.
+Lagarto escarpado
+Gusano patatero
+Yetiesquí
+Can gelado
+Babosa viscosa
+Geocita
+Confuseta
+Grillo topo
+Boa Transistor
+Topo travieso
+¡Topobot!
+Buitraco
+Árbol
+Titani
+Copito
+Doña Laventa
+Volcánido
+Zombi
+Perro zombi
+Alma amargada
+Lápida ambulante
+Sanguijuelo
+Langosta cobarde
+Cochinilla ENORME
+Esqueleto alegre
+Hermanote
+Hombre barril
+Limo de fresa
+¡Arácnido!
+Cucar. violenta
+Trío barrera
+Armad. espectral
+Espada espectral
+Escudo espectral
+Cab. espectral
+Capa de Osohe
+Fantasma mecedor
+Pseudopuerta
+Sonrisa macabra
+Escar. boñiguero
+Gran antillón
+Bocaseca
+Lagarto arenoso
+Cactulobo
+Pringue pringoso
+Tutangatón
+Hermanito
+Zombiñón
+Fantasma fétido
+Crítico fantasmal
+Rocinántula
+Porquídea
+Palo graznante
+Mohosus Putridus
+Avíbora
+Engendro
+Pescánido
+Vacaconda
+Porkstein
+Mantis religiosa
+Dragolibélula
+Cucar. mugrienta
+Champichucho
+Mecha-Tortuga
+Equipo fraternal
+Murciangután
+Elefantruz
+Titani aéreo
+Monorsa
+Canguburón mat.
+Sta. Malvavisco
+Casi-Mecha-León
+Rinocohete
+Ruedapuerco hist.
+Cucar. metálica
+Helirratón
+¡Cortocircuito!
+Robot obsoleto
+Rompecorazones
+Sonrisa macabra
+Surtibot atómico
+Surtibot nuclear
+Hombre negativo
+Cabezabuque
+Hipotenuso
+Gusanazo patatero
+Tuberc. pelado
+Hipolanzadera
+Gorilabot de acero
+Zombidillo
+Caviar peleón
+PORKY 07
+Ret. de Octobot
+Alim. alfombrera
+Robot patrulla
+Puercareto
+Mujer zombi
+Travieseta
+Lord Murchiflado
+¡¡¡¡Arácnido!!!!
+Ratón ladrón
+Guitarra llorona
+Tambor roto
+Topo reconst.
+León reconst.
+Robot tambaleante
+Señal masculina
+Robot destrozado
+Chatarra desolada
+Caja sorpresa
+Baterín
+Tornillete
+Bomba rastrera
+K4N1N0
+Alcalino
+PORKY 06
+Coman. Puercareto
+Cor. Puercareto
+Cap. Puercareto
+Puercareto marino
+Maestro torbellino
+Gamba gamberra
+Pez redooondo
+Buitraco celeste
+Seguribot
+Viento incordiante
+PORKY 09
+PORKY 10
+Titanian
+Robot mejorado
+Judiablillo
+Judiablillo negro
+Minibosque
+PORKY 04
+PORKY 05
+Enmascarado
+Enmascarado
+(NADA)
+Pick
+Antillón
+Puerc. feroz
+Cangrejo
+Siluro eléc.
+Shimmy Zmizz
+Magic
+Duster
+Teclado
+OJ
+Robot
+Escar. boñiguero
+Hombre carpa
+Conejo ártico
+Arcilloso
+Vapor
+Serpicuerda
+Serpicuerda
+Mesa Aeolia
+Straw
+Vapor 2
+Mini-Elevator
+Drago
+Pork Trooper
+Green Train
+Pump Drago
+Three Amigos
+Flower
+Rope Ladder
+Flame 3
+Flag
+Ropeway
+(empty)
+Piece
+Flame 1
+Lotus Root
+Clay
+Explosion
+Smoke
+Statue Head
+Carousel
+N. Dresser
+Fireflies
+Hinawa Cloth
+Catfish
+Broom
+Fish
+Sea Urchin
+Train
+Sign
+Sign
+(empty)
+Portrait
+Friendly Ghost
+Trash Can
+Steel Ball
+Egg of Light
+Chestnut
+Rockin' Ghost
+Candle
+Mouse
+Energy Machine
+Light Blade
+Wine Glass
+Rope Snake
+Stinkbug
+Garbage Truck
+Smoke
+Aeolia
+Doria
+Magnifier
+Text Balloon
+Sign
+NO Stone
+Kumatora
+Stone Fragment
+That Car
+Black Drago
+Mole Cricket
+Lightning
+Mothership
+(empty)
+Lydia
+Mixolydia
+Hinawa
+Frozen Drago
+Porky
+Thunder
+Child Mouse
+Dr. Andonuts
+Osohe Castle
+Mothership
+Volcano
+Explosion FX
+Caption
+D.Mothership
+Tiles
+(empty)
+Water Column
+D.Mothershp
+NO Rock Smoke
+Smoke
+Sapling
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+Grave
+Phrygia
+Cube
+Iron Octopus
+Caribou
+Ionia
+D.Drago Wind
+Mushroom
+Bridge
+HallucBTent
+TableGoRnd1
+TableGoRnd2
+TableGoRnd3
+M 100F Boat
+Mini-Porky Bot
+Sign
+Handcart
+Game Balloon
+Baccios Drum
+Octopus Ink
+DrgnFirewrk
+Skyrocket
+Police Car
+Automobile
+AttcKotatsu
+WoodM3Title
+Overworld
+Underworld
+MenRoomDoor
+Aeolia&Sofa
