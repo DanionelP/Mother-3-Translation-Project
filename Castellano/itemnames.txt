@@ -505,7 +505,7 @@
 00FB: Tower Sketch
 00FB-E: Esbozo de la torre
 00FC: Chimera Lab Map
-00FC-E: Mapa del Lab. quimera
+00FC-E: Mapa del lab. Quimera
 00FD: Cricket Hole Map
 00FD-E: Mapa de madriguera
 00FE: Highway Map
