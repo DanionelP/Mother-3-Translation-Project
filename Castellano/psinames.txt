@@ -52,7 +52,7 @@
 19:Lifeup [OMEGA]
 19-E:Recuperar [OMEGA]
 1A:Refresh
-1A-E:Refrescar
+1A-E:Regenerar
 1B:Healing [ALPHA]
 1B-E:Sanar [ALPHA]
 1C:Healing [BETA]
