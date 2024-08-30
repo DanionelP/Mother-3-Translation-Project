@@ -146,7 +146,7 @@
 0043: Strange[END]
 0043-E: Rareza[END]
 0044: Crying[END]
-0044-E: Llanto[END]
+0044-E: Lágrimas[END]
 0045: Forgetful[END]
 0045-E: Amnesia[END]
 0046: Nauseated[END]
@@ -288,7 +288,7 @@
 008A: Inside the present, there [17 EF][11 EF][10 FF]![34 FF] Maybe.[END]
 008A-E: ¡Dentro, había [11 EF][10 FF]![34 FF] Tal vez.[END]
 008B: [10 FF] took [17 EF][11 FF]![END]
-008B-E: [10 FF] 13 EF]cogió.[END]
+008B-E: [10 FF] [15 EF] cogió.[END]
 008C: But [10 FF] can't carry any more stuff.[WAIT]Do you want to throw something away?[BREAK]                   [37 FF]Yes             [37 FF]No[END]
 008C-E: Pero [10 FF] no puede cargar con tantas cosas.[WAIT]¿Quieres tirar algún objeto?[BREAK]                   [37 FF]Sí             [37 FF]No[END]
 008D: But [10 FF] and company can't carry any more stuff.[WAIT]Do you want to throw something away?[BREAK]                   [37 FF]Yes             [37 FF]No[END]
@@ -464,7 +464,7 @@
 00E2: [END]
 00E2-E: [END]
 00E3: It didn't work on [25 EF][12 FF]![END]
-00E3-E: ¡Pero no funcionó en [25 EF][12 FF][END]
+00E3-E: ¡Pero no funcionó en [25 EF][12 FF]![END]
 //Used if a status move is used on a resistant entity or if said entity is already afflicted by said status (even used after 3 buffs/debuffs are applied)
 00E4: [END]
 00E4-E: [END]
@@ -627,11 +627,11 @@
 0133: Couldn't drain any PP from [05 EF][12 FF]![END]
 0133-E: ¡No pudo sacar PP![END]
 0134: [11 FF] tried [10 FF]![WAIT]But it didn't work![END]
-0134-E: ¡[11 FF] usó [10 FF]![WAIT]Pero no hizo efecto.[END]
+0134-E: ¡[11 FF] usó [10 FF]![WAIT]Pero no funcionó.[END]
 0135: But it didn't work.[END]
 0135-E: Pero no hizo efecto.[END]
 0136: It didn't hit anyone![END]
-0136-E: ¡Pero no le dio a nadie![END]
+0136-E: ¡No le dio a nadie![END]
 0137: [04 EF][12 FF] and company were eradicated![END]
 0137-E: ¡[04 EF][12 FF] y compañía fueron erradicados![END]
 0138: But it didn't work on [05 EF][12 FF]![END]
@@ -665,11 +665,11 @@
 0146: [11 FF] ate [13 EF][10 FF]![END]
 0146-E: ¡[11 FF] se comió [13 EF][10 FF]![END]
 0147: [11 FF] took out [13 EF][10 FF],[WAIT]and [05 EF][12 FF] ate [16 EF]![END]
-0147-E: ¡[11 FF] sacó [13 EF][10 FF],[WAIT]y [05 EF][12 FF] se [16 EF] comió![END]
+0147-E: ¡[11 FF] sacó [13 EF][10 FF],[WAIT]y [05 EF][12 FF] se [15 EF] comió![END]
 0148: [11 FF] drank [13 EF][10 FF]![END]
 0148-E: ¡[11 FF] se bebió [13 EF][10 FF]![END]
 0149: [11 FF] took out [13 EF][10 FF],[WAIT]and [05 EF][12 FF] drank [16 EF]![END]
-0149-E: ¡[11 FF] sacó [13 EF][10 FF],[WAIT]y [05 EF][12 FF] se [16 EF] bebió![END]
+0149-E: ¡[11 FF] sacó [13 EF][10 FF],[WAIT]y [05 EF][12 FF] se [15 EF] bebió![END]
 014A: [END]
 014A-E: [END]
 014B: [END]
@@ -705,15 +705,15 @@
 015A: [11 FF] tried to eat [13 EF][10 FF]![END]
 015A-E: ¡[11 FF] intentó comerse [13 EF][10 FF]![END]
 015B: [11 FF] took out [13 EF][10 FF],[WAIT]and tried to have [05 EF][12 FF] eat [16 EF].[END]
-015B-E: [11 FF] sacó [13 EF][10 FF],[WAIT]e intentó que [05 EF][12 FF] se [16 EF] comiese.[END]
+015B-E: [11 FF] sacó [13 EF][10 FF],[WAIT]e intentó que [05 EF][12 FF] se [15 EF] comiese.[END]
 015C: [11 FF] tried to drink [13 EF][10 FF]![END]
 015C-E: ¡[11 FF] intentó beberse [13 EF][10 FF]![END]
 015D: [11 FF] took out [13 EF][10 FF],[WAIT]and tried to have [05 EF][12 FF] drink [16 EF].[END]
-015D-E: [11 FF] sacó [13 EF][10 FF],[WAIT]e intentó que [05 EF][12 FF] se [16 EF] comiese.[END]
+015D-E: [11 FF] sacó [13 EF][10 FF],[WAIT]e intentó que [05 EF][12 FF] se [15 EF] comiese.[END]
 015E: [11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] brought feelings of happiness.[END]
-015E-E: ¡[11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] trajó sentimientos de felicidad.[END]
+015E-E: ¡[11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] trajo consigo una gran felicidad.[END]
 015F: [11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] brought feelings of happiness.[END]
-015F-E: ¡[11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] trajó sentimientos de felicidad.[END]
+015F-E: ¡[11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] trajo consigo una gran felicidad.[END]
 0160: [11 FF] showed off [13 EF][10 FF]![WAIT][04 EF][12 FF] applauded for [11 FF]![END]
 0160-E: ¡[11 FF] mostró [13 EF][10 FF]![WAIT]¡[04 EF][12 FF] aplaudió a [11 FF]![END]
 0161: [11 FF] showed off [13 EF][10 FF]![WAIT][04 EF][12 FF] applauded for [11 FF]![END]
@@ -735,15 +735,15 @@
 0169: [11 FF] threw [13 EF][10 FF]![WAIT][04 EF][12 FF] slipped and fell down![END]
 0169-E: ¡[11 FF] lanzó [13 EF][10 FF]![WAIT]¡[04 EF][12 FF] dio un gran resbalón![END]
 016A: [11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] soared off into the sky![WAIT]It was an impressive sight![END]
-016A-E: [END]
+016A-E: ¡[11 FF] usó [13 EF][10 FF]![WAIT][12 EF][10 FF] se elevó hasta los cielos![WAIT]¡Fue una vista impresionante![END][END]
 016B: [END]
 016B-E: [END]
 016C: [11 FF] used [13 EF][10 FF]![WAIT][12 EF][10 FF] soared off into the sky![WAIT]It was a dignified sight![END]
-016C-E: ¡[11 FF] usó [13 EF][10 FF]![WAIT][12 EF][10 FF] se elevó hasta el cielo![WAIT]¡Fue una vista increíble![END]
+016C-E: ¡[11 FF] usó [13 EF][10 FF]![WAIT][12 EF][10 FF] se elevó hasta los cielos![WAIT]¡Fue una vista increíble![END]
 016D: [END]
 016D-E: [END]
 016E: [11 FF] used [13 EF][10 FF]![WAIT]The sight of the baby chick warmed [10 FF]'s heart.[END]
-016E-E: [11 FF sacó [13 EF][10 FF]![WAIT]La ternura del pequeño polluelo conmovió a [10 FF].[END]
+016E-E: ¡[11 FF] sacó [13 EF][10 FF]![WAIT]La ternura del pequeño polluelo conmovió [07 EF][11 FF].[END]
 016F: [END]
 016F-E: [END]
 0170: [11 FF] used [13 EF][10 FF]![WAIT]The chicken dashed off at breakneck speed![END]
@@ -809,7 +809,7 @@
 018E: [11 FF] tried to eat [13 EF][10 FF].[WAIT]But [11 FF] doesn't feel like eating [16 EF]...[END]
 018E-E: [11 FF] intentó comerse [13 EF][10 FF].[WAIT]Pero no tiene apetito alguno...[END]
 018F: [11 FF] took out [13 EF][10 FF][WAIT]and tried to make [05 EF][12 FF] eat [16 EF].[33 FF][WAIT]But the food was refused![END]
-018F-E: [11 FF] sacó [13 EF][10 FF][WAIT]e intentó que [05 EF][12 FF] se [17 EF] comiese.[33 FF][WAIT]Pero no tiene apetito alguno...[END]
+018F-E: [11 FF] sacó [13 EF][10 FF][WAIT]e intentó que [05 EF][12 FF] se [15 EF] comiese.[33 FF][WAIT]Pero no tiene apetito alguno...[END]
 0190: [04 EF][12 FF] slipped violently![END]
 0190-E: ¡[04 EF][12 FF] se tropezó violentamente![END]
 0191: [END]
@@ -927,27 +927,27 @@
 01C9: [END]
 01C9-E: [END]
 01CA: It didn't get through to [05 EF][12 FF]![END]
-01CA-E: [END]
+01CA-E: ¡Pero no llegó [07 EF][12 FF]![END]
 01CB: [04 EF][12 FF] felt better![END]
 01CB-E: ¡[04 EF][12 FF] se sintió mejor![END]
 01CC: [04 EF][12 FF] was able to relax![END]
 01CC-E: ¡[04 EF][12 FF] pudo relajarse![END]
 01CD: [04 EF][12 FF] became lively and animated![END]
-01CD-E: [END]
+01CD-E: ¡[04 EF][12 FF] está animado y feliz![END]
 01CE: [04 EF][12 FF] felt unnerved![END]
-01CE-E: [END]
+01CE-E: ¡[04 EF][12 FF] está de los nervios![END]
 01CF: [04 EF][12 FF] was scared stiff![END]
-01CF-E: [END]
+01CF-E: ¡[04 EF][12 FF] está atterorizad[08 EF]![END]
 01D0: [04 EF][12 FF] felt weak and powerless![END]
-01D0-E: [END]
+01D0-E: ¡[04 EF][12 FF] se siente débil e insignificante![END]
 01D1: [04 EF][12 FF]'s body became lighter![END]
-01D1-E: [END]
+01D1-E: ¡El cuerpo [06 EF][12 FF] se hizo más ligero![END]
 01D2: [04 EF][12 FF]'s body became heavier![END]
-01D2-E: [END]
+01D2-E: ¡El cuerpo [06 EF][12 FF] se hizo más pesado[END]
 01D3: [04 EF][12 FF] felt sad and empty![END]
-01D3-E: [END]
+01D3-E: ¡[04 EF][12 FF] se siente vací[08 EF] y triste![END]
 01D4: [04 EF][12 FF] was overcome by indecent feelings![END]
-01D4-E: [END]
+01D4-E: ¡Los sentimientos indecentes invadieron [07 EF][12 FF]![END]
 01D5: But [13 EF][10 FF] granted [11 FF] strength![END]
 01D5-E: ¡Pero [13 EF][10 FF] le confirió fuerzas a [11 FF]![END]
 01D6: [12 EF][10 FF] vanished.[END]
@@ -1264,7 +1264,7 @@
 0269: [END]
 0269-E: [END]
 026A: [11 FF]'s feelings got through to [05 EF][12 FF]![END]
-026A-E: ¡Las disculpas de [11 FF] conmovieron a [05 EF][12 FF]![END]
+026A-E: ¡Las disculpas de [11 FF] conmovieron [07 EF][12 FF]![END]
 026B: [11 FF]'s feelings didn't get through to [05 EF][12 FF].[END]
 026B-E: Las disculpas de [11 FF] fueron ignoradas.[END]
 026C: [04 EF][12 FF] is cheering![END]
@@ -1278,13 +1278,13 @@
 0270: [04 EF][12 FF] turned around![END]
 0270-E: ¡[04 EF][12 FF] se dio la vuelta![END]
 0271: [11 FF]'s feelings have gotten through to [05 EF][12 FF]![END]
-0271-E: ¡Las disculpas de [11 FF] conmovieron a [05 EF][12 FF]![END]
+0271-E: ¡Las disculpas de [11 FF] conmovieron [07 EF][12 FF]![END]
 0272: [04 EF][12 FF] is still cheering![END]
 0272-E: ¡[04 EF][12 FF] sigue entreteniéndose![END]
 0273: [11 FF] is sizing up the enemy.[END]
 0273-E: [11 FF] observa al enemigo atentamente.[END]
 0274: [11 FF] mimicked [05 EF][12 FF]![END]
-0274-E: ¡[11 FF] imitó a [05 EF][12 FF]![END]
+0274-E: ¡[11 FF] imitó [07 EF][12 FF]![END]
 0275: SHARED PLAYER MESSAGES[END]
 0275-E: MENSAJES COMPARTIDOS[END]
 0276: [END]
@@ -1403,7 +1403,7 @@
 02A6: Alec went to take out another medicinal herb, but he was all out![END]
 02A6-E: ¡Alec iba a coger otra hierba medicinal, pero se dio cuenta de que ya no le quedaban![END]
 02A7: Alec suggested using the Drago Fang![END]
-02A7-E: ¡Alec sugirió utilizar el Colmillo drago![END]
+02A7-E: ¡Alec sugirió usar el Colmillo drago![END]
 02A8: Alec shook [14 FF] awake![END]
 02A8-E: ¡Alec despertó a [14 FF]![END]
 02A9: Wess attacks![END]
@@ -1415,7 +1415,7 @@
 02AC: Wess sharply scolded [12 FF]![END]
 02AC-E: ¡Wess regañó severamente a [12 FF]![END]
 02AD: Wess is worried about [12 FF]'s safety![END]
-02AD-E: ¡Wess está preocupado por [12 FF]![END]
+02AD-E: ¡Wess está preocupado por la seguridad de [12 FF]![END]
 02AE: Wess tried a Secret Thief Art Technique![END]
 02AE-E: ¡Wess usó una Técnica secreta de ladrón![END]
 02AF: [END]
@@ -1646,30 +1646,30 @@
 // Used by the enemies:  Mr. Passion,  Lord Passion
 // Used by the actions: 315, 625
 0301: [04 EF][11 FF] fired its cannon![END]
-0301-E: ¡[04 EF][11 FF] disparó con su cañón![END]
+0301-E: ¡[04 EF][11 FF] disparó su cañón![END]
 // Used by the enemy:  Pork Tank
 // Used by the actions: 339, 612
 0302: [04 EF][11 FF] bit with its venomous fangs![END]
-0302-E: ¡[04 EF][11 FF] mordió con sus colmillos venenosos![END]
+0302-E: ¡[04 EF][11 FF] mordió [47 EF][12 FF] con sus colmillos venenosos![END]
 // Used by the enemies:  Mighty Bitey Snake,  Dogfish,  Arachnid!!!!
 // Used by the action: 36
 0303: [04 EF][11 FF] stabbed with its venomous stinger![END]
-0303-E: ¡[04 EF][11 FF] picó con su aguijón venenoso![END]
+0303-E: ¡[04 EF][11 FF] picó [47 EF][12 FF] con su aguijón venenoso![END]
 // Used by the enemy:  Horsantula
 // Used by the action: 37
 0304: [04 EF][11 FF] sprayed a poisonous gas![END]
-0304-E: ¡[04 EF][11 FF] liberó un gas venososo![END]
+0304-E: ¡[04 EF][11 FF] liberó gas venososo![END]
 // Used by the actions: 38, 419
 0305: [04 EF][11 FF] emitted an electromagnetic pulse![END]
 0305-E: ¡[04 EF][11 FF] emitió un pulso electromagnético![END]
 // Used by the enemies:  Return of Octobot,  Wobbly Robot
 // Used by the action: 39
 0306: [04 EF][11 FF] tried to strike [45 EF][12 FF]'s joints![END]
-0306-E: ¡[04 EF][11 FF] intentó atacar a las articulaciones de [45 EF][12 FF]![END]
+0306-E: ¡[04 EF][11 FF] intentó atacar a las articulaciones [46 EF][12 FF]![END]
 // Used by the enemies:  Pigmask Major,  Pigmask Major
 // Used by the action: 40
 0307: [04 EF][11 FF] planted an unwanted kiss![END]
-0307-E: ¡[04 EF][11 FF] besuqueó a [45 EF][12 FF] con descaro![END]
+0307-E: ¡[04 EF][11 FF] besuqueó [47 EF][12 FF] con descaro![END]
 // Used by the enemies:  Mrs. Lava,  Love Walker
 // Used by the action: 41
 0308: [04 EF][11 FF] tried Paralysis [ALPHA]![END]
@@ -1679,7 +1679,7 @@
 0309: [04 EF][11 FF] tried Paralysis [OMEGA]![END]
 0309-E: ¡[04 EF][11 FF] usó Parálisis [OMEGA]![END]
 030A: [04 EF][11 FF] fired its DRoW-Z Beam![END]
-030A-E: ¡[04 EF][11 FF] disparó su Rayo modorra![END]
+030A-E: ¡[04 EF][11 FF] disparó su Rayo MoD-orra![END]
 // Used by the enemies:  Minor Robot,  Security Robot
 // Used by the actions: 44, 277
 030B: [04 EF][11 FF] clung to [12 FF]![END]
@@ -1702,7 +1702,7 @@
 // Used by the enemies:  Scamperin' Mushroom,  Ramblin' Mushroom,  Muttshroom,  Muttshroom,  Naughty Mushroom
 // Used by the actions: 49, 51, 267, 522
 0310: [04 EF][11 FF] fired a Dum-E Beam![END]
-0310-E: ¡[04 EF][11 FF] lanzó su Rayo raruno![END]
+0310-E: ¡[04 EF][11 FF] lanzó su Rayo Rar-1![END]
 // Used by the enemies:  Boa Transistor,  Sara-Sara-Sahara
 // Used by the action: 50
 0311: [04 EF][11 FF] did an alluring dance![END]
@@ -1800,7 +1800,7 @@
 032B: Friends gathered![END]
 032B-E: ¡Amigos reunidos![END]
 032C: [04 EF][11 FF] threw a Bomb![END]
-032C-E: ¡[04 EF][11 FF]lanzó una Bomba![END]
+032C-E: ¡[04 EF][11 FF] lanzó una Bomba![END]
 // Used by the enemies:  Minor Robot,  Cuddle Bomb
 // Used by the action: 78
 032D: [04 EF][11 FF] threw a Super Bomb![END]
@@ -1939,7 +1939,7 @@
 // Used by the enemies:  Great Antlion,  Great Antlion
 // Used by the action: 116
 0352: [04 EF][11 FF] jumped into [45 EF][12 FF]'s mouth![END]
-0352-E: ¡[04 EF][11 FF] saltó dentro de la boca de [45 EF][12 FF]![END]
+0352-E: ¡[04 EF][11 FF] saltó dentro de la boca [46 EF][12 FF]![END]
 0353: [04 EF][11 FF] tried one last attack![END]
 0353-E: ¡[04 EF][11 FF] atacó con su último aliento![END]
 // Used by the actions: 117, 150
@@ -1969,10 +1969,10 @@
 // Used by the enemy:  Osohe Cape
 // Used by the action: 124
 035B: [04 EF][11 FF] tried PSI Magnet [OMEGA]![END]
-035B-E: ¡[04 EF][11 FF] USÓ Imán PSI [OMEGA]![END]
+035B-E: ¡[04 EF][11 FF] usó Imán PSI [OMEGA]![END]
 // Used by the action: 125
 035C: [04 EF][11 FF] coiled around [12 FF]![END]
-035C-E: ¡[04 EF][11 FF] se enroscó alrededor de [12 FF]![END]
+035C-E: ¡[04 EF][11 FF] se enroscó alrededor [46 EF][12 FF]![END]
 // Used by the enemies:  Oh-So-Snake,  Mighty Bitey Snake,  Carefree Jellyfish,  Cleocatra,  Slitherhen,  Reconstructed Lion,  Master Eddy
 // Used by the actions: 126, 322, 534
 035D: [04 EF][11 FF] became friendly and affectionate![END]
@@ -2015,7 +2015,7 @@
 // Used by the enemy:  Miracle Fassad
 // Used by the action: 136
 0367: [04 EF][11 FF] tickled [12 FF]![END]
-0367-E: ¡[04 EF][11 FF] le hizo cosquillas a [12 FF]![END]
+0367-E: ¡[04 EF][11 FF] le hizo cosquillas [47 EF][12 FF]![END]
 // Used by the enemies:  Mischievous Mole,  Cheery Skeleton,  Navy SQUEAL
 // Used by the action: 137
 0368: [04 EF][11 FF] tried Defense Down [ALPHA]![END]
@@ -2083,7 +2083,7 @@
 // Used by the enemy:  Parental Kangashark
 // Used by the action: 155
 037C: [24 EF][11 FF] repaired [05 EF][12 FF]![END]
-037C-E: ¡[24 EF][11 FF] reparó a [05 EF][12 FF]!![END]
+037C-E: ¡[24 EF][11 FF] reparó [07 EF][12 FF]!![END]
 // Used by the action: 156
 037D: [24 EF][11 FF] replenished energy![END]
 037D-E: ¡[24 EF][11 FF] recargó energías![END]
@@ -2241,7 +2241,7 @@
 // Used by the enemy:  Gooey Goo
 // Used by the action: 333
 03AA: [04 EF][11 FF] divided![END]
-03AA-E: ¡[04 EF][11 FF] se dividió[END]
+03AA-E: ¡[04 EF][11 FF] se dividió![END]
 03AB: But it failed![END]
 03AB-E: ¡Pero falló![END]
 03AC: [04 EF][11 FF] is down in the dumps![END]
@@ -2457,7 +2457,7 @@
 // Used by the enemy:  Mr. Genetor
 // Used by the action: 370
 03E6: [04 EF][11 FF] is buzzing all around [12 FF]![END]
-03E6-E: ¡[04 EF][11 FF] se puso a zumbar alrededor de [12 FF]![END]
+03E6-E: ¡[04 EF][11 FF] se puso a zumbar alrededor [46 EF][12 FF]![END]
 // Used by the enemy:  Firefly
 // Used by the actions: 256, 310
 03E7: [04 EF][11 FF] slapped with its tail![END]
@@ -2488,7 +2488,7 @@
 // Used by the enemy:  Zombie Dog
 // Used by the action: 264
 03EF: [04 EF][11 FF] is struggling to get up![END]
-03EF-E: ¡Al [11 FF] le está costando levantarse![END]
+03EF-E: ¡[07 EF][11 FF] le está costando levantarse![END]
 // Used by the action: 329
 03F0: [04 EF][11 FF] got up![END]
 03F0-E: ¡[04 EF][11 FF] se levantó![END]
@@ -2512,7 +2512,7 @@
 // Used by the enemies:  Pyrefly,  Firefly
 // Used by the actions: 309, 474
 03F6: [04 EF][11 FF] dragged [12 FF] over![END]
-03F6-E: ¡[04 EF][11 FF] arrastró a [12 FF]![END]
+03F6-E: ¡[04 EF][11 FF] arrastró [47 EF][12 FF]![END]
 // Used by the enemies:  Great Antlion,  Great Antlion
 // Used by the action: 272
 03F7: [04 EF][11 FF] rolled into a ball![END]
@@ -2575,7 +2575,7 @@
 // Used by the enemy:  Jealous Bass
 // Used by the actions: 291, 351
 0408: [24 EF][11 FF] jumped inside [05 EF][12 FF] and provided it with energy![END]
-0408-E: ¡[24 EF][11 FF] saltó dentro del [12 FF] y le proporcionó energía![END]
+0408-E: ¡[24 EF][11 FF] saltó dentro [06 EF][12 FF] y le proporcionó energía![END]
 // Used by the enemy:  Battery Man
 // Used by the action: 290
 0409: [04 EF][11 FF] is feeling a bit strange...[WAIT][04 EF][11 FF] attacks![END]
@@ -2596,15 +2596,15 @@
 040D: [24 EF][11 FF] used Offense Up![END]
 040D-E: ¡[24 EF][11 FF] usó Fuerza plus![END]
 040E: [04 EF][11 FF] slapped [45 EF][12 FF]![END]
-040E-E: ¡[04 EF][11 FF] abofeteó a [45 EF][12 FF]![END]
+040E-E: ¡[04 EF][11 FF] abofeteó [47 EF][12 FF]![END]
 // Used by the enemy:  Li'l Miss Marshmallow
 // Used by the action: 359
 040F: [04 EF][11 FF] combo-slapped [45 EF][12 FF] in the face![END]
-040F-E: ¡[04 EF][11 FF] abofeteó repetidamente a [45 EF][12 FF]![END]
+040F-E: ¡[04 EF][11 FF] abofeteó repetidamente [47 EF][12 FF]![END]
 // Used by the enemy:  Li'l Miss Marshmallow
 // Used by the action: 360
 0410: [04 EF][11 FF] scanned [12 FF]![END]
-0410-E: ¡[04 EF][11 FF] escaneó a [12 FF]![END]
+0410-E: ¡[04 EF][11 FF] escaneó [47 EF][12 FF]![END]
 // Used by the action: 361
 0411: [04 EF][11 FF] activated the Ultra Ticked-Off System![END]
 0411-E: ¡[04 EF][11 FF] activó su programa de Ultra Cabreo![END]
@@ -2624,10 +2624,10 @@
 0416: [04 EF][11 FF] ran out of energy.[END]
 0416-E: [04 EF][11 FF] se quedó sin energía.[END]
 0417: [04 EF][11 FF] triple-slapped [45 EF][12 FF] in the face![END]
-0417-E: ¡[04 EF][11 FF] le dio tres bofetadas a [45 EF][12 FF]![END]
+0417-E: ¡[04 EF][11 FF] le dio tres bofetadas [47 EF][12 FF]![END]
 // Used by the action: 529
 0418: [04 EF][11 FF] is feeling a bit strange...[WAIT][04 EF][11 FF] attacked with a body blow![END]
-0418-E: [04 EF][11 FF] se siente un poco raro...[WAIT]¡[04 EF][11 FF] atacó con un gancho![END]
+0418-E: [04 EF][11 FF] se siente un poco rar[08 EF]...[WAIT]¡[04 EF][11 FF] atacó con un gancho![END]
 // Used by the enemies:  Scrapped Robot,  Scrapped Robot
 // Used by the actions: 289, 585
 0419: [04 EF][11 FF] is surprised![END]
@@ -2672,7 +2672,7 @@
 // Used by the enemy:  Fierce Pork Trooper
 // Used by the action: 487
 0424: [24 EF][11 FF] attacked the stinky [12 FF]![END]
-0424-E: ¡[24 EF][11 FF] atacó al apestoso [12 FF]![END]
+0424-E: ¡[24 EF][11 FF] atacó [47 EF]apestos[48 EF] [12 FF]![END]
 // Used by the actions: 179, 180, 233
 0425: [04 EF][11 FF] swung both arms all around![END]
 0425-E: ¡[04 EF][11 FF] agitó sus brazos de un lado a otro![END]
@@ -2735,9 +2735,9 @@
 043B: [04 EF][12 FF] recovered HP![END]
 043B-E: ¡[04 EF][12 FF] recuperó PV![END]
 043C: [04 EF][12 FF]'s HP was maxed out![END]
-043C-E: ¡Los PV de [04 EF][12 FF] están al máximo![END]
+043C-E: ¡Los PV [06 EF][12 FF] están al máximo![END]
 043D: [04 EF][12 FF]'s offense dropped a little![WAIT][04 EF][11 FF]'s defense dropped a little![END]
-043D-E: ¡La fuerza de [04 EF][12 FF] bajó un poco![WAIT]¡La defensa de [04 EF][11 FF] bajó un poco![END]
+043D-E: ¡La fuerza [06 EF][12 FF] bajó un poco![WAIT]¡La defensa [06 EF][11 FF] bajó un poco![END]
 043E: [04 EF][12 FF] couldn't stop crying![END]
 043E-E: ¡[04 EF][12 FF] no puede parar de llorar![END]
 043F: [04 EF][12 FF] felt nauseated![END]
@@ -2786,7 +2786,7 @@
 044D-E: ¡[04 EF][11 FF] liberó un gas increíblemente inmundo![END]
 // Used by the actions: 398, 427
 044E: With the last of its strength, [05 EF][11 FF] leapt into [12 FF]'s mouth![31 FF][END]
-044E-E: ¡Con sus últimas fuerzas, [05 EF][11 FF] saltó dentro de la boca de [12 FF]![END]
+044E-E: ¡Con sus últimas fuerzas, [05 EF][11 FF] saltó dentro de la boca [46 EF][12 FF]![END]
 // Used by the enemy:  Fish Roe Man
 // Used by the action: 276
 044F: [04 EF][11 FF] attacked, and then...[32 FF] [END]
@@ -2808,7 +2808,7 @@
 0454-E: ¡[04 EF][11 FF] lanzó una Patada de bailarín![END]
 // Used by the actions: 435, 436
 0455: [04 EF][11 FF] pecked [45 EF][12 FF] over and over![END]
-0455-E: ¡[04 EF][11 FF] picoteó a [45 EF][12 FF] una y otra vez![END]
+0455-E: ¡[04 EF][11 FF] picoteó [47 EF][12 FF] una y otra vez![END]
 // Used by the enemy:  Ostrelephant
 // Used by the action: 271
 0456: [04 EF][11 FF] grabbed the Chilly Dog and swung it around![END]
@@ -2892,7 +2892,7 @@
 // Used by the enemy:  Magman
 // Used by the action: 357
 046F: Pyreflies erupted out of [05 EF][11 FF]'s head![END]
-046F-E: ¡De la cabeza del [11 FF] surgieron unos Pirodópteros![END]
+046F-E: ¡De la cabeza [06 EF][11 FF] surgieron unos Pirodópteros![END]
 // Used by the enemy:  Magman
 // Used by the action: 358
 0470: [24 EF][11 FF] used a Shield Device![END]
@@ -2945,7 +2945,7 @@
 // Used by the enemy:  Tiny Forest
 // Used by the action: 587
 0480: [04 EF][11 FF] clung to [12 FF]![END]
-0480-E: ¡[04 EF][11 FF] se aferró a [12 FF]![END]
+0480-E: ¡[04 EF][11 FF] se aferró [47 EF][12 FF]![END]
 0481: [04 EF][11 FF] ran out of bombs![END]
 0481-E: ¡[04 EF][11 FF] se quedó sin bombas![END]
 0482: [04 EF][11 FF] changed the mood in the air![END]
@@ -3001,7 +3001,7 @@
 // Used by the enemy:  Ten-Yeti
 // Used by the action: 469
 0491: [04 EF][11 FF] stabbed with its poisonous tail![END]
-0491-E: ¡[04 EF][11 FF] aguijoneó con su cola venenosa![END]
+0491-E: ¡[04 EF][11 FF] aguijoneó [47 EF][12 FF] con su cola venenosa![END]
 // Used by the enemy:  Mecha-Lion
 // Used by the action: 461
 0492: [04 EF][11 FF] decided it's time to go on a paid vacation![END]
@@ -3015,12 +3015,12 @@
 // Used by the enemy:  Lord Passion
 // Used by the action: 629
 0495: The barrier re-formed![WAIT][04 EF][11 FF]'s weakness changed![END]
-0495-E: ¡La barrera se formó de nuevo![WAIT]¡La debilidad del [11 FF] cambió![END]
+0495-E: ¡La barrera se formó de nuevo![WAIT]¡La debilidad [07 EF][11 FF] cambió![END]
 0496: [END]
 0496-E: [END]
 // Used by the action: 404
 0497: [04 EF][11 FF]'s [10 FF] was dissolved by digestive fluids![END]
-0497-E: ¡El [10 FF] de [04 EF][11 FF] fue disuelto por los jugos gástricos![END]
+0497-E: ¡El [10 FF] [06 EF][11 FF] fue disuelto por los jugos gástricos![END]
 0498: [END]
 0498-E: [END]
 0499: [04 EF][11 FF] glared![END]
@@ -3041,19 +3041,19 @@
 049E-E: [END]
 // Used by the action: 386
 049F: [10 FF] and company joined the fight one by one![END]
-049F-E: ¡[10 FF] y compañía se unieron a la batalla uno por uno[END]
+049F-E: ¡[10 FF] y compañía se unieron a la batalla uno por uno![END]
 04A0: [04 EF][11 FF] wound itself up![END]
-04A0-E: ¡[04 EF][11 FF] se hirió a si mismo![END]
+04A0-E: ¡[04 EF][11 FF] se hirió a si mism[08 EF]![END]
 // Used by the action: 539
 04A1: [04 EF][11 FF]'s explosive device was destroyed![END]
-04A1-E: ¡El dispositivo explosivo de [04 EF][11 FF] fue destruido![END]
+04A1-E: ¡El dispositivo explosivo [06 EF][11 FF] fue destruido![END]
 // Used by the enemy:  Vapor 2
 // Used by the action: 540
 04A2: [04 EF][11 FF]'s battery fell out![END]
-04A2-E: ¡La batería de [04 EF][11 FF] se cayó![END]
+04A2-E: ¡La batería [06 EF][11 FF] se cayó![END]
 // Used by the action: 541
 04A3: [04 EF][11 FF]'s charger was broken![END]
-04A3-E: ¡El cargador de [04 EF][11 FF] se rompió![END]
+04A3-E: ¡El cargador [06 EF][11 FF] se rompió![END]
 // Used by the action: 542
 04A4: [04 EF][11 FF] stored electricity![END]
 04A4-E: ¡[04 EF][11 FF] almacenó electricidad![END]
@@ -3101,7 +3101,7 @@
 // Used by the enemies:  Mystery Metal Monkey,  Beanling,  Black Beanling
 // Used by the action: 571
 04B1: [04 EF][11 FF] stabbed with the tip of its tail![END]
-04B1-E: ¡[04 EF][11 FF] aguijoneó con la punta de su cola![END]
+04B1-E: ¡[04 EF][11 FF] aguijoneó [47 EF][12 FF] con la punta de su cola![END]
 // Used by the enemy:  Boa Transistor
 // Used by the action: 22
 04B2: [10 FF] and company joined the fight![END]
@@ -3136,7 +3136,7 @@
 04BA-E: ¡[04 EF][11 FF] se estampó contra el suelo![WAIT]¡[44 EF][12 FF] y compañía fueron alcanzados por la onda sísmica![END]
 // Used by the action: 646
 04BB: [04 EF][11 FF] sent rock fragments flying![END]
-04BB-E: ¡[04 EF][11 FF] lanzó trozos de roca por el aire![END]
+04BB-E: ¡[04 EF][11 FF] lanzó trozos de roca por los aires![END]
 // Used by the enemy:  Minerali
 // Used by the action: 644
 04BC: [04 EF][11 FF] discharged electricity![END]
@@ -3286,7 +3286,7 @@
 // Used by the enemy:  Barrier Trio
 // Used by the action: 507
 04E4: Barrier Gal called out, and [05 EF][11 FF] struck a Barrier Pose![END]
-04E4-E: ¡La Mujer barrera hizo una señal, y [05 EF][11 FF] adoptó una Pose de barrera![END]
+04E4-E: ¡La Chica barrera hizo una señal, y [05 EF][11 FF] adoptó una Pose de barrera![END]
 // Used by the action: 508
 04E5: Barrier Dude called out, and [05 EF][11 FF] struck a Barrier Pose![END]
 04E5-E: ¡El Tío barrera hizo una señal, y [05 EF][11 FF] adoptó una Pose de barrera![END]
@@ -3404,29 +3404,29 @@
 0511: [END]
 0511-E: [END]
 0512: [04 EF][11 FF] was poisoned![END]
-0512-E: ¡El veneno penetró en el cuerpo de [05 EF][11 FF]![END]
+0512-E: ¡El veneno penetró en el cuerpo [06 EF][11 FF]![END]
 0513: [04 EF][11 FF] took damage from the poison![END]
 0513-E: ¡[04 EF][11 FF] recibió daños por el veneno![END]
 0514: The poison vanished from [05 EF][11 FF]'s body![END]
-0514-E: ¡El veneno desapareció del cuerpo de [05 EF][11 FF]![END]
+0514-E: ¡El veneno desapareció del cuerpo [06 EF][11 FF]![END]
 0515: The poison faded from [05 EF][11 FF]'s body![END]
-0515-E: ¡El veneno se fue del cuerpo de [05 EF][11 FF]![END]
+0515-E: ¡El veneno se fue del cuerpo [06 EF][11 FF]![END]
 0516: [END]
 0516-E: [END]
 0517: [04 EF][11 FF]'s body turned numb![END]
-0517-E: ¡El cuerpo de [04 EF][11 FF] quedó paralizado![END]
+0517-E: ¡El cuerpo [06 EF][11 FF] quedó paralizado![END]
 0518: [04 EF][11 FF] is numb and can't move![END]
-0518-E: ¡[04 EF][11 FF] no puede moverse![END]
+0518-E: ¡[04 EF][11 FF] está paralizad[08 EF] y no puede moverse![END]
 0519: The numbness faded from [05 EF][11 FF]'s body![END]
-0519-E: ¡La parálisis desapareció del cuerpo de [05 EF][11 FF]![END]
+0519-E: ¡La parálisis desapareció del cuerpo [06 EF][11 FF]![END]
 051A: The numbness faded from [05 EF][11 FF]'s body![END]
-051A-E: ¡La parálisis desapareció del cuerpo de [05 EF][11 FF]![END]
+051A-E: ¡La parálisis desapareció del cuerpo [06 EF][11 FF]![END]
 051B: [END]
 051B-E: [END]
 051C: [04 EF][11 FF] fell asleep![END]
 051C-E: ¡[04 EF][11 FF] se durmió![END]
 051D: [04 EF][11 FF] is fast asleep![END]
-051D-E: ¡[04 EF][11 FF] duerme como un tronco![END]
+051D-E: ¡[04 EF][11 FF] está dormid[08 EF] como un tronco![END]
 051E: [04 EF][11 FF] woke up![END]
 051E-E: ¡[04 EF][11 FF] se despertó![END]
 051F: [04 EF][11 FF] woke up![END]
@@ -3434,15 +3434,15 @@
 0520: [END]
 0520-E: [END]
 0521: [04 EF][11 FF] felt a little strange...[END]
-0521-E: La rareza afectó a [05 EF][11 FF]...[END]
+0521-E: La rareza afectó [07 EF][11 FF]...[END]
 0522: [04 EF][11 FF] is feeling a little strange...[END]
-0522-E: La rareza afectó a [05 EF][11 FF]...[END]
+0522-E: La rareza afectó [07 EF][11 FF]...[END]
 0523: [04 EF][11 FF] felt normal again![END]
 0523-E: ¡[04 EF][11 FF] volvió en sí![END]
 0524: [04 EF][11 FF] felt normal again![END]
 0524-E: ¡[04 EF][11 FF] volvió en sí![END]
 0525: [04 EF][11 FF] felt even stranger...[END]
-0525-E: La rareza de [05 EF][11 FF] empeoró...[END]
+0525-E: La rareza [06 EF][11 FF] empeoró...[END]
 0526: [04 EF][11 FF] couldn't stop crying![END]
 0526-E: ¡[04 EF][11 FF] no puede parar de llorar![END]
 0527: [END]
@@ -3484,7 +3484,7 @@
 0539: [END]
 0539-E: [END]
 053A: [04 EF][11 FF]'s body was engulfed in flames![END]
-053A-E: ¡El cuerpo de [04 EF][11 FF] fue envuelto en llamas![END]
+053A-E: ¡El cuerpo [06 EF][11 FF] fue envuelto en llamas![END]
 053B: [04 EF][11 FF] took damage from the flames![END]
 053B-E: ¡[04 EF][11 FF] recibió daños por las llamas![END]
 053C: [04 EF][11 FF]'s flames went out![END]
@@ -3494,7 +3494,7 @@
 053E: [END]
 053E-E: [END]
 053F: [04 EF][11 FF]'s body solidified![END]
-053F-E: ¡El cuerpo de [05 EF][11 FF] quedó paralizado![END]
+053F-E: ¡El cuerpo [06 EF][11 FF] quedó paralizado![END]
 0540: [04 EF][11 FF] can't move![END]
 0540-E: ¡[04 EF][11 FF] no se puede mover![END]
 0541: [04 EF][11 FF] was able to move again![END]
@@ -3514,7 +3514,7 @@
 0548: [04 EF][11 FF] started to stink really bad![END]
 0548-E: ¡[04 EF][11 FF] empezó a oler muy mal![END]
 0549: [04 EF][11 FF] is utterly mesmerized by the DCMC merchandise![END]
-0549-E: ¡[04 EF][11 FF] está totalmente embobado con el artículo de DCMC![END]
+0549-E: ¡[04 EF][11 FF] está totalmente embobad[08 EF] con el artículo de DCMC![END]
 054A: [04 EF][11 FF] is jealous![END]
 054A-E: ¡[04 EF][11 FF] está verde de envidia![END]
 054B: [04 EF][11 FF] turned back to normal![END]
@@ -3534,7 +3534,7 @@
 0552: [END]
 0552-E: [END]
 0553: [19 FF]'s feelings got through to [05 EF][11 FF]![END]
-0553-E: ¡Las disculpas de [19 FF] conmovieron a [05 EF][11 FF]![END]
+0553-E: ¡Las disculpas de [19 FF] conmovieron [07 EF][11 FF]![END]
 0554: [04 EF][11 FF] is hesitant![END]
 0554-E: ¡[04 EF][11 FF] está titubeante![END]
 0555: [END]
@@ -3614,25 +3614,25 @@
 057A: [04 EF][11 FF]'s defense decreased by [10 FF]![END]
 057A-E: ¡[04 EF][11 FF] perdió [10 FF] punto(s) de defensa![END]
 057B: [04 EF][11 FF]'s body was enveloped by a shield![END]
-057B-E: ¡El cuerpo de [05 EF][11 FF] fue cubierto por un escudo![END]
+057B-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo![END]
 057C: [END]
 057C-E: [END]
 057D: [END]
 057D-E: [END]
 057E: [04 EF][11 FF]'s shield vanished![END]
-057E-E: ¡El escudo de [04 EF][11 FF] desapareció![END]
+057E-E: ¡El escudo [06 EF][11 FF] desapareció![END]
 057F: [04 EF][11 FF]'s shield was reinforced![END]
-057F-E: ¡El escudo de [05 EF][11 FF] fue reforzado![END]
+057F-E: ¡El escudo [06 EF][11 FF] fue reforzado![END]
 0580: [04 EF][11 FF]'s body was enveloped by a Counter![END]
-0580-E: ¡El cuerpo de [05 EF][11 FF] fue cubierto por un escudo reflector![END]
+0580-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo reflector![END]
 0581: [END]
 0581-E: [END]
 0582: [END]
 0582-E: [END]
 0583: [04 EF][11 FF]'s Counter vanished![END]
-0583-E: ¡El escudo reflector de [05 EF][11 FF] desapareció![END]
+0583-E: ¡El escudo reflector [06 EF][11 FF] desapareció![END]
 0584: [04 EF][11 FF]'s Counter was reinforced![END]
-0584-E: ¡El escudo reflector de [05 EF][11 FF] fue reforzado![END]
+0584-E: ¡El escudo reflector [06 EF][11 FF] fue reforzado![END]
 0585: [END]
 0585-E: [END]
 0586: [END]
@@ -3644,25 +3644,25 @@
 0589: [END]
 0589-E: [END]
 058A: [04 EF][11 FF]'s body was enveloped by a PSI Shield![END]
-058A-E: ¡El cuerpo de [05 EF][11 FF] fue cubierto por un escudo PSI![END]
+058A-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo PSI![END]
 058B: [END]
 058B-E: [END]
 058C: [END]
 058C-E: [END]
 058D: [04 EF][11 FF]'s PSI Shield vanished![END]
-058D-E: ¡El escudo PSI de [04 EF][11 FF] desapareció![END]
+058D-E: ¡El escudo PSI [06 EF][11 FF] desapareció![END]
 058E: [04 EF][11 FF]'s PSI Shield was reinforced![END]
-058E-E: ¡El escudo PSI de [05 EF][11 FF] fue reforzado![END]
+058E-E: ¡El escudo PSI [06 EF][11 FF] fue reforzado![END]
 058F: [04 EF][11 FF]'s body was enveloped by a PSI Counter![END]
-058F-E: ¡El cuerpo de [05 EF][11 FF] fue cubierto por un escudo reflector PSI![END]
+058F-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo reflector PSI![END]
 0590: [END]
 0590-E: [END]
 0591: [END]
 0591-E: [END]
 0592: [04 EF][11 FF]'s PSI Counter vanished![END]
-0592-E: ¡El escudo reflector PSI de [05 EF][11 FF] desapareció![END]
+0592-E: ¡El escudo reflector PSI [06 EF][11 FF] desapareció![END]
 0593: [04 EF][11 FF]'s PSI Counter was reinforced![END]
-0593-E: ¡El escudo reflector de [05 EF][11 FF] fue reforzado![END]
+0593-E: ¡El escudo reflector [06 EF][11 FF] fue reforzado![END]
 0594: [04 EF][11 FF]'s offense increased by [10 FF]![END]
 0594-E: [END]
 0595: [END]
@@ -3746,7 +3746,7 @@
 05BC: The time bomb stuck to [11 FF]![END]
 05BC-E: ¡La bomba temporizada se aferró a [11 FF]![END]
 05BD: The time bomb attached to [05 EF][11 FF] exploded![END]
-05BD-E: ¡La bomba temporizada pegada a [05 EF][11 FF] explotó![END]
+05BD-E: ¡La bomba temporizada pegada [07 EF][11 FF] explotó![END]
 05BE: [END]
 05BE-E: [END]
 05BF: [END]
@@ -3754,7 +3754,7 @@
 05C0: [END]
 05C0-E: [END]
 05C1: [04 EF][11 FF]'s body was strengthened![END]
-05C1-E: ¡El cuerpo de [05 EF][11 FF] se fortaleció![END]
+05C1-E: ¡El cuerpo [06 EF][11 FF] se fortaleció![END]
 05C2: [END]
 05C2-E: [END]
 05C3: [END]
@@ -3764,7 +3764,7 @@
 05C5: [END]
 05C5-E: [END]
 05C6: [04 EF][11 FF]'s body was weakened![END]
-05C6-E: ¡El cuerpo de [05 EF][11 FF] se debilitó![END]
+05C6-E: ¡El cuerpo [06 EF][11 FF] se debilitó![END]
 05C7: [END]
 05C7-E: [END]
 05C8: [END]

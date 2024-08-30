@@ -42,7 +42,7 @@ Petardo graznante
 Gran pescánido
 Sr. Murchiflado
 Ratón gorrón
-Mosca fogosa
+Flamidóptero
 Tuberculoide
 Ratón volador
 PORKY 01
@@ -70,7 +70,7 @@ Titani
 Copito
 Doña Laventa
 Volcánido
-Zombi
+Señor zombi
 Perro zombi
 Alma amargada
 Lápida ambulante
@@ -116,7 +116,7 @@ Mantis religiosa
 Dragolibélula
 Cucar. mugrienta
 Champichucho
-Mecha-Tortuga
+Mecha-tortuga
 Equipo fraternal
 Murciangután
 Elefantruz
@@ -124,7 +124,7 @@ Titani aéreo
 Monorsa
 Canguburón mat.
 Sta. Malvavisco
-Casi-Mecha-León
+Casi-Mecha-león
 Rinocohete
 Ruedapuerco hist.
 Cucar. metálica
@@ -149,7 +149,7 @@ Ret. de Octobot
 Alim. alfombrera
 Robot patrulla
 Puercareto
-Mujer zombi
+Señora zombi
 Travieseta
 Lord Murchiflado
 ¡¡¡¡Arácnido!!!!

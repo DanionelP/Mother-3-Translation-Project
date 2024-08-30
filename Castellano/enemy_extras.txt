@@ -1,1150 +1,1726 @@
-// (EMPTY)
+// (NADA)
 -
 -
 -
 -
 -
-// Reconstructed Caribou
-A 
+-
+-
+-
+// Caribú reconstruido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el  
+// Don pasión
+-
+-
+-
+-
+de 
 a 
-The 
-the 
-its 
-// Mr. Passion
-- 
-- 
+o
+-
+// Osoherpiente
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Arcilloso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-Drago
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Tanque porcino
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Don Genetor
 -
 -
-his 
-// Oh-So-Snake
-The 
-the 
-The 
-the 
-its 
-// Clayman
-A 
+-
+-
+de 
 a 
-The 
-the 
-its 
-// Mecha Drago
-The 
-the 
-The 
-the 
-its 
-// Pork Tank
-A 
-a 
-The 
-the 
-its 
-// Mr. Genetor
+o
 -
--
--
--
-his 
-// Mole Cricket
-The 
-the 
-The 
-the 
-its 
-// Eerie Smile
-An 
-an 
-The 
-the 
-its 
-// Bright Smile
-A 
-a 
-The 
-the 
-its 
+// Grillo topo
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Sonrisa macabra
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Sonrisa brillante
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
 // Porky
 -
 -
 -
 -
-his 
-// N.K. Cyborg
-The 
-the 
-The 
-the 
-its 
-// Masked Man
-The 
-the 
-The 
-the 
-his 
-// Fierce Pork Trooper
-The 
-the 
-The 
-the 
-his 
-// Fierce Pork Trooper
-The 
-the 
-The 
-the 
-his 
-// Jealous Bass
-The 
-the 
-The 
-the 
-its 
+de 
+a 
+o
+-
+// Exterminador porcino
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Enmascarado
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto feroz
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto feroz
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Bajo celoso
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
 // Porky
 -
 -
 -
 -
-his 
-// Sticky Slug
-A 
+de 
 a 
-The 
-the 
-its 
+o
+-
+// Babosa pegajosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
 // PORKY 02
 -
 -
 -
 -
-its 
-// King Statue
-The 
-the 
-The 
-the 
-its 
-// Hippo Launcher
-A 
+de 
 a 
-The 
-the 
-its 
-// New Fassad
+o
+-
+// Estatua real
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Hipolanzadera
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Neo Falhaz
 -
 -
 -
 -
-his 
-// Eerie Smile
-An 
-an 
-The 
-the 
-its 
-// Lord Passion
--
--
--
--
-his 
-// Tender Loving Tree
-A 
+de 
 a 
-The 
-the 
-its 
+o
+-
+// Sonrisa macabra
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Lord Pasión
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Árbol cariñoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 03
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // PORKY 08
 -
 -
 -
 -
-its 
-// Miracle Fassad
+de 
+a 
+o
+-
+// Falhaz milagroso
 -
 -
 -
 -
-his 
-// Pigmask Major
-A 
+de 
 a 
-The 
-the 
-his 
-// Great Antlion
-A 
-a 
-The 
-the 
-its 
-// Fenomeno
-A 
-a 
-The 
-the 
-its 
-// Rhinocerocket Mark II
-A 
-a 
-The 
-the 
-its 
-// Frightbot
-A 
-a 
-The 
-the 
-its 
-// The Squeekz
+o
+-
+// Comandante puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gran antillón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Electroplasma
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rinocohete v2
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Sustobot
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// "El Rata"
 -
 -
 -
 -
-his 
-// Pyrefly
-A 
+de 
 a 
-The 
-the 
-its 
-// Mecha-Lion
-A 
-a 
-The 
-the 
-its 
-// Road Block
-A 
-a 
-The 
-the 
-its 
-// Scamperin' Shroom
-A 
-a 
-The 
-the 
-its 
-// Sinister Bird on a Stick
-A 
-a 
-The 
-the 
-its 
-// Top Dogfish
-A 
-a 
-The 
-the 
-its 
-// Mr. Batty
+o
 -
--
--
--
-his 
-// Greedy Mouse
-A 
-a 
-The 
-the 
-its 
-// Pyrefly
-A 
-a 
-The 
-the 
-its 
-// Yammonster
-A 
-a 
-The 
-the 
-its 
-// Flying Mouse
-A 
-a 
-The 
-the 
-its 
+// Pirodóptero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-león
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Corte de carretera
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Trotaseta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Petardo graznante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gran pescánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Sr. Murchiflado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ratón gorrón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Flamidóptero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Tuberculoide
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ratón volador
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 01
 -
 -
 -
 -
-its 
-// Agitated Boar
-An 
-an 
-The 
-the 
-its 
-// Mighty Bitey Snake
-A 
+de 
 a 
-The 
-the 
-its 
-// Soot Dumpling
-A 
-a 
-The 
-the 
-its 
-// Baked Yammonster
-A 
-a 
-The 
-the 
-its 
-// Walking Bushie
-A 
-a 
-The 
-the 
-its 
-// Carefree Jellyfish
-A 
-a 
-The 
-the 
-its 
-// Metal Monkey
-A 
-a 
-The 
-the 
-its 
-// Crag Lizard
-A 
-a 
-The 
-the 
-its 
-// Spud Bug
-A 
-a 
-The 
-the 
-its 
-// Ten-Yeti
-A 
-a 
-The 
-the 
-its 
-// Chilly Dog
-A 
-a 
-The 
-the 
-its 
-// Slimy Slug
-A 
-a 
-The 
-the 
-its 
-// Minerali
-A 
-a 
-The 
-the 
-its 
-// Ramblin' Mushroom
-A 
-a 
-The 
-the 
-its 
-// Mole Cricket
-The 
-the 
-The 
-the 
-its 
-// Boa Transistor
-A 
-a 
-The 
-the 
-its 
-// Mischievous Mole
-A 
-a 
-The 
-the 
-its 
-// Mecha-Mole!
-A 
-a 
-The 
-the 
-its 
-// Balding Eagle
-A 
-a 
-The 
-the 
-its 
-// Tree
-A 
-a 
-The 
-the 
-its 
-// Titany
-A 
-a 
-The 
-the 
-its 
-// Frosted Bun
-A 
-a 
-The 
-the 
-its 
-// Mrs. Lava
+o
+-
+// Jabalí agitado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Serpiente mordedora
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Bola de hollín
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Tuberculoide asado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Arbustito andante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Medusa despreocupada
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Metalmono misterioso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lagarto escarpado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gusano patatero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Yetiesquí
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Can gelado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Babosa viscosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Geocita
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Confuseta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Grillo topo
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Boa transistor
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Topo travieso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡Topobot!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Buitraco
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Árbol
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Titani
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Copito
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Doña Laventa
 -
 -
 -
 -
-her 
-// Magman
-A 
+de 
 a 
-The 
-the 
-its 
-// Zombie Man
-A 
-a 
-The 
-the 
-his 
-// Zombie Dog
-A 
-a 
-The 
-the 
-its 
-// Lingering Spirit
-A 
-a 
-The 
-the 
-its 
-// Mobile Grave
-A 
-a 
-The 
-the 
-its 
-// Detached Leech
-A 
-a 
-The 
-the 
-its 
-// Spineless Lobster
-A 
-a 
-The 
-the 
-its 
-// HUGE Pillbug
-A 
-a 
-The 
-the 
-its 
-// Cheery Skeleton
-A 
-a 
-The 
-the 
-its 
-// Big Bro
-A 
-a 
-The 
-the 
-his 
-// Barrel Man
-A 
-a 
-The 
-the 
-his 
-// Strawberry Slime
-A 
-a 
-The 
-the 
-its 
-// Arachnid!
-An 
-an 
-The 
-the 
-its 
-// Violent Roach
-A 
-a 
-The 
-the 
-its 
-// Barrier Trio
-The 
-the 
-The 
-the 
-their 
-// Ghost Armor
-Some 
-some 
-The 
-the 
-its 
-// Ghost Sword
-A 
-a 
-The 
-the 
-its 
-// Ghost Shield
-A 
-a 
-The 
-the 
-its 
-// Ghost Knight
-A 
-a 
-The 
-the 
-its 
-// Osohe Cape
-An 
-an 
-The 
-the 
-its 
-// Rockin' Ghost
-A 
-a 
-The 
-the 
-its 
-// Pseudoor
-A 
-a 
-The 
-the 
-its 
-// Eerie Smile
-An 
-an 
-The 
-the 
-its 
-// Dung Beetle
-A 
-a 
-The 
-the 
-its 
-// Great Antlion
-A 
-a 
-The 
-the 
-its 
-// Sara-Sara-Sahara
-A 
-a 
-The 
-the 
-its 
-// Sand Lizard
-A 
-a 
-The 
-the 
-its 
-// Cactus Wolf
-A 
-a 
-The 
-the 
-its 
-// Gooey Goo
-A 
-a 
-The 
-the 
-its 
-// Mummy Kitty
-A 
-a 
-The 
-the 
-its 
-// Li'l Big Bro
-A 
-a 
-The 
-the 
-his 
-// Zombieshroom
-A 
-a 
-The 
-the 
-its 
-// Stinky Ghost
-A 
-a 
-The 
-the 
-its 
-// Artsy Ghost
-The 
-the 
-The 
-the 
-its 
-// Horsantula
-A 
-a 
-The 
-the 
-its 
-// Pigtunia
-A 
-a 
-The 
-the 
-its 
-// Bird on a Stick
-A 
-a 
-The 
-the 
-its 
-// Putrid Moldyman
-A 
-a 
-The 
-the 
-his 
-// Slitherhen
-A 
-a 
-The 
-the 
-its 
-// Whatever
-A 
-a 
-The 
-the 
-its 
-// Dogfish
-A 
-a 
-The 
-the 
-its 
-// Cattlesnake
-A 
-a 
-The 
-the 
-its 
-// Einswine
-An 
-an 
-The 
-the 
-its 
-// Praying Mantis
-A 
-a 
-The 
-the 
-its 
-// Ancient Dragonfly
-An 
-an 
-The 
-the 
-its 
-// Filthy Attack Roach
-A 
-a 
-The 
-the 
-its 
-// Muttshroom
-A 
-a 
-The 
-the 
-its 
-// Mecha-Turtle
-A 
-a 
-The 
-the 
-its 
-// Bro Team
-A 
-a 
-The 
-the 
-their 
-// Batangutan
-A 
-a 
-The 
-the 
-its 
-// Ostrelephant
-An 
-an 
-The 
-the 
-its 
-// Sky Titany
-A 
-a 
-The 
-the 
-its 
-// Monkalrus
-A 
-a 
-The 
-the 
-its 
-// Parental Kangashark
-A 
-a 
-The 
-the 
-its 
-// Li'l Miss Marshmallow
+a
 -
--
--
--
-her 
-// Almost Mecha-Lion
-An 
-an 
-The 
-the 
-its 
-// Rhinocerocket
-A 
-a 
-The 
-the 
-its 
-// Wound-Up Boar
-A 
-a 
-The 
-the 
-its 
-// Metal Attack Roach
-A 
-a 
-The 
-the 
-its 
-// Really Flying Mouse
-A 
-a 
-The 
-the 
-its 
-// Short Circuit Zap!
-A 
-a 
-The 
-the 
-its 
-// Minor Robot
-A 
-a 
-The 
-the 
-its 
-// Love Walker
-A 
-a 
-The 
-the 
-its 
-// Eerie Smile
-An 
-an 
-The 
-the 
-its 
-// Atomic Robot
-An 
-an 
-The 
-the 
-its 
-// Nuclear Robot
-A 
-a 
-The 
-the 
-its 
-// Negative Man
--
--
--
--
-his 
-// Heftyhead
-A 
-a 
-The 
-the 
-its 
-// Nice Poser
-A 
-a 
-The 
-the 
-its 
-// Big Spud Bug
-A 
-a 
-The 
-the 
-its 
-// Grated Yammonster
-A 
-a 
-The 
-the 
-its 
-// Hippo Launcher
-A 
-a 
-The 
-the 
-its 
-// Steel Mechorilla
-The 
-the 
-The 
-the 
-its 
+// Volcánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señor zombi
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Perro zombi
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Alma amargada
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lápida ambulante
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Sanguijuelo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Langosta cobarde
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Cochinilla ENORME
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Esqueleto alegre
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hermanote
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hombre barril
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Limo de fresa
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡Arácnido!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cucaracha violenta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Trío barrera
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Armadura espectral
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Espada espectral
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Escudo espectral
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Caballero espectral
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Capa de Osohe
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Fantasma mecedor
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pseudopuerta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Sonrisa macabra
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Escarabajo boñiguero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gran antillón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Bocaseca
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lagarto arenoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cactulobo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pringue pringoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Tutangatón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hermanito
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Zombiñón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Fantasma fétido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Crítico fantasmal
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Rocinántula
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Porquídea
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Palo graznante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mohosus Putridus
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Avíbora
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Engendro
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pescánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Vacaconda
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Porkstein
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mantis religiosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Dragolibélula
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Cucaracha mugrienta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Champichucho
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-tortuga
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Equipo fraternal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Murciangután
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Elefantruz
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Titani aéreo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Monorsa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Canguburón maternal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señorita Malvavisco
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Casi-Mecha-león
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rinocohete
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ruedapuerco histérico
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cucaracha metálica
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Helirratón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡Cortocircuito!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Robot obsoleto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rompecorazones
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Sonrisa macabra
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Surtibot atómico
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Surtibot nuclear
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hombre negativo
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Cabezabuque
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hipotenuso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gusanazo patatero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Tuberculoide pelado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hipolanzadera
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Gorilabot de acero
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
 // Zombidillo
-A 
-a 
-The 
-the 
-its 
-// Fish Roe Man
-A 
-a 
-The 
-the 
-his 
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Caviar peleón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 07
 -
 -
 -
 -
-its 
-// Return of Octobot
+de 
+a 
+o
+-
+// Retorno de Octobot
 -
 -
-The 
-the 
-its 
-// Carpet Monster
-A 
-a 
-The 
-the 
-its 
-// Recon Mech
-A 
-a 
-The 
-the 
-its 
-// Pigmask
-A 
-a 
-The 
-the 
-his 
-// Zombie Lady
-A 
-a 
-The 
-the 
-her 
-// Naughty Mushroom
-A 
-a 
-The 
-the 
-its 
-// Elder Batty
-An 
-an 
-The 
-the 
-his 
-// Arachnid!!!!
-An 
-an 
-The 
-the 
-its 
-// Greedier Mouse
-A 
-a 
-The 
-the 
-its 
-// Gently Weeping Guitar
-A 
-a 
-The 
-the 
-its 
-// Beaten Drum
-The 
-the 
-The 
-the 
-its 
-// Reconstructed Mole
-A 
-a 
-The 
-the 
-its 
-// Reconstructed Lion
-A 
-a 
-The 
-the 
-its 
-// Wobbly Robot
-A 
-a 
-The 
-the 
-its 
-// Men's Room Sign
-A 
-a 
-The 
-the 
-its 
-// Scrapped Robot
-A 
-a 
-The 
-the 
-its 
-// Forlorn Junk Heap
-The 
-the 
-The 
-the 
-its 
-// Surprise Box
-The 
-the 
-The 
-the 
-its 
-// Battery Man
-A 
-a 
-The 
-the 
-his 
-// Screwloose
-A 
-a 
-The 
-the 
-its 
-// Cuddle Bomb
-A 
-a 
-The 
-the 
-its 
-// K9000
-A 
-a 
-The 
-the 
-its 
-// Alkaline Man
-An 
-an 
-The 
-the 
-his 
+El 
+el 
+del 
+al 
+o
+el 
+// Alimaña alfombrera
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Robot patrulla
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señora zombi
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Travieseta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Lord Murchiflado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡¡¡¡Arácnido!!!!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ratón ladrón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Guitarra llorona
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Tambor roto
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Topo reconstruido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// León reconstruido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Robot tambaleante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señal masculina
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Robot destrozado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Chatarra desolada
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Caja sorpresa
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Baterín
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Tornillete
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Bomba rastrera
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// K4N1N0
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Alcalino
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 06
 -
 -
 -
 -
-its 
-// Pigmask Major
-A 
+de 
 a 
-The 
-the 
-his 
-// Pigmask Colonel
-A 
-a 
-The 
-the 
-his 
-// Pigmask Lieutenant
-A 
-a 
-The 
-the 
-his 
-// Navy SQUEAL
-A 
-a 
-The 
-the 
-his 
-// Master Eddy
+o
 -
--
--
--
-his 
-// Rock Lobster
-A 
-a 
-The 
-the 
-its 
-// Rooound Fish
-A 
-a 
-The 
-the 
-its 
-// Blue Balding Eagle
-A 
-a 
-The 
-the 
-its 
-// Security Robot
-A 
-a 
-The 
-the 
-its 
-// Unwelcome Gust
-An 
-an 
-The 
-the 
-its 
+// Comandante Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Coronel Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Capitán puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto marino
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Maestro torbellino
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Gamba gamberra
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Pez redooondo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Buitraco celeste
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Seguribot
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Viento incordiante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 09
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // PORKY 10
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // Titanian
-A 
-a 
-The 
-the 
-its 
-// Upgraded Robot
-An 
-an 
-The 
-the 
-its 
-// Beanling
-A 
-a 
-The 
-the 
-its 
-// Black Beanling
-A 
-a 
-The 
-the 
-its 
-// Tiny Forest
-A 
-a 
-The 
-the 
-its 
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Robot mejorado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Judiablillo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Judiablillo negro
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Minibosque
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
 // PORKY 04
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // PORKY 05
 -
 -
 -
 -
-its 
-// Masked Man
-The 
-the 
-The 
-the 
-his 
-// Masked Man
-The 
-the 
-The 
-the 
-his 
-// (EMPTY)
+de 
+a 
+o
+-
+// Enmascarado
+El 
+El 
+El 
+el 
+del 
+al 
+o
+el 
+// Enmascarado
+El 
+El 
+El 
+el 
+del 
+al 
+o
+el 
+// (NADA)
+-
+-
+-
 -
 -
 -
@@ -1156,13 +1732,22 @@ his
 -
 -
 -
-// Antlion
+-
+-
+-
+// Antillón
+-
+-
+-
 -
 -
 -
 -
 -
 // Pigmask Trooper
+-
+-
+-
 -
 -
 -
@@ -1174,7 +1759,13 @@ his
 -
 -
 -
+-
+-
+-
 // Electric Catfish
+-
+-
+-
 -
 -
 -
@@ -1186,13 +1777,22 @@ his
 -
 -
 -
+-
+-
+-
 // Magic
 -
 -
 -
 -
 -
+-
+-
+-
 // Duster
+-
+-
+-
 -
 -
 -
@@ -1204,7 +1804,13 @@ his
 -
 -
 -
+-
+-
+-
 // OJ
+-
+-
+-
 -
 -
 -
@@ -1216,7 +1822,13 @@ his
 -
 -
 -
+-
+-
+-
 // Dung Beetle
+-
+-
+-
 -
 -
 -
@@ -1228,7 +1840,13 @@ his
 -
 -
 -
+-
+-
+-
 // Snow Hare
+-
+-
+-
 -
 -
 -
@@ -1240,19 +1858,31 @@ his
 -
 -
 -
+-
+-
+-
 // Vapor
 -
 -
 -
 -
 -
+-
+-
+-
 // Rope Snake
 -
 -
 -
 -
 -
+-
+-
+-
 // Rope Snake
+-
+-
+-
 -
 -
 -
@@ -1264,7 +1894,13 @@ his
 -
 -
 -
+-
+-
+-
 // Straw
+-
+-
+-
 -
 -
 -
@@ -1276,7 +1912,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mini Elevator
+-
+-
+-
 -
 -
 -
@@ -1288,7 +1930,13 @@ his
 -
 -
 -
+-
+-
+-
 // Pigmask Trooper
+-
+-
+-
 -
 -
 -
@@ -1300,7 +1948,13 @@ his
 -
 -
 -
+-
+-
+-
 // Pump Drago
+-
+-
+-
 -
 -
 -
@@ -1312,7 +1966,13 @@ his
 -
 -
 -
+-
+-
+-
 // Flower
+-
+-
+-
 -
 -
 -
@@ -1324,7 +1984,13 @@ his
 -
 -
 -
+-
+-
+-
 // Flame 3
+-
+-
+-
 -
 -
 -
@@ -1336,13 +2002,22 @@ his
 -
 -
 -
+-
+-
+-
 // Ropeway
 -
 -
 -
 -
 -
+-
+-
+-
 // (EMPTY)
+-
+-
+-
 -
 -
 -
@@ -1354,7 +2029,13 @@ his
 -
 -
 -
+-
+-
+-
 // Flame 1
+-
+-
+-
 -
 -
 -
@@ -1366,7 +2047,13 @@ his
 -
 -
 -
+-
+-
+-
 // Unworked Clay
+-
+-
+-
 -
 -
 -
@@ -1378,7 +2065,13 @@ his
 -
 -
 -
+-
+-
+-
 // Smoke
+-
+-
+-
 -
 -
 -
@@ -1390,7 +2083,13 @@ his
 -
 -
 -
+-
+-
+-
 // Carousel
+-
+-
+-
 -
 -
 -
@@ -1402,7 +2101,13 @@ his
 -
 -
 -
+-
+-
+-
 // Firefly Swarm
+-
+-
+-
 -
 -
 -
@@ -1414,7 +2119,13 @@ his
 -
 -
 -
+-
+-
+-
 // Electric Catfish
+-
+-
+-
 -
 -
 -
@@ -1426,7 +2137,13 @@ his
 -
 -
 -
+-
+-
+-
 // Fish
+-
+-
+-
 -
 -
 -
@@ -1438,25 +2155,40 @@ his
 -
 -
 -
+-
+-
+-
 // Train
 -
 -
 -
 -
 -
+-
+-
+-
 // Sign
 -
 -
 -
 -
 -
+-
+-
+-
 // Sign
+-
+-
+-
 -
 -
 -
 -
 -
 // (EMPTY)
+-
+-
+-
 -
 -
 -
@@ -1468,7 +2200,13 @@ his
 -
 -
 -
+-
+-
+-
 // Nice Ghost
+-
+-
+-
 -
 -
 -
@@ -1480,7 +2218,13 @@ his
 -
 -
 -
+-
+-
+-
 // Steel Ball
+-
+-
+-
 -
 -
 -
@@ -1492,7 +2236,13 @@ his
 -
 -
 -
+-
+-
+-
 // Chestnut
+-
+-
+-
 -
 -
 -
@@ -1504,7 +2254,13 @@ his
 -
 -
 -
+-
+-
+-
 // Candle
+-
+-
+-
 -
 -
 -
@@ -1516,7 +2272,13 @@ his
 -
 -
 -
+-
+-
+-
 // Energy Machine
+-
+-
+-
 -
 -
 -
@@ -1528,7 +2290,13 @@ his
 -
 -
 -
+-
+-
+-
 // Wine Glass
+-
+-
+-
 -
 -
 -
@@ -1540,7 +2308,13 @@ his
 -
 -
 -
+-
+-
+-
 // Stinkbug
+-
+-
+-
 -
 -
 -
@@ -1552,13 +2326,22 @@ his
 -
 -
 -
+-
+-
+-
 // Smoke
 -
 -
 -
 -
 -
+-
+-
+-
 // Ionia
+-
+-
+-
 -
 -
 -
@@ -1570,7 +2353,13 @@ his
 -
 -
 -
+-
+-
+-
 // Magnifier
+-
+-
+-
 -
 -
 -
@@ -1582,7 +2371,13 @@ his
 -
 -
 -
+-
+-
+-
 // Sign
+-
+-
+-
 -
 -
 -
@@ -1594,7 +2389,13 @@ his
 -
 -
 -
+-
+-
+-
 // Kumatora
+-
+-
+-
 -
 -
 -
@@ -1606,7 +2407,13 @@ his
 -
 -
 -
+-
+-
+-
 // That Car
+-
+-
+-
 -
 -
 -
@@ -1618,7 +2425,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mole Cricket
+-
+-
+-
 -
 -
 -
@@ -1630,13 +2443,22 @@ his
 -
 -
 -
+-
+-
+-
 // Mothership
 -
 -
 -
 -
 -
+-
+-
+-
 // (EMPTY)
+-
+-
+-
 -
 -
 -
@@ -1648,7 +2470,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mixolydia
+-
+-
+-
 -
 -
 -
@@ -1660,7 +2488,13 @@ his
 -
 -
 -
+-
+-
+-
 // Frozen Drago
+-
+-
+-
 -
 -
 -
@@ -1672,7 +2506,13 @@ his
 -
 -
 -
+-
+-
+-
 // Thunder
+-
+-
+-
 -
 -
 -
@@ -1684,7 +2524,13 @@ his
 -
 -
 -
+-
+-
+-
 // Dr. Andonuts
+-
+-
+-
 -
 -
 -
@@ -1696,7 +2542,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mothership
+-
+-
+-
 -
 -
 -
@@ -1708,7 +2560,13 @@ his
 -
 -
 -
+-
+-
+-
 // Explosion FX
+-
+-
+-
 -
 -
 -
@@ -1720,7 +2578,13 @@ his
 -
 -
 -
+-
+-
+-
 // Distant Mothership
+-
+-
+-
 -
 -
 -
@@ -1732,7 +2596,13 @@ his
 -
 -
 -
+-
+-
+-
 // (EMPTY)
+-
+-
+-
 -
 -
 -
@@ -1744,7 +2614,13 @@ his
 -
 -
 -
+-
+-
+-
 // Distant Mothership
+-
+-
+-
 -
 -
 -
@@ -1756,7 +2632,13 @@ his
 -
 -
 -
+-
+-
+-
 // Smoke
+-
+-
+-
 -
 -
 -
@@ -1768,15 +2650,6 @@ his
 -
 -
 -
-// (EMPTY)
--
--
--
--
--
-// (EMPTY)
--
--
 -
 -
 -
@@ -1786,13 +2659,40 @@ his
 -
 -
 -
+-
+-
+-
 // (EMPTY)
 -
 -
 -
 -
 -
+-
+-
+-
 // (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
 -
 -
 -
@@ -1804,7 +2704,13 @@ his
 -
 -
 -
+-
+-
+-
 // Phrygia
+-
+-
+-
 -
 -
 -
@@ -1816,7 +2722,13 @@ his
 -
 -
 -
+-
+-
+-
 // Iron Octopus
+-
+-
+-
 -
 -
 -
@@ -1828,7 +2740,13 @@ his
 -
 -
 -
+-
+-
+-
 // Ionia
+-
+-
+-
 -
 -
 -
@@ -1840,7 +2758,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mushroom
+-
+-
+-
 -
 -
 -
@@ -1852,7 +2776,13 @@ his
 -
 -
 -
+-
+-
+-
 // Halluc. Blue Tent
+-
+-
+-
 -
 -
 -
@@ -1864,7 +2794,13 @@ his
 -
 -
 -
+-
+-
+-
 // Wooden Table Horse 2
+-
+-
+-
 -
 -
 -
@@ -1876,7 +2812,13 @@ his
 -
 -
 -
+-
+-
+-
 // Boat on Mind's 100F
+-
+-
+-
 -
 -
 -
@@ -1888,7 +2830,13 @@ his
 -
 -
 -
+-
+-
+-
 // Sign
+-
+-
+-
 -
 -
 -
@@ -1900,7 +2848,13 @@ his
 -
 -
 -
+-
+-
+-
 // Game Balloon
+-
+-
+-
 -
 -
 -
@@ -1912,7 +2866,13 @@ his
 -
 -
 -
+-
+-
+-
 // Dragon Fireworks
+-
+-
+-
 -
 -
 -
@@ -1924,7 +2884,13 @@ his
 -
 -
 -
+-
+-
+-
 // Police Car
+-
+-
+-
 -
 -
 -
@@ -1936,7 +2902,13 @@ his
 -
 -
 -
+-
+-
+-
 // Titiboo Attic Kotatsu
+-
+-
+-
 -
 -
 -
@@ -1948,7 +2920,13 @@ his
 -
 -
 -
+-
+-
+-
 // Overworld
+-
+-
+-
 -
 -
 -
@@ -1960,7 +2938,13 @@ his
 -
 -
 -
+-
+-
+-
 // Mens Room Door
+-
+-
+-
 -
 -
 -
@@ -1972,7 +2956,13 @@ his
 -
 -
 -
+-
+-
+-
 // EMPTY (Character)
+-
+-
+-
 -
 -
 -
@@ -1983,76 +2973,115 @@ his
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Lucas
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Duster
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Kumatora
 -
 -
 -
 -
-her 
+de 
+a 
+a
+-
 // Boney
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // Salsa
 -
 -
 -
 -
-its 
+de 
+a 
+o
+-
 // Wess
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Thomas
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Ionia
 -
 -
 -
 -
-her 
+de 
+a 
+a
+-
 // Fuel
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Alec
 -
 -
 -
 -
-his 
-// Fassad
+de 
+a 
+o
+-
+// Falhaz
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-
 // Claus
 -
 -
 -
 -
-his 
+de 
+a 
+o
+-

@@ -441,7 +441,7 @@
 00DB: Tickle Stick
 00DB-E: Palo cosquillero
 00DC: Drawbridge Key
-00DC-E: Llavo puente
+00DC-E: Llave del puente
 00DD: Noble Spittoon
 00DD-E: Escupidera noble
 00DE: Pendant

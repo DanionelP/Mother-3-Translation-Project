@@ -3,106 +3,106 @@
 // don't worry if your translations look weird
 
 00:(EMPTY)
-00-E: 
+00-E:(NADA)
 01:Poison
-01-E: 
+01-E:Veneno
 02:Numb
-02-E: 
+02-E:Parálisis
 03:Sleep
-03-E: 
+03-E:Sueño
 04:Strange
-04-E: 
+04-E:Rareza
 05:Crying
-05-E: 
+05-E:Lágrimas
 06:Forgetful
-06-E: 
+06-E:Olvido
 07:Nauseous
-07-E: 
+07-E:Náuseas
 08:Fleas
-08-E: 
+08-E:Pulgas
 09:On Fire
-09-E: 
+09-E:En llamas
 0A:Stopped, Frozen
-0A-E: 
+0A-E:Congelación
 0B:Smelly
-0B-E: 
+0B-E:Hedor
 0C:DCMC
-0C-E: 
+0C-E:DCMC
 0D:Staple Stopped
-0D-E: 
+0D-E:Fin de los clavos
 0E:Apology Stopped
-0E-E: 
+0E-E:Fin de las disculpas
 0F:Laugh Stopped
-0F-E: 
+0F-E:Fin de la risa
 10:Defense
-10-E: 
+10-E:Defensa
 11:No EXP
-11-E: 
+11-E:No EXP
 12:Off Down (weak)
-12-E: 
+12-E:Baj. Fue (débil)
 13:Off Down(strng)
-13-E: 
+13-E:Baj. Fue (fuerte)
 14:Def Down (weak)
-14-E: 
+14-E:Baj. Def (débil)
 15:Def Down(strng)
-15-E: 
+15-E:Baj. Def (fuerte)
 16:Shield
-16-E: 
+16-E:Escudo
 17:Counter
-17-E: 
+17-E:Reflejo
 18:Electrocuted
-18-E: 
+18-E:Electrocutado
 19:PSI Shield
-19-E: 
+19-E:Escudo PSI
 1A:PSI Counter
-1A-E: 
+1A-E:Reflejo PSI
 1B:Off Up (weak)
-1B-E: 
+1B-E:Sub. Fue (débil)
 1C:Off Up (strong)
-1C-E: 
+1C-E:Sub. Fue (fuerte)
 1D:Def Up (weak)
-1D-E: 
+1D-E:Sub. Def (débil)
 1E:Def Up (strong)
-1E-E: 
+1E-E:Sub. Def (fuerte)
 1F:Escape Failure
-1F-E: 
+1F-E:Fallo al huir
 20:Dance
-20-E: 
+20-E:Bailar
 21:Off Down (mid)
-21-E: 
+21-E:Baj. Fue (medio)
 22:Def Down (mid)
-22-E: 
+22-E:Baj. Def (medio)
 23:Time Bomb
-23-E: 
+23-E:Bomba temporizada
 24:Parameters Up
-24-E: 
+24-E:Subir parámetros
 25:Parameters Down
-25-E: 
+25-E:Bajar parámetros
 26:Refresh
-26-E: 
+26-E:Regenerar
 27:Fell
-27-E: 
+27-E:Caer
 28:MonkeyDanceOff
-28-E: 
+28-E:MonkeyDanceOff
 29:MonkeyDanceDef
-29-E: 
+29-E:MonkeyDanceDef
 2A:MonkeyDanceSP
-2A-E: 
+2A-E:MonkeyDanceSP
 2B:MonkeyDanceIQ
-2B-E: 
+2B-E:MonkeyDanceCI
 2C:MonkeyDanceOff
-2C-E: 
+2C-E:MonkeyDanceOff
 2D:MonkeyDanceDef
-2D-E: 
+2D-E:MonkeyDanceDef
 2E:MonkeyDanceSP
-2E-E: 
+2E-E:MonkeyDanceSP
 2F:MonkeyDanceIQ
-2F-E: 
+2F-E:MonkeyDanceIQ
 30:Endure
-30-E: 
+30-E:Aguantar
 31:Off Up (mid)
-31-E: 
+31-E:Sub. Fue (medio)
 32:Def Up (mid)
-32-E: 
+32-E:Sub. Def (medio)
 33:No Back Sprite
-33-E: 
+33-E:No sprite trasero

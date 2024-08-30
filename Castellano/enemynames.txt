@@ -87,7 +87,7 @@
 002A: Greedy Mouse
 002A-E: Ratón gorrón
 002B: Firefly
-002B-E: Mosca fogosa
+002B-E: Flamidóptero
 002C: Yammonster
 002C-E: Tuberculoide
 002D: Flying Mouse
@@ -143,7 +143,7 @@
 0046: Magman
 0046-E: Volcánido
 0047: Zombie Man
-0047-E: Zombi
+0047-E: Señor zombi
 0048: Zombie Dog
 0048-E: Perro zombi
 0049: Lingering Spirit
@@ -301,7 +301,7 @@
 0095: Pigmask
 0095-E: Puercareto
 0096: Zombie Lady
-0096-E: Mujer zombi
+0096-E: Señora zombi
 0097: Naughty Mushroom
 0097-E: Travieseta
 0098: Elder Batty
