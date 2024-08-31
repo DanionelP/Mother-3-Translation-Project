@@ -636,747 +636,747 @@
 
 [Container 2]
 2-0:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@It's a fire! A fire, a fire![WAIT]@The Sunshine Forest is on fire in a huge, fiery,[BREAK]  flamey fire!![END]
-2-0E:
+2-0E:@¡[FLINT 23 01 00]! ¡[FLINT 23 01 00]![BREAK]  ¡¡¡¡[FLINT 26 01 00 03 00]!!!![WAIT]@¡Fuego! ¡Fuego, fuego![WAIT]@¡El bosque Amanecer está en llamas![BREAK]  ¡¡¡Unas llamas muy fogosas!![END]
 // Repeats: 2-0, 12-0
 2-1:@You gotta do something, quick![BREAK]  [FLINT 26 01 00 01 00]!![WAIT]@It's the forest! The forest, the forest![BREAK]  The forest is on fire!!![END]
-2-1E:
+2-1E:@¡¡Hay que hacer algo, pero ya![BREAK]  ¡¡[FLINT 26 01 00 01 00]!![WAIT]@¡Se trata del bosque! ¡El bosque, el bosque![BREAK]  ¡¡¡El bosque está en llamas!!![END]
 // Repeats: 2-1, 12-1
 2-2:@Geez![WAIT]@Who would lock their door in a village as[BREAK]  peaceful as ours?![WAIT]@[FLINT 26 01 00 03 00]![END]
-2-2E:
+2-2E:@¡Mecachis en la mar![WAIT]@¡¿A quién se le ocurre cerrar con llave[BREAK]  en un pueblo tan pacífico como este?![WAIT]@¡[FLINT 26 01 00 03 00]![END]
 // Repeats: 2-2, 12-2
 2-3:@Ahh![WAIT]@The doorknob...[END]
-2-3E:
+2-3E:@¡Aah![WAIT]@El picaporte...[END]
 // Repeats: 2-3, 12-3
 2-4:@Why'd you hafta come off at a time like this?![END]
-2-4E:
+2-4E:@¡¿Por qué tenías que soltarte AHORA?![END]
 // Repeats: 2-4, 12-4
 2-5:@Aahh, Doorknob![PAUSE 30 00][BREAK]  I mean, [FLINT 23 01 00]![WAIT]  This is no time to be dozing off![WAIT]@There's a huge fire in the Sunshine Forest![END]
-2-5E:
+2-5E:@¡Aaah, Picaporte![PAUSE 30 00][BREAK]  ¡Quiero decir, [FLINT 23 01 00]![WAIT]  ¡No hay tiempo que perder![WAIT]@¡El bosque Amanecer está en llamas![END]
 // Repeats: 2-5, 12-5
 2-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-2-6E:
+2-6E:@En situaciones como estas necesitamos[BREAK]  a gente buena y temeraria como tú![WAIT]@¡¡¡Ven conmigo, [FLINT 26 01 00 03 00]!!![WAIT]  ¡Por favor![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 2-7:[END]
-2-7E:
+2-7E:[END]
 2-8:@Then I'll just have to drag you there myself![END]
-2-8E:
+2-8E:@¡Entonces tendré que llevarte a rastras![END]
 // Repeats: 2-8, 12-8
 2-9:@Thomas joined your party![PAUSE A0 00][END]
-2-9E:
+2-9E:@¡Thomas se unió al grupo![PAUSE A0 00][END]
 // Repeats: 2-9, 12-9
 2-10:@I'll follow behind you.[WAIT]@What? What's so wrong with that?[WAIT]  I happen to like following behind people![END]
-2-10E:
+2-10E:@Estaré detrás de ti todo el rato.[WAIT]@¿Qué? ¿Qué tiene eso de malo??[WAIT]  ¡Me encanta ir detrás de la gente![END]
 // Repeats: 2-10, 12-10
 2-11:@Aahh! [FLINT 23 01 00]![EVENT][END]
-2-11E:
+2-11E:@¡Aaah! ¡[FLINT 23 01 00]![EVENT][END]
 // Repeats: 2-11, 12-11
 2-12:@The whole sky north of here is pitch black with[BREAK]  smoke.[END]
-2-12E:
+2-12E:@Todo el cielo al norte de aquí está[BREAK]  ennegrecido por el humo.[END]
 // Repeats: 2-12, 12-12
 2-13:@The door is missing its doorknob, but you[BREAK]  opened it anyway.[END]
-2-13E:
+2-13E:@La puerta carece de picaporte,[BREAK]  pero la abriste de todos modos.[END]
 // Repeats: 2-13, 12-13
 2-14:@He's hiding something inside his doghouse.[END]
-2-14E:
+2-14E:@Ha escondido algo en su caseta.[END]
 // Repeats: 2-14, 12-14
 2-15:[END]
-2-15E:
+2-15E:[END]
 2-16:[END]
-2-16E:
+2-16E:[END]
 2-17:@The sheep are milling about restlessly.[END]
-2-17E:
+2-17E:@Las ovejas dan vueltas sin parar.[END]
 // Repeats: 2-17, 12-17
 2-18:@Hey! [FLINT 23 01 00]![END]
-2-18E:
+2-18E:@¡Ey! ¡[FLINT 23 01 00]![END]
 // Repeats: 2-18, 12-18
 2-19:@That stick should make a good weapon in case[BREAK]  anything happens.[WAIT]@Be sure to equip it first, though.[WAIT]@Just holding on to it'll make it as useful as a[BREAK]  caramel.[END]
-2-19E:
+2-19E:@Ese palo podría servirte de arma[BREAK]  si la cosa se pone fea.[WAIT]@Eso sí, asegúrate de equiparlo.[WAIT]@Si no, te será tan útil como[BREAK]  una cerilla mojada.[END]
 // Repeats: 2-19, 12-19
 2-20:@It's a letter from [HINAWA 22 08 00].[END]
-2-20E:
+2-20E:@Una carta de [HINAWA 22 08 00].[END]
 // Repeats: 2-20, 12-20
 2-21:[END]
-2-21E:
+2-21E:[END]
 2-22:[END]
-2-22E:
+2-22E:[END]
 2-23:[SOUND 03 00]@Woof! Woof![WAIT]  (Please take me with you. I'm sure I'll be[BREAK]  helpful.)[END]
-2-23E:
+2-23E:[SOUND 03 00]@¡Guau! ¡Guau![WAIT]  (Por favor, llévame contigo.[BREAK]  Seguro que te seré útil.)[END]
 // Repeats: 2-23, 12-23
 2-24:[SOUND 03 00]@Woo-woof![BREAK]  (Woo-woof!)[END]
-2-24E:
+2-24E:[SOUND 03 00]@¡Guaahuu![BREAK]  (¡Guauhuu!)[END]
 // Trying to add in the sense of "Woo-hoo!"
 // Repeats: 2-24, 12-24
 2-25:[SOUND 03 00]@*whimper*[BREAK]  (I'm a member of the family too, you know...)[END]
-2-25E:
+2-25E:[SOUND 03 00]@*quejido*[BREAK]  (Yo también soy parte de la familia...)[END]
 // Repeats: 2-25, 12-25
 2-26:@Take [BONEY 22 09 00] with you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-2-26E:
+2-26E:@¿Te llevas a [BONEY 22 09 00] contigo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 2-26, 12-26
 2-27:@[BONEY 23 05 00] joined your party.[PAUSE 68 01][END]
-2-27E:
+2-27E:@[BONEY 23 05 00] se unió al grupo.[PAUSE 68 01][END]
 // Repeats: 2-27, 12-27
 2-28:[SOUND 03 00]@*whine*[WAIT]  (It's really noisy out. You're supposed to be[BREAK]  quiet at night.[WAIT]  I'm a good dog, so I'm being quiet.)[END]
-2-28E:
+2-28E:[SOUND 03 00]@*gemido*[WAIT]  (¡Qué alboroto! De noche hay que[BREAK]  saber estar en silencio.[WAIT]  Es lo que distingue a un buen perro.)[END]
 // Repeats: 2-28, 12-28
 2-29:[SOUND 03 00]@Woof![BREAK]  (Oh, welcome home, Dad!)[END]
-2-29E:
+2-29E:[SOUND 03 00]@¡Guau![BREAK]  (¡Oh, bienvenido a casa, papá!)[END]
 // A dog calling his owner "Dad" is weird. But I don't like "master", doesn't seem like the dog's part of the family that way.
 // Repeats: 2-29, 12-29
 2-30:@The contents of these boxes belong to[BREAK]  everyone.[WAIT]@Use them however you wish.[END]
-2-30E:
+2-30E:@El contenido de estas cajas nos[BREAK]  pertenece a todos por igual.[WAIT]@Úsalo como te plazca.[END]
 // Repeats: 2-30, 12-30
 2-31:@A box?[WAIT]@Sorry, little monkey. Could you come back[BREAK]  some other time?[END]
-2-31E:
+2-31E:@¿Una caja?[WAIT]@Lo siento monito, ¿podrías volver[BREAK]  en otro momento?[END]
 // Repeats: 2-31, 12-31, 210-8
 2-32:@...Dad.[WAIT]@*sob*[END]
-2-32E:
+2-32E:@...Papá.[WAIT]@*snif*[END]
 // Repeats: 2-32, 12-32
 2-33:@A clothesline.[END]
-2-33E:
+2-33E:@Un tendedero.[END]
 // Repeats: 2-33, 12-33
 2-34:@The mailbox is empty.[END]
-2-34E:
+2-34E:@El buzón está vacío.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 2-35:@The sheep look cold.[END]
-2-35E:
+2-35E:@Las ovejas parecen tener frío.[END]
 // Repeats: 2-35, 12-35
 2-36:@The sheep look sleepy.[END]
-2-36E:
+2-36E:@Las ovejas parecen tener sueño.[END]
 // Repeats: 2-36, 12-36
 2-37:@The sheep are lively.[END]
-2-37E:
+2-37E:@Las ovejas parecen estar de lo más activas.[END]
 // Repeats: 2-37, 12-37
 2-38:@Tazmily gerberas are [HINAWA 22 08 00]'s[BREAK]  favorite flowers, after sunflowers.[END]
-2-38E:
+2-38E:@Las gerberas de Tazmily son las flores[BREAK]  favoritas de [HINAWA 22 08 00], tras los girasoles.[END]
 // Repeats: 2-38, 12-38, 210-13
 2-39:[END]
-2-39E:
+2-39E:[END]
 
 [Container 3]
 3-0:@[FLINT 26 01 00 03 00]! The fire isn't that way![WAIT]@This is no time to get sidetracked![END]
-3-0E:
+3-0E:@¡[FLINT 26 01 00 03 00]! ¡El fuego no está por ahí![WAIT]@¡No hay tiempo para desvíos![END]
 // Repeats: 3-0, 9-3, 37-3
 3-1:@Hold on! We don't have a map![WAIT]@Better go get one from Mapson.[END]
-3-1E:
+3-1E:@¡Espera! ¡Ni siquiera tenemos un mapa![WAIT]@Será mejor que le pidamos uno a Mapson.[END]
 3-2:@Th-th-the Sunshine Fire... It's on forest!![WAIT]@No, wait![WAIT]@The Funshine Sorest is on tire!![END]
-3-2E:
+3-2E:@¡¡L-l-la llama Amanecer está en bosques!![WAIT]@¡No, espera![WAIT]@¡¡El llosque Amanecer está en bamas!![END]
 3-3:@If the forest catches on fire, [CLAUS 22 05 00][BREAK]  and [LUCAS 23 02 00] and [HINAWA 22 08 00][WAIT]  will be stuck out there.[END]
-3-3E:
+3-3E:@Si el fuego se extiende, [CLAUS 22 05 00],[BREAK]  [LUCAS 23 02 00] y [HINAWA 22 08 00][WAIT]  quedarán atrapados.[END]
 3-4:@Thomas![WAIT]@What are you running around acting like a siren[BREAK]  for?! Honestly, now![WAIT]@You'd better not cause too much trouble for[BREAK]  [FLINT 23 01 00]![END]
-3-4E:
+3-4E:@¡Thomas![WAIT]@¿Qué haces correteando por ahí[BREAK]  con esa sirena?! ¡Y a estas horas![WAIT]@¡Espero que no estés causándole[BREAK]  problemas a [FLINT 23 01 00]![END]
 3-5:@They're saying the Sunshine Forest is on fire...[WAIT]@If that's true, we better get our butts out of[BREAK]  here before the fire engulfs our village, too![END]
-3-5E:
+3-5E:@Dicen que el bosque entero está ardiendo...[WAIT]@¡Si eso es cierto, será mejor que salgamos[BREAK]  por patas antes de que el fuego nos alcance![END]
 3-6:@Mr. [FLINT 23 01 00].[WAIT]@You should probably take whatever Thomas[BREAK]  says with a grain of salt.[WAIT]  That's just the kind of person he is.[END]
-3-6E:
+3-6E:@Sr. [FLINT 23 01 00].[WAIT]@Debería coger con pinzas[BREAK]  todo lo que Thomas le diga.[WAIT]  Es de esa clase de gente.[END]
 3-7:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]  Please, feel free to take one with you.[END]
-3-7E:
+3-7E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]  Puedes llevarte uno si quieres.[END]
 3-8:@You're worried about Lighter's shack deep[BREAK]  inside the Sunshine Forest, yes?[WAIT]@I've marked that area on the map for you.[PAUSE 1E 00][END]
-3-8E:
+3-8E:@Estás preocupado por la cabaña de Lighter,[BREAK]  en lo más profundo del bosque, ¿no?[WAIT]@Te he marcado su ubicación en el mapa.[PAUSE 1E 00][END]
 3-9:@Please hurry and see if he needs help.[WAIT]@Oh, whoops. Silly me.[PAUSE 0F 00][WAIT]  Forgot to tell you how to check the map,[BREAK]  didn't I?[WAIT]@To check the map, you need to - how do I put[BREAK]  this?[WAIT]  Fill your right index finger with a wish. Or[BREAK]  strength.[WAIT]  To put it more bluntly, I guess do something[BREAK]  [COLOR 03 00]R[COLOR 00 00] Button-ish?[END]
-3-9E:
+3-9E:@Date prisa y ve a ver si necesita ayuda.[WAIT]@Oh, tonto de mí, casi lo olvidaba.[PAUSE 0F 00][WAIT]  No te he contado cómo consultar el mapa,[BREAK]  ¿verdad?[WAIT]@Para abrir el mapa debes - mmm,[BREAK]  ¿cómo te lo digo?[WAIT]  Has de concentrar toda tu fuerza en el[BREAK]  dedo índice de tu mano derecha...[WAIT]  En otras palabras, tienes que pulsar[BREAK]  el botón [COLOR 03 00]R[COLOR 00 00].[END]
 3-10:@Your map's been marked![END]
 3-10E:@¡Tu mapa ha sido marcado![END]
 // Repeats: 3-10, 10-50, 32-50, 222-50, 506-50
 3-11:@[FLINT 23 01 00]![BREAK]  Took you long enough![WAIT]@Go check out the fire! Quickly! Chop-chop![WAIT]@If the fire spreads here, to Tazmily Village,[WAIT]  my honor, my estate, and I will all go up in[BREAK]  smoke, literally![WAIT]@So go north![BREAK]@North, I say![WAIT]@North, as in north-south-east-west![WAIT]@Why do you force me to explain such simple[BREAK]  things to you?![END]
-3-11E:
+3-11E:@¡[FLINT 23 01 00]![BREAK]  ¡Te has tomado tu tiempo![WAIT]@¡Ve a echarle un ojo al fuego! ¡Rápido![WAIT]@Si el fuego llega hasta aquí, mi prestigio,[WAIT]  mi mansión y yo, quedaremos reducidos[BREAK]  a cenizas... ¡literalmente![WAIT]@¡Así que ve al norte![BREAK]@¡Al norte, te digo![WAIT]@¡Norte, de norte-sur-este-oeste, ya sabes![WAIT]@¡¿Por qué me obligas a explicarte[BREAK]  estas cosas tan básicas?![END]
 3-12:@Please don't make me repeat myself![WAIT]@North, as in north-south-east-west![WAIT]@Just go north![WAIT]@Do things simply not register with you the first[BREAK]  time you hear them or something?![END]
-3-12E:
+3-12E:@¡No me hagas repetírtelo de nuevo![WAIT]@¡Norte, de norte-sur-este-oeste, ya sabes![WAIT]@¡Simplemente dirígete al norte![WAIT]@¡¿Tu cerebro no registra a la primera[BREAK]  lo que te dicen o qué?![END]
 3-13:@*cough* *cough*[WAIT]@Just hearing there was a *cough*[PAUSE 30 00] fire has me[BREAK]  *cough*[PAUSE 30 00] *hack*[PAUSE 30 00] coughing uncontrollably.[WAIT]@I'm ultra-sensitive to things, you know?[WAIT]@By the way, if you'd prefer to run instead of[BREAK]  walk, I recommend trying the "Dash" ability.[WAIT]@*cough*[PAUSE 30 00] *hack*[PAUSE 10 00][END]
-3-13E:
+3-13E:@*cof* *cof*[WAIT]@La simple mención de un *cof*[PAUSE 30 00] incendio[BREAK]  *cof*[PAUSE 30 00] *ejem*[PAUSE 30 00] me hace toser como un loco.[WAIT]@Soy hipersensible a estas cosas, ¿sabes?[WAIT]@Por cierto, si prefieres correr en lugar[BREAK]  de caminar, deberías usar el "sprint".[WAIT]@*cof*[PAUSE 30 00] *ejem*[PAUSE 10 00][END]
 3-14:@Aah! [FLINT 23 01 00]![END]
-3-14E:
+3-14E:@¡Aah! ¡[FLINT 23 01 00]![END]
 3-15:@Th-the Sunshine Forest is on fire?[WAIT]@Oh... Umm, uhh...[BREAK]  Should I maybe give you a hand, too?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-3-15E:
+3-15E:@¿E-el bosque Amanecer está en llamas?[WAIT]@Oh... mmm, eh...[BREAK]  ¿Debería ayudaros yo también?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 3-16:@Oh... No, I thought you'd say that.[WAIT]@It's okay. Don't take it personally.[WAIT]  I'm not going to, after all.[END]
-3-16E:
+3-16E:@Oh... No, si ya sabía que ibas a decir eso.[WAIT]@Mejor así. Lo cierto es que no me[WAIT]  apetecía nada tener que ayudar.[END]
 3-17:@Ack! W-wait.[WAIT]@Umm, I'm actually pretty busy, y'know?[WAIT]@No, I mean, umm...[PAUSE 20 00] You know how it is...[END]
-3-17E:
+3-17E:@¡Agh! E-espera.[WAIT]@Mmm, es que estoy muy liado, ¿sabes?[WAIT]@No, quiero decir, mmm...[PAUSE 20 00] Ya sabes...[END]
 3-18:@Sorry...[WAIT]@I'll leave everything to you today,[BREAK]  [FLINT 23 01 00].[END]
-3-18E:
+3-18E:@Lo siento...[WAIT]@Lo dejo todo en tus manos,[BREAK]  [FLINT 23 01 00].[END]
 3-19:@"Jackie's Yado Inn"[BREAK]  We won't over-pamper you here.[END]
-3-19E:
+3-19E:@"La posada Yado de Jackie"[BREAK]  No te mimaremos en exceso.[END]
 // Repeats: 3-19, 81-28, 211-12
 3-20:@This hasn't been used, for whatever reason.[END]
-3-20E:
+3-20E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 3-21:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-3-21E:
+3-21E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 3-22:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-3-22E:
+3-22E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 3-23:@[FLINT 23 01 00]![END]
-3-23E:
+3-23E:@¡[FLINT 23 01 00]![END]
 // Repeats: 3-23, 91-3
 3-24:@Perfect timing! I heard you were taking a rest[BREAK]  here.[WAIT]@......Mighty heavy rain, isn't it?[WAIT]  Think I'll join you under the awning.[EVENT][END]
-3-24E:
+3-24E:@¡Qué oportuno! Había oído que estabas[BREAK]  aquí.[WAIT]@......Vaya la que está cayendo, ¿eh?[WAIT]  Deja que me ponga a cubierto contigo.[EVENT][END]
 3-25:@[FLINT 23 01 00].[WAIT]  Tell me.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  Have you seen [HINAWA 22 08 00] and the kids?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-3-25E:
+3-25E:@[FLINT 23 01 00].[WAIT]  Dime.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]  ¿Has visto a [HINAWA 22 08 00] y a los niños?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 3-26:@Oh? That so?[WAIT]@Have you seen [HINAWA 22 08 00] today?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-3-26E:
+3-26E:@¿Oh? ¿En serio?[WAIT]@¿Has visto hoy a [HINAWA 22 08 00]?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 3-27:@That's good to hear, but.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@If there's anything bothering you, will you tell[BREAK]  me?[END]
-3-27E:
+3-27E:@Me alegra oír eso, pero.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@¿Seguro que no hay nada que te preocupe?[BREAK]  Puedes contármelo, ¿eh?[END]
 3-28:@......I see.[END]
-3-28E:
+3-28E:@......ya veo.[END]
 3-29:@...Actually, I was up in the mountains earlier,[BREAK]  picking mushrooms.[WAIT]@While I was up there, I caught sight of[BREAK]  [HINAWA 22 08 00].[EVENT][END]
-3-29E:
+3-29E:@...He estado hace un rato en la montaña,[BREAK]  cogiendo setas.[WAIT]@Mientras estaba allí arriba, vi pasar a[BREAK]  [HINAWA 22 08 00].[EVENT][END]
 3-30:@Then, while I was taking a break by the river,[WAIT]  I heard loud roars far off in the distance...[WAIT]  It sounded like it might've been a Drago[BREAK]  that was roaring...[END]
-3-30E:
+3-30E:@Más tarde, mientras descansaba un poco[WAIT]  junto al río, escuché unos rugidos lejanos...[WAIT]  lo que parecían ser los rugidos de un[BREAK]  Drago...[END]
 3-31:@After that, I heard[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  what I think[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] might've been screams...[PAUSE 20 00][END]
-3-31E:
+3-31E:@A continuación, escuché[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  escuché[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] lo que parecían ser gritos...[PAUSE 20 00][END]
 3-32:@Say, [FLINT 23 01 00].[WAIT]@[HINAWA 22 08 00] and the kids made it back[BREAK]  home, right?[END]
-3-32E:
+3-32E:@Dime, [FLINT 23 01 00].[WAIT]@[HINAWA 22 08 00] y los niños han vuelto[BREAK]  a casa, ¿cierto?[END]
 3-33:@Say, [FLINT 23 01 00].[WAIT]@[HINAWA 22 08 00] and the kids[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  They made it back home, right?[END]
-3-33E:
+3-33E:@Dime, [FLINT 23 01 00].[WAIT]@[HINAWA 22 08 00] y los niños[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00][WAIT]  Han vuelto a casa, ¿cierto?[END]
 3-34:@[FLINT 23 01 00].[WAIT]@You should probably head back home and check[BREAK]  on things.[END]
-3-34E:
+3-34E:@[FLINT 23 01 00].[WAIT]@Creo que deberías volver a casa y comprobar[BREAK]  si todo va bien.[END]
 3-35:@She did say they were coming back today...[END]
-3-35E:
+3-35E:@Ella dijo que volverían hoy...[END]
 3-36:@Where could [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] be?[END]
-3-36E:
+3-36E:@¿Dónde pueden estar [CLAUS 22 05 00] y[BREAK]  [LUCAS 23 02 00] ?[END]
 3-37:@You know it's dangerous to be out at this time[BREAK]  of night![WAIT]  ...That's what I'm telling these two, but they[BREAK]  won't listen to me, of course.[END]
-3-37E:
+3-37E:@¡Es peligroso salir de casa a estas[BREAK]  horas de la noche![WAIT]  ...Es lo que les digo a estos dos,[BREAK]  pero no quieren escucharme.[END]
 3-38:@This is bad! Real bad![WAIT]@[HINAWA 22 08 00] and the kids still aren't back!![END]
-3-38E:
+3-38E:@¡La cosa está fea! ¡Muy fea![WAIT]@¡¡[HINAWA 22 08 00] y los niños aún no han vuelto!![END]
 3-39:@Looks like everyone went to the Prayer[BREAK]  Sanctuary.[END]
-3-39E:
+3-39E:@Parece ser que todos se han ido[BREAK]  al santuario de oración.[END]
 3-40:@I really wanna help you out, honest. *hic*[WAIT]@I'm totally just the guy [PAUSE 20 00]to help you out.[END]
-3-40E:
+3-40E:@Quiero ayudarte, de verdad. *hip*[WAIT]@Soy el más indicado[PAUSE 20 00] para hacerlo.[END]
 3-41:@This laundry has been drenched by the rain.[END]
-3-41E:
+3-41E:@La colada está empapada por la lluvia.[END]
 3-42:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Hmm? That's not what you need?[WAIT]@Oh, [CLAUS 22 05 00] and [LUCAS 22 03 00]?[WAIT]@I believe they're at the Sunset Cemetery,[BREAK]  north of the village.[END]
-3-42E:
+3-42E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@¿Hmm? ¿No es lo que necesitas?[WAIT]@Oh, ¿[CLAUS 22 05 00] y [LUCAS 22 03 00]?[WAIT]@Creo que están en el cementerio Atardecer,[BREAK]  al norte del pueblo.[END]
 3-43:@Oh, h-hello, [FLINT 23 01 00]...[BREAK]  Are you already out and about again?[WAIT]@H-have you eaten?[END]
-3-43E:
+3-43E:@Oh, h-hola, [FLINT 23 01 00]...[BREAK]  ¿Ya te encuentras algo mejor?[WAIT]@¿H-has comido ya?[END]
 3-44:@Mister [FLINT 23 01 00]![WAIT]@What's wrong? Why the long face?[WAIT]@Come stop by our place![WAIT]  We're baking Nut Bread![END]
-3-44E:
+3-44E:@¡Señor [FLINT 23 01 00]![WAIT]@¿Está bien? ¿Por qué esa cara tan larga?[WAIT]@¡Pásese luego por aquí![WAIT]  ¡Estamos horneando pan de nueces![END]
 3-45:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Alec's house?[BREAK]@Here, I'll mark it on your map for you.[END]
-3-45E:
+3-45E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@¿La casa de Alec?[BREAK]@Mira, te he marcado su ubicación en el mapa.[END]
 3-46:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@With old man Alec today, are you?[BREAK]  And you're going to his house?[WAIT]@In that case, I'll mark your map so you won't[BREAK]  get lost.[WAIT]@Eh? I don't need to mark it?[WAIT]@Who cares? I just like to mark maps.[END]
-3-46E:
+3-46E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@¿Hoy vienes con el viejo Alec?[BREAK]  ¿Y os dirigís a su casa?[WAIT]@Bien, marcaré su ubicación en el mapa para[BREAK]  que no te pierdas.[WAIT]@¿Eh? ¿Que no tengo por qué marcarlo?[WAIT]@¿Qué más da? Adoro marcar mapas.[END]
 3-47:@There you go.[WAIT]  I've marked Alec's house for you.[END]
-3-47E:
+3-47E:@Listo.[WAIT]  He marcado la casa de Alec en tu mapa.[END]
 3-48:@Be careful out there, now.[END]
-3-48E:
+3-48E:@Ten cuidado ahí fuera.[END]
 3-49:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-3-49E:
+3-49E:@[HINAWA 22 08 00] les entregaba estas gerberas[BREAK]  a los vecinos como regalo.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 4]
 4-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
-4-0E:
+4-0E:@Hay algo tallado en el árbol.[WAIT]@Lo leíste, pero no tenía mayor relevancia.[END]
 // Repeats: 4-0, 33-0, 219-0
 4-1:@...[HINAWA 22 08 00]...[WAIT]  Why did this have to happen to you...?[END]
-4-1E:
+4-1E:@...[HINAWA 22 08 00]...[WAIT]  ¿Por qué tenía que ocurrirte esto a ti...?[END]
 4-2:@Bow-wow![WAIT]  (Hi! I'm a stray dog!)[END]
-4-2E:
+4-2E:@¡Guau-guau![WAIT]  (¡Hola! ¡Soy un perro callejero!)[END]
 4-3:@Bow-wow![WAIT]  (I'm so happy you take the time out to talk to[BREAK]  stray dogs.)[END]
-4-3E:
+4-3E:@¡Guau-guau![WAIT]  (Es todo un detalle que te pares[BREAK]  a hablar con un perro como yo.)[END]
 4-4:@Bow-wow! Grrrr...[WAIT]  (My instincts scream, "Bark at him!"[WAIT]  Say, what do you do for a living? Don't tell me[BREAK]  you're actually a...)[END]
-4-4E:
+4-4E:@¡Guau-guau! Grrrr...[WAIT]  (Mi instinto me dice, "¡Ládrale!"[WAIT]  Dime, ¿a qué te dedicas?[BREAK]  No me digas que eres un...)[END]
 4-5:@Bow-wow-wow![BREAK]  (You seem even more burglar-like now!)[END]
-4-5E:
+4-5E:@¡Guau-gua-guau![BREAK]  (¡Ahora pareces más ladrón todavía!)[END]
 4-6:@Bow-wow![BREAK]  (You gotta be kidding me!)[END]
-4-6E:
+4-6E:@¡Guau-guau![BREAK]  (¡Tienes que estar de broma!)[END]
 4-7:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, if it isn't [DUSTER 23 03 00].[WAIT]@I see you still enjoy your nighttime strolls.[WAIT]@Oh? You want to go to Osohe Castle?[WAIT]@In that case, I'll mark it on your map for you.[END]
-4-7E:
+4-7E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@Oh, [DUSTER 23 03 00], quién si no.[WAIT]@¿Otra vez de escapada nocturna?[WAIT]@¿Eh? ¿Que quieres ir al castillo Osohe?[WAIT]@Bien, te he marcado su ubicación en el mapa.[END]
 4-8:@I'm not even going to bother asking what[BREAK]  you're off to do this late at night,[WAIT]  but you do know that Osohe Castle's[BREAK]  drawbridge is up, right?[WAIT]@That means you can't get inside.[WAIT]@But there are rumors of an underground[BREAK]  passage that leads into the castle.[WAIT]@I bet Nippolyte the gravekeeper knows[BREAK]  something about it.[END]
-4-8E:
+4-8E:@No voy ni a preguntarte qué asuntos tienes[BREAK]  que atender a estas horas de la noche,[WAIT]  pero sabes que el puente levadizo del[BREAK]  castillo está alzado, ¿no?[WAIT]@Y eso significa que no puedes entrar.[WAIT]@Sin embargo, hay rumores acerca de un[BREAK]  pasadizo subterráneo que da al castillo.[WAIT]@Apuesto a que Nippolyte, el sepulturero,[BREAK]  sabe algo al respecto.[END]
 4-9:@If you need something from the map-loving and[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@Just look for old man Nippolyte.[WAIT]@What do you mean, "Who is that?"[WAIT]@He's the old man who was at the cemetery[BREAK]  during [HINAWA 22 08 00]'s funeral.[END]
-4-9E:
+4-9E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@También hablo de cosas menos "mápiles".[WAIT]@Deberías buscar al viejo Nippolyte.[WAIT]@Cómo que "¿Quién es ese?"[WAIT]@Es el anciano que estaba en el cementerio[BREAK]  durante el funeral de [HINAWA 22 08 00].[END]
 4-10:@Oh, you're up rather early today,[BREAK]  [DUSTER 22 0F 00].[WAIT]@It isn't healthy to stay out of the sunlight, you[BREAK]  know.[END]
-4-10E:
+4-10E:@Oh, hoy te has levantado bastante pronto,[BREAK]  [DUSTER 22 0F 00].[WAIT]@Ver la luz del sol de vez en cuando[BREAK]  no mata a nadie, ¿eh?[END]
 4-11:@Oh, Wess! You're so silly![WAIT]@I'm not that pretty at all![END]
-4-11E:
+4-11E:@¡Oh, Wess! ¡Qué adulador![WAIT]@¡No estoy TAN guapa![END]
 4-12:@Oh, hello.[WAIT]@Are you an acquaintance of Wess's?[END]
-4-12E:
+4-12E:@Oh, hola.[WAIT]@¿Eres amiga de Wess?[END]
 4-13:@Hey, mister![WAIT]  Are you a friend of [DUSTER 23 03 00]'s?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-4-13E:
+4-13E:@¡Oiga, señor![WAIT]  ¿Es usted amigo de [DUSTER 23 03 00]?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 4-14:@I bet you're pretty popular with the girls, huh,[BREAK]  mister?[END]
-4-14E:
+4-14E:@Seguro que es usted muy popular[BREAK]  entre las chicas, ¿eh, señor?[END]
 4-15:@Hold on, Alle.[WAIT]@I think that's a "miss", not a "mister".[END]
-4-15E:
+4-15E:@Estooo, Alle.[WAIT]@Creo que es una "señorita", no un "señor".[END]
 4-16:@Huh?[WAIT]@You're a girl?[WAIT]@Yeah, come to think of it, you ARE really[BREAK]  pretty.[END]
-4-16E:
+4-16E:@¿Eh?[WAIT]@¿Que eres una chica?[WAIT]@Bueno, ahora que lo dices,[BREAK]  eres MUY guapa.[END]
 4-17:@Keep up the good work, Mr. Monkey.[END]
-4-17E:
+4-17E:@Siga así, Sr. Mono.[END]
 4-18:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  During battle, it's not uncommon to forget[BREAK]  what exactly each item does, right?[WAIT]  Has this ever happened to you?[WAIT]  When it does, just choose the item you want[BREAK]  to know about and press [COLOR 03 00]Select[COLOR 00 00].[WAIT]  A simple description will pop up, which is quite[BREAK]  handy, indeed.[WAIT]  Now to end this with a sparrow-like...[EVENT][END]
-4-18E:
+4-18E:[SOUND 03 00]@Pío-pi.[WAIT]  (¡Consejo de gorrión![WAIT]  Es fácil de olvidar la función de cada objeto[BREAK]  en el fragor de la batalla, ¿verdad?[WAIT]  ¿Te ha pasado alguna vez?[WAIT]  Cuando te ocurra, simplemente elige el[BREAK]  objeto en cuestión y pulsa [COLOR 03 00]Select[COLOR 00 00].[WAIT]  Aparecerá una pequeña descripción[BREAK]  que te vendrá de perlas.[WAIT]  Ahora, para terminar al estilo gorrión...[EVENT][END]
 4-19:[SOUND 03 00]  chirp chirp!)[END]
-4-19E:
+4-19E:[SOUND 03 00]  ¡pío-pi!)[END]
 
 [Container 5]
 5-0:@Moo.[WAIT]  (Oops, I'm drooling.)[END]
-5-0E:
+5-0E:@Muu.[WAIT]  (Ups, estoy babeando.)[END]
 5-1:@Moo.[WAIT]  (We drool a lot, we do.)[END]
-5-1E:
+5-1E:@Muu.[WAIT]  (Babeamos un montón las vacas, sí.)[END]
 5-2:@Moo.[WAIT]  (*hop*[BREAK]  Save your game?[PAUSE 5A 00][WAIT]  ...is what frogs say, right?)[END]
-5-2E:
+5-2E:@Muu.[WAIT]  (*hop*[BREAK]  ¿Guardar la partida?[PAUSE 5A 00][WAIT]  ...es lo que suelen decir las ranas, ¿no?)[END]
 5-3:@Moo.[WAIT]  (To drool or not to drool, that is the question.)[END]
-5-3E:
+5-3E:@Muu.[WAIT]  (Babear o no babear, he ahí el dilema.)[END]
 // This is a math pun in the original
 5-4:@Oink oink.[WAIT]  (There's actually secret, behind-the-scenes[BREAK]  info about MOTHER 3 that only pigs know...)[END]
-5-4E:
+5-4E:@¿Oink, oink?.[WAIT]  (¿Sabías que existe información secreta de[BREAK]  MOTHER 3 que sólo los cerdos conocen?)[END]
 5-5:@Oink oink?[WAIT]  (What kind of secret, behind-the-scenes[BREAK]  MOTHER 3 info would only pigs know about?)[END]
-5-5E:
+5-5E:@¿Oink, oink?[WAIT]  (¿Cuál puede ser esa información secreta de[BREAK]  MOTHER 3 que sólo los cerdos conocent?)[END]
 5-6:@Oink?[WAIT]  (I'm a pig, but I don't know any secret[BREAK]  MOTHER 3 info that only pigs know...)[END]
-5-6E:
+5-6E:@¿Oink?[WAIT]  (Soy un cerdo, pero no poseo ninguna[BREAK]  información secreta de MOTHER 3...)[END]
 5-7:@Oink OINK![WAIT]  (I am SO sick of all these stupid pigs around[BREAK]  here!)[END]
-5-7E:
+5-7E:@¡Oink, OINK![WAIT]  (¡Estoy hasta el MORRO de[BREAK]  todos estos cerdos!)[END]
 5-8:@Moo.[BREAK]  (What does "ground sirloin" mean again?)[END]
-5-8E:
+5-8E:@Muu.[BREAK]  (¿A qué te refieres con "hamburguesa"?)[END]
 5-9:@Moo.[WAIT]  (We cows don't chew the fat, but we do chew[BREAK]  cud!)[END]
-5-9E:
+5-9E:@Muu.[WAIT]  (Nosotras, las vacas, no rumoreamos,[BREAK]  ¡rumiamos!)[END]
 //   The original is a pun (hansei and hansuu) that's based around "chewing cud"
 5-10:@Moo.[BREAK]  (Oh~[NOTE] We swipe at flies with our tails~[NOTE])[END]
-5-10E:
+5-10E:@Muu.[BREAK]  (Oh~[NOTE] Con el rabo a las moscas damos~[NOTE])[END]
 5-11:@Moo.[WAIT]  (Even-toed ungulates such as goats and[BREAK]  antelopes are our brethren.)[END]
-5-11E:
+5-11E:@Moo.[WAIT]  (Los mamíferos ungulados, como[BREAK]  los antílopes, son nuestros hermanos.)[END]
 // this is supposed to sound complicated. An "even-toed ungulate" is a scientific term
 5-12:@Ooooink oink, oink.[WAIT]  (Those first two oinks were me crying.)[END]
-5-12E:
+5-12E:@Ooooink oink, oink.[WAIT]  (Los dos primeros "oinks" eran un llanto.)[END]
 5-13:@Oink-oink oink.[WAIT]  (I hear there's some pig somewhere talking[BREAK]  about secret info for Something-Or-Other 3.[WAIT]  Come on, now. What a nuisance that guy is.[WAIT]  I don't know much about the secret info,[BREAK]  personally.)[END]
-5-13E:
+5-13E:@Oink-oink, oink.[WAIT]  (Hay un cerdo que va por ahí hablando sobre[BREAK]  información secreta de Nosequé 3.[WAIT]  Ese tío es un plomazo de cuidado.[WAIT]  Yo no estoy muy puesto en estas cosas,[BREAK]  la verdad.)[END]
 5-14:@Oink?[BREAK]  (Do you really wanna know?)[END]
-5-14E:
+5-14E:@¿Oink?[BREAK]  (¿Seguro que quieres saberlo?)[END]
 5-15:@Oink oink-oink.[WAIT]  (During MOTHER 2's creation, a tonkatsu shop[BREAK]  named Katsuman opened up in Kanda,[WAIT]  and it was so great it managed to get into the[BREAK]  game.[WAIT]@But this time, with MOTHER 3, the croquette[BREAK]  rolls they sell at the Lonlon shop in Kichijoji[WAIT]  got all the attention.)[END]
-5-15E:
+5-15E:@Oink, oink-oink.[WAIT]  (Durante el desarrollo de MOTHER 2,[BREAK]  un puesto de tonkatsu llamado Katsuman[WAIT]  abrió en Kanda, y era tan bueno que fue[BREAK]  incluido en el juego.[WAIT]@En MOTHER 3, sin embargo, fueron las[BREAK]  croquetas de la tienda Lonlon en Kichijoji[WAIT]  las que acapararon toda la atención.)[END]
 5-16:@Oink-oink-oink-oink oink oink oinka-oink![WAIT]  (My rendition of a musical fanfare.)[END]
-5-16E:
+5-16E:@¡Oink-oink-oink-oink, oink, oink, oiiinkaaa-oink![WAIT]  (Mi versión de una fanfarria muy famosa.)[END]
 5-17:@Oink, oink-oink.[BREAK]  (Pigs...)[END]
-5-17E:
+5-17E:@Oink, oink-oink.[BREAK]  (Cerdos...)[END]
 5-18:@Oink oink?[BREAK]  (Pigs... What do you think of 'em?)[END]
-5-18E:
+5-18E:@¿Oink, oink?[BREAK]  (Cerdos... ¿Qué opinas de ellos?)[END]
 5-19:@What are cows like from a monkey's point of[BREAK]  view?[END]
-5-19E:
+5-19E:@¿Cómo son las vacas desde la perspectiva[BREAK]  de un mono?[END]
 5-20:@You know how animals talk and all that?[BREAK]  I wonder how it sounds to humans.[END]
-5-20E:
+5-20E:@A veces me pregunto cómo le sonarán[BREAK]  nuestras voces a los humanos.[END]
 5-21:@Do you suppose a cow's cuteness is related to[BREAK]  the deliciousness of its meat?[END]
-5-21E:
+5-21E:@¿Crees que la belleza de una vaca es[BREAK]  proporcional al sabor de su carne?[END]
 5-22:@Never fear.[BREAK]  I am not a carnivorous cow.[END]
-5-22E:
+5-22E:@No tengas miedo.[BREAK]  No soy una vaca carnívora.[END]
 5-23:@You a bachelor?[WAIT]@I'm a bachelor.[END]
-5-23E:
+5-23E:@¿Estás soltero?[WAIT]@Yo estoy soltero.[END]
 5-24:@Can you run fast?[WAIT]@I'm slow.[END]
-5-24E:
+5-24E:@¿Puedes correr deprisa?[WAIT]@Yo soy lento.[END]
 5-25:@Have you put on weight lately?[WAIT]@I'm on a diet.[END]
-5-25E:
+5-25E:@¿Te has pesado últimamente?[WAIT]@Yo estoy a dieta.[END]
 5-26:@Do you know the secret about MOTHER 3?[WAIT]@'Cause I do.[PAUSE 3C 00][BREAK]@I'm not telling, though.[END]
-5-26E:
+5-26E:@¿Conoces el secreto sobre MOTHER 3?[WAIT]@Yo sí.[PAUSE 3C 00][BREAK]@Pero no te lo voy a contar.[END]
 5-27:@Wow! Just wow![WAIT]  Such magnificent, marvelous pigs![END]
-5-27E:
+5-27E:@¡Guau y más guau![WAIT]  ¡Qué maravillosos y magníficos cerdos![END]
 5-28:@When my pigs are praised, it makes ME feel[BREAK]  good, almost as if the praise is about me.[END]
-5-28E:
+5-28E:@Me siento genial cuando elogian a mis cerdos[BREAK]  es como si YO fuese el elogiado.[END]
 5-29:@*whisper* *whisper*[WAIT]@Hey. [DUSTER 22 0F 00].[WAIT]  You better not tell ANYONE about the money I[BREAK]  hid in that well![END]
-5-29E:
+5-29E:@*susurro* *susurro*[WAIT]@Ey. [DUSTER 22 0F 00].[WAIT]  ¡Espero que no le cuentes a NADIE[BREAK]  sobre el dinero en el pozo![END]
 5-30:@Butch has been acting kind of strange since[BREAK]  yesterday.[WAIT]@Do you know what his deal is, [DUSTER 22 0F 00]?[END]
-5-30E:
+5-30E:@Butch se comporta de forma extraña[BREAK]  desde ayer.[WAIT]@¿Tú sabes qué le ocurre, [DUSTER 22 0F 00]?[END]
 5-31:@Butch has been acting kind of strange since[BREAK]  yesterday...[WAIT]@Wait, huh?[WAIT]@You're too cute to be [DUSTER 23 03 00]...[WAIT]@Say, old man Wess. Who's the girl?[END]
-5-31E:
+5-31E:@Butch se comporta de forma extraña[BREAK]  desde ayer.[WAIT]@Un momento... ¿eh?[WAIT]@Eres muy mona para ser [DUSTER 23 03 00]...[WAIT]@Dime Wess, ¿quién es esta chica?[END]
 5-32:@What do you want, you filthy little monkey?[WAIT]  Shoo! Get outta here![END]
-5-32E:
+5-32E:@¿Qué quieres, mono apestoso?[WAIT]  ¡Buuh! ¡Fuera de aquí![END]
 5-33:@Oh, thanks a bunch![BREAK]  Now I can be happy, too![END]
-5-33E:
+5-33E:@¡Oh, muchas gracias![BREAK]  ¡Ahora yo también podré ser feliz![END]
 5-34:@For some reason, I actually do feel happy.[END]
-5-34E:
+5-34E:@Por alguna razón, ya me siento feliz.[END]
 5-35:@Huh?[WAIT]@So where IS this so-called happiness I ordered?[END]
-5-35E:
+5-35E:@¿Eh?[WAIT]@¿DÓNDE está esa felicidad que encargué?[END]
 5-36:@Gave the Happy Box to Biff![END]
-5-36E:
+5-36E:@¡Le diste la Caja feliz a Biff![END]
 5-37:@Only [80 FF F0 FF] more to go![END]
-5-37E:
+5-37E:@¡Sólo [80 FF F0 FF] más![END]
 // Repeats: 5-37, 105-11, 128-11
 5-38:@You finished delivering Happy Boxes to[BREAK]  everyone who wanted one![END]
-5-38E:
+5-38E:@¡Terminaste de distribuir las Cajas felices[BREAK]  a todos los interesados![END]
 // Repeats: 5-38, 105-12, 128-12
 5-39:@Hey there, Happiness Guy.[WAIT]@I put that box you gave me inside my house,[WAIT]  but I guess it doesn't make you instantly[BREAK]  happy, huh?[END]
-5-39E:
+5-39E:@Oiga, señor de la felicidad.[WAIT]@He puesto en casa la caja que me dio,[WAIT]  pero parece que no te hace feliz[BREAK]  al instante, ¿no?[END]
 
 [Container 6]
 6-0:@[FLINT 23 01 00]...[END]
-6-0E:
+6-0E:@[FLINT 23 01 00]...[END]
 // Repeats: 6-0, 19-39, 21-39
 6-1:@I'm not really sure what to say...[END]
-6-1E:
+6-1E:@La verdad es que no sé qué decir...[END]
 6-2:@What happened to [HINAWA 22 08 00] was a[BREAK]  terrible tragedy...[WAIT]@I can't say I know how you're feeling.[END]
-6-2E:
+6-2E:@Lo de [HINAWA 22 08 00] fue una terrible[BREAK]  tragedia...[WAIT]@No puedo decir que sepa cómo te sientes.[END]
 6-3:@[HINAWA 22 08 00]'s burial ended without incident.[WAIT]@[LUCAS 22 03 00] has been crying at her grave[BREAK]  ever since.[WAIT]@His poor little heart seems like it's about to[BREAK]  break in two...[END]
-6-3E:
+6-3E:@El funeral de [HINAWA 22 08 00] ha concluido.[WAIT]@[LUCAS 22 03 00] ha estado llorando frente[BREAK]  a su tumba desde entonces.[WAIT]@Su diminuto corazón parecía estar a punto[BREAK]  de partirse en dos...[END]
 // This is an important line emotionally
 6-4:@If there's anything else I can do for you,[BREAK]  just let me know anytime.[END]
-6-4E:
+6-4E:@Si hay algo más que pueda hacer por ti,[BREAK]  no dudes en hacérmelo saber.[END]
 6-5:@*clackety* *clackety*[WAIT]  (This is Reggie's house.)[END]
-6-5E:
+6-5E:@*clack* *clack*[WAIT]  (Esta es la casa de Reggie.)[END]
 6-6:@Sheriff NOT wanted![WAIT]@After all, there's no crime![END]
-6-6E:
+6-6E:@¡NO se busca sheriff![WAIT]@¡No hay crimen alguno![END]
 6-7:@...[END]
-6-7E:
+6-7E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 6-8:@...[DUSTER 23 03 00].[END]
-6-8E:
+6-8E:@...[DUSTER 23 03 00].[END]
 6-9:@Thanks.[END]
-6-9E:
+6-9E:@Gracias.[END]
 // Repeats: 6-9, 233-38, 340-12
 
 [Container 7]
 7-0:@[DUSTER 23 03 00].[WAIT]@Listen to the voice of the sea.[WAIT]@The sea washes away people's worries.[WAIT]@I once washed someone's back in a bath.[WAIT]@What do you think? I wrote that poem myself.[END]
-7-0E:
+7-0E:@[DUSTER 23 03 00].[WAIT]@Escucha la voz del mar.[WAIT]@El mar lava el pesar de nuestro corazón.[WAIT]@Una vez lavé la espalda de otro en un baño.[WAIT]@¿Qué opinas? Lo he escrito yo solo.[END]
 // This should be poem-like, but not a very good poem.
 7-1:@Oh, old man Wess.[WAIT]@[DUSTER 23 03 00] was a real help the other day.[WAIT]@[FLINT 23 01 00] appreciated his help from the[BREAK]  bottom of his heart, too.[WAIT]@I know how it feels.[WAIT]@I've been thanked over and over and over by[BREAK]  all sorts of people throughout my life.[END]
-7-1E:
+7-1E:@Oh, viejo Wess.[WAIT]@[DUSTER 23 03 00] fue de gran ayuda el otro día.[WAIT]@[FLINT 23 01 00] agradeció de todo corazón[BREAK]  el apoyo prestado.[WAIT]@Sé lo que se siente.[WAIT]@Toda clase de gente me ha dado las gracias[BREAK]  una y otra vez a lo largo de mi vida.[END]
 7-2:@I never thought I'd see you lose it like that...[END]
-7-2E:
+7-2E:@Nunca te había visto tan descontrolado...[END]
 7-3:@But if you start acting like that, what'll happen[BREAK]  to the two kiddos who rely on you?[WAIT]@You know what's best.[WAIT]@[PAUSE 20 00]It's tough being a man.[END]
-7-3E:
+7-3E:@Pero si te comportas así, ¿qué pasará[BREAK]  con esos dos chavales tuyos?[WAIT]@Sabes bien qué es lo mejor.[WAIT]@[PAUSE 20 00]Es duro ser un hombre.[END]
 7-4:@No doubt [CLAUS 22 05 00] is intent on avenging[BREAK]  [HINAWA 22 08 00].[WAIT]@You'd better go after him, and fast...[WAIT]@I'll let you borrow this.[END]
-7-4E:
+7-4E:@No me cabe duda de que [CLAUS 22 05 00][BREAK]  intentará vengar a [HINAWA 22 08 00].[WAIT]@Será mejor que vayas tras él, y rápido...[WAIT]@Llévate esto contigo.[END]
 7-5:@Received a [ITEM 39 00]![END]
-7-5E:
+7-5E:@¡Recibiste una [ITEM 39 00]![END]
 // Item 39 = Manly Bandana
 7-6:@Don't worry.[WAIT]@I washed it. It's clean.[END]
-7-6E:
+7-6E:@No te preocupes.[WAIT]@La he lavado. Está limpia.[END]
 7-7:@Whoa, come on, now.[WAIT]  Your inventory's full of all kinds of junk.[END]
-7-7E:
+7-7E:@Oye, ten un poco de seriedad, hombre.[WAIT]  Tu inventario está a rebosar de trastos.[END]
 7-8:@Are you looking for our boss?[WAIT]@Last I saw, he was scuttling around, looking[BREAK]  out at the sea in a quiet, unbecoming way.[END]
-7-8E:
+7-8E:@¿Estás buscando a nuestro jefe?[WAIT]@La última vez que lo vi estaba mirando[BREAK]  al mar de forma melancólica.[END]
 // These comedy guys are always a pain to translate
 7-9:@What, is he a hermit crab or something?!?!?[END]
-7-9E:
+7-9E:@¡¿Qué?! ¿Acaso es un cangrejo ermitaño?[END]
 7-10:@Sorry. We were just practicing our comedy[BREAK]  routine.[END]
-7-10E:
+7-10E:@Lo siento. Estábamos practicando[BREAK]  nuestro número.[END]
 7-11:@You like our boss... right?[END]
-7-11E:
+7-11E:@Te cae bien nuestro jefe... ¿verdad?[END]
 7-12:@Be sure to catch our act sometime, 'kay?[END]
-7-12E:
+7-12E:@No te pierdas nuestra actuación, ¿vale?[END]
 7-13:@What are we, sea otters?![END]
-7-13E:
+7-13E:@¡¿Qué somos, ostras?![END]
 7-14:@"What are we, a freak show?!"[PAUSE 0A 00] seems better[BREAK]  than "What are we, sea otters?!"[PAUSE 0A 00][WAIT]  Or, no, maybe it doesn't.[WAIT]@"What are we, sea otters?!"[PAUSE 0A 00] has more edge to[BREAK]  it.[END]
-7-14E:
+7-14E:@"¡¿Qué somos, mutantes?!"[PAUSE 0A 00] suena mejor[BREAK]  que "¡¿Qué somos, ostras?!"[PAUSE 0A 00][WAIT]  O no, tal vez no.[WAIT]@"¡¿Qué somos, ostras?!"[PAUSE 0A 00] tiene así[BREAK]  como más gancho.[END]
 7-15:@...My dad's been down in the dumps ever since[BREAK]  all that stuff happened.[WAIT]@Mr. [FLINT 22 01 00]. Think you could go say hi[BREAK]  to him?[END]
-7-15E:
+7-15E:@...Mi padre ha estado deprimidísimo[BREAK]  desde que ocurrió aquello.[WAIT]@Sr. [FLINT 22 01 00], ¿podría pasarse[BREAK]  a saludarlo?[END]
 7-16:@I guess this has all been really tough on my[BREAK]  dad, too.[END]
-7-16E:
+7-16E:@Supongo que también debe haber sido[BREAK]  muy duro para papá.[END]
 7-17:@I'm Nana.[BREAK]  I like the ocean.[END]
-7-17E:
+7-17E:@Soy Nana.[BREAK]  Me gusta el océano.[END]
 7-18:@I don't want anything from you.[END]
-7-18E:
+7-18E:@No estoy interesada en ti.[END]
 7-19:@I'm Nana.[WAIT]@They say that on Tanetane Island, across the[BREAK]  sea, is a world of dreams and nightmares.[WAIT]@But they also say that nobody knows the real[BREAK]  truth about it.[WAIT]@So then how do I know about it?[END]
-7-19E:
+7-19E:@Soy Nana.[WAIT]@Dicen que la isla Tanetane, muy lejos de[BREAK]  aquí, es un mundo de sueños y pesadillas.[WAIT]@Claro que, también dicen que nadie sabe[BREAK]  si es verdad.[WAIT]@¿Cómo es que sé todo esto entonces?[END]
 
 [Container 8]
 8-0:[ALTERNATEFONT]@this hole.[WAIT]  to cliff,[BREAK]  and fire mountain.[END]
-8-0E:
+8-0E:[ALTERNATEFONT]@esta cueva.[WAIT]  a risco[BREAK]  y monte fuego.[END]
 8-1:@This is Saturn Valley.[WAIT]@Don't make me explain any more than that.[WAIT]@I'm not even really sure what the deal with[BREAK]  this place is.[END]
-8-1E:
+8-1E:@Esto es el valle Saturn.[WAIT]@No me pidas que te explique más.[WAIT]@Ni siquiera estoy yo seguro[BREAK]  de qué es este lugar.[END]
 8-2:@We've taken control of this nonsensical village.[WAIT]@The place is still nonsensical, but that doesn't[BREAK]  change the fact that we're great and almighty.[WAIT]@Boing![WAIT][PAUSE 1E 00]@Oops, I think this village has started to get to[BREAK]  me...[END]
-8-2E:
+8-2E:@Nos hemos apoderado de este[BREAK]  sinsentido de aldea.[WAIT]@El lugar sigue siendo un sinsentido, pero[BREAK]  nuestro poder y grandeza son patentes.[WAIT]@¡Boing![WAIT][PAUSE 1E 00]@Ups, creo que se me está empezando[BREAK]  a pegar el acento...[END]
 8-3:@Whoa, whoa, whoa![WAIT]@Get outta here! Get![WAIT]@Get lost, kid![WAIT]@Scram![END]
-8-3E:
+8-3E:@¡Eh, eh , eh![WAIT]@¡Fuera de aquí! ¡Vamos![WAIT]@¡Piérdete, niñato![WAIT]@¡Lárgate![END]
 8-4:[ALTERNATEFONT]@we are fulgrate[WAIT]  is mistake.[WAIT]@we are grateful.[END]
-8-4E:
+8-4E:[ALTERNATEFONT]@estar agradecidos[WAIT]  es error.[WAIT]@estar agradecidos.[END]
 8-5:[ALTERNATEFONT]@now, then.[WAIT]@now then?[WAIT]@do not know now[BREAK]  then.[END]
-8-5E:
+8-5E:[ALTERNATEFONT]@bien, entonces.[WAIT]@¿bien entonces?[WAIT]@no saber si bien[BREAK]  entonces.[END]
 8-6:[ALTERNATEFONT]@roasted barley[BREAK]  powder.[WAIT]  tasty.[WAIT]@zoom zoom zoom.[END]
-8-6E:
+8-6E:[ALTERNATEFONT]@cebada tostada[BREAK]  en polvo.[WAIT]  rica.[WAIT]@zoom zoom zoom.[END]
 8-7:[ALTERNATEFONT]@birdies play.[WAIT]@night get late.[END]
-8-7E:
+8-7E:[ALTERNATEFONT]@pajaros juegan.[WAIT]@noche tarde.[END]
 8-8:[ALTERNATEFONT]@mantis looks this[BREAK]  way.[WAIT]@scary.[END]
-8-8E:
+8-8E:[ALTERNATEFONT]@mantis mirando[BREAK]  aqui.[WAIT]@miedo.[END]
 8-9:[ALTERNATEFONT]@we all good friends.[WAIT]@all everyone.[END]
-8-9E:
+8-9E:[ALTERNATEFONT]@todos amigos.[WAIT]@nosotros todos.[END]
 8-10:[ALTERNATEFONT]@wanted to play[BREAK]  ladder.[WAIT]@patience patience.[END]
-8-10E:
+8-10E:[ALTERNATEFONT]@querer jugar[BREAK]  escalera.[WAIT]@paciencia paciencia.[END]
 8-11:[ALTERNATEFONT]@you always come[BREAK]  from now on?[END]
-8-11E:
+8-11E:[ALTERNATEFONT]@¿tu vienes a[BREAK]  partir de ahora?[END]
 8-12:[ALTERNATEFONT]@hello every day.[END]
-8-12E:
+8-12E:[ALTERNATEFONT]@hola todos dias.[END]
 8-13:[ALTERNATEFONT]@is good.[BREAK]  right. left.[END]
-8-13E:
+8-13E:[ALTERNATEFONT]@es bueno.[BREAK]  derecha. izquierda.[END]
 8-14:[ALTERNATEFONT]@oh! what a surprise![WAIT]@wow wow wow.[END]
-8-14E:
+8-14E:[ALTERNATEFONT]@¡oh! ¡que sorpresa![WAIT]@wow wow wow.[END]
 8-15:[ALTERNATEFONT]@can't catch birdie.[BREAK]  is kay-o.[END]
-8-15E:
+8-15E:[ALTERNATEFONT]@no atrapo pajaro.[BREAK]  es key-o.[END]
 8-16:[ALTERNATEFONT]@one birdie more.[BREAK]  one birdie more.[WAIT]  one birdie more.[WAIT]  fishing for birdie.[END]
-8-16E:
+8-16E:[ALTERNATEFONT]@uno pajaro mas.[BREAK]  uno pajaro mas.[WAIT]  uno pajaro mas.[WAIT]  pescar pajaros.[END]
 8-17:@The tunnel has been destroyed.[END]
-8-17E:
+8-17E:@El túnel ha sido destruido.[END]
 8-18:@Does this mean we can't leave the village?![WAIT]@Let's ask the Mr. Saturns if there's any other[BREAK]  way to get outside.[END]
-8-18E:
+8-18E:@¡¿Entonces no podemos salir de la aldea?![WAIT]@Preguntémosle a los Mr. Saturn[BREAK]  si conocen alguna otra salida.[END]
 8-19:@Catch the bird?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-19E:
+8-19E:@¿Coger el pájaro?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-20:@You caught a bird![END]
-8-20E:
+8-20E:@¡Cogiste un pájaro![END]
 8-21:@You're already holding a bird.[END]
-8-21E:
+8-21E:@Ya llevas un pájaro contigo.[END]
 8-22:[ALTERNATEFONT]@we made flying[BREAK]  birdiecage.[WAIT]@stop![WAIT]  what is stop?[WAIT]@you ride[BREAK]  flying birdiecage?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-22E:
+8-22E:[ALTERNATEFONT]@nosotros hacido[BREAK]  jaula volante.[WAIT]@¡alto![WAIT]  ¿que es alto?[WAIT]@¿tu montas[BREAK]  jaula volante?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-23:[ALTERNATEFONT]@you ride[BREAK]  flying birdiecage?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-23E:
+8-23E:[ALTERNATEFONT]@tu montas[BREAK]  jaula volante?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-24:@So we just hold onto this rope, then?[END]
-8-24E:
+8-24E:@¿Sólo tenemos que sujetarnos a la cuerda?[END]
 8-25:[ALTERNATEFONT]@no ride?[END]
-8-25E:
+8-25E:[ALTERNATEFONT]@¿no montar?[END]
 8-26:@Hold it![END]
-8-26E:
+8-26E:@¡Echa el freno, madaleno![END]
 8-27:@You guys really think that cheap rope'll last[BREAK]  all the way to Tazmily with you hanging on it?![END]
-8-27E:
+8-27E:@¡¿De verdad creéis que esa birria de cuerda[BREAK]  aguantará vuestro peso hasta Tazmily?![END]
 8-28:@Tsk, tsk, tsk...[BREAK]  Have some faith in me.[END]
-8-28E:
+8-28E:@¡Pffff![BREAK]  Dejádmelo a mí.[END]
 8-29:@I may've dislocated my jaw that last time...[WAIT]@...but I still got plenty left in me![WAIT]@Just gimme one more chance![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-29E:
+8-29E:@La última vez me disloqué la mandíbula...[WAIT]@...¡pero esta vez será distinto![WAIT]@¡Tan sólo os pido otra oportunidad![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-30:@That's what I'm talkin' about![WAIT]@I knew I could expect great things from you![WAIT]@[LUCAS 23 02 00]![WAIT]@This looks to be a manly[PAUSE 0F 00] journey through the[BREAK]  skies.[END]
-8-30E:
+8-30E:@¡Así se habla![WAIT]@¡Sabía que podía contar con vosotros![WAIT]@¡[LUCAS 23 02 00]![WAIT]@Esto promete ser un épico[PAUSE 0F 00][BREAK]  viaje por los cielos.[END]
 8-31:@Ever since what happened, I've...[WAIT]@I've been toughening up my jaw by crunching[BREAK]  walnut shells day after day after day![WAIT][PAUSE 0F 00]@Yeah, and I ate the stuff inside the shells too,[BREAK]  of course.[WAIT]@Now I'm practically like a walnut-cracking jaw[BREAK]  with a snake attached![WAIT][PAUSE 1E 00]@It's really super strong![WAIT]@Please, let me try just one more time![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-31E:
+8-31E:@Desde lo que ocurrió la última vez...[WAIT]@¡He estado fortaleciendo mi mandíbula[BREAK]  a base de triturar cáscaras de nuez![WAIT][PAUSE 0F 00]@Sí, también me como su contenido,[BREAK]  por supuesto.[WAIT]@¡Soy como una serpiente pegada[BREAK]  a una mandíbula cascanueces![WAIT][PAUSE 1E 00]@¡Es apabullantemente súper fuerte![WAIT]@¿Dadme otra oportunidad, porfaaa![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-32:@There's just no getting through to you, huh?[WAIT]@I'm no longer the snake I was up until[BREAK]  yesterday.[WAIT]@If I had to compare myself to something,[PAUSE 18 00] I'd[BREAK]  say I'm like a cornered lion.[WAIT]@I'm a snake, but also a lion![BREAK]  A snakelion![WAIT]@No, I'm more like a roulette wheel! Make a bet![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-32E:
+8-32E:@No hay manera de convencerte, ¿eh?[WAIT]@No soy la misma serpiente[BREAK]  que era hasta ayer.[WAIT]@Si tuviese que compararme con algo,[PAUSE 18 00] I'd[BREAK]  diría que soy como un león acorralado.[WAIT]@¡Soy una serpiente, pero también un león![BREAK]  ¡Soy un serpión![WAIT]@¡No, soy una ruleta! ¡Apuesta todo al rojo![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-33:@...[PAUSE 0F 00]I guess that roulette wheel comparison[BREAK]  wasn't so hot.[WAIT]@But, if anything, I'm a pair of dice![WAIT]@Roll me with all your might, using the power[BREAK]  of your souls![WAIT]@My jaw's the bomb![WAIT]@Come on! I'm being serious here![WAIT][PAUSE 40 00]@I...[WAIT]  I don't wanna wind up being a big, fat worm[BREAK]  instead of a snake.[WAIT]@C'mon, you gotta understand how I feel![WAIT]@Let me be all the snake I can be.[WAIT]  Please! I'm begging you![WAIT]  See? I even have my hands clasped together![WAIT][MENU 02 00][MENUSPACEYES]Okay[MENUSPACENO]I'm so moved[ENDCHOICES][END]
-8-33E:
+8-33E:@...[PAUSE 0F 00]Bueno, esa última comparación[BREAK]  no ha sonado muy convincente.[WAIT]@¡Pues entonces soy un par de dados![WAIT]@¡Lanzadme con toda la fuerza[BREAK]  de vuestro espíritu![WAIT]@¡Mi mandíbula es la bomba![WAIT]@¡Venga! ¡Os hablo en serio![WAIT][PAUSE 40 00]@Yo...[WAIT]  No quiero acabar siendo un gusano gordo,[BREAK]  quiero ser una serpiente.[WAIT]@¡Tenéis que entender cómo me siento![WAIT]@Dejadme ser la serpiente que puedo ser.[WAIT]  ¡Por favor! ¡Os lo suplico![WAIT]  ¿Véis? ¡Estoy entrelazando mis manos![WAIT][MENU 02 00][MENUSPACEYES]Vale[MENUSPACENO]Estoy conmovido[ENDCHOICES][END]
 8-34:[ALTERNATEFONT]@here goes[BREAK]  no something.[END]
-8-34E:
+8-34E:[ALTERNATEFONT]@alla va[BREAK]  no algo.[END]
 8-35:[ALTERNATEFONT]@flying birdiecage[BREAK]  done.[END]
-8-35E:
+8-35E:[ALTERNATEFONT]@jaula volante[BREAK]  hacida.[END]
 8-36:[ALTERNATEFONT]@do you think[BREAK]  this can fly really?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-8-36E:
+8-36E:[ALTERNATEFONT]@¿crees que[BREAK]  volar puede?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 8-37:[ALTERNATEFONT]@is kay-ooooo.[END]
-8-37E:
+8-37E:[ALTERNATEFONT]@es key-ooooo.[END]
 8-38:[ALTERNATEFONT]@you come back.[BREAK]  ding.[END]
-8-38E:
+8-38E:[ALTERNATEFONT]@tu vuelve.[BREAK]  ding.[END]
 8-39:[END]
-8-39E:
+8-39E:[END]
 
 [Container 9]
 9-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
-9-0E:
+9-0E:@[FLINT 23 01 00]![WAIT]@¡El bosque Amanecer, el cual está al oeste[BREAK]  de la Encrucijada, pasado el santuario,[WAIT]  está ardiendo por completo![WAIT]@¡Oh, perdona, me he pasado de preciso![END]
 // Repeats: 9-0, 37-0
 9-1:@Mr. [FLINT 23 01 00]![WAIT]@If you lose your way, be sure to check sign[BREAK]  posts and message boards.[WAIT]@I'm telling you this out of the kindness of my[BREAK]  heart, just so you know![END]
-9-1E:
+9-1E:@¡Sr. [FLINT 23 01 00]![WAIT]@Si se pierde, asegúrese de echar un ojo[BREAK]  a los carteles del camino.[WAIT]@¡Le digo esto con toda la amabilidad[BREAK]  de mi corazón, que lo sepa![END]
 // Repeats: 9-1, 37-1
 9-2:@Even if I did go on ahead, I just know I'd be no[BREAK]  help at all.[WAIT]@What should I do...?[END]
-9-2E:
+9-2E:@Aunque me adelantase hasta allí,[BREAK]  no serviría de nada.[WAIT]@¿Qué debería hacer...?[END]
 // Repeats: 9-2, 37-2
 9-3:@[FLINT 26 01 00 03 00]! The fire isn't that way![WAIT]@This is no time to get sidetracked![END]
-9-3E:
+9-3E:@¡[FLINT 26 01 00 03 00]! ¡El fuego no está por ahí![WAIT]@¡No hay tiempo para desvíos![END]
 // Repeats: 3-0, 9-3, 37-3
 9-4:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
-9-4E:
+9-4E:@Sur: Pueblo Tazmily[BREAK]@Oeste: Bosque Amanecer[WAIT]@Norte: Cementerio Atardecer[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
 9-5:@Sunset Cemetery[BREAK]  "Graves have never looked so scenic"[WAIT]@NO ZOMBIES ALLOWED[END]
-9-5E:
+9-5E:@Cementerio Atardecer[BREAK]  "Hogar de las tumbas más pintorescas"[WAIT]@NO SE PERMITEN ZOMBIS[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 9-6:@The entrance is sealed.[END]
-9-6E:
+9-6E:@La entrada está bloqueada.[END]
 // Repeats: 9-6, 37-6
 9-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-9-7E:
+9-7E:@[FLINT 23 01 00].[WAIT]  Perdiste la cabeza por completo,[BREAK]  durante aquel arrebato tuyo.[WAIT]@Sé que tenías tus razones para ello,[BREAK]  pero no está bien agredir al prójimo.[END]
 // Repeats: 9-7, 37-7
 9-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
-9-8E:
+9-8E:@Si estás buscando a los demás vecinos,[BREAK]  casi todos están en el cementerio Atardecer.[WAIT]@Todos querían a [HINAWA 22 08 00]...[END]
 // Repeats: 9-8, 37-8
 9-9:@We can forget happy things.[WAIT]@We can probably forget sad things, too.[WAIT]@People have the power to forget.[END]
-9-9E:
+9-9E:@Podemos olvidar las cosas felices.[WAIT]@Quizás podamos olvidar también las tristes.[WAIT]@La gente tiene la facultad de olvidar.[END]
 // Repeats: 9-9, 37-9
 9-10:@Hey, Leder![PAUSE 1E 00] Can you see the fire from there?![WAIT]@Hey, I said![WAIT]@...I see he's as non-talkative as ever...[END]
-9-10E:
+9-10E:@¡Ey, Leder![PAUSE 1E 00] ¡¿Ves el fuego desde ahí?![WAIT]@¡Ey, que te estoy hablando![WAIT]@...Psé, tan "hablador" como siempre...[END]
 // Repeats: 9-10, 37-10
 9-11:@Come to think of it, I don't think I've ever[BREAK]  heard Leder speak before.[END]
-9-11E:
+9-11E:@Ahora que lo pienso, no recuerdo haberle[BREAK]  escuchado hablar jamás.[END]
 // Repeats: 9-11, 37-11
 9-12:@Leder.[WAIT]@You always have such a sad look on your face.[END]
-9-12E:
+9-12E:@Leder.[WAIT]@Siempre con esa mirada tan triste...[END]
 // Repeats: 9-12, 37-12
 9-13:@This tall man never leaves this spot.[WAIT]@And I've never seen him talk with anyone,[BREAK]  either...[END]
-9-13E:
+9-13E:@Este tipo nunca se mueve de aquí.[WAIT]@Tampoco recuerdo haberle visto[BREAK]  hablar con nadie...[END]
 // Repeats: 9-13, 37-13
 9-14:@What a huge person.[WAIT]@Hellooooo, up there![WAIT]@Oh! He smiled![END]
-9-14E:
+9-14E:@¡Qué tío tan enorme.[WAIT]@¡Holaaa, aquí abajo![WAIT]@¡Oh! ¡Ha sonreído![END]
 // Repeats: 9-14, 37-14
 9-15:@This is Cross Road's bell tower.[END]
-9-15E:
+9-15E:@Esta es la torre de la campana.[END]
 // Repeats: 9-15, 37-15, 37-27
 9-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-9-16E:
+9-16E:[SOUND 03 00]@Pío, pío.[WAIT]  (¡Consejo de gorrión![WAIT]  Creo que recurriré a vocabulario jueguil[BREAK]  en lugar de a comparaciones.[WAIT]  ¡Puedes acceder al menú pulsando [COLOR 03 00]Start[COLOR 00 00]![WAIT]  De izquierda a derecha los submenús son:[BREAK]  Objetos, Equipo, Estado y Suspender.[WAIT]  Puedes seleccionar uno de esos cuatro[BREAK]  con la cruceta.[WAIT]  Si escoges uno de esos submenús[BREAK]  y pulsas el botón [COLOR 03 00]A[COLOR 00 00],[WAIT]  ¡podrás encontrar respuesta a las dudas[BREAK]  que te surjan![WAIT]  Por último, en lo que respecta a la opción[BREAK]  "Suspender"...[WAIT]  Si escoges esta opción y pulsas el[BREAK]  botón [COLOR 03 00]A[COLOR 00 00], ¡podrás pausar el juego![WAIT]  Apenas se consumirá la batería mientras[BREAK]  el juego esté en suspensión.[WAIT]  Cuando quieras reanudar la partida,[WAIT]  ¡tan sólo pulsa [COLOR 03 00]Select[COLOR 00 00], [COLOR 03 00]L[COLOR 00 00] y [COLOR 03 00]R[COLOR 00 00][BREAK]  al mismo tiempo![WAIT]  Bueno, ¿qué opinas?[WAIT]  ¿Tengo que explicártelo otra vez?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 9-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
-9-17E:
+9-17E:[SOUND 03 00]@Pío-pío.[WAIT]  (Un gorrión que domine toda esta jerga[BREAK]  res de lo más pajarraro, ¿no lo crees?[WAIT]  Quiero decir, raro.[WAIT]  Bueno, esta vez actuaré como[BREAK]  el gorrión que soy y...[EVENT][END]
 // Repeats: 9-17, 37-17
 9-18:[SOUND 03 00]  ...chirp chirp chirp chirp!)[END]
-9-18E:
+9-18E:[SOUND 03 00]  ...pío, pío, pío, pío!)[END]
 // Repeats: 9-18, 37-18
 9-19:[END]
-9-19E:
+9-19E:[END]
 
 [Container 10]
 10-0:[END]
-10-0E:
+10-0E:[END]
 10-1:@It's locked tightly.[END]
-10-1E:
+10-1E:@Está firmemente cerrada.[END]
 // Repeats: 10-1, 222-1, 506-1
 10-2:@Mister [FLINT 23 01 00]...[WAIT]@This was such a *huff*[PAUSE 20 00] terrible tragedy...[WAIT]@Words fail me...[END]
-10-2E:
+10-2E:@Señor [FLINT 23 01 00]...[WAIT]@Ha sido una *uf*[PAUSE 20 00] terrible tragedia...[WAIT]@No tengo palabras...[END]
 // Repeats: 10-2, 222-2, 506-2
 10-3:@I've humbly prepared *huff*[PAUSE 20 00] a grave of the[BREAK]  finest quality for you.[END]
-10-3E:
+10-3E:@He preparado una *uf*[PAUSE 20 00] tumba[BREAK]  de la mejor calidad.[END]
 // Repeats: 10-3, 222-3, 506-3
 10-4:@Your wife's resting in it right now,[WAIT]  but when the time comes, you'll be able to[BREAK]  rest right beside her.[WAIT]@It's a top-notch grave, it is.[END]
-10-4E:
+10-4E:@Su esposa yace en su interior,[WAIT]  pero hay un espacio reservado[BREAK]  para usted, también.[WAIT]@Es una tumba de primera.[END]
 // Repeats: 10-4, 222-4, 506-4
 10-5:@It's a top-notch grave, it is.[END]
-10-5E:
+10-5E:@Es una tumba de primera.[END]
 // Repeats: 10-5, 222-5, 506-5
 10-6:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-10-6E:
+10-6E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 10-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-10-7E:
+10-7E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 10-8:@Oh, [FLINT 23 01 00]...[END]
-10-8E:
+10-8E:@Oh, [FLINT 23 01 00]...[END]
 // Repeats: 10-8, 222-8, 506-8
 10-9:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] was always so kind to my[BREAK]  wife.[WAIT]@...I wish I could say more for you, but I've[BREAK]  never been at such a loss for words...[END]
-10-9E:
+10-9E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] siempre fue muy amable[BREAK]  con mi mujer.[WAIT]@...Desearía poder decirte algo más, pero[BREAK]  apenas puedo articular palabra...[END]
 // Repeats: 10-9, 222-9, 506-9
 10-10:@Hello, Mr. [FLINT 23 01 00].[WAIT]@Did [CLAUS 22 05 00] go off somewhere?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-10-10E:
+10-10E:@Hola, Sr. [FLINT 23 01 00].[WAIT]@¿Se ha ido [CLAUS 22 05 00] a alguna parte?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 10-10, 222-10, 506-10
 10-11:@When is he coming back?[WAIT]@Tomorrow?[END]
-10-11E:
+10-11E:@¿Y cuándo va a volver?[WAIT]@¿Mañana?[END]
 // Repeats: 10-11, 222-11, 506-11
 10-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-10-12E:
+10-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 10-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-10-13E:
+10-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 10-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-10-14E:
+10-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no cambiará nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 10-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-10-15E:
+10-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo beber en momentos así...[END]
 // Repeats: 10-15, 222-15, 506-15
 10-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-10-16E:
+10-16E:@Disculpa al borrachuzo de mi padre,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 10-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
-10-17E:
+10-17E:@M-[PAUSE 20 00]mis más profundas...[PAUSE 20 00] condolencias...[END]
 // Repeats: 10-17, 222-17, 506-17
 10-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-10-18E:
+10-18E:@No es nada personal, pero llevo fatal[BREAK]  este tipo de situaciones.[WAIT]@Aun así... *snif*[PAUSE 20 00] *snif*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 10-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-10-19E:
+10-19E:@[CLAUS 22 05 00] fue a visitar la tumba[BREAK]  de [HINAWA 22 08 00] a primera hora.[WAIT]@Cuando lo llamé mientras se iba,[BREAK]  me dirigió una débil sonrisa...[WAIT]  ...y acto seguido salió corriendo.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 10-20:@"A grave of grave consequences."[END]
-10-20E:
+10-20E:@Una tumba que "tumba" de espaldas.[END]
 // Note that most of these graves are puns and such
 // Repeats: 10-20, 222-20, 506-20
 10-21:@"A good, quality grave."[END]
-10-21E:
+10-21E:@Una tumba de primera.[END]
 // Repeats: 10-21, 222-21, 506-21
 10-22:@"I leave the rest to you now."[END]
-10-22E:
+10-22E:@"Vivió mientras estuvo vivo."[END]
 // Repeats: 10-22, 222-22, 506-22
 10-23:@"A great-grade gray grave."[END]
-10-23E:
+10-23E:@Una tenebrosa y triste tumba.[END]
 // Repeats: 10-23, 222-23, 506-23
 10-24:@"Reserved."[END]
-10-24E:
+10-24E:@"Reservada"[END]
 // As in someone already made reservations for it
 // Repeats: 10-24, 222-24, 506-24
 10-25:@"A grand ol' grave."[END]
-10-25E:
+10-25E:@Una tumba del montón.[END]
 // Repeats: 10-25, 222-25, 506-25
 10-26:@This gravestone is unusually wobbly.[END]
-10-26E:
+10-26E:@La lápida se tambalea más de lo normal.[END]
 // Repeats: 10-26, 222-26, 506-26
 10-27:@This appears to be a new type of grave.[END]
-10-27E:
+10-27E:@Parece ser un nuevo modelo de tumba.[END]
 // Repeats: 10-27, 222-27, 506-27
 10-28:@Grave.[END]
-10-28E:
+10-28E:@Pues eso. Una tumba.[END]
 // Repeats: 10-28, 222-28, 506-28
 10-29:@"A grave grave."[END]
-10-29E:
+10-29E:@"¡RIP, RIP, hurra!"[END]
 // Repeats: 10-29, 222-29, 506-29
 10-30:@"Life is too short to act gravely."[END]
-10-30E:
+10-30E:@"La vida es corta. No te quedes tumba-do."[END]
 // Repeats: 10-30, 222-30, 506-30
 10-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
-10-31E:
+10-31E:@El proceso de restauración de esta tumba[BREAK]  está en punto "muerto".[END]
 // Repeats: 10-31, 222-31, 506-31
 10-32:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@I- I'm[PAUSE 30 00] a...[PAUSE 30 00]live...?[END]
-10-32E:
+10-32E:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@¿E-estoy[PAUSE 30 00] vi...[PAUSE 30 00]vo...?[END]
 // Repeats: 10-32, 222-32, 506-32
 10-33:@Ohh...?[PAUSE 20 00] Gggguhhh...?[WAIT]@D-didn't I...[PAUSE 20 00] die...?[PAUSE 20 00][END]
-10-33E:
+10-33E:@¿Ohh...?[PAUSE 20 00] ¿Gggguhhh...?[WAIT]@¿N-no había...[PAUSE 20 00] muerto...?[PAUSE 20 00][END]
 // Repeats: 10-33, 222-33, 506-33
 10-34:@More...[PAUSE 30 00][BREAK]  Mooooore...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@I want to live m[PAUSE 20 00]o[PAUSE 18 00]o[PAUSE 10 00]o[PAUSE 08 00]o[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 04 00]RE![END]
-10-34E:
+10-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 10-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-10-35E:
+10-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
 // I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 10-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-10-36E:
+10-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 10-37:@It's locked.[END]
 10-37E:@Cerrado.[END]
 // Repeats: 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
 10-38:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@You sure do love to walk around *huff*[PAUSE 20 00] at[BREAK]  night, you do.[END]
-10-38E:
+10-38E:@Oh, pero si es Fulanito, el hijo de Wess.[WAIT]@Sí que te gusta merodear *uf*[PAUSE 20 00] por ahí[BREAK]  de noche, sí.[END]
 // This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 10-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-10-39E:
+10-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos allí la noche.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 10-40:@Got a Happy Box![PAUSE A0 00][END]
-10-40E:
+10-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
 // Repeats: 10-40, 222-40, 506-40
 10-41:@You can't carry any more heavy boxes.[END]
-10-41E:
+10-41E:@No puedes cargar con más cajas.[END]
 // Repeats: 10-41, 222-41, 506-41
 10-42:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, you're a monkey, but you have a map.[WAIT]@For some reason, I'm just itching to mark it.[WAIT]@Let me see that for a second.[END]
-10-42E:
+10-42E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@Oh, eres un mono, pero tienes un mapa.[WAIT]@Por alguna razón, me muero por marcarlo.[WAIT]@Déjamelo un segundo.[END]
 // Repeats: 10-42, 222-42, 506-42
 10-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-43E:
+10-43E:@He marcado la localización de las casas[BREAK]  de Abbot, Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mucho mejor![END]
 // Repeats: 10-43, 222-43, 506-43
 10-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-10-44E:
+10-44E:@He marcado la localización de las casas[BREAK]  de Abbot y Biff... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-44, 222-44, 506-44
 10-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-10-45E:
+10-45E:@He marcado la localización de las casas[BREAK]  de Abbot e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-45, 222-45, 506-45
 10-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-10-46E:
+10-46E:@He marcado la localización de la casa[BREAK]  de Abbot... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-46, 222-46, 506-46
 10-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-10-47E:
+10-47E:@He marcado la localización de las casas[BREAK]  de Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-47, 222-47, 506-47
 10-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-48E:
+10-48E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-48, 222-48, 506-48
 10-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-10-49E:
+10-49E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-49, 222-49, 506-49
 10-50:@Your map's been marked![END]
 10-50E:@¡Tu mapa ha sido marcado![END]
 // Repeats: 3-10, 10-50, 32-50, 222-50, 506-50
 10-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-10-51E:
+10-51E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@También hablo de cosas menos "mápiles".[WAIT]@Estás repartiendo felicidad entre la gente[BREAK]  pero no pareces feliz en absoluto.[END]
 // Repeats: 10-51, 222-51, 506-51
 10-52:@The tombstone doesn't budge.[END]
-10-52E:
+10-52E:@La lápida no se mueve.[END]
 // Repeats: 10-52, 222-52, 506-52
 10-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-10-53E:
+10-53E:@Sólo los verdaderos expertos saben[BREAK]  apreciar la calidad de esta pala.[END]
 // Repeats: 10-53, 222-53, 506-53
 10-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
-10-54E:
+10-54E:@Un carretillo.[WAIT]  O carretilla, si lo prefieres...[END]
 // Repeats: 10-54, 222-54, 506-54
 10-55:[END]
-10-55E:
+10-55E:[END]
 
 [Container 11]
 11-0:@It's a sketch of the area.[END]
@@ -1460,116 +1460,118 @@
 
 [Container 12]
 12-0:@[FLINT 23 01 00]! [FLINT 23 01 00]![BREAK]  [FLINT 26 01 00 03 00]!!!![WAIT]@It's a fire! A fire, a fire![WAIT]@The Sunshine Forest is on fire in a huge, fiery,[BREAK]  flamey fire!![END]
-12-0E:
+12-0E:@¡[FLINT 23 01 00]! ¡[FLINT 23 01 00]![BREAK]  ¡¡¡¡[FLINT 26 01 00 03 00]!!!![WAIT]@¡Fuego! ¡Fuego, fuego![WAIT]@¡El bosque Amanecer está en llamas![BREAK]  ¡¡¡Unas llamas muy fogosas!![END]
 // Repeats: 2-0, 12-0
 12-1:@You gotta do something, quick![BREAK]  [FLINT 26 01 00 01 00]!![WAIT]@It's the forest! The forest, the forest![BREAK]  The forest is on fire!!![END]
-12-1E:
+12-1E:@¡¡Hay que hacer algo, pero ya![BREAK]  ¡¡[FLINT 26 01 00 01 00]!![WAIT]@¡Se trata del bosque! ¡El bosque, el bosque![BREAK]  ¡¡¡El bosque está en llamas!!![END]
 // Repeats: 2-1, 12-1
 12-2:@Geez![WAIT]@Who would lock their door in a village as[BREAK]  peaceful as ours?![WAIT]@[FLINT 26 01 00 03 00]![END]
-12-2E:
+12-2E:@¡Mecachis en la mar![WAIT]@¡¿A quién se le ocurre cerrar con llave[BREAK]  en un pueblo tan pacífico como este?![WAIT]@¡[FLINT 26 01 00 03 00]![END]
 // Repeats: 2-2, 12-2
 12-3:@Ahh![WAIT]@The doorknob...[END]
-12-3E:
+12-3E:@¡Aah![WAIT]@El picaporte...[END]
 // Repeats: 2-3, 12-3
 12-4:@Why'd you hafta come off at a time like this?![END]
-12-4E:
+12-4E:@¡¿Por qué tenías que soltarte AHORA?![END]
 // Repeats: 2-4, 12-4
 12-5:@Aahh, Doorknob![PAUSE 30 00][BREAK]  I mean, [FLINT 23 01 00]![WAIT]  This is no time to be dozing off![WAIT]@There's a huge fire in the Sunshine Forest![END]
-12-5E:
+12-5E:@¡Aaah, Picaporte![PAUSE 30 00][BREAK]  ¡Quiero decir, [FLINT 23 01 00]![WAIT]  ¡No hay tiempo que perder![WAIT]@¡El bosque Amanecer está en llamas![END]
 // Repeats: 2-5, 12-5
 12-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-12-6E:
+12-6E:@En situaciones como estas necesitamos[BREAK]  a gente buena y temeraria como tú![WAIT]@¡¡¡Ven conmigo, [FLINT 26 01 00 03 00]!!![WAIT]  ¡Por favor![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 12-7:[END]
-12-7E:
+12-7E:[END]
 12-8:@Then I'll just have to drag you there myself![END]
-12-8E:
+12-8E:@¡Entonces tendré que llevarte a rastras![END]
 // Repeats: 2-8, 12-8
 12-9:@Thomas joined your party![PAUSE A0 00][END]
-12-9E:
+12-9E:@¡Thomas se unió al grupo![PAUSE A0 00][END]
 // Repeats: 2-9, 12-9
 12-10:@I'll follow behind you.[WAIT]@What? What's so wrong with that?[WAIT]  I happen to like following behind people![END]
-12-10E:
+12-10E:@Estaré detrás de ti todo el rato.[WAIT]@¿Qué? ¿Qué tiene eso de malo??[WAIT]  ¡Me encanta ir detrás de la gente![END]
 // Repeats: 2-10, 12-10
 12-11:@Aahh! [FLINT 23 01 00]![EVENT][END]
-12-11E:
+12-11E:@¡Aaah! ¡[FLINT 23 01 00]![EVENT][END]
 // Repeats: 2-11, 12-11
 12-12:@The whole sky north of here is pitch black with[BREAK]  smoke.[END]
-12-12E:
+12-12E:@Todo el cielo al norte de aquí está[BREAK]  ennegrecido por el humo.[END]
 // Repeats: 2-12, 12-12
 12-13:@The door is missing its doorknob, but you[BREAK]  opened it anyway.[END]
-12-13E:
+12-13E:@La puerta carece de picaporte,[BREAK]  pero la abriste de todos modos.[END]
 // Repeats: 2-13, 12-13
 12-14:@He's hiding something inside his doghouse.[END]
-12-14E:
+12-14E:@Ha escondido algo en su caseta.[END]
 // Repeats: 2-14, 12-14
 12-15:[END]
-12-15E:
+12-15E:[END]
 12-16:[END]
-12-16E:
+12-16E:[END]
 12-17:@The sheep are milling about restlessly.[END]
-12-17E:
+12-17E:@Las ovejas dan vueltas sin parar.[END]
 // Repeats: 2-17, 12-17
 12-18:@Hey! [FLINT 23 01 00]![END]
-12-18E:
+12-18E:@¡Ey! ¡[FLINT 23 01 00]![END]
 // Repeats: 2-18, 12-18
 12-19:@That stick should make a good weapon in case[BREAK]  anything happens.[WAIT]@Be sure to equip it first, though.[WAIT]@Just holding on to it'll make it as useful as a[BREAK]  caramel.[END]
-12-19E:
+12-19E:@Ese palo podría servirte de arma[BREAK]  si la cosa se pone fea.[WAIT]@Eso sí, asegúrate de equiparlo.[WAIT]@Si no, te será tan útil como[BREAK]  una cerilla mojada.[END]
 // Repeats: 2-19, 12-19
 12-20:@It's a letter from [HINAWA 22 08 00].[END]
-12-20E:
+12-20E:@Una carta de [HINAWA 22 08 00].[END]
 // Repeats: 2-20, 12-20
 12-21:[END]
-12-21E:
+12-21E:[END]
 12-22:[END]
-12-22E:
+12-22E:[END]
 12-23:[SOUND 03 00]@Woof! Woof![WAIT]  (Please take me with you. I'm sure I'll be[BREAK]  helpful.)[END]
-12-23E:
+12-23E:[SOUND 03 00]@¡Guau! ¡Guau![WAIT]  (Por favor, llévame contigo.[BREAK]  Seguro que te seré útil.)[END]
 // Repeats: 2-23, 12-23
 12-24:[SOUND 03 00]@Woo-woof![BREAK]  (Woo-woof!)[END]
-12-24E:
+12-24E:[SOUND 03 00]@¡Guaahuu![BREAK]  (¡Guauhuu!)[END]
+// Trying to add in the sense of "Woo-hoo!"
 // Repeats: 2-24, 12-24
 12-25:[SOUND 03 00]@*whimper*[BREAK]  (I'm a member of the family too, you know...)[END]
-12-25E:
+12-25E:[SOUND 03 00]@*quejido*[BREAK]  (Yo también soy parte de la familia...)[END]
 // Repeats: 2-25, 12-25
 12-26:@Take [BONEY 22 09 00] with you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-12-26E:
+12-26E:@¿Te llevas a [BONEY 22 09 00] contigo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 2-26, 12-26
 12-27:@[BONEY 23 05 00] joined your party.[PAUSE 68 01][END]
-12-27E:
+12-27E:@[BONEY 23 05 00] se unió al grupo.[PAUSE 68 01][END]
 // Repeats: 2-27, 12-27
 12-28:[SOUND 03 00]@*whine*[WAIT]  (It's really noisy out. You're supposed to be[BREAK]  quiet at night.[WAIT]  I'm a good dog, so I'm being quiet.)[END]
-12-28E:
+12-28E:[SOUND 03 00]@*gemido*[WAIT]  (¡Qué alboroto! De noche hay que[BREAK]  saber estar en silencio.[WAIT]  Es lo que distingue a un buen perro.)[END]
 // Repeats: 2-28, 12-28
 12-29:[SOUND 03 00]@Woof![BREAK]  (Oh, welcome home, Dad!)[END]
-12-29E:
+12-29E:[SOUND 03 00]@¡Guau![BREAK]  (¡Oh, bienvenido a casa, papá!)[END]
+// A dog calling his owner "Dad" is weird. But I don't like "master", doesn't seem like the dog's part of the family that way.
 // Repeats: 2-29, 12-29
 12-30:@The contents of these boxes belong to[BREAK]  everyone.[WAIT]@Use them however you wish.[END]
-12-30E:
+12-30E:@El contenido de estas cajas nos[BREAK]  pertenece a todos por igual.[WAIT]@Úsalo como te plazca.[END]
 // Repeats: 2-30, 12-30
 12-31:@A box?[WAIT]@Sorry, little monkey. Could you come back[BREAK]  some other time?[END]
-12-31E:
+12-31E:@¿Una caja?[WAIT]@Lo siento monito, ¿podrías volver[BREAK]  en otro momento?[END]
 // Repeats: 2-31, 12-31, 210-8
 12-32:@...Dad.[WAIT]@*sob*[END]
-12-32E:
+12-32E:@...Papá.[WAIT]@*snif*[END]
 // Repeats: 2-32, 12-32
 12-33:@A clothesline.[END]
-12-33E:
+12-33E:@Un tendedero.[END]
 // Repeats: 2-33, 12-33
 12-34:@The mailbox is empty.[END]
-12-34E:
+12-34E:@El buzón está vacío.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 12-35:@The sheep look cold.[END]
-12-35E:
+12-35E:@Las ovejas parecen tener frío.[END]
 // Repeats: 2-35, 12-35
 12-36:@The sheep look sleepy.[END]
-12-36E:
+12-36E:@Las ovejas parecen tener sueño.[END]
 // Repeats: 2-36, 12-36
 12-37:@The sheep are lively.[END]
-12-37E:
+12-37E:@Las ovejas parecen estar de lo más activas.[END]
 // Repeats: 2-37, 12-37
 12-38:@Tazmily gerberas are [HINAWA 22 08 00]'s[BREAK]  favorite flowers, after sunflowers.[END]
-12-38E:
+12-38E:@Las gerberas de Tazmily son las flores[BREAK]  favoritas de [HINAWA 22 08 00], tras los girasoles.[END]
 // Repeats: 2-38, 12-38, 210-13
 12-39:@The flames started coming our way, so we[BREAK]  ran here with all our might...[WAIT]@But ol' Lighter and li'l Fuel are still stuck in the[BREAK]  forest...[END]
 12-39E:
@@ -2186,7 +2188,7 @@
 19-3E:
 // Repeats: 19-3, 21-3
 19-4:@...[END]
-19-4E:
+19-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 19-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
 19-5E:
@@ -2225,7 +2227,7 @@
 19-16E:
 // Repeats: 19-16, 21-16
 19-17:@...[END]
-19-17E:
+19-17E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 19-18:@...[WAIT]@...Darn it...[PAUSE 20 00][BREAK]  ...Darn it...[END]
 19-18E:
@@ -2330,7 +2332,7 @@
 21-3E:
 // Repeats: 19-3, 21-3
 21-4:@...[END]
-21-4E:
+21-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 21-5:@I made some [ITEM 64 00], [FLINT 23 01 00].[WAIT]@Please have some. It'll warm you up.[END]
 21-5E:
@@ -2369,7 +2371,7 @@
 21-16E:
 // Repeats: 19-16, 21-16
 21-17:@...[END]
-21-17E:
+21-17E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 21-18:@...[WAIT]@...Darn it...[PAUSE 20 00][BREAK]  ...Darn it...[END]
 21-18E:
@@ -2784,7 +2786,7 @@
 31-2:@[LUCAS 22 03 00] and [CLAUS 22 05 00]'s clothes[BREAK]  are being hung out to dry.[END]
 31-2E:
 31-3:@The mailbox is empty.[END]
-31-3E:
+31-3E:@El buzón está vacío.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 31-4:@[END]
 31-4E:
@@ -3022,7 +3024,7 @@
 
 [Container 33]
 33-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
-33-0E:
+33-0E:@Hay algo tallado en el árbol.[WAIT]@Lo leíste, pero no tenía mayor relevancia.[END]
 // Repeats: 4-0, 33-0, 219-0
 33-1:@Special Nursing Home for Senior Citizens[BREAK]  "Old Man's Paradise"[END]
 33-1E:
@@ -3537,71 +3539,71 @@
 
 [Container 37]
 37-0:@[FLINT 23 01 00]![WAIT]@The Sunshine Forest, which is to the west of[BREAK]  Cross Road and past the Prayer Sanctuary,[WAIT]  is apparently on fire like crazy![WAIT]@Oh, sorry that sounded so explanation-like![END]
-37-0E:
+37-0E:@[FLINT 23 01 00]![WAIT]@¡El bosque Amanecer, el cual está al oeste[BREAK]  de la Encrucijada, pasado el santuario,[WAIT]  está ardiendo por completo![WAIT]@¡Oh, perdona, me he pasado de preciso![END]
 // Repeats: 9-0, 37-0
 37-1:@Mr. [FLINT 23 01 00]![WAIT]@If you lose your way, be sure to check sign[BREAK]  posts and message boards.[WAIT]@I'm telling you this out of the kindness of my[BREAK]  heart, just so you know![END]
-37-1E:
+37-1E:@¡Sr. [FLINT 23 01 00]![WAIT]@Si se pierde, asegúrese de echar un ojo[BREAK]  a los carteles del camino.[WAIT]@¡Le digo esto con toda la amabilidad[BREAK]  de mi corazón, que lo sepa![END]
 // Repeats: 9-1, 37-1
 37-2:@Even if I did go on ahead, I just know I'd be no[BREAK]  help at all.[WAIT]@What should I do...?[END]
-37-2E:
+37-2E:@Aunque me adelantase hasta allí,[BREAK]  no serviría de nada.[WAIT]@¿Qué debería hacer...?[END]
 // Repeats: 9-2, 37-2
 37-3:@[FLINT 26 01 00 03 00]! The fire isn't that way![WAIT]@This is no time to get sidetracked![END]
-37-3E:
+37-3E:@¡[FLINT 26 01 00 03 00]! ¡El fuego no está por ahí![WAIT]@¡No hay tiempo para desvíos![END]
 // Repeats: 3-0, 9-3, 37-3
 37-4:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
-37-4E:
+37-4E:@Sur: Pueblo Tazmily[BREAK]@Oeste: Bosque Amanecer[WAIT]@Norte: Cementerio Atardecer[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
 37-5:@Sunset Cemetery[BREAK]  "Graves have never looked so scenic"[WAIT]@NO ZOMBIES ALLOWED[END]
-37-5E:
+37-5E:@Cementerio Atardecer[BREAK]  "Hogar de las tumbas más pintorescas"[WAIT]@NO SE PERMITEN ZOMBIS[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 37-6:@The entrance is sealed.[END]
-37-6E:
+37-6E:@La entrada está bloqueada.[END]
 // Repeats: 9-6, 37-6
 37-7:@[FLINT 23 01 00].[WAIT]  You really lost it during that wild outburst of[BREAK]  yours.[WAIT]@I know you had your reasons, but it's wrong to[BREAK]  act out your aggressions on others.[END]
-37-7E:
+37-7E:@[FLINT 23 01 00].[WAIT]  Perdiste la cabeza por completo,[BREAK]  durante aquel arrebato tuyo.[WAIT]@Sé que tenías tus razones para ello,[BREAK]  pero no está bien agredir al prójimo.[END]
 // Repeats: 9-7, 37-7
 37-8:@If you're looking for the villagers, almost[BREAK]  everyone is at the Sunset Cemetery.[WAIT]@Everyone loved [HINAWA 22 08 00]...[END]
-37-8E:
+37-8E:@Si estás buscando a los demás vecinos,[BREAK]  casi todos están en el cementerio Atardecer.[WAIT]@Todos querían a [HINAWA 22 08 00]...[END]
 // Repeats: 9-8, 37-8
 37-9:@We can forget happy things.[WAIT]@We can probably forget sad things, too.[WAIT]@People have the power to forget.[END]
-37-9E:
+37-9E:@Podemos olvidar las cosas felices.[WAIT]@Quizás podamos olvidar también las tristes.[WAIT]@La gente tiene la facultad de olvidar.[END]
 // Repeats: 9-9, 37-9
 37-10:@Hey, Leder![PAUSE 1E 00] Can you see the fire from there?![WAIT]@Hey, I said![WAIT]@...I see he's as non-talkative as ever...[END]
-37-10E:
+37-10E:@¡Ey, Leder![PAUSE 1E 00] ¡¿Ves el fuego desde ahí?![WAIT]@¡Ey, que te estoy hablando![WAIT]@...Psé, tan "hablador" como siempre...[END]
 // Repeats: 9-10, 37-10
 37-11:@Come to think of it, I don't think I've ever[BREAK]  heard Leder speak before.[END]
-37-11E:
+37-11E:@Ahora que lo pienso, no recuerdo haberle[BREAK]  escuchado hablar jamás.[END]
 // Repeats: 9-11, 37-11
 37-12:@Leder.[WAIT]@You always have such a sad look on your face.[END]
-37-12E:
+37-12E:@Leder.[WAIT]@Siempre con esa mirada tan triste...[END]
 // Repeats: 9-12, 37-12
 37-13:@This tall man never leaves this spot.[WAIT]@And I've never seen him talk with anyone,[BREAK]  either...[END]
-37-13E:
+37-13E:@Este tipo nunca se mueve de aquí.[WAIT]@Tampoco recuerdo haberle visto[BREAK]  hablar con nadie...[END]
 // Repeats: 9-13, 37-13
 37-14:@What a huge person.[WAIT]@Hellooooo, up there![WAIT]@Oh! He smiled![END]
-37-14E:
+37-14E:@¡Qué tío tan enorme.[WAIT]@¡Holaaa, aquí abajo![WAIT]@¡Oh! ¡Ha sonreído![END]
 // Repeats: 9-14, 37-14
 37-15:@This is Cross Road's bell tower.[END]
-37-15E:
+37-15E:@Esta es la torre de la campana.[END]
 // Repeats: 9-15, 37-15, 37-27
 37-16:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  For this little bit, I'm going to use game lingo[BREAK]  rather than comparisons.[WAIT]  You can bring up the menu by pressing [COLOR 03 00]Start[COLOR 00 00]![WAIT]  Starting from the left, the menu selections[BREAK]  are Goods, Equip, Status, and Sleep.[WAIT]  At present, you can use the control pad to[BREAK]  select one of those four.[WAIT]  By choosing a menu option and pressing[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you can find out all sorts of things you might[BREAK]  want to know![WAIT]  Lastly, about the rightmost "Sleep" menu[BREAK]  option.[WAIT]  If you choose this Sleep option and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button, you can pause the game![WAIT]  The batteries won't drain very much while the[BREAK]  game is in Sleep Mode, so don't worry.[WAIT]  When you want to start the game again,[WAIT]  just press [COLOR 03 00]Select[COLOR 00 00] and the [COLOR 03 00]L[COLOR 00 00] and [COLOR 03 00]R[COLOR 00 00] Buttons all[BREAK]  at the same time![WAIT]  Well, what do you think?[WAIT]  Shall I explain that again for you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-37-16E:
+37-16E:[SOUND 03 00]@Pío, pío.[WAIT]  (¡Consejo de gorrión![WAIT]  Creo que recurriré a vocabulario jueguil[BREAK]  en lugar de a comparaciones.[WAIT]  ¡Puedes acceder al menú pulsando [COLOR 03 00]Start[COLOR 00 00]![WAIT]  De izquierda a derecha los submenús son:[BREAK]  Objetos, Equipo, Estado y Suspender.[WAIT]  Puedes seleccionar uno de esos cuatro[BREAK]  con la cruceta.[WAIT]  Si escoges uno de esos submenús[BREAK]  y pulsas el botón [COLOR 03 00]A[COLOR 00 00],[WAIT]  ¡podrás encontrar respuesta a las dudas[BREAK]  que te surjan![WAIT]  Por último, en lo que respecta a la opción[BREAK]  "Suspender"...[WAIT]  Si escoges esta opción y pulsas el[BREAK]  botón [COLOR 03 00]A[COLOR 00 00], ¡podrás pausar el juego![WAIT]  Apenas se consumirá la batería mientras[BREAK]  el juego esté en suspensión.[WAIT]  Cuando quieras reanudar la partida,[WAIT]  ¡tan sólo pulsa [COLOR 03 00]Select[COLOR 00 00], [COLOR 03 00]L[COLOR 00 00] y [COLOR 03 00]R[COLOR 00 00][BREAK]  al mismo tiempo![WAIT]  Bueno, ¿qué opinas?[WAIT]  ¿Tengo que explicártelo otra vez?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 9-16, 37-16
 37-17:[SOUND 03 00]@Chirp-chirp.[WAIT]  (A sparrow fluent in game lingo is pretty[BREAK]  rarrow, wouldn't you say?[WAIT]  I mean, rare.[WAIT]  Well, this time I'll be sparrow-like for sure[BREAK]  and...[EVENT][END]
-37-17E:
+37-17E:[SOUND 03 00]@Pío-pío.[WAIT]  (Un gorrión que domine toda esta jerga[BREAK]  res de lo más pajarraro, ¿no lo crees?[WAIT]  Quiero decir, raro.[WAIT]  Bueno, esta vez actuaré como[BREAK]  el gorrión que soy y...[EVENT][END]
 // Repeats: 9-17, 37-17
 37-18:[SOUND 03 00]  ...chirp chirp chirp chirp!)[END]
-37-18E:
+37-18E:[SOUND 03 00]  ...pío, pío, pío, pío!)[END]
 // Repeats: 9-18, 37-18
 37-19:@Huh...?[WAIT]@What's that odd sound?[END]
 37-19E:
 37-20:@The entrance has been destroyed![END]
 37-20E:
 37-21:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
-37-21E:
+37-21E:@Sur: Pueblo Tazmily[BREAK]@Oeste: Bosque Amanecer[WAIT]@Norte: Cementerio Atardecer[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
 37-22:@Sunset Cemetery[BREAK]  "Graves have never looked so scenic"[WAIT]@NO ZOMBIES ALLOWED[END]
-37-22E:
+37-22E:@Cementerio Atardecer[BREAK]  "Hogar de las tumbas más pintorescas"[WAIT]@NO SE PERMITEN ZOMBIS[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 37-23:@Let's escape into the forest![END]
 37-23E:
@@ -3731,10 +3733,10 @@
 38-47E:
 // Repeats: 38-47, 47-13
 38-48:@South: Tazmily Village[BREAK]@West: Sunshine Forest[WAIT]@North: Sunset Cemetery[END]
-38-48E:
+38-48E:@Sur: Pueblo Tazmily[BREAK]@Oeste: Bosque Amanecer[WAIT]@Norte: Cementerio Atardecer[END]
 // Repeats: 9-4, 37-4, 37-21, 38-48
 38-49:@Sunset Cemetery[BREAK]  "Graves have never looked so scenic"[WAIT]@NO ZOMBIES ALLOWED[END]
-38-49E:
+38-49E:@Cementerio Atardecer[BREAK]  "Hogar de las tumbas más pintorescas"[WAIT]@NO SE PERMITEN ZOMBIS[END]
 // Repeats: 9-5, 37-5, 37-22, 38-49
 38-50:@This is the train schedule.[END]
 38-50E:
@@ -4261,7 +4263,7 @@
 47-45:@You're teasin' me, aren't you?[WAIT]@You're not mockin' me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just turn back now. [PAUSE 5A 00]Please?[END]
 47-45E:
 47-46:@...[END]
-47-46E:
+47-46E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 47-47:@...[WAIT]@...[WAIT]@I dunno if you care or not, but I'll tell you[BREAK]  anyways.[WAIT]@My big bro lives on the other side of this[BREAK]  tunnel.[WAIT]@People say he looks just like me.[WAIT]@...No idea what he's up to lately, though.[END]
 47-47E:
@@ -4575,7 +4577,7 @@
 53-4E:
 // Repeats: 53-4, 54-4
 53-5:@...[END]
-53-5E:
+53-5E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 53-6:@What is it?[WAIT]@Is there something special about this door?[END]
 53-6E:
@@ -4607,7 +4609,7 @@
 54-4E:
 // Repeats: 53-4, 54-4
 54-5:@...[END]
-54-5E:
+54-5E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 54-6:@What is it?[WAIT]@Is there something special about this door?[END]
 54-6E:
@@ -5375,16 +5377,16 @@
 81-24:@Oh, dear me.[WAIT]@Whatever's the matter, my little[BREAK]  [SALSA 23 06 00]?[WAIT]@Are you exhausted already?[END]
 81-24E:
 81-25:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-81-25E:
+81-25E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 81-26:@This hasn't been used, for whatever reason.[END]
-81-26E:
+81-26E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 81-27:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-81-27E:
+81-27E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 81-28:@"Jackie's Yado Inn"[BREAK]  We won't over-pamper you here.[END]
-81-28E:
+81-28E:@"La posada Yado de Jackie"[BREAK]  No te mimaremos en exceso.[END]
 // Repeats: 3-19, 81-28, 211-12
 81-29:@Everyone![WAIT]@If even just one more of us can achieve[BREAK]  happiness, all will be right in the world![END]
 81-29E:
@@ -5452,7 +5454,7 @@
 81-60:@Heh heh heh...[WAIT]@There's no escape from me.[PAUSE 20 00][BREAK]  Nwehe-nwehehehehe![END]
 81-60E:
 81-61:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-81-61E:
+81-61E:@[HINAWA 22 08 00] les entregaba estas gerberas[BREAK]  a los vecinos como regalo.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 82]
@@ -5746,7 +5748,7 @@
 91-2:@We cleared those big trees out of the way,[BREAK]  so everyone has gone up ahead.[WAIT]@We couldn't have done it without Lighter and[BREAK]  Isaac's help.[END]
 91-2E:
 91-3:@[FLINT 23 01 00]![END]
-91-3E:
+91-3E:@¡[FLINT 23 01 00]![END]
 // Repeats: 3-23, 91-3
 91-4:@We found the kids![WAIT]@It seems they fell into the river and washed up[BREAK]  here.[WAIT]@Hurry and see 'em.[END]
 91-4E:
@@ -5788,7 +5790,7 @@
 
 [Container 92]
 92-0:@...[END]
-92-0E:
+92-0E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 92-1:@.[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00][END]
 92-1E:
@@ -6195,10 +6197,10 @@
 105-10:@Gave the Happy Box to Isaac![END]
 105-10E:
 105-11:@Only [80 FF F0 FF] more to go![END]
-105-11E:
+105-11E:@¡Sólo [80 FF F0 FF] más![END]
 // Repeats: 5-37, 105-11, 128-11
 105-12:@You finished delivering Happy Boxes to[BREAK]  everyone who wanted one![END]
-105-12E:
+105-12E:@¡Terminaste de distribuir las Cajas felices[BREAK]  a todos los interesados![END]
 // Repeats: 5-38, 105-12, 128-12
 105-13:@A Happy Box.[WAIT]@You're not really sure what to make of it.[END]
 105-13E:
@@ -6951,10 +6953,10 @@
 128-10:@Gave the Happy Box to Abbot![END]
 128-10E:
 128-11:@Only [80 FF F0 FF] more to go![END]
-128-11E:
+128-11E:@¡Sólo [80 FF F0 FF] más![END]
 // Repeats: 5-37, 105-11, 128-11
 128-12:@You finished delivering Happy Boxes to[BREAK]  everyone who wanted one![END]
-128-12E:
+128-12E:@¡Terminaste de distribuir las Cajas felices[BREAK]  a todos los interesados![END]
 // Repeats: 5-38, 105-12, 128-12
 128-13:@Dunno why, but the fact you can be happy as[BREAK]  long as you have this makes me happy![WAIT]@Hahahahahaha![END]
 128-13E:
@@ -8900,7 +8902,7 @@
 194-15:@Say, come to think of it...[WAIT]@Where's [CLAUS 22 05 00]? Is he not with you?[WAIT]@He said he was going to see you, but then[BREAK]  never came back...[END]
 194-15E:
 194-16:@...[END]
-194-16E:
+194-16E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 194-17:@[LUCAS 23 02 00].[WAIT]@Do you know where [CLAUS 22 05 00] went?[END]
 194-17E:
@@ -9497,7 +9499,7 @@
 210-2E:
 // Repeats: 210-1, 210-2
 210-3:@The mailbox is empty.[END]
-210-3E:
+210-3E:@El buzón está vacío.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 210-4:@Monkey.[END]
 210-4E:
@@ -9511,7 +9513,7 @@
 210-7:@One sheep...[WAIT]  Two sheep...[WAIT]  Three...[END]
 210-7E:
 210-8:@A box?[WAIT]@Sorry, little monkey. Could you come back[BREAK]  some other time?[END]
-210-8E:
+210-8E:@¿Una caja?[WAIT]@Lo siento monito, ¿podrías volver[BREAK]  en otro momento?[END]
 // Repeats: 2-31, 12-31, 210-8
 210-9:@Oh... [DUSTER 23 03 00].[WAIT]@I tried, but I just can't get to sleep...[END]
 210-9E:
@@ -9523,7 +9525,7 @@
 210-12:@*whimper*...[BREAK]  (You have such a sad look, Mr. Monkey...)[END]
 210-12E:
 210-13:@Tazmily gerberas are [HINAWA 22 08 00]'s[BREAK]  favorite flowers, after sunflowers.[END]
-210-13E:
+210-13E:@Las gerberas de Tazmily son las flores[BREAK]  favoritas de [HINAWA 22 08 00], tras los girasoles.[END]
 // Repeats: 2-38, 12-38, 210-13
 
 [Container 211]
@@ -9553,16 +9555,16 @@
 211-11:  ...But you put it back.[END]
 211-11E:
 211-12:@"Jackie's Yado Inn"[BREAK]  We won't over-pamper you here.[END]
-211-12E:
+211-12E:@"La posada Yado de Jackie"[BREAK]  No te mimaremos en exceso.[END]
 // Repeats: 3-19, 81-28, 211-12
 211-13:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-211-13E:
+211-13E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 211-14:@This hasn't been used, for whatever reason.[END]
-211-14E:
+211-14E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 211-15:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-211-15E:
+211-15E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 211-16:@Oh, [DUSTER 22 0F 00].[WAIT]@I haven't seen you in so long.[END]
 211-16E:
@@ -9713,14 +9715,14 @@
 211-89:@We must all seek happiness...[WAIT]  ...or this village will be in grave danger![END]
 211-89E:
 211-90:@...[END]
-211-90E:
+211-90E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 211-91:@Oh? What's this?[WAIT]@Are you fond of the nice lady there?[END]
 211-91E:
 211-92:@Come, now.[WAIT]@I'll give you lots and lots of Luxury Bananas[BREAK]  later, so let us return to the Yado Inn.[WAIT]@Okay, little [SALSA 23 06 00]?[END]
 211-92E:
 211-93:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
-211-93E:
+211-93E:@[HINAWA 22 08 00] les entregaba estas gerberas[BREAK]  a los vecinos como regalo.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 212]
@@ -9961,7 +9963,7 @@
 
 [Container 219]
 219-0:@There's writing carved into the tree.[WAIT]@You read it, but it wasn't anything significant.[END]
-219-0E:
+219-0E:@Hay algo tallado en el árbol.[WAIT]@Lo leíste, pero no tenía mayor relevancia.[END]
 // Repeats: 4-0, 33-0, 219-0
 219-1:@Special Nursing Home for Senior Citizens[BREAK]  "Old Man's Paradise"[END]
 219-1E:
@@ -10125,168 +10127,172 @@
 
 [Container 222]
 222-0:[END]
-222-0E:
+222-0E:[END]
 222-1:@It's locked tightly.[END]
-222-1E:
+222-1E:@Está firmemente cerrada.[END]
 // Repeats: 10-1, 222-1, 506-1
 222-2:@Mister [FLINT 23 01 00]...[WAIT]@This was such a *huff*[PAUSE 20 00] terrible tragedy...[WAIT]@Words fail me...[END]
-222-2E:
+222-2E:@Señor [FLINT 23 01 00]...[WAIT]@Ha sido una *uf*[PAUSE 20 00] terrible tragedia...[WAIT]@No tengo palabras...[END]
 // Repeats: 10-2, 222-2, 506-2
 222-3:@I've humbly prepared *huff*[PAUSE 20 00] a grave of the[BREAK]  finest quality for you.[END]
-222-3E:
+222-3E:@He preparado una *uf*[PAUSE 20 00] tumba[BREAK]  de la mejor calidad.[END]
 // Repeats: 10-3, 222-3, 506-3
 222-4:@Your wife's resting in it right now,[WAIT]  but when the time comes, you'll be able to[BREAK]  rest right beside her.[WAIT]@It's a top-notch grave, it is.[END]
-222-4E:
+222-4E:@Su esposa yace en su interior,[WAIT]  pero hay un espacio reservado[BREAK]  para usted, también.[WAIT]@Es una tumba de primera.[END]
 // Repeats: 10-4, 222-4, 506-4
 222-5:@It's a top-notch grave, it is.[END]
-222-5E:
+222-5E:@Es una tumba de primera.[END]
 // Repeats: 10-5, 222-5, 506-5
 222-6:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-222-6E:
+222-6E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 222-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-222-7E:
+222-7E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 222-8:@Oh, [FLINT 23 01 00]...[END]
-222-8E:
+222-8E:@Oh, [FLINT 23 01 00]...[END]
 // Repeats: 10-8, 222-8, 506-8
 222-9:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] was always so kind to my[BREAK]  wife.[WAIT]@...I wish I could say more for you, but I've[BREAK]  never been at such a loss for words...[END]
-222-9E:
+222-9E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] siempre fue muy amable[BREAK]  con mi mujer.[WAIT]@...Desearía poder decirte algo más, pero[BREAK]  apenas puedo articular palabra...[END]
 // Repeats: 10-9, 222-9, 506-9
 222-10:@Hello, Mr. [FLINT 23 01 00].[WAIT]@Did [CLAUS 22 05 00] go off somewhere?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-222-10E:
+222-10E:@Hola, Sr. [FLINT 23 01 00].[WAIT]@¿Se ha ido [CLAUS 22 05 00] a alguna parte?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 10-10, 222-10, 506-10
 222-11:@When is he coming back?[WAIT]@Tomorrow?[END]
-222-11E:
+222-11E:@¿Y cuándo va a volver?[WAIT]@¿Mañana?[END]
 // Repeats: 10-11, 222-11, 506-11
 222-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-222-12E:
+222-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 222-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-222-13E:
+222-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 222-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-222-14E:
+222-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no cambiará nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 222-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-222-15E:
+222-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo beber en momentos así...[END]
 // Repeats: 10-15, 222-15, 506-15
 222-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-222-16E:
+222-16E:@Disculpa al borrachuzo de mi padre,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 222-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
-222-17E:
+222-17E:@M-[PAUSE 20 00]mis más profundas...[PAUSE 20 00] condolencias...[END]
 // Repeats: 10-17, 222-17, 506-17
 222-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-222-18E:
+222-18E:@No es nada personal, pero llevo fatal[BREAK]  este tipo de situaciones.[WAIT]@Aun así... *snif*[PAUSE 20 00] *snif*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 222-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-222-19E:
+222-19E:@[CLAUS 22 05 00] fue a visitar la tumba[BREAK]  de [HINAWA 22 08 00] a primera hora.[WAIT]@Cuando lo llamé mientras se iba,[BREAK]  me dirigió una débil sonrisa...[WAIT]  ...y acto seguido salió corriendo.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 222-20:@"A grave of grave consequences."[END]
-222-20E:
+222-20E:@Una tumba que "tumba" de espaldas.[END]
+// Note that most of these graves are puns and such
 // Repeats: 10-20, 222-20, 506-20
 222-21:@"A good, quality grave."[END]
-222-21E:
+222-21E:@Una tumba de primera.[END]
 // Repeats: 10-21, 222-21, 506-21
 222-22:@"I leave the rest to you now."[END]
-222-22E:
+222-22E:@"Vivió mientras estuvo vivo."[END]
 // Repeats: 10-22, 222-22, 506-22
 222-23:@"A great-grade gray grave."[END]
-222-23E:
+222-23E:@Una tenebrosa y triste tumba.[END]
 // Repeats: 10-23, 222-23, 506-23
 222-24:@"Reserved."[END]
-222-24E:
+222-24E:@"Reservada"[END]
+// As in someone already made reservations for it
 // Repeats: 10-24, 222-24, 506-24
 222-25:@"A grand ol' grave."[END]
-222-25E:
+222-25E:@Una tumba del montón.[END]
 // Repeats: 10-25, 222-25, 506-25
 222-26:@This gravestone is unusually wobbly.[END]
-222-26E:
+222-26E:@La lápida se tambalea más de lo normal.[END]
 // Repeats: 10-26, 222-26, 506-26
 222-27:@This appears to be a new type of grave.[END]
-222-27E:
+222-27E:@Parece ser un nuevo modelo de tumba.[END]
 // Repeats: 10-27, 222-27, 506-27
 222-28:@Grave.[END]
-222-28E:
+222-28E:@Pues eso. Una tumba.[END]
 // Repeats: 10-28, 222-28, 506-28
 222-29:@"A grave grave."[END]
-222-29E:
+222-29E:@"¡RIP, RIP, hurra!"[END]
 // Repeats: 10-29, 222-29, 506-29
 222-30:@"Life is too short to act gravely."[END]
-222-30E:
+222-30E:@"La vida es corta. No te quedes tumba-do."[END]
 // Repeats: 10-30, 222-30, 506-30
 222-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
-222-31E:
+222-31E:@El proceso de restauración de esta tumba[BREAK]  está en punto "muerto".[END]
 // Repeats: 10-31, 222-31, 506-31
 222-32:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@I- I'm[PAUSE 30 00] a...[PAUSE 30 00]live...?[END]
-222-32E:
+222-32E:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@¿E-estoy[PAUSE 30 00] vi...[PAUSE 30 00]vo...?[END]
 // Repeats: 10-32, 222-32, 506-32
 222-33:@Ohh...?[PAUSE 20 00] Gggguhhh...?[WAIT]@D-didn't I...[PAUSE 20 00] die...?[PAUSE 20 00][END]
-222-33E:
+222-33E:@¿Ohh...?[PAUSE 20 00] ¿Gggguhhh...?[WAIT]@¿N-no había...[PAUSE 20 00] muerto...?[PAUSE 20 00][END]
 // Repeats: 10-33, 222-33, 506-33
 222-34:@More...[PAUSE 30 00][BREAK]  Mooooore...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@I want to live m[PAUSE 20 00]o[PAUSE 18 00]o[PAUSE 10 00]o[PAUSE 08 00]o[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 04 00]RE![END]
-222-34E:
+222-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 222-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-222-35E:
+222-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
+// I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 222-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-222-36E:
+222-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 222-37:@It's locked.[END]
 222-37E:@Cerrado.[END]
 // Repeats: 0-124, 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
 222-38:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@You sure do love to walk around *huff*[PAUSE 20 00] at[BREAK]  night, you do.[END]
-222-38E:
+222-38E:@Oh, pero si es Fulanito, el hijo de Wess.[WAIT]@Sí que te gusta merodear *uf*[PAUSE 20 00] por ahí[BREAK]  de noche, sí.[END]
+// This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 222-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-222-39E:
+222-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos allí la noche.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 222-40:@Got a Happy Box![PAUSE A0 00][END]
-222-40E:
+222-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
 // Repeats: 10-40, 222-40, 506-40
 222-41:@You can't carry any more heavy boxes.[END]
-222-41E:
+222-41E:@No puedes cargar con más cajas.[END]
 // Repeats: 10-41, 222-41, 506-41
 222-42:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, you're a monkey, but you have a map.[WAIT]@For some reason, I'm just itching to mark it.[WAIT]@Let me see that for a second.[END]
-222-42E:
+222-42E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@Oh, eres un mono, pero tienes un mapa.[WAIT]@Por alguna razón, me muero por marcarlo.[WAIT]@Déjamelo un segundo.[END]
 // Repeats: 10-42, 222-42, 506-42
 222-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-43E:
+222-43E:@He marcado la localización de las casas[BREAK]  de Abbot, Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mucho mejor![END]
 // Repeats: 10-43, 222-43, 506-43
 222-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-222-44E:
+222-44E:@He marcado la localización de las casas[BREAK]  de Abbot y Biff... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-44, 222-44, 506-44
 222-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-222-45E:
+222-45E:@He marcado la localización de las casas[BREAK]  de Abbot e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-45, 222-45, 506-45
 222-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-222-46E:
+222-46E:@He marcado la localización de la casa[BREAK]  de Abbot... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-46, 222-46, 506-46
 222-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-222-47E:
+222-47E:@He marcado la localización de las casas[BREAK]  de Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-47, 222-47, 506-47
 222-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-48E:
+222-48E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-48, 222-48, 506-48
 222-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-222-49E:
+222-49E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-49, 222-49, 506-49
 222-50:@Your map's been marked![END]
 222-50E:@¡Tu mapa ha sido marcado![END]
-// Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
+// Repeats: 3-10, 10-50, 32-50, 222-50, 506-50
 222-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-222-51E:
+222-51E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@También hablo de cosas menos "mápiles".[WAIT]@Estás repartiendo felicidad entre la gente[BREAK]  pero no pareces feliz en absoluto.[END]
 // Repeats: 10-51, 222-51, 506-51
 222-52:@The tombstone doesn't budge.[END]
-222-52E:
+222-52E:@La lápida no se mueve.[END]
 // Repeats: 10-52, 222-52, 506-52
 222-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-222-53E:
+222-53E:@Sólo los verdaderos expertos saben[BREAK]  apreciar la calidad de esta pala.[END]
 // Repeats: 10-53, 222-53, 506-53
 222-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
-222-54E:
+222-54E:@Un carretillo.[WAIT]  O carretilla, si lo prefieres...[END]
 // Repeats: 10-54, 222-54, 506-54
 222-55:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 222-55E:
@@ -10700,7 +10706,7 @@
 228-3:@(Nnnnnnkkkkkk...)[END]
 228-3E:
 228-4:@...[END]
-228-4E:
+228-4E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 228-5:[END]
 228-5E:
@@ -10804,7 +10810,7 @@
 233-37:@Hey, other world.[WAIT]@Be good to [PLAYERNAME]![END]
 233-37E:
 233-38:@Thanks.[END]
-233-38E:
+233-38E:@Gracias.[END]
 // Repeats: 6-9, 233-38, 340-12
 233-39:@Goodbye.[END]
 233-39E:
@@ -10829,7 +10835,7 @@
 233-48:@Thanks.[WAIT]@We sure had a lot of fun, didn't we?[END]
 233-48E:
 233-49:@...[END]
-233-49E:
+233-49E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 233-50:@[END]
 233-50E:
@@ -13254,7 +13260,7 @@
 340-11:@Oh![WAIT]@I'm not offended at all.[WAIT]@But anyways, good luck.[WAIT]  I'm behind you 100%.[END]
 340-11E:
 340-12:@Thanks.[END]
-340-12E:
+340-12E:@Gracias.[END]
 // Repeats: 6-9, 233-38, 340-12
 340-13:@Welcome.[WAIT]@Take a quick nap?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 340-13E:
@@ -16741,168 +16747,172 @@
 
 [Container 506]
 506-0:[END]
-506-0E:
+506-0E:[END]
 506-1:@It's locked tightly.[END]
-506-1E:
+506-1E:@Está firmemente cerrada.[END]
 // Repeats: 10-1, 222-1, 506-1
 506-2:@Mister [FLINT 23 01 00]...[WAIT]@This was such a *huff*[PAUSE 20 00] terrible tragedy...[WAIT]@Words fail me...[END]
-506-2E:
+506-2E:@Señor [FLINT 23 01 00]...[WAIT]@Ha sido una *uf*[PAUSE 20 00] terrible tragedia...[WAIT]@No tengo palabras...[END]
 // Repeats: 10-2, 222-2, 506-2
 506-3:@I've humbly prepared *huff*[PAUSE 20 00] a grave of the[BREAK]  finest quality for you.[END]
-506-3E:
+506-3E:@He preparado una *uf*[PAUSE 20 00] tumba[BREAK]  de la mejor calidad.[END]
 // Repeats: 10-3, 222-3, 506-3
 506-4:@Your wife's resting in it right now,[WAIT]  but when the time comes, you'll be able to[BREAK]  rest right beside her.[WAIT]@It's a top-notch grave, it is.[END]
-506-4E:
+506-4E:@Su esposa yace en su interior,[WAIT]  pero hay un espacio reservado[BREAK]  para usted, también.[WAIT]@Es una tumba de primera.[END]
 // Repeats: 10-4, 222-4, 506-4
 506-5:@It's a top-notch grave, it is.[END]
-506-5E:
+506-5E:@Es una tumba de primera.[END]
 // Repeats: 10-5, 222-5, 506-5
 506-6:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-506-6E:
+506-6E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 506-7:@[HINAWA 22 08 00] dying...[WAIT]@I just don't want to believe it![END]
-506-7E:
+506-7E:@[HINAWA 22 08 00]... muerta...[WAIT]@¡Todavía no me lo creo![END]
 // Repeats: 10-6, 10-7, 222-6, 222-7, 506-6, 506-7
 506-8:@Oh, [FLINT 23 01 00]...[END]
-506-8E:
+506-8E:@Oh, [FLINT 23 01 00]...[END]
 // Repeats: 10-8, 222-8, 506-8
 506-9:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] was always so kind to my[BREAK]  wife.[WAIT]@...I wish I could say more for you, but I've[BREAK]  never been at such a loss for words...[END]
-506-9E:
+506-9E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] siempre fue muy amable[BREAK]  con mi mujer.[WAIT]@...Desearía poder decirte algo más, pero[BREAK]  apenas puedo articular palabra...[END]
 // Repeats: 10-9, 222-9, 506-9
 506-10:@Hello, Mr. [FLINT 23 01 00].[WAIT]@Did [CLAUS 22 05 00] go off somewhere?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-506-10E:
+506-10E:@Hola, Sr. [FLINT 23 01 00].[WAIT]@¿Se ha ido [CLAUS 22 05 00] a alguna parte?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 10-10, 222-10, 506-10
 506-11:@When is he coming back?[WAIT]@Tomorrow?[END]
-506-11E:
+506-11E:@¿Y cuándo va a volver?[WAIT]@¿Mañana?[END]
 // Repeats: 10-11, 222-11, 506-11
 506-12:@But he said we wouldn't see each other for a[BREAK]  while...[WAIT]@When is "a while"?[WAIT]@Tomorrow?[END]
-506-12E:
+506-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 506-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-506-13E:
+506-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 506-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-506-14E:
+506-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no cambiará nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 506-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
-506-15E:
+506-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo beber en momentos así...[END]
 // Repeats: 10-15, 222-15, 506-15
 506-16:@Sorry for my old man's drunkenness,[BREAK]  [FLINT 23 01 00].[END]
-506-16E:
+506-16E:@Disculpa al borrachuzo de mi padre,[BREAK]  [FLINT 23 01 00].[END]
 // Repeats: 10-16, 222-16, 506-16
 506-17:@M-[PAUSE 20 00]my deepest condolences...[PAUSE 20 00] to you...[END]
-506-17E:
+506-17E:@M-[PAUSE 20 00]mis más profundas...[PAUSE 20 00] condolencias...[END]
 // Repeats: 10-17, 222-17, 506-17
 506-18:@Nothing personal, but I'm not good at dealing[BREAK]  with gloomy things like this.[WAIT]@Even so... *sniffle*[PAUSE 20 00] *sob*[PAUSE 20 00][END]
-506-18E:
+506-18E:@No es nada personal, pero llevo fatal[BREAK]  este tipo de situaciones.[WAIT]@Aun así... *snif*[PAUSE 20 00] *snif*[PAUSE 20 00][END]
 // Repeats: 10-18, 222-18, 506-18
 506-19:@It seems [CLAUS 22 05 00] was the first person[BREAK]  at [HINAWA 22 08 00]'s grave this morning.[WAIT]@When I called out to him as he was leaving, he[BREAK]  gave a tiny little smile...[WAIT]  ...and then suddenly dashed off.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-506-19E:
+506-19E:@[CLAUS 22 05 00] fue a visitar la tumba[BREAK]  de [HINAWA 22 08 00] a primera hora.[WAIT]@Cuando lo llamé mientras se iba,[BREAK]  me dirigió una débil sonrisa...[WAIT]  ...y acto seguido salió corriendo.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 // Repeats: 10-19, 222-19, 506-19
 506-20:@"A grave of grave consequences."[END]
-506-20E:
+506-20E:@Una tumba que "tumba" de espaldas.[END]
+// Note that most of these graves are puns and such
 // Repeats: 10-20, 222-20, 506-20
 506-21:@"A good, quality grave."[END]
-506-21E:
+506-21E:@Una tumba de primera.[END]
 // Repeats: 10-21, 222-21, 506-21
 506-22:@"I leave the rest to you now."[END]
-506-22E:
+506-22E:@"Vivió mientras estuvo vivo."[END]
 // Repeats: 10-22, 222-22, 506-22
 506-23:@"A great-grade gray grave."[END]
-506-23E:
+506-23E:@Una tenebrosa y triste tumba.[END]
 // Repeats: 10-23, 222-23, 506-23
 506-24:@"Reserved."[END]
-506-24E:
+506-24E:@"Reservada"[END]
+// As in someone already made reservations for it
 // Repeats: 10-24, 222-24, 506-24
 506-25:@"A grand ol' grave."[END]
-506-25E:
+506-25E:@Una tumba del montón.[END]
 // Repeats: 10-25, 222-25, 506-25
 506-26:@This gravestone is unusually wobbly.[END]
-506-26E:
+506-26E:@La lápida se tambalea más de lo normal.[END]
 // Repeats: 10-26, 222-26, 506-26
 506-27:@This appears to be a new type of grave.[END]
-506-27E:
+506-27E:@Parece ser un nuevo modelo de tumba.[END]
 // Repeats: 10-27, 222-27, 506-27
 506-28:@Grave.[END]
-506-28E:
+506-28E:@Pues eso. Una tumba.[END]
 // Repeats: 10-28, 222-28, 506-28
 506-29:@"A grave grave."[END]
-506-29E:
+506-29E:@"¡RIP, RIP, hurra!"[END]
 // Repeats: 10-29, 222-29, 506-29
 506-30:@"Life is too short to act gravely."[END]
-506-30E:
+506-30E:@"La vida es corta. No te quedes tumba-do."[END]
 // Repeats: 10-30, 222-30, 506-30
 506-31:@This grave's restoration process appears to[BREAK]  be gravely lacking.[END]
-506-31E:
+506-31E:@El proceso de restauración de esta tumba[BREAK]  está en punto "muerto".[END]
 // Repeats: 10-31, 222-31, 506-31
 506-32:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@I- I'm[PAUSE 30 00] a...[PAUSE 30 00]live...?[END]
-506-32E:
+506-32E:@Ohhh...[PAUSE 30 00] [DUSTER 23 03 00]...[PAUSE 30 00][BREAK]  Ggg...[PAUSE 30 00] ggggg...[PAUSE 30 00][WAIT]@¿E-estoy[PAUSE 30 00] vi...[PAUSE 30 00]vo...?[END]
 // Repeats: 10-32, 222-32, 506-32
 506-33:@Ohh...?[PAUSE 20 00] Gggguhhh...?[WAIT]@D-didn't I...[PAUSE 20 00] die...?[PAUSE 20 00][END]
-506-33E:
+506-33E:@¿Ohh...?[PAUSE 20 00] ¿Gggguhhh...?[WAIT]@¿N-no había...[PAUSE 20 00] muerto...?[PAUSE 20 00][END]
 // Repeats: 10-33, 222-33, 506-33
 506-34:@More...[PAUSE 30 00][BREAK]  Mooooore...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@I want to live m[PAUSE 20 00]o[PAUSE 18 00]o[PAUSE 10 00]o[PAUSE 08 00]o[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 08 00]O[PAUSE 04 00]RE![END]
-506-34E:
+506-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 506-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-506-35E:
+506-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
+// I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 506-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-506-36E:
+506-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 506-37:@It's locked.[END]
 506-37E:@Cerrado.[END]
-// Repeats: 0-124, 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
+// Repeats: 10-37, 11-11, 13-50, 122-18, 137-0, 212-11, 213-11, 222-37, 506-37
 506-38:@Oh, it's old man Wess's son, What's-His-Name.[WAIT]@You sure do love to walk around *huff*[PAUSE 20 00] at[BREAK]  night, you do.[END]
-506-38E:
+506-38E:@Oh, pero si es Fulanito, el hijo de Wess.[WAIT]@Sí que te gusta merodear *uf*[PAUSE 20 00] por ahí[BREAK]  de noche, sí.[END]
+// This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 506-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-506-39E:
+506-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos allí la noche.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 506-40:@Got a Happy Box![PAUSE A0 00][END]
-506-40E:
+506-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
 // Repeats: 10-40, 222-40, 506-40
 506-41:@You can't carry any more heavy boxes.[END]
-506-41E:
+506-41E:@No puedes cargar con más cajas.[END]
 // Repeats: 10-41, 222-41, 506-41
 506-42:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@Oh, you're a monkey, but you have a map.[WAIT]@For some reason, I'm just itching to mark it.[WAIT]@Let me see that for a second.[END]
-506-42E:
+506-42E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@Oh, eres un mono, pero tienes un mapa.[WAIT]@Por alguna razón, me muero por marcarlo.[WAIT]@Déjamelo un segundo.[END]
 // Repeats: 10-42, 222-42, 506-42
 506-43:@I just marked Abbot's, Biff's, and Isaac's[BREAK]  houses for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-43E:
+506-43E:@He marcado la localización de las casas[BREAK]  de Abbot, Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mucho mejor![END]
 // Repeats: 10-43, 222-43, 506-43
 506-44:@I just marked Abbot's and Biff's houses for no[BREAK]  real reason.[WAIT]@Ahh, that feels much better![END]
-506-44E:
+506-44E:@He marcado la localización de las casas[BREAK]  de Abbot y Biff... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-44, 222-44, 506-44
 506-45:@I just marked Abbot's and Isaac's houses for[BREAK]  no real reason.[WAIT]@Ahh, that feels much better![END]
-506-45E:
+506-45E:@He marcado la localización de las casas[BREAK]  de Abbot e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-45, 222-45, 506-45
 506-46:@I just marked Abbot's house for no real[BREAK]  reason.[WAIT]@Ahh, that feels much better![END]
-506-46E:
+506-46E:@He marcado la localización de la casa[BREAK]  de Abbot... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-46, 222-46, 506-46
 506-47:@I just marked Biff's and Isaac's houses for no[BREAK]  real reason.[WAIT]@Whew, that feels much better![END]
-506-47E:
+506-47E:@He marcado la localización de las casas[BREAK]  de Biff e Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-47, 222-47, 506-47
 506-48:@I just marked Biff's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-48E:
+506-48E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-48, 222-48, 506-48
 506-49:@I just marked Isaac's house for no real reason.[WAIT]@Ahh, that feels much better![END]
-506-49E:
+506-49E:@He marcado la localización de la casa[BREAK]  de Isaac... porque sí.[WAIT]@¡Aaah, ya me siento mejor![END]
 // Repeats: 10-49, 222-49, 506-49
 506-50:@Your map's been marked![END]
 506-50E:@¡Tu mapa ha sido marcado![END]
-// Repeats: 0-60, 3-10, 10-50, 32-50, 222-50, 506-50
+// Repeats: 3-10, 10-50, 32-50, 222-50, 506-50
 506-51:@If you need something from the map-loving,[BREAK]  map-owning Mapson, it must be a map, yes?[WAIT]@I can talk about non-map stuff too, you know.[WAIT]@You're out delivering happiness to people, but[BREAK]  you actually seem to be the unhappiest of all.[END]
-506-51E:
+506-51E:@Si necesitas algo de Mapson, el entusiasta[BREAK]  amante de los mapas, será un mapa, ¿no?[WAIT]@También hablo de cosas menos "mápiles".[WAIT]@Estás repartiendo felicidad entre la gente[BREAK]  pero no pareces feliz en absoluto.[END]
 // Repeats: 10-51, 222-51, 506-51
 506-52:@The tombstone doesn't budge.[END]
-506-52E:
+506-52E:@La lápida no se mueve.[END]
 // Repeats: 10-52, 222-52, 506-52
 506-53:@True connoisseurs know that this is the[BREAK]  ultimate shovel of the highest quality.[END]
-506-53E:
+506-53E:@Sólo los verdaderos expertos saben[BREAK]  apreciar la calidad de esta pala.[END]
 // Repeats: 10-53, 222-53, 506-53
 506-54:@A handcart.[WAIT]  Also referred to as a wheelbarrow.[END]
-506-54E:
+506-54E:@Un carretillo.[WAIT]  O carretilla, si lo prefieres...[END]
 // Repeats: 10-54, 222-54, 506-54
 506-55:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
 506-55E:
@@ -17459,7 +17469,7 @@
 624-43E:
 // Repeats: 624-43, 633-43
 624-44:@...[END]
-624-44E:
+624-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 624-45:@An awkward feeling hung in the air.[END]
 624-45E:
@@ -17734,7 +17744,7 @@
 633-43E:
 // Repeats: 624-43, 633-43
 633-44:@...[END]
-633-44E:
+633-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 633-45:@An awkward feeling hung in the air.[END]
 633-45E:
