@@ -206,11 +206,11 @@
 066:Fish
 066-E:Pez
 067:Hermit Crab
-067-E:Cangrejo ermita√±o
+067-E:Cangrejo ermitaÒo
 068:Lady
-068-E:Se√±ora
+068-E:SeÒora
 069:M.Butterfly
-069-E:Mariposa m√°gica
+069-E:Mariposa m·gica
 06A:Sheep
 06A-E:Oveja
 06B:Cow
@@ -230,7 +230,7 @@
 072:Magic
 072-E:Magic
 073:Drago Pup
-073-E:Cr√≠a de drago
+073-E:CrÌa de drago
 074:Ionia
 074-E:Ionia
 075:Doria
@@ -292,7 +292,7 @@
 091:Pigmask
 091-E:Puercareto
 092:Drago Pup
-092-E:Cr√≠a de drago
+092-E:CrÌa de drago
 093:Mole Cricket
 093-E:Grillo topo
 094:Elder Cricket
@@ -304,7 +304,7 @@
 097:Arrow Lizard
 097-E:Flechagarto
 098:O2 Machine
-098-E:M√°quina O2
+098-E:M·quina O2
 099:Explorer
 099-E:Explorador
 09A:Man
@@ -312,7 +312,7 @@
 09B:Woman
 09B-E:Mujer
 09C:Lady
-09C-E:Se√±ora
+09C-E:SeÒora
 09D:Alec
 09D-E:Alec
 09E:Ionia
@@ -334,7 +334,7 @@
 0A6:Shadow
 0A6-E:Sombra
 0A7:Sparrow
-0A7-E:Gorri√≥n
+0A7-E:GorriÛn
 0A8:Sat.Fisher
 0A8-E:Saturn pescador
 0A9:Old Man
@@ -346,9 +346,9 @@
 0AC:Woman
 0AC-E:Mujer
 0AD:Knock!
-0AD-E:¬°Toc!
+0AD-E:°Toc!
 0AE:Knock!
-0AE-E:¬°Toc!
+0AE-E:°Toc!
 0AF:Bow
 0AF-E:Arco
 0B0:Bow
@@ -356,7 +356,7 @@
 0B1:Guy
 0B1-E:Tipo
 0B2:Lady
-0B2-E:Se√±ora
+0B2-E:SeÒora
 0B3:Flint
 0B3-E:Flint
 0B4:Fuel
@@ -368,7 +368,7 @@
 0B7:Old Guy
 0B7-E:Anciano
 0B8:Policeman
-0B8-E:Polic√≠a
+0B8-E:PolicÌa
 0B9:Tomas Jefferson
 0B9-E:Tomas Jefferson
 0BA:Lucky
@@ -380,7 +380,7 @@
 0BD:Nut
 0BD-E:Nuez
 0BE:Snowman
-0BE-E:Mu√±eco de nieve
+0BE-E:MuÒeco de nieve
 0BF:Violet
 0BF-E:Violet
 0C0:Kumatora
@@ -400,7 +400,7 @@
 0C7:Old Guy
 0C7-E:Anciano
 0C8:Interpreter
-0C8-E:Int√©rprete
+0C8-E:IntÈrprete
 0C9:Pig Book
 0C9-E:Libro porcino
 0CA:Fixed Robot
@@ -476,7 +476,7 @@
 0ED:Boney
 0ED-E:Boney
 0EE:Bird
-0EE-E:P√°jaro
+0EE-E:P·jaro
 0EF:Man
 0EF-E:Hombre
 0F0:Frog
@@ -532,11 +532,11 @@
 109:Woman
 109-E:Mujer
 10A:Crowd
-10A-E:P√∫blico
+10A-E:P˙blico
 10B:Host
-10B-E:Anfitri√≥n
+10B-E:AnfitriÛn
 10C:Chauffeur
-10C-E:Ch√≥fer
+10C-E:ChÛfer
 10D:Word on the Wind
 10D-E:Viento cotilla
 10E:Man
@@ -546,9 +546,9 @@
 110:Frog
 110-E:Rana
 111:O2 Machine
-111-E:M√°quina O2
+111-E:M·quina O2
 112:Wan Sum Dung
-112-E:√ç√±igo Bo√±igo
+112-E:ÕÒigo BoÒigo
 113:Man
 113-E:Hombre
 114:Gift Box
@@ -588,7 +588,7 @@
 125:Man
 125-E:Hombre
 126:Lady
-126-E:Se√±ora
+126-E:SeÒora
 127:Guy
 127-E:Tipo
 128:(EMPTY)

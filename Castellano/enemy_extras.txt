@@ -7,7 +7,7 @@
 -
 -
 -
-// Carib√∫ reconstruido
+// Carib˙ reconstruido
 Un 
 un 
 El 
@@ -15,8 +15,8 @@ el
 del 
 al 
 o
-el  
-// Don pasi√≥n
+el 
+// Don pasiÛn
 -
 -
 -
@@ -214,7 +214,7 @@ de la
 a la 
 a
 la 
-// Lord Pasi√≥n
+// Lord PasiÛn
 -
 -
 -
@@ -223,7 +223,7 @@ de
 a 
 o
 -
-// √Årbol cari√±oso
+// ¡rbol cariÒoso
 Un 
 un 
 El 
@@ -268,7 +268,7 @@ del
 al 
 o
 el 
-// Gran antill√≥n
+// Gran antillÛn
 Un 
 un 
 El 
@@ -313,7 +313,7 @@ de
 a 
 o
 -
-// Pirod√≥ptero
+// PirodÛptero
 Un 
 un 
 El 
@@ -322,7 +322,7 @@ del
 al 
 o
 el 
-// Mecha-le√≥n
+// Mecha-leÛn
 Un 
 un 
 El 
@@ -358,7 +358,7 @@ del
 al 
 o
 el 
-// Gran pesc√°nido
+// Gran pesc·nido
 Un 
 un 
 El 
@@ -376,7 +376,7 @@ del
 al 
 o
 el 
-// Rat√≥n gorr√≥n
+// RatÛn gorrÛn
 Un 
 un 
 El 
@@ -385,7 +385,7 @@ del
 al 
 o
 el 
-// Flamid√≥ptero
+// FlamidÛptero
 Un 
 un 
 El 
@@ -403,7 +403,7 @@ del
 al 
 o
 el 
-// Rat√≥n volador
+// RatÛn volador
 Un 
 un 
 El 
@@ -421,7 +421,7 @@ de
 a 
 o
 -
-// Jabal√≠ agitado
+// JabalÌ agitado
 Un 
 un 
 El 
@@ -439,7 +439,7 @@ de la
 a la 
 a
 la 
-// Bola de holl√≠n
+// Bola de hollÌn
 Una 
 una 
 La 
@@ -502,7 +502,7 @@ del
 al 
 o
 el 
-// Yetiesqu√≠
+// YetiesquÌ
 Un 
 un 
 El 
@@ -574,7 +574,7 @@ del
 al 
 o
 el 
-// ¬°Topobot!
+// °Topobot!
 Un 
 un 
 El 
@@ -592,7 +592,7 @@ del
 al 
 o
 el 
-// √Årbol
+// ¡rbol
 Un 
 un 
 El 
@@ -619,7 +619,7 @@ del
 al 
 o
 el 
-// Do√±a Laventa
+// DoÒa Laventa
 -
 -
 -
@@ -628,7 +628,7 @@ de
 a 
 a
 -
-// Volc√°nido
+// Volc·nido
 Un 
 un 
 El 
@@ -637,7 +637,7 @@ del
 al 
 o
 el 
-// Se√±or zombi
+// SeÒor zombi
 Un 
 un 
 El 
@@ -664,7 +664,7 @@ del
 al 
 o
 el 
-// L√°pida ambulante
+// L·pida ambulante
 Una 
 una 
 La 
@@ -736,7 +736,7 @@ del
 al 
 o
 el 
-// ¬°Ar√°cnido!
+// °Ar·cnido!
 Un 
 un 
 El 
@@ -754,7 +754,7 @@ de la
 a la 
 a
 la 
-// Tr√≠o barrera
+// TrÌo barrera
 El 
 el 
 El 
@@ -835,7 +835,7 @@ de la
 a la 
 a
 la 
-// Escarabajo bo√±iguero
+// Escarabajo boÒiguero
 Un 
 un 
 El 
@@ -844,7 +844,7 @@ del
 al 
 o
 el 
-// Gran antill√≥n
+// Gran antillÛn
 Un 
 un 
 El 
@@ -889,7 +889,7 @@ del
 al 
 o
 el 
-// Tutangat√≥n
+// TutangatÛn
 Un 
 un 
 El 
@@ -907,7 +907,7 @@ del
 al 
 o
 el 
-// Zombi√±√≥n
+// ZombiÒÛn
 Un 
 un 
 El 
@@ -916,7 +916,7 @@ del
 al 
 o
 el 
-// Fantasma f√©tido
+// Fantasma fÈtido
 Un 
 un 
 El 
@@ -925,7 +925,7 @@ del
 al 
 o
 el 
-// Cr√≠tico fantasmal
+// CrÌtico fantasmal
 El 
 el 
 El 
@@ -934,7 +934,7 @@ del
 al 
 o
 el 
-// Rocin√°ntula
+// Rocin·ntula
 Una 
 una 
 La 
@@ -943,7 +943,7 @@ de la
 a la 
 a
 la 
-// Porqu√≠dea
+// PorquÌdea
 Una 
 una 
 La 
@@ -970,7 +970,7 @@ del
 al 
 o
 el 
-// Av√≠bora
+// AvÌbora
 Una 
 una 
 La 
@@ -988,7 +988,7 @@ del
 al 
 o
 el 
-// Pesc√°nido
+// Pesc·nido
 Un 
 un 
 El 
@@ -1024,7 +1024,7 @@ de la
 a la 
 a
 la 
-// Dragolib√©lula
+// DragolibÈlula
 Una 
 una 
 La 
@@ -1069,7 +1069,7 @@ del
 al 
 o
 el 
-// Murciangut√°n
+// Murciangut·n
 Un 
 un 
 El 
@@ -1087,7 +1087,7 @@ del
 al 
 o
 el 
-// Titani a√©reo
+// Titani aÈreo
 Un 
 un 
 El 
@@ -1105,7 +1105,7 @@ de la
 a la 
 a
 la 
-// Cangubur√≥n maternal
+// CanguburÛn maternal
 Un 
 un 
 El 
@@ -1114,7 +1114,7 @@ del
 al 
 o
 el 
-// Se√±orita Malvavisco
+// SeÒorita Malvavisco
 La 
 la 
 La 
@@ -1123,7 +1123,7 @@ de la
 a la 
 a
 la 
-// Casi-Mecha-le√≥n
+// Casi-Mecha-leÛn
 Un 
 un 
 El 
@@ -1141,7 +1141,7 @@ del
 al 
 o
 el 
-// Ruedapuerco hist√©rico
+// Ruedapuerco histÈrico
 Un 
 un 
 El 
@@ -1150,7 +1150,7 @@ del
 al 
 o
 el 
-// Cucaracha met√°lica
+// Cucaracha met·lica
 Una 
 una 
 La 
@@ -1159,7 +1159,7 @@ de la
 a la 
 a
 la 
-// Helirrat√≥n
+// HelirratÛn
 Un 
 un 
 El 
@@ -1168,7 +1168,7 @@ del
 al 
 o
 el 
-// ¬°Cortocircuito!
+// °Cortocircuito!
 Un 
 un 
 El 
@@ -1204,7 +1204,7 @@ de la
 a la 
 a
 la 
-// Surtibot at√≥mico
+// Surtibot atÛmico
 Un 
 un 
 El 
@@ -1294,7 +1294,7 @@ del
 al 
 o
 el 
-// Caviar pele√≥n
+// Caviar peleÛn
 Un 
 un 
 El 
@@ -1321,7 +1321,7 @@ del
 al 
 o
 el 
-// Alima√±a alfombrera
+// AlimaÒa alfombrera
 Una 
 una 
 La 
@@ -1348,7 +1348,7 @@ del
 al 
 o
 el 
-// Se√±ora zombi
+// SeÒora zombi
 Una 
 una 
 La 
@@ -1375,7 +1375,7 @@ del
 al 
 o
 el 
-// ¬°¬°¬°¬°Ar√°cnido!!!!
+// °°°°Ar·cnido!!!!
 Un 
 un 
 El 
@@ -1384,7 +1384,7 @@ del
 al 
 o
 el 
-// Rat√≥n ladr√≥n
+// RatÛn ladrÛn
 Un 
 un 
 El 
@@ -1420,7 +1420,7 @@ del
 al 
 o
 el 
-// Le√≥n reconstruido
+// LeÛn reconstruido
 Un 
 un 
 El 
@@ -1438,7 +1438,7 @@ del
 al 
 o
 el 
-// Se√±al masculina
+// SeÒal masculina
 Una 
 una 
 La 
@@ -1474,7 +1474,7 @@ de la
 a la 
 a
 la 
-// Bater√≠n
+// BaterÌn
 Un 
 un 
 El 
@@ -1546,7 +1546,7 @@ del
 al 
 o
 el 
-// Capit√°n puercareto
+// Capit·n puercareto
 Un 
 un 
 El 
@@ -1735,7 +1735,7 @@ el
 -
 -
 -
-// Antill√≥n
+// AntillÛn
 -
 -
 -

@@ -48,7 +48,7 @@ lo
 al 
 del 
 -
-//Palo ergon√≥mico
+//Palo ergonÛmico
 Un 
 un 
 El 
@@ -118,7 +118,7 @@ lo
 al 
 del 
 -
-//Palo m√≠stico
+//Palo mÌstico
 Un 
 un 
 El 
@@ -168,7 +168,7 @@ los
 a los 
 de los 
 n
-//Manoplas m√°gicas
+//Manoplas m·gicas
 Unas 
 unas 
 Las 
@@ -198,7 +198,7 @@ los
 a los 
 de los 
 n
-//Manoplas de √°ngel
+//Manoplas de ·ngel
 Unas 
 unas 
 Las 
@@ -208,7 +208,7 @@ las
 a las 
 de las 
 n
-//Guantes m√≠sticos
+//Guantes mÌsticos
 Unos 
 unos 
 Los 
@@ -258,7 +258,7 @@ los
 a los 
 de los 
 n
-//Calzado m√≠stico
+//Calzado mÌstico
 Un 
 un 
 El 
@@ -288,7 +288,7 @@ las
 a las 
 de las 
 n
-//Zapapi√©s
+//ZapapiÈs
 Unos 
 unos 
 Los 
@@ -308,7 +308,7 @@ los
 a los 
 de los 
 n
-//Yoy√≥ pr√°ctico
+//YoyÛ pr·ctico
 Un 
 un 
 El 
@@ -348,7 +348,7 @@ lo
 al 
 del 
 -
-//Sart√©n de pega
+//SartÈn de pega
 Una 
 una 
 La 
@@ -418,7 +418,7 @@ lo
 al 
 del 
 -
-//Amuleto plum√≠fero
+//Amuleto plumÌfero
 Un 
 un 
 El 
@@ -468,7 +468,7 @@ lo
 al 
 del 
 -
-//Collar marr√≥n
+//Collar marrÛn
 Un 
 un 
 El 
@@ -538,7 +538,7 @@ la
 a la 
 de la 
 -
-//Jersey c√°lido
+//Jersey c·lido
 Un 
 un 
 El 
@@ -548,7 +548,7 @@ lo
 al 
 del 
 -
-//Cors√© de diosa
+//CorsÈ de diosa
 Un 
 un 
 El 
@@ -588,7 +588,7 @@ la
 a la 
 de la 
 -
-//Bandana gorri√≥n
+//Bandana gorriÛn
 Una 
 una 
 La 
@@ -598,7 +598,7 @@ la
 a la 
 de la 
 -
-//Bandana rasc√≥n
+//Bandana rascÛn
 Una 
 una 
 La 
@@ -648,7 +648,7 @@ la
 a la 
 de la 
 -
-//Sombrero com√∫n
+//Sombrero com˙n
 Un 
 un 
 El 
@@ -738,7 +738,7 @@ lo
 al 
 del 
 -
-//Lazo de √°ngel
+//Lazo de ·ngel
 Un 
 un 
 El 
@@ -828,7 +828,7 @@ lo
 al 
 del 
 -
-//Brazal G√©minis
+//Brazal GÈminis
 Un 
 un 
 El 
@@ -838,7 +838,7 @@ lo
 al 
 del 
 -
-//Brazal C√°ncer
+//Brazal C·ncer
 Un 
 un 
 El 
@@ -998,7 +998,7 @@ la
 a la 
 de la 
 -
-//T√© loh√©s
+//TÈ lohÈs
 Un 
 un 
 El 
@@ -1068,7 +1068,7 @@ las
 a las 
 de las 
 n
-//Pl√°tano lujoso
+//Pl·tano lujoso
 Un 
 un 
 El 
@@ -1158,7 +1158,7 @@ la
 a la 
 de la 
 -
-//Cruas√°n blanco
+//Cruas·n blanco
 Un 
 un 
 El 
@@ -1218,7 +1218,7 @@ lo
 al 
 del 
 -
-//Comida loter√≠a
+//Comida loterÌa
 Una 
 una 
 La 
@@ -1318,7 +1318,7 @@ lo
 al 
 del 
 -
-//Estofado de ni√±o pijo
+//Estofado de niÒo pijo
 Un 
 un 
 El 
@@ -1348,7 +1348,7 @@ lo
 al 
 del 
 -
-//Gelatina m√°gica
+//Gelatina m·gica
 Una 
 una 
 La 
@@ -1358,7 +1358,7 @@ la
 a la 
 de la 
 -
-//Tartaleta m√°gica
+//Tartaleta m·gica
 Una 
 una 
 La 
@@ -1368,7 +1368,7 @@ la
 a la 
 de la 
 -
-//Pudin m√°gico
+//Pudin m·gico
 Un 
 un 
 El 
@@ -1378,7 +1378,7 @@ lo
 al 
 del 
 -
-//Pastel m√°gico
+//Pastel m·gico
 Un 
 un 
 El 
@@ -1388,7 +1388,7 @@ lo
 al 
 del 
 -
-//Ant√≠doto
+//AntÌdoto
 Un 
 un 
 El 
@@ -1398,7 +1398,7 @@ lo
 al 
 del 
 -
-//Anti-par√°lisis
+//Anti-par·lisis
 Un 
 un 
 El 
@@ -1528,7 +1528,7 @@ la
 a la 
 de la 
 -
-//L√°piz cohete
+//L·piz cohete
 Un 
 un 
 El 
@@ -1548,7 +1548,7 @@ la
 a la 
 de la 
 -
-//S√∫per bomba
+//S˙per bomba
 Una 
 una 
 La 
@@ -1568,7 +1568,7 @@ la
 a la 
 de la 
 -
-//Ducha mel√≠fera
+//Ducha melÌfera
 Una 
 una 
 La 
@@ -1578,7 +1578,7 @@ la
 a la 
 de la 
 -
-//Pl√°tano pocho
+//Pl·tano pocho
 Un 
 un 
 El 
@@ -1608,7 +1608,7 @@ lo
 al 
 del 
 -
-//Pistola s√≥dica
+//Pistola sÛdica
 Una 
 una 
 La 
@@ -1678,7 +1678,7 @@ lo
 al 
 del 
 -
-//Lib√©lula
+//LibÈlula
 Una 
 una 
 La 
@@ -1688,7 +1688,7 @@ la
 a la 
 de la 
 -
-//Lib√©lula plateada
+//LibÈlula plateada
 Una 
 una 
 La 
@@ -1738,7 +1738,7 @@ la
 a la 
 de la 
 -
-//Yoy√≥ de amigo
+//YoyÛ de amigo
 Un 
 un 
 El 
@@ -1758,7 +1758,7 @@ lo
 al 
 del 
 -
-//Bo√±iga
+//BoÒiga
 Una 
 una 
 La 
@@ -1768,7 +1768,7 @@ la
 a la 
 de la 
 -
-//Os√≠culo de delf√≠n
+//OsÌculo de delfÌn
 Un 
 un 
 El 
@@ -1778,7 +1778,7 @@ lo
 al 
 del 
 -
-//Yoy√≥ punzante
+//YoyÛ punzante
 Un 
 un 
 El 
@@ -1808,7 +1808,7 @@ los
 a los 
 de los 
 n
-//Colgante m√°gico
+//Colgante m·gico
 Un 
 un 
 El 
@@ -1818,7 +1818,7 @@ lo
 al 
 del 
 -
-//Palabras de √°nimo
+//Palabras de ·nimo
 Unas 
 unas 
 Las 
@@ -1848,7 +1848,7 @@ lo
 al 
 del 
 -
-//Concha c. ermita√±o
+//Concha c. ermitaÒo
 Una 
 una 
 La 
@@ -1858,7 +1858,7 @@ la
 a la 
 de la 
 -
-//T√© sospechoso
+//TÈ sospechoso
 Un 
 un 
 El 
@@ -1868,7 +1868,7 @@ lo
 al 
 del 
 -
-//Colgante flam√≠guero
+//Colgante flamÌguero
 Un 
 un 
 El 
@@ -1878,7 +1878,7 @@ lo
 al 
 del 
 -
-//Colgante g√©lido
+//Colgante gÈlido
 Un 
 un 
 El 
@@ -1918,7 +1918,7 @@ lo
 al 
 del 
 -
-//Borra-l√°pices
+//Borra-l·pices
 Un 
 un 
 El 
@@ -1948,7 +1948,7 @@ la
 a la 
 de la 
 -
-//Camiseta ni√±o bueno
+//Camiseta niÒo bueno
 Una 
 una 
 La 
@@ -1998,7 +1998,7 @@ lo
 al 
 del 
 -
-//P√°jaro
+//P·jaro
 Un 
 un 
 El 
@@ -2168,7 +2168,7 @@ la
 a la 
 de la 
 -
-//Hipno-p√©ndulo
+//Hipno-pÈndulo
 Un 
 un 
 El 
@@ -2178,7 +2178,7 @@ lo
 al 
 del 
 -
-//M√°scara susto
+//M·scara susto
 Una 
 una 
 La 
@@ -2258,7 +2258,7 @@ lo
 al 
 del 
 -
-//Zapato de ni√±o
+//Zapato de niÒo
 Un 
 un 
 El 
@@ -2268,7 +2268,7 @@ lo
 al 
 del 
 -
-//Lima de u√±as
+//Lima de uÒas
 Una 
 una 
 La 
@@ -2298,7 +2298,7 @@ la
 a la 
 de la 
 -
-//Tel√©fono m√≥vil
+//TelÈfono mÛvil
 Un 
 un 
 El 
@@ -2428,7 +2428,7 @@ lo
 al 
 del 
 -
-//Mapa subterr√°neo
+//Mapa subterr·neo
 Un 
 un 
 El 
@@ -2458,7 +2458,7 @@ lo
 al 
 del 
 -
-//Plano del √°tico
+//Plano del ·tico
 Un 
 un 
 El 
@@ -2548,7 +2548,7 @@ lo
 al 
 del 
 -
-//Esbozo de la f√°brica
+//Esbozo de la f·brica
 Un 
 un 
 El 

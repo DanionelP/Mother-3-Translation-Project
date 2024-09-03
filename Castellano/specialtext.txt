@@ -4,7 +4,7 @@
 // All things in this file must be 19 letters or less.
 
 00:Pl. Movement Data
-00-E:Movimiento del jugador
+00-E:Movimiento jugador
 01:Attack
 01-E:Atacar
 02:Defend
@@ -12,11 +12,11 @@
 03:Run Away
 03-E:Huir
 04:Chapter 0 Attack
-04-E:Ataque capÃ­tulo 0
+04-E:Ataque capítulo 0
 05:Strange Attack
-05-E:Ataque extraÃ±o
+05-E:Ataque extraño
 06:Duster:Behind
-06-E:Duster:AtrÃ¡s
+06-E:Duster:Atrás
 07:Duster:Back Up
 07-E:Duster:Levantarse
 08:Duster:Pre.Strike
@@ -24,47 +24,47 @@
 09:(EMPTY)
 09-E:(NADA)
 0A:DCMC Intrusion
-0A-E:InstrusiÃ³n de los DCMC
+0A-E:Instrusión DCMC
 0B:Baccio's Line
-0B-E:LÃ­nea de Baccio
+0B-E:Línea de Baccio
 0C:Baccio's Attack
 0C-E:Ataque de Baccio
 0D:Shimmy's Line
-0D-E:LÃ­nea de Shimmy
+0D-E:Línea de Shimmy
 0E:Shimmy's Attack
 0E-E:Ataque de Shimmy
 0F:Magic's Line
-0F-E:LÃ­nea de Magic
+0F-E:Línea de Magic
 10:Magic's Attack
 10-E:Ataque de Magic
 11:OJ's Line
-11-E:LÃ­nea de OJ
+11-E:Línea de OJ
 12:OJ's Attack
 12-E:Ataque de OJ
 13:Andonuts' Line
-13-E:LÃ­nea de Andonuts
+13-E:Línea de Andonuts
 14:Andonuts' attack
 14-E:Ataque de Andonuts
 15:Wess' Line
-15-E:LÃ­nea de Wess
+15-E:Línea de Wess
 16:Wess' Attack
 16-E:Ataque de Wess
 17:Flint's Line
-17-E:LÃ­nea de Flint
+17-E:Línea de Flint
 18:Flint's Attack
 18-E:Ataque de Flint
 19:Lucas Cant Attack
-19-E:Lucas no puede atacar
+19-E:Lucas no ataca
 1A:(EMPTY)
 1A-E:(NADA)
 1B:Last Bash
-1B-E:Ãšltimo ataque
+1B-E:Último ataque
 1C:Last PSI
-1C-E:Ãšltimo PSI
+1C-E:Último PSI
 1D:Last Goods
-1D-E:Ãšltimo objeto
+1D-E:Último objeto
 1E:Last Guard
-1E-E:Ãšltimo defender
+1E-E:Último defender
 1F:Flint: Special
 1F-E:Flint: Especial
 20:Swing
@@ -76,17 +76,17 @@
 23:Toughen Up
 23-E:Endurecer
 24:Duster: Thief
-24-E:Duster: LadrÃ³n
+24-E:Duster: Ladrón
 25:Wall Staple
 25-E:Clavos de pared
 26:Siren Beetle
 26-E:Ciervo zumbante
 27:Hypno-Pendulum
-27-E:Hipno-pÃ©ndulo
+27-E:Hipno-péndulo
 28:Smoke Bomb
 28-E:Bomba de humo
 29:Scary Mask
-29-E:MÃ¡scara susto
+29-E:Máscara susto
 2A:Tickle Stick
 2A-E:Palo cosquillero
 2B:Boney: Sniff
@@ -102,4 +102,4 @@
 30:Dance
 30-E:Bailar
 31:Monkey Mimic
-31-E:MÃ­mica de mono
+31-E:Mímica de mono

@@ -42,7 +42,7 @@
 @echo.
 @echo.
 @echo ---------------------------------------------------------
-@echo Creating pre-welded cast of characters & sleep mode text
+@echo Creating pre-welded cast of characters and sleep mode text
 @echo ---------------------------------------------------------
 @echo.
 @m3preweld

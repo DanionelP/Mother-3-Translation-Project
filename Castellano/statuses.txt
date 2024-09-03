@@ -7,31 +7,31 @@
 01:Poison
 01-E:Veneno
 02:Numb
-02-E:Par√°lisis
+02-E:Par·lisis
 03:Sleep
-03-E:Sue√±o
+03-E:SueÒo
 04:Strange
 04-E:Rareza
 05:Crying
-05-E:L√°grimas
+05-E:L·grimas
 06:Forgetful
 06-E:Olvido
 07:Nauseous
-07-E:N√°useas
+07-E:N·useas
 08:Fleas
 08-E:Pulgas
 09:On Fire
 09-E:En llamas
 0A:Stopped, Frozen
-0A-E:Congelaci√≥n
+0A-E:CongelaciÛn
 0B:Smelly
 0B-E:Hedor
 0C:DCMC
 0C-E:DCMC
 0D:Staple Stopped
-0D-E:Fin de los clavos
+0D-E:Fin clavos
 0E:Apology Stopped
-0E-E:Fin de las disculpas
+0E-E:Fin disculpas
 0F:Laugh Stopped
 0F-E:Fin de la risa
 10:Defense
@@ -39,13 +39,13 @@
 11:No EXP
 11-E:No EXP
 12:Off Down (weak)
-12-E:Baj. Fue (d√©bil)
+12-E:Baj. Fue (dÈb)
 13:Off Down(strng)
-13-E:Baj. Fue (fuerte)
+13-E:Baj. Fue (frt)
 14:Def Down (weak)
-14-E:Baj. Def (d√©bil)
+14-E:Baj. Def (dÈb)
 15:Def Down(strng)
-15-E:Baj. Def (fuerte)
+15-E:Baj. Def (frt)
 16:Shield
 16-E:Escudo
 17:Counter
@@ -57,27 +57,27 @@
 1A:PSI Counter
 1A-E:Reflejo PSI
 1B:Off Up (weak)
-1B-E:Sub. Fue (d√©bil)
+1B-E:Sub. Fue (dÈb)
 1C:Off Up (strong)
-1C-E:Sub. Fue (fuerte)
+1C-E:Sub. Fue (frt)
 1D:Def Up (weak)
-1D-E:Sub. Def (d√©bil)
+1D-E:Sub. Def (dÈb)
 1E:Def Up (strong)
-1E-E:Sub. Def (fuerte)
+1E-E:Sub. Def (frt)
 1F:Escape Failure
 1F-E:Fallo al huir
 20:Dance
 20-E:Bailar
 21:Off Down (mid)
-21-E:Baj. Fue (medio)
+21-E:Baj. Fue (med)
 22:Def Down (mid)
-22-E:Baj. Def (medio)
+22-E:Baj. Def (med)
 23:Time Bomb
-23-E:Bomba temporizada
+23-E:Bomba temp.
 24:Parameters Up
-24-E:Subir par√°metros
+24-E:Subir par·m.
 25:Parameters Down
-25-E:Bajar par√°metros
+25-E:Bajar par·m.
 26:Refresh
 26-E:Regenerar
 27:Fell
@@ -101,8 +101,8 @@
 30:Endure
 30-E:Aguantar
 31:Off Up (mid)
-31-E:Sub. Fue (medio)
+31-E:Sub. Fue (med)
 32:Def Up (mid)
-32-E:Sub. Def (medio)
+32-E:Sub. Def (med)
 33:No Back Sprite
-33-E:No sprite trasero
+33-E:No sprite trs.

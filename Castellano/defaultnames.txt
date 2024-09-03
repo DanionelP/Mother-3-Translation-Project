@@ -117,7 +117,7 @@
 39:Pasta
 39-E:Pasta
 3A:Gratin
-3A-E:LasaÃ±a
+3A-E:Lasaña
 3B:Donuts
 3B-E:Donuts
 3C:Stew
@@ -129,7 +129,7 @@
 3F:Love
 3F-E:Amor
 40:Home Run
-40-E:FÃºtbol
+40-E:Fútbol
 41:Mach
 41-E:Amistad
 42:Top Spec

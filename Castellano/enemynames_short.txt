@@ -1,7 +1,7 @@
 // Short enemy names must be 19 letters or less
 (nada)
-CaribÃº reconst.
-Don pasiÃ³n
+Caribú reconst.
+Don pasión
 Osoherpiente
 Arcilloso
 Mecha-Drago
@@ -23,39 +23,39 @@ Estatua real
 Hipolanzadera
 Neo Falhaz
 Sonrisa macabra
-Lord PasiÃ³n
-Ãrbol cariÃ±oso
+Lord Pasión
+Árbol cariñoso
 PORKY 03
 PORKY 08
 Falhaz milagroso
 Coman. Puercareto
-Gran antillÃ³n
+Gran antillón
 Electroplasma
 Rinocohete v2
 Sustobot
 "El Rata"
-PirodÃ³ptero
-Mecha-LeÃ³n
+Pirodóptero
+Mecha-León
 Corte de carretera
 Trotaseta
 Petardo graznante
-Gran pescÃ¡nido
+Gran pescánido
 Sr. Murchiflado
-RatÃ³n gorrÃ³n
-FlamidÃ³ptero
+Ratón gorrón
+Flamidóptero
 Tuberculoide
-RatÃ³n volador
+Ratón volador
 PORKY 01
-JabalÃ­ agitado
+Jabalí agitado
 Serp. mordedora
-Bola de hollÃ­n
+Bola de hollín
 Tuberc. asado
 Arbustito andante
 Medusa despreoc.
 Metalmono mist.
 Lagarto escarpado
 Gusano patatero
-YetiesquÃ­
+Yetiesquí
 Can gelado
 Babosa viscosa
 Geocita
@@ -63,17 +63,17 @@ Confuseta
 Grillo topo
 Boa Transistor
 Topo travieso
-Â¡Topobot!
+¡Topobot!
 Buitraco
-Ãrbol
+Árbol
 Titani
 Copito
-DoÃ±a Laventa
-VolcÃ¡nido
-SeÃ±or zombi
+Doña Laventa
+Volcánido
+Señor zombi
 Perro zombi
 Alma amargada
-LÃ¡pida ambulante
+Lápida ambulante
 Sanguijuelo
 Langosta cobarde
 Cochinilla ENORME
@@ -81,9 +81,9 @@ Esqueleto alegre
 Hermanote
 Hombre barril
 Limo de fresa
-Â¡ArÃ¡cnido!
+¡Arácnido!
 Cucar. violenta
-TrÃ­o barrera
+Trío barrera
 Armad. espectral
 Espada espectral
 Escudo espectral
@@ -92,48 +92,48 @@ Capa de Osohe
 Fantasma mecedor
 Pseudopuerta
 Sonrisa macabra
-Escar. boÃ±iguero
-Gran antillÃ³n
+Escar. boñiguero
+Gran antillón
 Bocaseca
 Lagarto arenoso
 Cactulobo
 Pringue pringoso
-TutangatÃ³n
+Tutangatón
 Hermanito
-ZombiÃ±Ã³n
-Fantasma fÃ©tido
-CrÃ­tico fantasmal
-RocinÃ¡ntula
-PorquÃ­dea
+Zombiñón
+Fantasma fétido
+Crítico fantasmal
+Rocinántula
+Porquídea
 Palo graznante
 Mohosus Putridus
-AvÃ­bora
+Avíbora
 Engendro
-PescÃ¡nido
+Pescánido
 Vacaconda
 Porkstein
 Mantis religiosa
-DragolibÃ©lula
+Dragolibélula
 Cucar. mugrienta
 Champichucho
 Mecha-tortuga
 Equipo fraternal
-MurciangutÃ¡n
+Murciangután
 Elefantruz
-Titani aÃ©reo
+Titani aéreo
 Monorsa
-CanguburÃ³n mat.
+Canguburón mat.
 Sta. Malvavisco
-Casi-Mecha-leÃ³n
+Casi-Mecha-león
 Rinocohete
 Ruedapuerco hist.
-Cucar. metÃ¡lica
-HelirratÃ³n
-Â¡Cortocircuito!
+Cucar. metálica
+Helirratón
+¡Cortocircuito!
 Robot obsoleto
 Rompecorazones
 Sonrisa macabra
-Surtibot atÃ³mico
+Surtibot atómico
 Surtibot nuclear
 Hombre negativo
 Cabezabuque
@@ -143,27 +143,27 @@ Tuberc. pelado
 Hipolanzadera
 Gorilabot de acero
 Zombidillo
-Caviar peleÃ³n
+Caviar peleón
 PORKY 07
 Ret. de Octobot
 Alim. alfombrera
 Robot patrulla
 Puercareto
-SeÃ±ora zombi
+Señora zombi
 Travieseta
 Lord Murchiflado
-Â¡Â¡Â¡Â¡ArÃ¡cnido!!!!
-RatÃ³n ladrÃ³n
+¡¡¡¡Arácnido!!!!
+Ratón ladrón
 Guitarra llorona
 Tambor roto
 Topo reconst.
-LeÃ³n reconst.
+León reconst.
 Robot tambaleante
-SeÃ±al masculina
+Señal masculina
 Robot destrozado
 Chatarra desolada
 Caja sorpresa
-BaterÃ­n
+Baterín
 Tornillete
 Bomba rastrera
 K4N1N0
@@ -192,19 +192,19 @@ Enmascarado
 Enmascarado
 (NADA)
 Pick
-AntillÃ³n
+Antillón
 Puerc. feroz
 Cangrejo
-Siluro elÃ©c.
+Siluro eléc.
 Shimmy Zmizz
 Magic
 Duster
 Teclado
 OJ
 Robot
-Escar. boÃ±iguero
+Escar. boñiguero
 Hombre carpa
-Conejo Ã¡rtico
+Conejo ártico
 Arcilloso
 Vapor
 Serpicuerda

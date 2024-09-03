@@ -11,7 +11,7 @@
 0004: Better Stick
 0004-E: Palo mejorado
 0005: Easy-Grip Stick
-0005-E: Palo ergon√≥mico
+0005-E: Palo ergonÛmico
 0006: Good Stick
 0006-E: Palo bueno
 0007: Very Good Stick
@@ -25,7 +25,7 @@
 000B: Master Stick
 000B-E: Palo maestro
 000C: Mystical Stick
-000C-E: Palo m√≠stico
+000C-E: Palo mÌstico
 000D: Gloves
 000D-E: Guantes
 000E: Durable Gloves
@@ -35,15 +35,15 @@
 0010: Strong Gloves
 0010-E: Guantes fuertes
 0011: Magic Gloves
-0011-E: Manoplas m√°gicas
+0011-E: Manoplas m·gicas
 0012: Sevolg
 0012-E: Setnaug
 0013: Expensive Gloves
 0013-E: Guantes de lujo
 0014: Angel Gloves
-0014-E: Manoplas de √°ngel
+0014-E: Manoplas de ·ngel
 0015: Mystical Gloves
-0015-E: Guantes m√≠sticos
+0015-E: Guantes mÌsticos
 0016: Ordinary Shoes
 0016-E: Zapatos ordinarios
 0017: Durable Shoes
@@ -53,7 +53,7 @@
 0019: Ultimate Shoes
 0019-E: Zapatos definitivos
 001A: Mystical Shoes
-001A-E: Calzado m√≠stico
+001A-E: Calzado mÌstico
 001B: Good Shoes
 001B-E: Zapatos de marca
 001C: Rubber Boots
@@ -63,7 +63,7 @@
 001E: Non-Slip Shoes
 001E-E: Antideslizantes
 001F: Handy Yo-Yo
-001F-E: Yoy√≥ pr√°ctico
+001F-E: YoyÛ pr·ctico
 0020: Canine Weapon
 0020-E: Garrote canino
 0021: DCMC Pamphlet
@@ -71,7 +71,7 @@
 0022: Fake Bat
 0022-E: Bate de pega
 0023: Fake Frying Pan
-0023-E: Sart√©n de pega
+0023-E: SartÈn de pega
 0024: Real Bat
 0024-E: Bate genuino
 0025: Mini-Mini Charm
@@ -85,7 +85,7 @@
 0029: Bantam Charm
 0029-E: Amuleto gallina
 002A: Feather Charm
-002A-E: Amuleto plum√≠fero
+002A-E: Amuleto plumÌfero
 002B: Pumice Charm
 002B-E: Amuleto de pumita
 002C: Heavy Charm
@@ -95,7 +95,7 @@
 002E: White Collar
 002E-E: Collar blanco
 002F: Brown Collar
-002F-E: Collar marr√≥n
+002F-E: Collar marrÛn
 0030: Black Collar
 0030-E: Collar negro
 0031: Striped Collar
@@ -109,9 +109,9 @@
 0035: Aloha Coat
 0035-E: Chaqueta aloha
 0036: Warm Sweater
-0036-E: Jersey c√°lido
+0036-E: Jersey c·lido
 0037: Goddess Bustier
-0037-E: Cors√© de diosa
+0037-E: CorsÈ de diosa
 0038: Awesome Cloak
 0038-E: Capa imponente
 0039: Manly Bandana
@@ -119,9 +119,9 @@
 003A: Chick Bandana
 003A-E: Bandana polluelo
 003B: Sparrow Bandana
-003B-E: Bandana gorri√≥n
+003B-E: Bandana gorriÛn
 003C: Rail Bandana
-003C-E: Bandana rasc√≥n
+003C-E: Bandana rascÛn
 003D: Swallow Bandana
 003D-E: Bandana golondrina
 003E: Crow Bandana
@@ -131,7 +131,7 @@
 0040: Horus Bandana
 0040-E: Bandana Horus
 0041: Ordinary Hat
-0041-E: Sombrero com√∫n
+0041-E: Sombrero com˙n
 0042: Cow Hat
 0042-E: Gorro de vaca
 0043: Alligator Hat
@@ -149,7 +149,7 @@
 0049: Fairy Ribbon
 0049-E: Lazo de hada
 004A: Angel Ribbon
-004A-E: Lazo de √°ngel
+004A-E: Lazo de ·ngel
 004B: Goddess Ribbon
 004B-E: Lazo de diosa
 004C: DCMC Hat
@@ -167,9 +167,9 @@
 0052: Taurus Bracelet
 0052-E: Brazal Tauro
 0053: Gemini Bracelet
-0053-E: Brazal G√©minis
+0053-E: Brazal GÈminis
 0054: Cancer Bracelet
-0054-E: Brazal C√°ncer
+0054-E: Brazal C·ncer
 0055: Leo Bracelet
 0055-E: Brazal Leo
 0056: Virgo Bracelet
@@ -201,7 +201,7 @@
 0063: Edible Mushroom
 0063-E: Seta comestible
 0064: Innit Tea
-0064-E: T√© loh√©s
+0064-E: TÈ lohÈs
 0065: Beef Jerky
 0065-E: Carne de ternera
 0066: Fresh Egg
@@ -215,7 +215,7 @@
 006A: Bag of Pork Chips
 006A-E: Patatas porcinas
 006B: Luxury Banana
-006B-E: Pl√°tano lujoso
+006B-E: Pl·tano lujoso
 006C: Bread Roll
 006C-E: Panecillo
 006D: Fizzy Soda
@@ -233,7 +233,7 @@
 0073: Doggy Jerky
 0073-E: Carne de perro
 0074: White Croissant
-0074-E: Cruas√°n blanco
+0074-E: Cruas·n blanco
 0075: Cup of Pork Noodles
 0075-E: Bol de puercofideos
 0076: Pork Stew
@@ -245,7 +245,7 @@
 0079: Lucky Rice
 0079-E: Arroz afortunado
 007A: Lotto Meal
-007A-E: Comida loter√≠a
+007A-E: Comida loterÌa
 007B: Jumbo Shrimp Soup
 007B-E: Sopa de langosta
 007C: Giant Abalone Steak
@@ -265,23 +265,23 @@
 0083: Beefsteak
 0083-E: Bistec
 0084: Rich Kid Stew
-0084-E: Estofado de ni√±o pijo
+0084-E: Estofado de niÒo pijo
 0085: Rich Parfait
 0085-E: Batido pijo
 0086: Hot Dog Sushi
 0086-E: Perrito de sushi
 0087: Magic Gelatin
-0087-E: Gelatina m√°gica
+0087-E: Gelatina m·gica
 0088: Magic Tart
-0088-E: Tartaleta m√°gica
+0088-E: Tartaleta m·gica
 0089: Magic Pudding
-0089-E: Pudin m√°gico
+0089-E: Pudin m·gico
 008A: Magic Cake
-008A-E: Pastel m√°gico
+008A-E: Pastel m·gico
 008B: Antidote
-008B-E: Ant√≠doto
+008B-E: AntÌdoto
 008C: Anti-Paralysis
-008C-E: Anti-par√°lisis
+008C-E: Anti-par·lisis
 008D: Alarm Cicada
 008D-E: Cigarra despertadora
 008E: Fresh Mint
@@ -307,23 +307,23 @@
 0098: Sprinting Bomb
 0098-E: Esprinta-bomba
 0099: Pencil Rocket
-0099-E: L√°piz cohete
+0099-E: L·piz cohete
 009A: Bomb
 009A-E: Bomba
 009B: Super Bomb
-009B-E: S√∫per bomba
+009B-E: S˙per bomba
 009C: New Year's Eve Bomb
 009C-E: Bomba de nochevieja
 009D: Honey Shower
-009D-E: Ducha mel√≠fera
+009D-E: Ducha melÌfera
 009E: Ancient Banana
-009E-E: Pl√°tano pocho
+009E-E: Pl·tano pocho
 009F: Doorknob
 009F-E: Picaporte
 00A0: Bug Spray
 00A0-E: Insecticida
 00A1: Saltwater Gun
-00A1-E: Pistola s√≥dica
+00A1-E: Pistola sÛdica
 00A2: Offense Spray
 00A2-E: Spray de fuerza
 00A3: Defense Spray
@@ -337,9 +337,9 @@
 00A7: Made-You-Look
 00A7-E: Picas-T
 00A8: Dragonfly
-00A8-E: Lib√©lula
+00A8-E: LibÈlula
 00A9: Silver Dragonfly
-00A9-E: Lib√©lula plateada
+00A9-E: LibÈlula plateada
 00AA: Chick
 00AA-E: Polluelo
 00AB: Chicken
@@ -349,35 +349,35 @@
 00AD: Meteotite
 00AD-E: Meteotita
 00AE: Friend's Yo-Yo
-00AE-E: Yoy√≥ de amigo
+00AE-E: YoyÛ de amigo
 00AF: Drago Fang
 00AF-E: Colmillo drago
 00B0: Dung
-00B0-E: Bo√±iga
+00B0-E: BoÒiga
 00B1: Dolphin Ossicle
-00B1-E: Os√≠culo de delf√≠n
+00B1-E: OsÌculo de delfÌn
 00B2: Spiky Weapon
-00B2-E: Yoy√≥ punzante
+00B2-E: YoyÛ punzante
 00B3: Knit Sweater
 00B3-E: Jersey de punto
 00B4: DCMC Boxers
 00B4-E: Calzones DCMC
 00B5: Magic Pendant
-00B5-E: Colgante m√°gico
+00B5-E: Colgante m·gico
 00B6: Encouraging Words
-00B6-E: Palabras de √°nimo
+00B6-E: Palabras de ·nimo
 00B7: Baked Yam
 00B7-E: Boniato asado
 00B8: Mole Cricket Brother
 00B8-E: Grillo topo junior
 00B9: Hermit Crab Shell
-00B9-E: Concha c. ermita√±o
+00B9-E: Concha c. ermitaÒo
 00BA: Suspicious Tea
-00BA-E: T√© sospechoso
+00BA-E: TÈ sospechoso
 00BB: Flame Pendant
-00BB-E: Colgante flam√≠guero
+00BB-E: Colgante flamÌguero
 00BC: Ice Pendant
-00BC-E: Colgante g√©lido
+00BC-E: Colgante gÈlido
 00BD: Thunder Pendant
 00BD-E: Colgante fulminante
 00BE: Courage Badge
@@ -385,13 +385,13 @@
 00BF: Souvenir Dress
 00BF-E: Vestido souvenir
 00C0: Pencil Eraser
-00C0-E: Borra-l√°pices
+00C0-E: Borra-l·pices
 00C1: Franklin Badge
 00C1-E: Broche Franklin
 00C2: Kid's Shirt
 00C2-E: Camiseta infantil
 00C3: Good Kid's Shirt
-00C3-E: Camiseta ni√±o bueno
+00C3-E: Camiseta niÒo bueno
 00C4: Kid's Hat
 00C4-E: Gorra infantil
 00C5: Jar of Yummy Pickles
@@ -401,7 +401,7 @@
 00C7: White Ribbon
 00C7-E: Lazo blanco
 00C8: Bird
-00C8-E: P√°jaro
+00C8-E: P·jaro
 00C9: Memory Snake
 00C9-E: Memoria de ofidio
 00CA: Waters of Time
@@ -435,9 +435,9 @@
 00D8: Smoke Bomb
 00D8-E: Bomba de humo
 00D9: Hypno-Pendulum
-00D9-E: Hipno-p√©ndulo
+00D9-E: Hipno-pÈndulo
 00DA: Scary Mask
-00DA-E: M√°scara susto
+00DA-E: M·scara susto
 00DB: Tickle Stick
 00DB-E: Palo cosquillero
 00DC: Drawbridge Key
@@ -453,15 +453,15 @@
 00E1: Pig Mark Notebook
 00E1-E: Cuaderno porcino
 00E2: Child's Shoe
-00E2-E: Zapato de ni√±o
+00E2-E: Zapato de niÒo
 00E3: Hand File
-00E3-E: Lima de u√±as
+00E3-E: Lima de uÒas
 00E4: Rope Snake
 00E4-E: Serpicuerda
 00E5: Rope Snake DX
 00E5-E: Serpicuerda DX
 00E6: Transceiver
-00E6-E: Tel√©fono m√≥vil
+00E6-E: TelÈfono mÛvil
 00E7: Ticket
 00E7-E: Billete
 00E8: Battle Memory
@@ -487,13 +487,13 @@
 00F2: Osohe Sketch
 00F2-E: Esbozo de Osohe
 00F3: Underground Map
-00F3-E: Mapa subterr√°neo
+00F3-E: Mapa subterr·neo
 00F4: Railway Map
 00F4-E: Mapa ferroviario
 00F5: Area Map
 00F5-E: Mapa del bosque
 00F6: Attic Guide
-00F6-E: Plano del √°tico
+00F6-E: Plano del ·tico
 00F7: Saturn Valley Map
 00F7-E: Mapa del valle Saturn
 00F8: Sea Floor Map
@@ -511,4 +511,4 @@
 00FE: Highway Map
 00FE-E: Mapa de la autopista
 00FF: Factory Sketch
-00FF-E: Esbozo de la f√°brica
+00FF-E: Esbozo de la f·brica
