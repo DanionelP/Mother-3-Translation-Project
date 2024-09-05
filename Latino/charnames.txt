@@ -412,7 +412,7 @@
 0CD:Sea Slug
 0CD-E:Babosa marina
 0CE:Bucket Bros
-0CE-E:Hermanos balde
+0CE-E:Hmns. balde
 0CF:(EMPTY)
 0CF-E:(NADA)
 0D0:The Squeekz
@@ -548,7 +548,7 @@
 111:O2 Machine
 111-E:Máquina O2
 112:Wan Sum Dung
-112-E:  igo Bo igo
+112-E:Íñigo Boñigo
 113:Man
 113-E:Hombre
 114:Gift Box
