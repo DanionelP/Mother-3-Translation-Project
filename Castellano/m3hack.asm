@@ -1217,7 +1217,8 @@ org $9C8F34A; db $E8
 org $9C8F350; db $E8
 org $9C8F356; db $E8
 org $9C8DEB4; incbin gfx_healthscreen_[c].bin
-org $9C8F154; incbin gfx_healthtext_[c].bin
+org $9C8DEA8; dd $9F87A20-$9C8DE98
+org $9F87A20; incbin gfx_healthtext_[c].bin
 
 // insert new "LAB" graphics to replace "LABO"
 org $8F0E670; incbin gfx_lab1_[c].bin
@@ -1290,8 +1291,10 @@ org $8D5A2A8; incbin gfx_titiboo_oil_[c].bin
 org $8DB555C; incbin gfx_debug_[c].bin
 
 // - Tazmily
-org $8DD2260; incbin gfx_bazar1_[c].bin
-org $8DD1ECC; incbin gfx_bazar2_[c].bin
+org $8D3C0F0; dd $1288920
+org $9FC3E00; incbin gfx_bazar1_[c].bin
+org $8D3C0F4; dd $1288578
+org $9FC3A58; incbin gfx_bazar2_[c].bin
 org $9C68724; incbin gfx_bazar_credits.bin
 org $8DD6054; incbin gfx_sheriff1_[c].bin
 org $8DD5D60; incbin gfx_sheriff2_[c].bin
