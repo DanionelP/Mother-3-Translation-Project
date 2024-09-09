@@ -403,7 +403,7 @@
 0-167E:@*hop*[BREAK]  ¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 0-167, 803-27
 0-168:@Do you need to save your game?[BREAK]@Or perhaps transfer DP?[WAIT][MENU 02 00][MENUSPACEYES]Save[MENUSPACEYES]DP Stuff[ENDCHOICES][END]
-0-168E:@¿Necesitas guardar la partida?[BREAK]@¿O tal vez administrar tus PD?[WAIT][MENU 02 00][MENUSPACEYES]Guardar[MENUSPACEYES]PD[ENDCHOICES][END]
+0-168E:@¿Necesitas guardar la partida?[BREAK]@¿O tal vez administrar tu PD?[WAIT][MENU 02 00][MENUSPACEYES]Guardar[MENUSPACEYES]PD[ENDCHOICES][END]
 0-169:@Oh, I see...[BREAK]@Well, please be careful out there.[EVENT][END]
 0-169E:@Oh, ya veo...[BREAK]@Bueno, ten cuidado.[EVENT][END]
 0-170:@Please be careful out there.[EVENT][END]
@@ -2452,431 +2452,431 @@
 21-43E:[SOUND 03 00]  ¡Pío-pí, pío, pío!)[END]
 // Repeats: 19-43, 21-43
 21-44:@Wrong.[WAIT]  I am the wrong frog.[END]
-21-44E:
+21-44E:@Meeeec.[WAIT]  Rana equivocada.[END]
 // Repeats: 21-44, 219-48
 21-45:@Right![BREAK]  Right! Right!![BREAK]  Frog!![BREAK]  The right frog!![END]
-21-45E:
+21-45E:@¡Correcto![BREAK]  ¡Correcto! ¡¡Correcto!![BREAK]  ¡¡Rana!![BREAK]  ¡¡Rana correcta!![END]
 // Repeats: 21-45, 219-49
 21-46:@Hey there, lucky man![END]
-21-46E:
+21-46E:@¡Estás de suerte![END]
 // Repeats: 21-46, 219-50
 21-47:@Ribbit ribbit.[WAIT]@Rabbit rabbit.[END]
-21-47E:
+21-47E:@Croac, croac.[WAIT]@Cuac, cuac.[END]
 // Repeats: 21-47, 219-51
 21-48:@See you later.[END]
-21-48E:
+21-48E:@Nos vemos.[END]
 21-49:[END]
-21-49E:
+21-49E:[END]
 
 [Container 22]
 22-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-22-0E:
+22-0E:@Por fin despiertas, dormilón.[WAIT]@Era hoy cuando volvíais a casa, ¿no?[WAIT]  Os voy a echar de menos.[END]
 // Repeats: 22-0, 23-0
 22-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
-22-1E:
+22-1E:@Clo-cló...[BREAK]  (Por fin despiertas...)[END]
 // Repeats: 22-1, 23-1
 22-2:@Cluck![BREAK]  (You late riser!)[END]
-22-2E:
+22-2E:@¡Clo-cló![BREAK]  (¡Dormilón!)[END]
 // Repeats: 22-2, 23-2
 22-3:@Moo.[WAIT]  (All cows, no matter what they're thinking,[BREAK]  go, "Moo."[WAIT]  It'd be handy to remember that.)[END]
-22-3E:
+22-3E:@Muu.[WAIT]  (Da igual lo que estén pensando,[BREAK]  todas las vacas siempre dicen "Muu."[WAIT]  Sería conveniente recordarlo.)[END]
 // Repeats: 22-3, 23-3
 22-4:@Oink.[BREAK]  (Don't worry about it.)[END]
-22-4E:
+22-4E:@Oink.[BREAK]  (No te preocupes.)[END]
 // Repeats: 22-4, 23-4
 22-5:@Oink oink.[WAIT]  (What the pig next to me says worries me...)[END]
-22-5E:
+22-5E:@Oink, oink.[WAIT]  (Me preocupa lo que dice este otro cerdo...)[END]
 // Repeats: 22-5, 23-5
 22-6:@Whant?![WAIT]  (Watch where you're steppin', will ya?![BREAK]  I'm standing like right here![WAIT]  I'm an ant![PAUSE 28 00]  Don't you dare step on me![WAIT]  I'm standing here 'cause I don't wanna let you[BREAK]  go this way!)[END]
-22-6E:
+22-6E:@¡¿Tikitik?![WAIT]  (¡Mira bien dónde pones los pies, ¿quieres?![BREAK]  ¡Estoy aquí abajo![WAIT]  ¡Soy una hormiga![PAUSE 28 00]  ¡Ni se te ocurra pisarme![WAIT]  ¡Me he puesto aquí para que no vayas[BREAK]  por este camino!)[END]
 // Repeats: 22-6, 23-6
 22-7:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  When you want to talk, use the [COLOR 03 00]A[COLOR 00 00] Button.[WAIT]  When you want to check something, use the[BREAK]  [COLOR 03 00]A[COLOR 00 00] button.[WAIT]  Or, if you want, you can use the [COLOR 03 00]L[COLOR 00 00] Button[BREAK]  instead.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-22-7E:
+22-7E:[SOUND 03 00]@Pío, pío.[WAIT]  (¡Consejo de gorrión![WAIT]  Cuando quieras hablar, usa el botón [COLOR 03 00]A[COLOR 00 00].[WAIT]  Cuando quieras examinar algo,[BREAK]  usa el botón [COLOR 03 00]A[COLOR 00 00].[WAIT]  O, si lo prefieres,[BREAK]  puedes usar el botón [COLOR 03 00]L[COLOR 00 00].[WAIT]  Bueno, y para acabar al estilo gorrión...[EVENT][END]
 // Repeats: 22-7, 23-7
 22-8:[SOUND 03 00]  chirp-chirp chirp!)[END]
-22-8E:
+22-8E:[SOUND 03 00]  ¡pío-pío, pío!)[END]
 // Repeats: 22-8, 23-8
 22-9:@Cluuuck.[WAIT]  (Please don't chase after me.[WAIT]  Please don't chase birds.)[END]
-22-9E:
+22-9E:@Clocló.[WAIT]  (Por favor, no me persigas.[WAIT]  Un respeto a los pollos.)[END]
 // Repeats: 22-9, 23-9
 22-10:@Cluck cluuuck?![WAIT]  (Why are you chasing me?!)[END]
-22-10E:
+22-10E:@¡¿Clo-cló?![WAIT]  (¡¿Por qué me persigues?!)[END]
 // Repeats: 22-10, 23-10
 22-11:@O-oink.[WAIT]  (I wanna see the ocean.)[END]
-22-11E:
+22-11E:@O-oink.[WAIT]  (Quiero ver el mar.)[END]
 // Repeats: 22-11, 23-11
 22-12:@O-oink oink.[WAIT]  (I wanna see a pig seeing the ocean.)[END]
-22-12E:
+22-12E:@O-oink oink.[WAIT]  (Quiero ver a un cerdo viendo el mar.)[END]
 // Repeats: 22-12, 23-12
 22-13:@Moo.[WAIT]  (Wherever and whenever, cows go, "Moo.")[END]
-22-13E:
+22-13E:@Muu.[WAIT]  (Donde veas vacas, oirás "Muu.")[END]
 // Repeats: 22-13, 23-13
 22-14:@...[FLINT 23 01 00].[WAIT]@When I said "froggy intelligence" just now, you[BREAK]  thought, "Whaaaat?" didn't you?[WAIT]@Frogs work for my friend, as messengers.[WAIT]@My friend is able to talk with frogs, lizards,[BREAK]  and what have you.[WAIT]@See that lizard there, for instance?[WAIT]@We just need to go in the direction it tells us.[END]
-22-14E:
+22-14E:@...[FLINT 23 01 00].[WAIT]@Cuando te dije lo de "informadores anfibios",[BREAK]  te quedaste como "¿Quéeee?", ¿verdad?[WAIT]@Mi amiga usa ranas como mensajeras.[WAIT]@También puede hablar con otros seres,[BREAK]  como los lagartos.[WAIT]@Por ejemplo, ¿ves a ese de ahí?[WAIT]@Hemos de seguir la dirección que indique.[END]
 // Repeats: 22-14, 23-14
 22-15:@...[FLINT 23 01 00].[EVENT][END]
-22-15E:
+22-15E:@...[FLINT 23 01 00].[EVENT][END]
 // Repeats: 22-15, 23-15
 22-16:@You have doubts about this friend of mine,[BREAK]  don't you?[WAIT]@My friend - no, friends - are known as[BREAK]  "Magypsies".[WAIT]  They've lived isolated away from civilization[BREAK]  for a very, very long time.[END]
-22-16E:
+22-16E:@Dudas de esta amiga de la que te hablo,[BREAK]  ¿verdad?[WAIT]@Mi amiga - no, amigas - son conocidas como[BREAK]  "Magipsis".[WAIT]  Han vivido aisladas de la civilización[BREAK]  durante muuuuucho tiempo.[END]
 // Repeats: 22-16, 23-16
 22-17:@I see you're not walking as fast now.[WAIT]@It seems the word "Magypsies" has made you[BREAK]  curious.[WAIT]@The Magypsies have mysterious powers,[WAIT]  and have been protecting something here for a[BREAK]  very long time.[WAIT]@They're neither human nor beast,[BREAK]  neither man nor woman.[WAIT]@I have absolutely no idea how old they are.[WAIT]@That explanation didn't explain much, did it?[WAIT]@Basically, they're strange.[WAIT]  All of them.[WAIT]  Every one of them.[WAIT]@That's just how they are.[BREAK]@They ARE good-natured, though.[END]
-22-17E:
+22-17E:@Noto que ya no caminas tan rápido.[WAIT]@Pareces interesado en saber más sobre[BREAK]  estas "Magipsis".[WAIT]@Las Magipsis tienen poderes misteriosos,[WAIT]  y llevan protegiendo "algo" desde tiempos[BREAK]  inmemoriales.[WAIT]@No son ni humanos ni bestias,[BREAK]  ni hombres ni mujeres.[WAIT]@Tampoco sé lo viejas que puedan ser.[WAIT]@Mi explicación no explica mucho, ¿verdad?[WAIT]@Básicamente, son raras.[WAIT]  Todas y cada una de ellas.[WAIT]  Sin excepción.[WAIT]@Así es como son.[BREAK]@Pero SON buena gente.[END]
 // Repeats: 22-17, 23-17
 22-18:@Looks like no one's home.[END]
-22-18E:
+22-18E:@No parece haber nadie en casa.[END]
 // Repeats: 22-18, 23-18
 22-19:@Squeeeeak-squeak squeeeak squeeeeak.[WAIT]  (Not wasting food is a commendable thing.[WAIT]  But that does make things a little harder for[BREAK]  me.)[END]
-22-19E:
+22-19E:@Chiiiii-chi, chiiiiii, chiiiiii.[WAIT]  (La gente no debería tirar la comida.[WAIT]  Aunque... eso me haría la vida[BREAK]  bastante más dura.)[END]
 // Repeats: 22-19, 23-19
 22-20:@Squeeeeeeeeak. (S)[WAIT]  Squeak-squeak-squeak. (O)[WAIT]  Squeeeeeeeeak. (S)[WAIT]@Squeeak-squeak.[WAIT]  (This is no time to be doing Morse Code, is it?)[END]
-22-20E:
+22-20E:@Chiiiiiii. (S)[WAIT]  Chi-chi-chi. (O)[WAIT]  Chiiiiiii. (S)[WAIT]@¿Chii-chii?[WAIT]  (¿Mal momento para hablar en morse?)[END]
 // Repeats: 22-20, 23-20
 22-21:@[42 FF 00 00] dug around in the trash can.[WAIT]@But it was empty.[END]
-22-21E:
+22-21E:@[42 FF 00 00] examinó la papelera.[WAIT]@Pero estaba vacía.[END]
 // Repeats: 22-21, 23-21
 
 [Container 23]
 23-0:@Oh, you're up, sleepyhead.[WAIT]@Well, today's the day you head back home.[WAIT]  I'm gonna miss you guys.[END]
-23-0E:
+23-0E:@Por fin despiertas, dormilón.[WAIT]@Era hoy cuando volvíais a casa, ¿no?[WAIT]  Os voy a echar de menos.[END]
 // Repeats: 22-0, 23-0
 23-1:@Cluck cluck?[BREAK]  (You're awake, cluck?)[END]
-23-1E:
+23-1E:@Clo-cló...[BREAK]  (Por fin despiertas...)[END]
 // Repeats: 22-1, 23-1
 23-2:@Cluck![BREAK]  (You late riser!)[END]
-23-2E:
+23-2E:@¡Clo-cló![BREAK]  (¡Dormilón!)[END]
 // Repeats: 22-2, 23-2
 23-3:@Moo.[WAIT]  (All cows, no matter what they're thinking,[BREAK]  go, "Moo."[WAIT]  It'd be handy to remember that.)[END]
-23-3E:
+23-3E:@Muu.[WAIT]  (Da igual lo que estén pensando,[BREAK]  todas las vacas siempre dicen "Muu."[WAIT]  Sería conveniente recordarlo.)[END]
 // Repeats: 22-3, 23-3
 23-4:@Oink.[BREAK]  (Don't worry about it.)[END]
-23-4E:
+23-4E:@Oink.[BREAK]  (No te preocupes.)[END]
 // Repeats: 22-4, 23-4
 23-5:@Oink oink.[WAIT]  (What the pig next to me is saying worries[BREAK]  me...)[END]
-23-5E:
+23-5E:@Oink, oink.[WAIT]  (Me preocupa lo que dice este otro cerdo...)[END]
 // Repeats: 22-5, 23-5
 23-6:@Whant?![WAIT]  (Watch where you're steppin', will ya?![BREAK]  I'm standing like right here![WAIT]  I'm an ant![PAUSE 28 00]  Don't you dare step on me![WAIT]  I'm standing here 'cause I don't wanna let you[BREAK]  go this way!)[END]
-23-6E:
+23-6E:@¡¿Tikitik?![WAIT]  (¡Mira bien dónde pones los pies, ¿quieres?![BREAK]  ¡Estoy aquí abajo![WAIT]  ¡Soy una hormiga![PAUSE 28 00]  ¡Ni se te ocurra pisarme![WAIT]  ¡Me he puesto aquí para que no vayas[BREAK]  por este camino!)[END]
 // Repeats: 22-6, 23-6
 23-7:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  When you want to talk, use the [COLOR 03 00]A[COLOR 00 00] Button.[WAIT]  When you want to check something, use the[BREAK]  [COLOR 03 00]A[COLOR 00 00] button.[WAIT]  Or, if you want, you can use the [COLOR 03 00]L[COLOR 00 00] Button[BREAK]  instead.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-23-7E:
+23-7E:[SOUND 03 00]@Pío, pío.[WAIT]  (¡Consejo de gorrión![WAIT]  Cuando quieras hablar, usa el botón [COLOR 03 00]A[COLOR 00 00].[WAIT]  Cuando quieras examinar algo,[BREAK]  usa el botón [COLOR 03 00]A[COLOR 00 00].[WAIT]  O, si lo prefieres,[BREAK]  puedes usar el botón [COLOR 03 00]L[COLOR 00 00].[WAIT]  Bueno, y para acabar al estilo gorrión...[EVENT][END]
 // Repeats: 22-7, 23-7
 23-8:[SOUND 03 00]  chirp-chirp chirp!)[END]
-23-8E:
+23-8E:[SOUND 03 00]  ¡pío-pío, pío!)[END]
 // Repeats: 22-8, 23-8
 23-9:@Cluuuck.[WAIT]  (Please don't chase after me.[WAIT]  Please don't chase birds.)[END]
-23-9E:
+23-9E:@Clocló.[WAIT]  (Por favor, no me persigas.[WAIT]  Un respeto a los pollos.)[END]
 // Repeats: 22-9, 23-9
 23-10:@Cluck cluuuck?![WAIT]  (Why are you chasing me?!)[END]
-23-10E:
+23-10E:@¡¿Clo-cló?![WAIT]  (¡¿Por qué me persigues?!)[END]
 // Repeats: 22-10, 23-10
 23-11:@O-oink.[WAIT]  (I wanna see the ocean.)[END]
-23-11E:
+23-11E:@O-oink.[WAIT]  (Quiero ver el mar.)[END]
 // Repeats: 22-11, 23-11
 23-12:@O-oink oink.[WAIT]  (I wanna see a pig seeing the ocean.)[END]
-23-12E:
+23-12E:@O-oink oink.[WAIT]  (Quiero ver a un cerdo viendo el mar.)[END]
 // Repeats: 22-12, 23-12
 23-13:@Moo.[WAIT]  (Wherever and whenever, cows go, "Moo.")[END]
-23-13E:
+23-13E:@Muu.[WAIT]  (Donde veas vacas, oirás "Muu.")[END]
 // Repeats: 22-13, 23-13
 23-14:@...[FLINT 23 01 00].[WAIT]@When I said "froggy intelligence" just now, you[BREAK]  thought, "Whaaaat?" didn't you?[WAIT]@Frogs work for my friend, as messengers.[WAIT]@My friend is able to talk with frogs, lizards,[BREAK]  and what have you.[WAIT]@See that lizard there, for instance?[WAIT]@We just need to go in the direction it tells us.[END]
-23-14E:
+23-14E:@...[FLINT 23 01 00].[WAIT]@Cuando te dije lo de "informadores anfibios",[BREAK]  te quedaste como "¿Quéeee?", ¿verdad?[WAIT]@Mi amiga usa ranas como mensajeras.[WAIT]@También puede hablar con otros seres,[BREAK]  como los lagartos.[WAIT]@Por ejemplo, ¿ves a ese de ahí?[WAIT]@Hemos de seguir la dirección que indique.[END]
 // Repeats: 22-14, 23-14
 23-15:@...[FLINT 23 01 00].[EVENT][END]
-23-15E:
+23-15E:@...[FLINT 23 01 00].[EVENT][END]
 // Repeats: 22-15, 23-15
 23-16:@You have doubts about this friend of mine,[BREAK]  don't you?[WAIT]@My friend - no, friends - are known as[BREAK]  "Magypsies".[WAIT]  They've lived isolated away from civilization[BREAK]  for a very, very long time.[END]
-23-16E:
+23-16E:@Dudas de esta amiga de la que te hablo,[BREAK]  ¿verdad?[WAIT]@Mi amiga - no, amigas - son conocidas como[BREAK]  "Magipsis".[WAIT]  Han vivido aisladas de la civilización[BREAK]  durante muuuuucho tiempo.[END]
 // Repeats: 22-16, 23-16
 23-17:@I see you're not walking as fast now.[WAIT]@It seems the word "Magypsies" has made you[BREAK]  curious.[WAIT]@The Magypsies have mysterious powers,[WAIT]  and have been protecting something here for a[BREAK]  very long time.[WAIT]@They're neither human nor beast,[BREAK]  neither man nor woman.[WAIT]@I have absolutely no idea how old they are.[WAIT]@That explanation didn't explain much, did it?[WAIT]@Basically, they're strange.[WAIT]  All of them.[WAIT]  Every one of them.[WAIT]@That's just how they are.[BREAK]@They ARE good-natured, though.[END]
-23-17E:
+23-17E:@Noto que ya no caminas tan rápido.[WAIT]@Pareces interesado en saber más sobre[BREAK]  estas "Magipsis".[WAIT]@Las Magipsis tienen poderes misteriosos,[WAIT]  y llevan protegiendo "algo" desde tiempos[BREAK]  inmemoriales.[WAIT]@No son ni humanos ni bestias,[BREAK]  ni hombres ni mujeres.[WAIT]@Tampoco sé lo viejas que puedan ser.[WAIT]@Mi explicación no explica mucho, ¿verdad?[WAIT]@Básicamente, son raras.[WAIT]  Todas y cada una de ellas.[WAIT]  Sin excepción.[WAIT]@Así es como son.[BREAK]@Pero SON buena gente.[END]
 // Repeats: 22-17, 23-17
 23-18:@Looks like no one's home.[END]
-23-18E:
+23-18E:@No parece haber nadie en casa.[END]
 // Repeats: 22-18, 23-18
 23-19:@Squeeeeak-squeak squeeeak squeeeeak.[WAIT]  (Not wasting food is a commendable thing.[WAIT]  But that does make things a little harder for[BREAK]  me.)[END]
-23-19E:
+23-19E:@Chiiiii-chi, chiiiiii, chiiiiii.[WAIT]  (La gente no debería tirar la comida.[WAIT]  Aunque... eso me haría la vida[BREAK]  bastante más dura.)[END]
 // Repeats: 22-19, 23-19
 23-20:@Squeeeeeeeeak. (S)[WAIT]  Squeak-squeak-squeak. (O)[WAIT]  Squeeeeeeeeak. (S)[WAIT]@Squeeak-squeak.[WAIT]  (This is no time to be doing Morse Code, is it?)[END]
-23-20E:
+23-20E:@Chiiiiiii. (S)[WAIT]  Chi-chi-chi. (O)[WAIT]  Chiiiiiii. (S)[WAIT]@¿Chii-chii?[WAIT]  (¿Mal momento para hablar en morse?)[END]
 // Repeats: 22-20, 23-20
 23-21:@[42 FF 00 00] dug around in the trash can.[WAIT]@But it was empty.[END]
-23-21E:
+23-21E:@[42 FF 00 00] examinó la papelera.[WAIT]@Pero estaba vacía.[END]
 // Repeats: 22-21, 23-21
 23-22:@Ahead: Argilla Pass[WAIT]@I know how you feel,[PAUSE 1E 00] but stay away.[END]
-23-22E:
+23-22E:@Más adelante: Paso Argilla[WAIT]@Suena bien,[PAUSE 1E 00] pero es peligroso.[END]
 23-23:@Argilla Pass[WAIT]  Also known as "Stumble Pass".[WAIT]  Be careful not to drop anything.[END]
-23-23E:
+23-23E:@Paso Argilla[WAIT]  "El paso de los tambaleos".[WAIT]  Vigila que no se te caiga nada.[END]
 23-24:@Oh![EVENT][END]
-23-24E:
+23-24E:@¡Oh![EVENT][END]
 23-25:@I recognize this area.[WAIT]@Ionia's house is north of here.[BREAK]  The western path should lead us there.[WAIT]@Let's go![END]
-23-25E:
+23-25E:@Reconozco este sitio.[WAIT]@La casa de Ionia está al norte.[BREAK]  El sendero oeste nos llevará hasta allí.[WAIT]@¡Vamos![END]
 
 [Container 24]
 24-0:@A metal object you've never seen before is[BREAK]  sitting here.[END]
-24-0E:
+24-0E:@Un extraño artefacto metálico que jamás[BREAK]  habías visto.[END]
 24-1:[END]
-24-1E:
+24-1E:[END]
 
 [Container 25]
 25-0:@Thick, tangled-up vines block the entrance.[END]
-25-0E:
+25-0E:@Una gruesa red de lianas cubre la entrada.[END]
 // Repeats: 25-0, 709-0
 25-1:@[42 FF F0 FF]'s [ITEM C1 00] reflected the[BREAK]  masked man's lightning right back at him![END]
-25-1E:
+25-1E:@¡El [ITEM C1 00] de [42 FF F0 FF] reflejó[BREAK]  el rayo contra el enmascarado![END]
 // Repeats: 25-1, 709-1
 25-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-25-2E:
+25-2E:@El tiempo no fluye en estas lianas.[WAIT]@¿Verter las [ITEM CA 00] sobre ellas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 25-3:[END]
-25-3E:
+25-3E:[END]
 
 [Container 26]
 26-0:@This belongs to [CLAUS 22 05 00]![WAIT]@And that was a baby Drago just now.[WAIT]@[CLAUS 22 05 00] MUST be around here[BREAK]  somewhere![END]
-26-0E:
+26-0E:@¡Esto es de [CLAUS 22 05 00]![WAIT]@Y eso era una cría de Drago.[WAIT]@¡[CLAUS 22 05 00] TIENE que estar[BREAK]  por aquí cerca![END]
 26-1:@This is one of [CLAUS 22 05 00]'s favorite[BREAK]  shoes...[END]
-26-1E:
+26-1E:@Este es uno de los zapatos favoritos[BREAK]  de [CLAUS 22 05 00]...[END]
 26-2:@Got the Child's Shoe![PAUSE 40 00][END]
-26-2E:
+26-2E:@¡Conseguiste el Zapato de niño![PAUSE 40 00][END]
 26-3:@This looks just like the thing you saw atop that[BREAK]  cliff earlier.[WAIT]@This one appears to be broken, however.[END]
-26-3E:
+26-3E:@Esta cosa se parece a la que había[BREAK]  en lo alto del risco.[WAIT]@Pero esta parece estar rota.[END]
 26-4:[SOUND 03 00]@Chirp chirp.[WAIT]  (Up ahead is Drago territory. Please be careful[BREAK]  if you're heading further in.[WAIT]  Now, to end this with a sparrow-like...[EVENT][END]
-26-4E:
+26-4E:[SOUND 03 00]@Pío, pío.[WAIT]  (Este es el territorio de los Dragos.[BREAK]  Ten cuidado si planeas adentrarte en él.[WAIT]  Ahora, para acabar al estilo gorrión...[EVENT][END]
 26-5:[SOUND 03 00]  chirp chirp-chirp!)[END]
-26-5E:
+26-5E:[SOUND 03 00]  ¡pío, pío-pío!)[END]
 26-6:@Looks like we finally made it to the Dragos'[BREAK]  lair.[END]
-26-6E:
+26-6E:@Esta tiene pinta de ser la guarida[BREAK]  de los Dragos.[END]
 26-7:@It's [CLAUS 22 05 00]'s other shoe...[END]
-26-7E:
+26-7E:@El otro zapato de [CLAUS 22 05 00]...[END]
 26-8:@[CLAUS 22 05 00]! We're here to rescue you![WAIT]@Where are you?![END]
-26-8E:
+26-8E:@¡[CLAUS 22 05 00]! ¡Venimos a rescatarte![WAIT]@¡¿Dónde estás?![END]
 26-9:@What is THAT?![WAIT]@That's[PAUSE 20 00] not a Drago anymore.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@I have a bad feeling about this...![END]
-26-9E:
+26-9E:@¡¿Qué es ESO?![WAIT]@Eso[PAUSE 20 00] ya ni siquiera es un Drago.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@¡Tengo un mal presentimiento...![END]
 
 [Container 28]
 28-0:@There is cold, clean water here.[END]
-28-0E:
+28-0E:@Agua fresca y cristalina.[END]
 28-1:@There is cold, clean water here.[PAUSE 20 00][BREAK]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00]But [PAUSE 10 00]it smells kind of dung-like.[END]
-28-1E:
+28-1E:@Agua fresca y cristalina.[PAUSE 20 00][BREAK]  .[PAUSE 04 00].[PAUSE 04 00].[PAUSE 04 00]Pero [PAUSE 10 00]huele a boñiga.[END]
 28-2:@Drink some?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-28-2E:
+28-2E:@¿Quieres beber un poco?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 28-3:@[42 FF 00 00] felt much better![END]
-28-3E:
+28-3E:@¡[42 FF 00 00] se sintió mucho mejor![END]
 28-4:@I am Wan Sum Dung.[WAIT]@I don't have any dung to roll, so I'm not a true[BREAK]  dung beetle.[WAIT]@I'm so sad.[END]
-28-4E:
+28-4E:@Soy Íñigo Boñigo.[WAIT]@No tengo boñigas, así que[BREAK]  no hago honor a mi nombre.[WAIT]@Es un asco.[END]
 28-5:@If you ever happen to come across some dung,[BREAK]  please bring it to me.[WAIT]@I'll always be here, so please bring me some.[END]
-28-5E:
+28-5E:@Si encuentras alguna boñiga por ahí tirada,[BREAK]  tráemela, por favor.[WAIT]@Esperaré aquí hasta entonces.[END]
 28-6:@If you're tired, have a drink from this oasis.[END]
-28-6E:
+28-6E:@Puedes beber del oasis, te vendrá bien.[END]
 28-7:@I wonder how everyone else got their dung...[END]
-28-7E:
+28-7E:@¿De dónde sacarán los demás sus boñigas?[END]
 28-8:@I finally tried rolling that dung you gave me...[WAIT]  ...but I was so nervous that I accidentally[BREAK]  dropped it in the oasis.[WAIT]@Think you could get me some more?[END]
-28-8E:
+28-8E:@He intentado rodar la boñiga que me diste...[WAIT]  ...pero estaba tan nervioso que acabé[BREAK]  tirándola al oasis.[WAIT]@¿Podrías traerme alguna más?[END]
 28-9:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-9E:
+28-9E:@¡¡Quiero rodar boñigas!![BREAK]  ¡¡¡No importa de qué tipo sean!!![WAIT]@...*suspiro*[WAIT]@¡Estoy triste y confuso![WAIT]@Espera, ¡¿me has traído una boñiga?![WAIT][PAUSE 20 00]@¿Y dices que me la vas a dar? ¿Gratis?[WAIT]@¡Oh, gracias, gracias, gracias![WAIT]@¡Yupiiiiiii![PAUSE 10 00] ¡¡¡A rodar!!![BREAK]  ¡Hasta los confines del desierto! ¡Sí![END]
 28-10:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 05 00] experience points![PAUSE 40 00][END]
-28-10E:
+28-10E:@¡[42 FF 00 00] y compañía recibieron[BREAK]  [80 FF 05 00] puntos de experiencia![PAUSE 40 00][END]
 28-11:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh! This is quite rare, exquisitely-aged dung! [WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-11E:
+28-11E:@¡¡Quiero rodar boñigas!![BREAK]  ¡¡¡No importa de qué tipo sean!!![WAIT]@...*suspiro*[WAIT]@¡Estoy triste y confuso![WAIT]@Espera, ¡¿me has traído una boñiga?![WAIT][PAUSE 20 00]@¿Y dices que me la vas a dar? ¿Gratis?[WAIT]@¡Oh! ¡Y además es de las buenas![WAIT]@¡Oh, gracias, gracias, gracias![WAIT]@¡Yupiiiiiii![PAUSE 10 00] ¡¡¡A rodar!!![BREAK]  ¡Hasta los confines del desierto! ¡Sí![END]
 28-12:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 0A 00] experience points![PAUSE 40 00][END]
-28-12E:
+28-12E:@¡[42 FF 00 00] y compañía recibieron[BREAK]  [80 FF 0A 00] puntos de experiencia![PAUSE 40 00][END]
 28-13:@You felt something warm inside your heart.[END]
 28-13E:@Sentiste algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-14:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh, my![WAIT]@This is the Legendary Dung, which is said to be[BREAK]  dung but also NOT dung![WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
-28-14E:
+28-14E:@¡¡Quiero rodar boñigas!![BREAK]  ¡¡¡No importa de qué tipo sean!!![WAIT]@...*suspiro*[WAIT]@¡Estoy triste y confuso![WAIT]@Espera, ¡¿me has traído una boñiga?![WAIT][PAUSE 20 00]@¿Y dices que me la vas a dar? ¿Gratis?[WAIT]@¡Dios mío![WAIT]@¡Esta es la Boñiga legendaria, la cual[BREAK]  es boñiga SIN serlo realmente![WAIT]@¡Oh, gracias, gracias, gracias![WAIT]@¡Yupiiiiiii![PAUSE 10 00] ¡¡¡A rodar!!![BREAK]  ¡Hasta los confines del desierto! ¡Sí![END]
 28-15:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 32 00] experience points![PAUSE 40 00][END]
-28-15E:
+28-15E:@¡[42 FF 00 00] y compañía recibieron[BREAK]  [80 FF 32 00] puntos de experiencia![PAUSE 40 00][END]
 28-16:@You felt something warm inside your heart.[END]
 28-16E:@Sentiste algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-17:@Frogs in a desert?[WAIT]@It's actually not as crazy as you might think.[WAIT]@Some species of frogs, such as "sand frogs",[BREAK]  do exist in arid, desert regions like Africa.[WAIT]@During seasons with little to no precipitation,[WAIT]  these frogs burrow into the ground to protect[BREAK]  themselves from the harsh, dry climate.[END]
-28-17E:
+28-17E:@¿Ranas en el desierto?[WAIT]@No es tan descabellado como piensas.[WAIT]@Algunas especies, como la "rana de la arena",[BREAK]  existen en zonas desérticas como África.[WAIT]@En épocas de escasas precipitaciones,[WAIT]  estas ranas se entierran bajo el suelo para[BREAK]  protegerse del duro y árido clima.[END]
 28-18:@All that spinning and dizziness actually started[BREAK]  to feel kind of nice after a while...[END]
-28-18E:
+28-18E:@Tanto giro y mareo comenzaba a resultar[BREAK]  agradable y todo...[END]
 28-19:@Thanks for saving me when I needed help.[WAIT]@Anyways, while we're at it...[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-28-19E:
+28-19E:@Muchas gracias por tu ayuda.[WAIT]@Por cierto, ya que estamos...[WAIT]@*hop*[BREAK]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 28-20:@So dizzyyyy![WAIT]@Help me, ribbiiit![END]
-28-20E:
+28-20E:@¡Qué mareeeeoo![WAIT]@¡Ayúdame, croact![END]
 28-21:@Listen, monkey![WAIT]@That's a Cactus Wolf, the meanest thing in the[BREAK]  desert.[WAIT]@But we can't get inside with him standing[BREAK]  there.[WAIT]@Go beat him up.[WAIT]  Lose, and I'll have an extra serving of[BREAK]  punishment ready just for you![END]
-28-21E:
+28-21E:@¡Escucha, mono![WAIT]@Eso es un Cactulobo, la criatura más[BREAK]  mezquina del desierto.[WAIT]@No podremos pasar mientras[BREAK]  esté ahí plantado.[WAIT]@Ve y machácalo.[WAIT]  ¡Pierde, y tendré lista una ración extra[BREAK]  de castigo sólo para ti![END]
 28-22:@Get in, you![END]
-28-22E:
+28-22E:@¡Entra![END]
 28-23:[END]
-28-23E:
+28-23E:[END]
 
 [Container 29]
 29-0:@(What, do you expect cow bones to talk or[BREAK]  something?)[END]
-29-0E:
+29-0E:@(¿Acaso esperas que unos huesos[BREAK]  te digan algo?)[END]
 29-1:@(What do you expect from me?)[END]
-29-1E:
+29-1E:@(¿Qué quieres que te diga?)[END]
 29-2:@(In life, this cow WAS famous for having such[BREAK]  a quiet side...)[END]
-29-2E:
+29-2E:@(Esta vaca ERA famosa por llevar[BREAK]  una vida reservada...)[END]
 29-3:@(I'm a pile of real cow bones.[WAIT]  Real cow bones don't talk without good[BREAK]  reason.)[END]
-29-3E:
+29-3E:@(Soy un montón de huesos...[WAIT]  Sólo hablo si tengo una buena razón[BREAK]  para ello.)[END]
 29-4:@Got a [ITEM 6B 00]![END]
-29-4E:
+29-4E:@¡Conseguiste un [ITEM 6B 00]![END]
 29-5:@Inside the present, there was[BREAK]  a [ITEM 6B 00].[WAIT]@But you can't hold any more stuff.[END]
-29-5E:
+29-5E:@Dentro del regalo había[BREAK]  un [ITEM 6B 00].[WAIT]@Pero no puedes llevar más cosas.[END]
 29-6:@You gave up the [ITEM 6B 00].[END]
-29-6E:
+29-6E:@Dejaste el [ITEM 6B 00].[END]
 29-7:@Oh! That's a [ITEM 6B 00]![WAIT]@Hey, you! Stupid monkey![EVENT][END]
-29-7E:
+29-7E:@¡Oh! ¡Eso es un [ITEM 6B 00]![WAIT]@¡Eh, tú! ¡Mono estúpido![EVENT][END]
 29-8:@If you think you've earned that [ITEM 6B 00],[BREAK]  then you better think again![WAIT]@Gimme that![END]
-29-8E:
+29-8E:@¡Si piensas que te mereces ese [ITEM 6B 00],[BREAK]  mejor que sigas soñando![WAIT]@¡Dámelo![END]
 29-9:[END]
-29-9E:
+29-9E:[END]
 
 [Container 30]
 30-0:@Alright, monkey! Listen up![WAIT]@If you don't do your job...[EVENT][END]
-30-0E:
+30-0E:@¡Vale, mono! ¡Escúchame![WAIT]@Si no haces tu trabajo...[EVENT][END]
 30-1:@...then this girlie monkey is as good as dead.[END]
-30-1E:
+30-1E:@...esta ricura va a acabar muy mal.[END]
 30-2:@Do what you're supposed to, and you'll get to[BREAK]  have a nice, happy reunion later.[WAIT]  Understand?![WAIT]@Both you...[EVENT][END]
-30-2E:
+30-2E:@Haz lo que se te ordene y podrás gozar[BREAK]  de un feliz reencuentro más tarde.[WAIT]  ¡¿Entendido?![WAIT]@Ándate con ojo...[EVENT][END]
 30-3:@...and this girlie monkey could wind up dead, if[BREAK]  you're not careful![END]
-30-3E:
+30-3E:@...¡o tanto tu amiguita como tú acabaréis[BREAK]  criando malvas![END]
 30-4:@Well? How do you like it?[WAIT]@That lovely thing around your neck is no[BREAK]  ordinary collar.[WAIT]@It's so advanced that even if you ran to the[BREAK]  ends of the desert,[WAIT]  punishing you would still be a snap.[END]
-30-4E:
+30-4E:@¿Y bien? ¿Qué te parece?[WAIT]@Eso que llevas en el cuello[BREAK]  no es un collar cualquiera.[WAIT]@Aunque huyeses hasta la otra punta[BREAK]  del desierto,[WAIT]  te tendría totalmente a mi merced.[END]
 30-5:@Come to think of it, monkey, you don't have a[BREAK]  name, do you?[WAIT]@You're going to need one from here on out.[WAIT]@I hope you can come up with something cute.[BREAK]  Nwehehehehe![END]
-30-5E:
+30-5E:@Ahora que lo pienso, mono, ni siquiera[BREAK]  tienes nombre...[WAIT]@Pues necesitarás uno a partir de ahora.[WAIT]@Espero que se te ocurra uno bonito.[BREAK]  ¡Ñiejejejejejeje![END]
 30-6:@Alright, stupid monkey! [SALSA 23 06 00]![WAIT]@I'll only say this once, so listen close![WAIT]@If you wanna enjoy your little journey with me,[BREAK]  just remember these two things.[END]
-30-6E:
+30-6E:@¡Vale, mono estúpido! ¡[SALSA 23 06 00]![WAIT]@¡Sólo lo diré una vez, así que atiende![WAIT]@Si quieres disfrutar de este viaje conmigo,[BREAK]  ten presentes dos cosas.[END]
 30-7:@You and I are buddies.[WAIT]@...Don't you dare try to run away from me.[WAIT]@Always behave, and act nice and friendly.[WAIT]  Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-7E:
+30-7E:@Somos compañeros.[WAIT]@...Ni se te ocurra intentar huir de mí.[WAIT]@Compórtate y muéstrate siempre amistoso.[WAIT]  ¿Lo captas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 30-8:@You don't get it, huh?[BREAK]  Then I'll say it just one more time.[WAIT]@You and I are buddies.[WAIT]@...Don't you dare try to run away from me.[WAIT]@Always behave, and act nice and friendly.[WAIT]  Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-8E:
+30-8E:@No lo pillas, ¿eh?[BREAK]  Tan sólo te lo diré una vez más.[WAIT]@Somos compañeros.[WAIT]@...Ni se te ocurra intentar huir de mí.[WAIT]@Compórtate y muéstrate siempre amistoso.[WAIT]  ¿Lo captas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 30-9:@Good boy.[WAIT]@The second thing to remember: never disobey[BREAK]  my commands.[WAIT]@If I say dance, you dance![WAIT]@If I say laugh, you laugh![WAIT]@It's that simple.[WAIT]  Got it?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-9E:
+30-9E:@Buen chico.[WAIT]@Lo segundo que has de recordar:[BREAK]  nunca me desobedezcas.[WAIT]@¡Si digo que bailes, bailas![WAIT]@¡Si digo que te rías, te ríes![WAIT]@Así de simple.[WAIT]  ¡¿Lo captas?![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 30-10:@You don't get it, huh?[BREAK]  Then I'll say it just one more time.[WAIT]@Never disobey my commands.[WAIT]@If I say dance, you dance![WAIT]@If I say laugh, you laugh![WAIT]@It's that simple.[WAIT]  Got it?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-10E:
+30-10E:@No lo pillas, ¿eh?[BREAK]  Tan sólo te lo diré una vez más.[WAIT]@Nunca me desobedezcas.[WAIT]@¡Si digo que bailes, bailas![WAIT]@¡Si digo que te rías, te ríes![WAIT]@Así de simple.[WAIT]  ¡¿Lo captas?![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 30-11:@Do what I say, and we'll both get through this[BREAK]  without any hard feelings.[WAIT]@Nwehehehehe.[END]
-30-11E:
+30-11E:@Haz lo que te diga, y no habrá nada[BREAK]  de lo que arrepentirse.[WAIT]@Ñiejejejejejeje.[END]
 30-12:@Oh...?[WAIT]  What's that defiant look in your eyes?[WAIT]@Dance![END]
-30-12E:
+30-12E:@¿Eh...?[WAIT]  ¿Y ese brillo desafiante en tu mirada?[WAIT]@¡Baile![END]
 30-13:@Nwahahahahahaha.[WAIT]@That's such a silly monkey dance that just[BREAK]  watching it is embarrassing![WAIT]@Try a different dance.[END]
-30-13E:
+30-13E:@Ñiajajajajajajaja.[WAIT]@¡Esta danza simiesca es tan estúpida[BREAK]  que da vergüenza con solo mirar![WAIT]@Haz otro baile.[END]
 30-14:@Good boy.[BREAK]  Laugh![END]
-30-14E:
+30-14E:@Buen chico.[BREAK]  ¡Ríe![END]
 30-15:@Backflip![END]
 30-15E:@¡Haz un mortal![END]
 // Repeats: 0-120, 30-15
 30-16:@Good boy. Good job.[WAIT]@No doubt everyone'll believe we're a[BREAK]  performance duo now.[END]
-30-16E:
+30-16E:@Buen chico. Así se hace.[WAIT]@Así todos creerán que somos[BREAK]  unos artistas ambulantes.[END]
 30-17:@......[WAIT]@Hey, you stupid monkey![WAIT]  You only get to cry when I tell you to![WAIT]@No crying on your own! It's punishment time![END]
-30-17E:
+30-17E:@......[WAIT]@¡Eh, mono estúpido![WAIT]  ¡Llorarás sólo cuando yo te lo diga![WAIT]@¡Nada de llantos espontáneos! ¡Castigo![END]
 30-18:@Hey, you! Quit sleeping on the job![WAIT]@Alright, listen![WAIT]  There's a white, round building west of here.[WAIT]  We're going there![END]
-30-18E:
+30-18E:@¡Eh! ¡Nada de dormir en el trabajo![WAIT]@¡Bien, escúchame![WAIT]  Hay un edificio blanco y ovalado al oeste.[WAIT]  ¡Allí nos dirigimos![END]
 30-19:@You wound up being taken with Fassad![PAUSE A0 00][END]
-30-19E:
+30-19E:@¡Has acabado como compañero de Falhaz![PAUSE A0 00][END]
 30-20:@Heya.[WAIT]@I saw everything.[WAIT]@Be strong. Endure it.[WAIT]@I'm sure things will start to go your way[BREAK]  someday.[WAIT]@To help that day come...[PAUSE 5A 00][BREAK]  ...will you save your game now?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-30-20E:
+30-20E:@Buenas.[WAIT]@Lo he visto todo.[WAIT]@Sé fuerte. Aguanta.[WAIT]@Estoy seguro de que las cosas mejorarán[BREAK]  con el tiempo.[WAIT]@Pero por ahora...[PAUSE 5A 00][BREAK]  ...¿guardarás tu partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 30-21:@So you're gonna endure not saving, too?[BREAK]  Is that how you prefer it?[WAIT]@Well, I have no choice but to accept that.[WAIT]@Be careful out there.[END]
-30-21E:
+30-21E:@Entonces, ¿aguantarás sin guardar?[BREAK]  ¿Prefieres hacerlo así?[WAIT]@Bueno, no me queda otra que aceptarlo.[WAIT]@Ten mucho cuidado.[END]
 30-22:@There's nothing here.[WAIT]  Well, there IS more than enough sand, but[BREAK]  that's about it.[END]
-30-22E:
+30-22E:@Aquí no hay nada.[WAIT]  Bueno, HAY arena hasta aburrir,[BREAK]  pero nada más.[END]
 30-23:[END]
-30-23E:
+30-23E:[END]
 
 [Container 31]
 31-0:@Be sure to talk to frogs once in a while.[END]
-31-0E:
+31-0E:@Siempre que puedas, habla con las ranas.[END]
 31-1:@Ribbit ribbit.[WAIT]  I recommend saving as often as possible.[END]
-31-1E:
+31-1E:@Croac, croac.[WAIT]  Te recomiendo que guardes a menudo.[END]
 31-2:@[LUCAS 22 03 00] and [CLAUS 22 05 00]'s clothes[BREAK]  are being hung out to dry.[END]
-31-2E:
+31-2E:@La ropa de [LUCAS 22 03 00] y [CLAUS 22 05 00][BREAK]  ha sido puesta a secar.[END]
 31-3:@The mailbox is empty.[END]
 31-3E:@El buzón está vacío.[END]
 // Repeats: 2-34, 12-34, 31-3, 210-3
 31-4:@[END]
-31-4E:
+31-4E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 31-5:[SOUND 03 00]@Woof woof![WAIT]  (I can take you for a walk if you'd like,[BREAK]  [LUCAS 23 02 00].)[END]
-31-5E:
+31-5E:[SOUND 03 00]@¡Guau, guau![WAIT]  (Puedo sacarte a pasear si te apetece,[BREAK]  [LUCAS 23 02 00].)[END]
 31-6:[SOUND 03 00]@Woo-woof![WAIT]  (Okay, alright. I'll take you for a walk!)[END]
-31-6E:
+31-6E:[SOUND 03 00]@¡Gua-guau![WAIT]  (De acuerdo, ¡te sacaré de paseo!)[END]
 31-7:@[BONEY 23 05 00] joined your party![PAUSE F0 00][END]
-31-7E:
+31-7E:@¡[BONEY 23 05 00] se unió al grupo![PAUSE F0 00][END]
 31-8:@Hey! You, there! Boy![WAIT]@I realize this might be a bit of a bother, but[BREAK]  please come talk to me.[WAIT][PAUSE 3C 00]@I have very important information for you.[END]
-31-8E:
+31-8E:@¡Eh! ¡Tú! ¡Chico![WAIT]@Sé que es un peñazo, pero acércate[BREAK]  a hablar conmigo, por favor.[WAIT][PAUSE 3C 00]@Tengo información muy importante para ti.[END]
 31-9:@From this day forth, you'll be rewarded for[BREAK]  your hard work.[WAIT]@It'll be given in units called DP (Dragon Power).[WAIT]@You can use DP in shops and other places[BREAK]  in exchange for goods and services.[WAIT]@It seems you've already earned[BREAK]  [80 FF F0 FF] DP so far.[WAIT]@You can save and withdraw DP anytime by[BREAK]  talking to nearby frogs.[WAIT]@Some frogs in special locations can't conduct[BREAK]  DP transactions, though.[WAIT]@Shall I explain all that again?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-31-9E:
+31-9E:@A partir de ahora, tu duro trabajo[BREAK]  se verá recompensado.[WAIT]@Recibirás una cosa llamada PD (Poder Dragón).[WAIT]@Puedes canjear el PD por bienes y servicios[BREAK]  en tiendas y otros lugares.[WAIT]@Parece ser que ya has ganado[BREAK]  [80 FF F0 FF] PD.[WAIT]@Puedes depositar y retirar PD[BREAK]  si hablas con las ranas.[WAIT]@Sin embargo, no todas te dejarán[BREAK]  realizar estas transacciones.[WAIT]@¿Te lo explico de nuevo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 31-10:@Alright, then. Let's try it out.[END]
-31-10E:
+31-10E:@Está bien. Probemos.[END]
 31-11:@Hey, now. I asked you nicely, didn't I?[WAIT]@I realize this might be a bit of a bother, [PAUSE 0C 00]but[BREAK]  [PAUSE 0C 00]please [PAUSE 0C 00]come [PAUSE 0C 00]talk [PAUSE 0C 00]to [PAUSE 0C 00]me![END]
-31-11E:
+31-11E:@¡Oye, te lo he pedido amablemente![WAIT]@Sé que es un peñazo, [PAUSE 0C 00]pero [PAUSE 0C 00]acércate  [PAUSE 0C 00][BREAK]  a [PAUSE 0C 00]hablar [PAUSE 0C 00]conmigo, [PAUSE 0C 00]¡por favor![END]
 31-12:@You must really love being unhappy if you still[BREAK]  refuse to get a Happy Box after all this.[END]
-31-12E:
+31-12E:@Debes disfrutar mucho con tu infelicidad,[BREAK]  si no deseas una Caja feliz tras esto.[END]
 31-13:@So, this is Tazmily's famous Lightning House?![WAIT]@It really is incredible![WAIT]@It was definitely worth coming all the way here[BREAK]  to see![END]
-31-13E:
+31-13E:@¡¿Esta es la famosa Casa de los rayos?![WAIT]@¡Es increíble![WAIT]@¡Definitivamente ha merecido la pena[BREAK]  venir hasta aquí a verla![END]
 31-14:@This simple atmosphere...[BREAK]  This smell of livestock and sea breezes...[WAIT]@This is the only part of Tazmily that hasn't[BREAK]  changed a bit in the past three years.[END]
-31-14E:
+31-14E:@Esta atmósfera sencilla...[BREAK]  Este olor a granja y brisa marina...[WAIT]@Esta es la única parte de Tazmily que no[BREAK]  ha cambiado nada en estos tres años.[END]
 31-15:@Time certainly flies, doesn't it?[WAIT][PAUSE 5A 00]@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-31-15E:
+31-15E:@El tiempo pasa volando, ¿eh?[WAIT][PAUSE 5A 00]@*hop*[BREAK]  ¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 31-16:@You're holding out on saving, but I hope you're[BREAK]  not holding out on using the bathroom, too.[END]
-31-16E:
+31-16E:@Te estás aguantando las ganas de guardar[BREAK]  Espero que no te aguantes las de ir al baño.[END]
 31-17:@This annoying onlooker just won't move out of[BREAK]  the way,[WAIT]  so I've been keeping watch this whole time.[WAIT]@He's not very suspicious, though.[END]
-31-17E:
+31-17E:@Ese mirón molesto no parece[BREAK]  tener planes de largarse,[WAIT]  por eso me dedico a vigilarlo día y noche.[WAIT]@Pero no veo nada sospechoso.[END]
 31-18:@Being an annoying onlooker is actually pretty[BREAK]  tough work.[WAIT]@I have to stand in this one spot for a really[BREAK]  long time, for example.[END]
-31-18E:
+31-18E:@Ser un mirón molesto es[BREAK]  más duro de lo que parece.[WAIT]@Tener que estar aquí de pie[BREAK]  tanto tiempo es agotador.[END]
 31-19:@Baaa.[WAIT]  (Lightning is scaryyyy. *smile*)[END]
-31-19E:
+31-19E:@Beee.[WAIT]  (Los rayos dan mieeeedo. *sonrisa*)[END]
 31-20:@Baa.[WAIT]  (I got charred black. *smile*)[END]
-31-20E:
+31-20E:@Bee.[WAIT]  (Estoy chamuscada. *sonrisa*)[END]
 31-21:@Baaaa.[WAIT]  (Wild animals are afraid of lightning, but[BREAK]  livestock are actually pretty okay with it.)[END]
-31-21E:
+31-21E:@Beeee.[WAIT]  (Los animales salvajes temen los rayos.[BREAK]  Los de granja lo llevamos algo mejor.)[END]
 31-22:@Baaa.[WAIT]  (Just in case you've forgotten, I'm a charred[BREAK]  sheep, not a black sheep. *smile*)[END]
-31-22E:
+31-22E:@Beee.[WAIT]  (Recuerda: estoy chamuscada, no es que[BREAK]  sea una oveja negra. *sonrisa*)[END]
 31-23:@Baaa.[WAIT]  (You'll get dirty if you touch me. *smile*)[END]
-31-23E:
+31-23E:@Beee.[WAIT]  (Si me tocas, te ensuciarás. *sonrisa*)[END]
 31-24:@Baa...[WAIT]  (I wanna be a black sheep too...)[END]
-31-24E:
+31-24E:@Bee...[WAIT]  (Yo también quiero ser una oveja negra...)[END]
 31-25:@Baaa.[WAIT]  (My charred fur is starting to return to[BREAK]  normal. *smile*)[END]
-31-25E:
+31-25E:@Beee.[WAIT]  (Mi pelaje está empiezando a volver[BREAK]  a la normalidad. *sonrisa*)[END]
 31-26:@Baaa.[WAIT]  (This is how I always wanted to look. *smile*)[END]
-31-26E:
+31-26E:@Beee.[WAIT]  (Siempre quise tener este aspecto. *sonrisa*)[END]
 31-27:@Baa...[WAIT]  (I'm so jealous of the charred guys.[BREAK]  They get to experience different things...)[END]
-31-27E:
+31-27E:@Bee...[WAIT]  (Envidio a las ovejas chamuscadas.[BREAK]  Debe ser toda una experiencia...)[END]
 31-28:@Baa.[WAIT]  ([FLINT 23 01 00] says he doesn't want to go to[BREAK]  the big city. *smile*)[END]
-31-28E:
+31-28E:@Bee.[WAIT]  ([FLINT 23 01 00] dice que se niega a irse[BREAK]  a la gran ciudad. *sonrisa*)[END]
 31-29:@Baaa.[WAIT]  (Nearly all the villagers have left. *smile*)[END]
-31-29E:
+31-29E:@Beee.[WAIT]  (Casi todos se han ido ya. *sonrisa*)[END]
 31-30:@Baaa.[WAIT]  (Your dad is still looking for [CLAUS 22 05 00],[BREAK]  even after all this time. *smile*)[END]
-31-30E:
+31-30E:@Beee.[WAIT]  (Tu padre sigue buscando a [CLAUS 22 05 00][BREAK]  después de todo este tiempo. *sonrisa*)[END]
 31-31:@I can't believe anyone would want to leave this[BREAK]  village.[WAIT]@But...[PAUSE 20 00] it's starting to get hard for me to stay,[BREAK]  too.[END]
-31-31E:
+31-31E:@No puedo creer que la gente[BREAK]  quiera irse del pueblo.[WAIT]@Aunque...[PAUSE 20 00] yo también estoy[BREAK]  empezando a planteármelo.[END]
 31-32:@You![WAIT]@You guys are suspicious![WAIT]  ...[PAUSE 1E 00]But not nearly as suspicious as that[BREAK]  "*hop* *hop*" guy.[WAIT]@He's clearly suspicious![WAIT]@But I don't think he's up to anything bad.[END]
-31-32E:
+31-32E:@¡Vosotros![WAIT]@¡Parecéis sospechosos![WAIT]  ...[PAUSE 1E 00]Pero no tan sospechosos como[BREAK]  ese tío que dice "*hop* *hop*".[WAIT]@¡Ese sí que es sospechoso![WAIT]@Aunque no creo que esté tramando nada malo.[END]
 31-33:@It sounds like you've done all kinds of things[BREAK]  while I've stood in this spot this whole time.[WAIT]@I'm a little bit jealous.[END]
-31-33E:
+31-33E:@Parece como si hubiéseis hecho miles de[BREAK]  cosas mientras yo estaba aquí plantado.[WAIT]@Estoy un pelín celoso.[END]
 31-34:@You guys seem to be getting stronger little[BREAK]  by little.[PAUSE 1E 00] It's kind of scary.[END]
-31-34E:
+31-34E:@Da la sensación de que cada vez os volvéis[BREAK]  más y más fuertes.[PAUSE 1E 00] Me dáis miedo.[END]
 31-35:@It sounds like you've done all kinds of things[BREAK]  while I've stood in this spot this whole time.[WAIT]@I'm really jealous.[WAIT]@In a way, [PAUSE 20 00]you kind of scare me.[END]
-31-35E:
+31-35E:@Parece como si hubiéseis hecho miles de[BREAK]  cosas mientras yo estaba aquí plantado.[WAIT]@Estoy muy celoso.[WAIT]@En cierto modo, [PAUSE 20 00]me dáis miedo.[END]
 31-36:@This annoying onlooker's not such a bad guy[BREAK]  after all.[WAIT]@He feels less and less like a stranger as time[BREAK]  goes on.[END]
-31-36E:
+31-36E:@Ese mirón molesto no es tan malo,[BREAK]  después de todo.[WAIT]@Con el tiempo le he pillado algo de cariño.[END]
 31-37:@I like this masked guy. He knows the score.[WAIT]@He's got a nice mask, too.[END]
-31-37E:
+31-37E:@Ese enmascarado mola. Se las sabe todas.[WAIT]@Y su casco es chulísimo.[END]
 31-38:@Looks like we're going to need to build a new[BREAK]  sheep pen...[END]
-31-38E:
+31-38E:@Vamos a tener que construir otro establo[BREAK]  para las ovejas...[END]
 31-39:@Are you headed somewhere?[WAIT]@...Oh, I see.[WAIT]  You're going to the factory to look for[BREAK]  [DUSTER 23 03 00].[END]
-31-39E:
+31-39E:@¿Te diriges a algún sitio?[WAIT]@...Oh, ya veo.[WAIT]  Vas a la fábrica para buscar a[BREAK]  [DUSTER 23 03 00].[END]
 31-40:@Take this with you.[END]
-31-40E:
+31-40E:@Llévate esto.[END]
 31-41:@Your mom will keep watch over you.[WAIT]@Good luck, now.[END]
-31-41E:
+31-41E:@Tu madre siempre velará por ti.[WAIT]@Buena suerte.[END]
 31-42:@What the...?[BREAK]  You're holding too many things.[WAIT]@Go get rid of something first.[END]
-31-42E:
+31-42E:@¿Pero qué...?[BREAK]  Llevas demasiadas cosas.[WAIT]@Deshazte de algo primero.[END]
 31-43:@Are you going too, [BONEY 23 05 00]?[WAIT]@Yeah, that's right.[WAIT]@I'll just be tending to the sheep here, so just[BREAK]  drop by and take a take a load off sometimes.[END]
-31-43E:
+31-43E:@¿Tú también vas, [BONEY 23 05 00]?[WAIT]@Vale, de acuerdo.[WAIT]@Yo me quedaré aquí atendiendo a las ovejas,[BREAK]  a ver si os pasáis a verme alguna vez.[END]
 31-44:@Woof![BREAK]  (You can count on me, [LUCAS 23 02 00]!)[END]
-31-44E:
+31-44E:@¡Guau![BREAK]  (¡Cuenta conmigo, [LUCAS 23 02 00]!)[END]
 31-45:@You're heading out again?[WAIT]@Don't cause Ionia too much trouble now, you[BREAK]  hear?[END]
-31-45E:
+31-45E:@¿Os váis de nuevo?[WAIT]@No le déis muchos problemas a Ionia,[BREAK]  ¿vale?[END]
 31-46:@The sheep pen has been struck by lightning.[BREAK]  There's almost nothing left of it.[END]
-31-46E:
+31-46E:@El establo ha sido alcanzado por un rayo.[BREAK]  Ha quedado hecho trizas.[END]
 31-47:@The sheep pen has been struck by lightning.[BREAK]  There's almost no trace of it left.[END]
-31-47E:
+31-47E:@El establo ha sido alcanzado por un rayo.[BREAK]  Ha quedado destrozado.[END]
 
 [Container 32]
 32-0:@Did you think so much beauty would blossom[BREAK]  up in only three years?[WAIT]@Huh?[PAUSE 10 00] What?[PAUSE 10 00] Am I talking about myself?[WAIT]@No, of course not. I'm talking about Tazmily.[END]
@@ -9520,7 +9520,7 @@
 210-10:@Hi, little monkey...[WAIT]@I wanna be strong, too.[END]
 210-10E:
 210-11:@[END]
-210-11E:
+210-11E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 210-12:@*whimper*...[BREAK]  (You have such a sad look, Mr. Monkey...)[END]
 210-12E:
@@ -10107,16 +10107,16 @@
 219-47E:
 // Repeats: 33-47, 219-47
 219-48:@Wrong.[WAIT]  I am the wrong frog.[END]
-219-48E:
+219-48E:@Meeeec.[WAIT]  Rana equivocada.[END]
 // Repeats: 21-44, 219-48
 219-49:@Right![BREAK]  Right! Right!![BREAK]  Frog!![BREAK]  The right frog!![END]
-219-49E:
+219-49E:@¡Correcto![BREAK]  ¡Correcto! ¡¡Correcto!![BREAK]  ¡¡Rana!![BREAK]  ¡¡Rana correcta!![END]
 // Repeats: 21-45, 219-49
 219-50:@Hey there, lucky man![END]
-219-50E:
+219-50E:@¡Estás de suerte![END]
 // Repeats: 21-46, 219-50
 219-51:@Ribbit ribbit.[WAIT]@Rabbit rabbit.[END]
-219-51E:
+219-51E:@Croac, croac.[WAIT]@Cuac, cuac.[END]
 // Repeats: 21-47, 219-51
 
 [Container 220]
@@ -10838,7 +10838,7 @@
 233-49E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 233-50:@[END]
-233-50E:
+233-50E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 233-51:@Thanks[PAUSE 28 00].[PAUSE 28 00].[PAUSE 28 00].[PAUSE A0 00][END]
 233-51E:
@@ -17990,7 +17990,7 @@
 
 [Container 649]
 649-0:@[END]
-649-0E:
+649-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 649-1:[END]
 649-1E:
@@ -18322,7 +18322,7 @@
 
 [Container 666]
 666-0:@[END]
-666-0E:
+666-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 666-1:[END]
 666-1E:
@@ -18552,13 +18552,13 @@
 
 [Container 709]
 709-0:@Thick, tangled-up vines block the entrance.[END]
-709-0E:
+709-0E:@Una gruesa red de lianas cubre la entrada.[END]
 // Repeats: 25-0, 709-0
 709-1:@[42 FF F0 FF]'s Franklin Badge reflected the[BREAK]  masked man's lightning back at him![END]
-709-1E:
+709-1E:@¡El Broche Franklin de [42 FF F0 FF] reflejó[BREAK]  el rayo contra el enmascarado![END]
 // Repeats: 25-1, 709-1
 709-2:@These vines are frozen in time.[WAIT]@Sprinkle your [ITEM CA 00] on them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-709-2E:
+709-2E:@El tiempo no fluye en estas lianas.[WAIT]@¿Verter las [ITEM CA 00] sobre ellas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 709-3:@[CLAUS 22 05 00] gave his final breath.[END]
 709-3E:
@@ -18593,14 +18593,14 @@
 
 [Container 711]
 711-0:@[END]
-711-0E:
+711-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 711-1:[END]
 711-1E:
 
 [Container 712]
 712-0:@[END]
-712-0E:
+712-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 712-1:[END]
 712-1E:
@@ -18729,7 +18729,7 @@
 
 [Container 804]
 804-0:@[END]
-804-0E:
+804-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 804-1:[END]
 804-1E:
@@ -18985,7 +18985,7 @@
 
 [Container 821]
 821-0:@[END]
-821-0E:
+821-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 821-1:[END]
 821-1E:
@@ -19229,7 +19229,7 @@
 
 [Container 838]
 838-0:@[END]
-838-0E:
+838-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 838-1:[END]
 838-1E:
@@ -19258,7 +19258,7 @@
 
 [Container 840]
 840-0:@[END]
-840-0E:
+840-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 840-1:[END]
 840-1E:

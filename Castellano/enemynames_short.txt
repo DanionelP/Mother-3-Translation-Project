@@ -1,4 +1,3 @@
-// Short enemy names must be 19 letters or less
 (nada)
 Caribú reconst.
 Don pasión
@@ -35,7 +34,7 @@ Rinocohete v2
 Sustobot
 "El Rata"
 Pirodóptero
-Mecha-León
+Mecha-león
 Corte de carretera
 Trotaseta
 Petardo graznante

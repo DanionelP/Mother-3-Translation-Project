@@ -1183,6 +1183,20 @@ org $80B3F66; bl battle_hacks.item_steal_text2; b $80B3FE8
 //                                    GRAPHICS HACKS
 //============================================================================================
 
+// Insert Osohe Sketch
+org $9B1F45C; incbin gfx_sketch_osohe_1.bin
+org $9B81B5C; incbin gfx_sketch_osohe_2.bin
+
+// Insert Thunder Tower Sketch
+org $9B5E8DC; incbin gfx_sketch_tower.bin
+
+// Insert Highway Sketch
+org $9B73A7C; incbin gfx_sketch_highway.bin
+
+// Insert Laboratory Sketch
+org $9B6595C; incbin gfx_sketch_lab.bin
+org $9B6A9DC; incbin gfx_sketch_lab_arrangement.bin
+
 // insert ATM graphics
 org $9AFD8D0; incbin gfx_frogatm.bin
 
@@ -1206,7 +1220,7 @@ org $98AA8D0; incbin gfx_3yearslater.bin
 org $9C98A28; incbin gfx_youwon.bin
 
 // Insert text speed/window flavor graphics
-org $9BA141C; incbin gfx_flavours.bin
+org $9BA0D9C; incbin gfx_flavours.bin
 
 // Insert new Health Screen graphics
 org $9C8F332; db $E8 // Move the flashy text up by 8 pixels
