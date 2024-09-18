@@ -3753,11 +3753,11 @@
 38-56:@That's dangerous![BREAK]@What the heck are you thinking?![END]
 38-56E:@¡Eso es peligroso![BREAK]@¡¿Qué narices se te ha pasado por la cabeza?![END]
 38-57:@I dunno what your story is, but you're still[BREAK]  young! Don't just throw away your life![WAIT]@Okay?![WAIT]@Alright, then. Now that you understand, go on![WAIT]@And just forget about me.[WAIT]@See ya.[END]
-38-57E:@No sé ni quién eres, ¡pero aún eres jovenl[BREAK]  ¡No eches tu vida a perder![WAIT]@¡¿Entendido?![WAIT]@Vale. ¡Si lo has entendido puedes seguir![WAIT]@Y olvídate de mí.[WAIT]@Nos vemos.[END]
+38-57E:@No sé ni quién eres, ¡pero aún eres joven![BREAK]  ¡No eches tu vida a perder![WAIT]@¡¿Entendido?![WAIT]@Vale. ¡Si lo has entendido puedes seguir![WAIT]@Y olvídate de mí.[WAIT]@Nos vemos.[END]
 38-58:@Your life was saved.[END]
 38-58E:@Te han salvado la vida.[END]
 38-59:@You again?![WAIT]@How many times do I have to say it?![WAIT]  You're young! Don't be throwing your life[BREAK]  away![END]
-38-59E:@¡¿Tú otra vez?![WAIT]@¡¿Cuántas veces te lo tengo que decir?![WAIT]  ¡Eres joven! Don't be throwing your life[BREAK]  away![END]
+38-59E:@¡¿Tú otra vez?![WAIT]@¡¿Cuántas veces te lo tengo que decir?![WAIT]  ¡Eres joven! ¡No eches tu vida a perder![END]
 38-60:@Youthful impatience, huh?[WAIT]  I dunno what your deal is, but you should apply[BREAK]  that to art or something more constructive![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
 38-60E:@La impaciencia juvenil, ¿eh?[WAIT]  ¡No sé qué pretendes, pero deberías usar[BREAK]  esa energía para algo más constructivo![WAIT]@¡Mira, soy un hombre muy ocupado![WAIT]@¡No me des más trabajo del que ya tengo![WAIT]@¡Nos vemos![END]
 38-61:@Hold it! Hold it![END]
@@ -4036,90 +4036,90 @@
 42-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 42-27:@*hop*[BREAK]  I'm a magic butterfrog.[WAIT]@I'm not very proud of my name.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-42-27E:
+42-27E:@*hop*[BREAK]  Soy una ranaposa mágica.[WAIT]@No estoy muy orgullosa de mi nombre.[WAIT]@¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 42-27, 203-27, 263-27
 42-28:@Your vague expression...[WAIT]  I guess it must be my name, huh?[END]
-42-28E:
+42-28E:@Esa expresión en tu rostro...[WAIT]  Es por mi nombre, ¿verdad?[END]
 // Repeats: 42-28, 203-28, 263-28
 42-29:@Woof![END]
-42-29E:
+42-29E:@¡Guau![END]
 // Repeats: 42-29, 203-29, 263-29
 42-30:@Woof woof woof woof![END]
-42-30E:
+42-30E:@¡Guau, guau, guau, guau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 42-31:@Girlish clothes are lying on the ground.[END]
-42-31E:
+42-31E:@Hay ropa de mujer en el suelo.[END]
 // Repeats: 42-31, 203-31, 263-31
 42-32:@*whimper*[END]
-42-32E:
+42-32E:@*gemido*[END]
 // Repeats: 42-32, 203-32, 263-32
 42-33:@Aiiiieee! [HEART][BREAK]  You caught me stark naked![WAIT]@Oh, aren't you that boy I met at Aeolia's house[BREAK]  three years ago? [HEART][WAIT]@Remember? You said you were going to the[BREAK]  Drago Plateau to avenge your mother...[END]
-42-33E:
+42-33E:@¡Ayyy! [HEART][BREAK]  ¡Me has pillado desnuda![WAIT]@Oh, ¿tú no eres ese niño al que conocí[BREAK]  en casa de Aeolia hace tres años? [HEART][WAIT]@¿Te acuerdas? Decías que ibas a la meseta[BREAK]  Drago para vengar a tu madre...[END]
 // Repeats: 42-33, 203-33, 263-33
 42-34:@Huh? That wasn't you?![WAIT]@Really? How odd...[WAIT]@I'm Ionia, one of the Magypsies. [HEART][END]
-42-34E:
+42-34E:@¿Eh? ¡¿Que no eras tú?![WAIT]@¿En serio? Qué raro...[WAIT]@Soy Ionia, una de las Magipsis. [HEART][END]
 // Repeats: 42-34, 203-34, 263-34
 42-35:@This is a Magic Butterfly colony.[WAIT]@I often come here to be revitalized after I've[BREAK]  worn myself out by overusing my PSI. [HEART][END]
-42-35E:
+42-35E:@Esto es una colonia de mariposas mágicas.[WAIT]@Siempre vengo aquí a relajarme[BREAK]  tras agotar mis poderes PSI. [HEART][END]
 // Repeats: 42-35, 203-35, 263-35
 42-36:@Are you here because you overused your PSI,[BREAK]  too? [HEART][EVENT][END]
-42-36E:
+42-36E:@¿Tú también vienes a restaurar tu PSI? [HEART][EVENT][END]
 // Repeats: 42-36, 203-36, 263-36
 42-37:@...Oh?[BREAK]  You've never heard of PSI?[END]
-42-37E:
+42-37E:@...¿Oh?[BREAK]  ¿Nunca has oído hablar del PSI?[END]
 // Repeats: 42-37, 203-37, 263-37
 42-38:@...That's odd.[WAIT]  I sense loads of magical power coming from[BREAK]  you. [HEART][END]
-42-38E:
+42-38E:@...Pues es extraño.[WAIT]  Porque siento un gran poder mágico[BREAK]  en tu interior. [HEART][END]
 // Repeats: 42-38, 203-38, 263-38
 42-39:@[PAUSE 5A 00]...Wait.[WAIT]@Just endure it for a little bit.[END]
-42-39E:
+42-39E:@[PAUSE 5A 00]...Espera.[WAIT]@Aguanta un segundín de nada.[END]
 // Repeats: 42-39, 203-39, 263-39
 42-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-42-40E:
+42-40E:@¡Algo despertó dentro de [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 42-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
-42-41E:
+42-41E:@¡[LUCAS 23 02 00] aprendió [25 FF F0 FF]![EVENT][END]
 // Repeats: 42-41, 203-41, 263-41
 42-42:@Lastly, power welled up from deep within his[BREAK]  heart![EVENT][END]
-42-42E:
+42-42E:@¡Un misterioso poder parece haber surgido[BREAK]  de lo más profundo de su corazón![EVENT][END]
 // Repeats: 42-42, 203-42, 263-42
 42-43:@[LUCAS 23 02 00] learned [FAVTHING]![END]
-42-43E:
+42-43E:@¡[LUCAS 23 02 00] aprendió [FAVTHING]![END]
 // Repeats: 42-43, 203-43, 263-43
 42-44:@[LUCAS 23 02 00] learned how to use PSI![END]
-42-44E:
+42-44E:@¡[LUCAS 23 02 00] aprendió a usar el PSI![END]
 // Repeats: 42-44, 203-44, 263-44
 42-45:@Oh! My goodness! [HEART][WAIT]@I can't believe it![WAIT]  You can use PK [FAVTHING]![BREAK]  Not even we Magypsies are able to use it![WAIT]@You sly devil, you! [HEART][END]
-42-45E:
+42-45E:@¡Oh! ¡Madre mía! [HEART][WAIT]@¡No me lo puedo creer![WAIT]  ¡Puedes usar PK [FAVTHING]![BREAK]  ¡Ni siquiera las Magipsis podemos dominarlo![WAIT]@¡Míralo, y parecía bobo! [HEART][END]
 // Repeats: 42-45, 203-45, 263-45
 42-46:@I don't know where you come from or where[BREAK]  you're going,[WAIT]  but we might meet again. [HEART][END]
-42-46E:
+42-46E:@No sé de dónde vienes[BREAK]  ni a dónde te diriges,[WAIT]  pero quizás volvamos a vernos. [HEART][END]
 // Repeats: 42-46, 203-46, 263-46
 42-47:@So at least tell me your name.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Thanks. I'll remember that. [HEART][END]
-42-47E:
+42-47E:@Así que dime tu nombre al menos.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Gracias. Lo recordaré. [HEART][END]
 // Repeats: 42-47, 203-47, 263-47
 42-48:@Now go.[WAIT]@I want to boil up, too. [HEART][END]
-42-48E:
+42-48E:@Ahora ve.[WAIT]@Yo seguiré cociéndome aquí. [HEART][END]
 // Repeats: 42-48, 203-48, 263-48
 42-49:@You really love hot springs, don't you?[WAIT]@So do I. [HEART][END]
-42-49E:
+42-49E:@Te gustan mucho las aguas termales, ¿eh?[WAIT]@Ya somos dos. [HEART][END]
 // Repeats: 42-49, 203-49, 263-49
 
 [Container 43]
 43-0:@A boulder is blocking the way.[END]
-43-0E:
+43-0E:@Pedrolo bloquea el camino.[END]
 43-1:@[LUCAS 23 02 00] spoke the [ITEM B6 00][BREAK]  to the boulder![END]
-43-1E:
+43-1E:@[LUCAS 23 02 00] le contó las [ITEM B6 00][BREAK]  a Pedrolo![END]
 43-2:@The boulder appears to feel better.[END]
-43-2E:
+43-2E:@Pedrolo se siente mejor.[END]
 43-3:@A Vertiboulder.[END]
-43-3E:
+43-3E:@Este pedrolo se llama Vertidrolo.[END]
 43-4:@A Horizontiboulder.[END]
-43-4E:
+43-4E:@Este pedrolo se llama Horizontidrolo.[END]
 43-5:@The boulder moved out of the way.[END]
-43-5E:
+43-5E:@El pedrolo se apartó del camino.[END]
 43-6:@The boulder won't budge at all.[END]
-43-6E:
+43-6E:@Imposible mover semejante pedrolo.[END]
 43-7:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@And actually, we've started to branch out into[BREAK]  the business world.[WAIT]@With franchises opening up everywhere, we're[BREAK]  now at the forefront of business evolution.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@I could let you have some of them, if you'd[BREAK]  like.[WAIT]@Well? Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 43-7E:@Incluso nosotros, los grillos topo, nos.[BREAK]  ganamos la vida como mejor podemos.[WAIT]@Hace poco nos hemos iniciado[BREAK]  en el mundo de los negocios.[WAIT]@Con nuestras franquicias en plena expansión,[BREAK]  lideramos la evolución del mercado.[WAIT]@Tenemos una amplia gama de objetos[BREAK]  que encontramos tirados... [PAUSE 0F 00]eeeh, de precio.[WAIT]@Si te interesa, podemos ofrecerte[BREAK]  alguna cosilla.[WAIT]@¿Qué? ¿Quieres echar un ojo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 36-28, 43-7, 96-28, 180-28, 181-28, 182-28, 192-28, 327-28, 328-28, 329-28, 330-28, 331-28, 332-28, 373-28, 374-28, 375-28, 376-28, 377-28, 378-28, 379-28
@@ -4132,25 +4132,25 @@
 
 [Container 45]
 45-0:@[LEFT]Tazmily[BREAK]  Factory[RIGHT][WAIT]  [UP]Cliff[BREAK]  [DOWN]Tracks[END]
-45-0E:
+45-0E:@[LEFT]Tazmily[BREAK]  Fábrica[RIGHT][WAIT]  [UP]Risco[BREAK]  [DOWN]Vías del tren[END]
 45-1:@Please don't write graffiti on signs.[WAIT]  Like "Hot Dog". Or "Dog Food".[END]
-45-1E:
+45-1E:@Por favor, no hagan grafitis en los carteles.[WAIT]  Como "Perrito caliente" y esas cosas.[END]
 45-2:[SOUND 03 00]@Chirp-chirp.[WAIT]  (Sparrow Advice![WAIT]  Have you ever noticed that you can send weak[BREAK]  enemies flying if you dash into them?[WAIT]  Feels pretty good, huh?[WAIT]  Pretty addicting, huh?[WAIT]  But those don't count as real fights, so they[BREAK]  won't net you any so-called experience points.[WAIT]  Huh?[PAUSE 20 00] You already knew that?![WAIT]  Or are you just pretending to know?[PAUSE 20 00][WAIT]  You're not pretending, are you?[WAIT]  Well, in any case, time to end this with a[BREAK]  sparrow-like...[EVENT][END]
-45-2E:
+45-2E:[SOUND 03 00]@Pío-pío.[WAIT]  (¡Consejo de gorrión![WAIT]  ¿Te has dado cuenta de que puedes mandar[BREAK]  volando a tus enemigos si los embistes?[WAIT]  Sienta bien, ¿eh?[WAIT]  Resulta adictivo, ¿eh?[WAIT]  ¡Pues eso NO cuenta como una batalla real,[BREAK]  así que no recibirás puntos de experiencia![WAIT]  ¿Qué?[PAUSE 20 00] ¿Que ya lo sabías?![WAIT]  ¿O solamente haces como que lo sabes?[PAUSE 20 00][WAIT]  No me estarás tomando el pelo, ¿no?[WAIT]  Bueno, sea como sea, es hora de[BREAK]  acabar esto al estilo gorrión...[EVENT][END]
 45-3:[SOUND 03 00]  chirp chirp-chirp-chirp!)[END]
-45-3E:
+45-3E:[SOUND 03 00]  ¡pío, pío-pío-pío!)[END]
 
 [Container 46]
 46-0:[END]
-46-0E:
+46-0E:[END]
 46-1:[END]
-46-1E:
+46-1E:[END]
 
 [Container 47]
 47-0:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you a factory worker?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-47-0E:
+47-0E:@La tarifa para empleados es de 50 PD.[WAIT]@Para el resto de la gente, el precio del[BREAK]  billete asciende a 2500 PD por cabeza.[WAIT]@¿Tú trabajas en la fábrica?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 47-1:@It's 50 DP per person for factory workers.[WAIT]@For everyone else, a ticket to Cross Road[BREAK]  Station is 2500 DP per person.[WAIT]@Are you factory workers?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-47-1E:
+47-1E:@La tarifa para empleados es de 50 PD.[WAIT]@Para el resto de la gente, el precio del[BREAK]  billete asciende a 2500 PD por cabeza.[WAIT]@¿Vosotros trabajáis en la fábrica?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 47-2:@You're lying, aren't you?[END]
 47-2E:@Es mentira, ¿verdad?[END]
 // Repeats: 38-82, 47-2
@@ -4164,7 +4164,7 @@
 47-5E:@Dos billetes cuestan 5000 PD.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 38-85, 47-5
 47-6:@Then three tickets will be 7500 DP.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-47-6E:
+47-6E:@Tres billetes cuestan 7500 PD.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 38-86, 47-6
 47-7:@Then four tickets will be 10,000 DP.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 47-7E:@Cuatro billetes cuestan 10 000 PD.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
@@ -4179,9 +4179,9 @@
 47-10E:@¡MEEEC![PAUSE 1E 00] ¡Dinero insuficiente![END]
 // Repeats: 38-89, 38-90, 47-9, 47-10
 47-11:@Then I suggest you walk to Tazmily.[END]
-47-11E:
+47-11E:@Pues a caminar, que es muy sano.[END]
 47-12:@Factory![PAUSE 10 00] Factory![PAUSE 20 00][BREAK]@Thank you for riding with us today![END]
-47-12E:
+47-12E:@¡La fábrica![PAUSE 10 00] ¡La fábrica![PAUSE 20 00][BREAK]@¡Gracias por viajar con nosotros![END]
 47-13:@The train won't be coming for a while.[END]
 47-13E:@No habrá trenes en un buen rato.[END]
 // Repeats: 38-47, 47-13
@@ -4222,51 +4222,51 @@
 47-25E:@Oh, ya veo.[WAIT]@De vez en cuando,[WAIT]  aparecen tarugos que prefieren ir[BREAK]  caminando por las malditas vías.[WAIT]  A lo mejor eso es más de tu agrado,[BREAK]  si se me permite la sugerencia.[END]
 // Repeats: 38-116, 47-25
 47-26:@We are increasing the number of Cattlesnakes.[WAIT]@They are extremely dangerous.[BREAK]  If you see one, stay away.[WAIT]  View them from a distance only![BREAK]                   -Chimera Laboratory[END]
-47-26E:
+47-26E:@Estamos creando más y más Vacacondas.[WAIT]@Son extremadamente peligrosas.[BREAK]  Si ves una, mantente alejado.[WAIT]  ¡Limítate a mirarlas de lejos![BREAK]            -Laboratorio Quimera[END]
 47-27:@Youngsters![BREAK]@Here's your chance to sweat beautiful sweat![WAIT]@Part time help wanted at the factory.[WAIT]@All those interested, apply at the factory![BREAK]                                      Right this way[RIGHT][END]
-47-27E:
+47-27E:@¡Jovenzuelos![BREAK]@¿Queréis sudar la gota gorda?[WAIT]@Se buscan trabajadores para la fábrica.[WAIT]@¡Los interesados pueden inscribirse allí![BREAK]                                  Sigue la flecha[RIGHT][END]
 47-28:@Casablanca - Humphrey Bogart[BREAK][WAIT]@Breakfast at Tiffany's - Audrey Hepburn[BREAK][WAIT]@Plan 9 from Outer Space - Some nuts[BREAK][END]
-47-28E:
+47-28E:@El padrino - Marlon Brando[BREAK][WAIT]@Lo que el viento se llevó - Clark Gable[BREAK][WAIT]@Un tonto y dos armarios - Un armario[BREAK][END]
 // this is very very flexible to change, the original line doesn't make much sense. What I've done here is try to mimic the original text by listing two things and then one thing that doesn't match at all
 47-29:@Whew...[WAIT]@I can't stand doing work. I hate it.[WAIT]@I wish it'd be night already. Then I could go to[BREAK]  Titiboo.[WAIT]@...I guess you wouldn't understand, huh?[END]
-47-29E:
+47-29E:@Fiuu...[WAIT]@No aguanto el trabajo físico. Lo odio.[WAIT]@Ojalá fuese ya de noche para irme[BREAK]  al club Titibú.[WAIT]@...No creo que puedas entenderme.[END]
 47-30:@I- I'm not slacking off at all.[WAIT]@I'm sort of like, you know, keeping an eye out[BREAK]  for people who ARE slacking off.[PAUSE 20 00] Yeah.[WAIT]@What're you smirkin' about?![END]
-47-30E:
+47-30E:@N-no estoy holgazaneando.[WAIT]@Estoy, estooo... ya sabes... asegurándome[BREAK]  de que los demás NO holgazaneen.[PAUSE 20 00] Sí, eso.[WAIT]@¡¿A qué viene esa sonrisita?![END]
 47-31:@[LUCAS 23 02 00]. Did you get paid yet?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-47-31E:
+47-31E:@[LUCAS 23 02 00]. ¿Ya te han pagado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 47-32:@Talk to Mr. Brown, the Pigmask on the ground[BREAK]  floor, and he should give you your pay...[END]
-47-32E:
+47-32E:@Habla con el Sr. Brown, el Puercareto[BREAK]  de la entrada, él debería pagarte...[END]
 47-33:@Well? Whadya think?[WAIT]@Doesn't money have such a nice weight to it?[END]
-47-33E:
+47-33E:@¿Y bien? ¿Qué opinas?[WAIT]@¿No sienta bien el peso del dinero en el bolsillo?[END]
 47-34:@Hold it![END]
-47-34E:
+47-34E:@¡Quieto parao![END]
 47-35:@That's dangerous![WAIT]@What the heck are you thinking, going into the[BREAK]  tunnel this late at night?![END]
-47-35E:
+47-35E:@¡Eso es peligroso![WAIT]@¡¿En qué estabas pensando, intentando[BREAK]  entrar al túnel a estas horas?![END]
 47-36:@I dunno what yer story is, but you're still[BREAK]  young! Don't just throw away your life![WAIT]@Okay?![WAIT]@Alright, then. Now that you understand, go on![WAIT]@And just forget about me.[WAIT]@Later.[END]
-47-36E:
+47-36E:@No sé nada de ti, ¡pero aún eres joven![BREAK]  ¡No eches tu vida a perder![WAIT]@¡¿Vale?![WAIT]@Vale. ¡Si lo has entendido puedes seguir![WAIT]@Y olvídate de mí.[WAIT]@Adiós.[END]
 47-37:@You wound up being saved.[END]
-47-37E:
+47-37E:@Te han salvado la vida.[END]
 47-38:@You again?![WAIT]@How many times do I gotta say it?![WAIT]  You're young! Don't throw yer life away![END]
-47-38E:
+47-38E:@¡¿Tú otra vez?![WAIT]@¡¿Cuántas veces te lo tengo que decir?![WAIT]  ¡Eres joven! ¡No eches tu vida a perder![END]
 47-39:@Youthful impatience, huh?[WAIT]  I dunno what yer deal is, but you should apply[BREAK]  that to sports or something more useful![WAIT]@Now, look! I'm a busy guy, myself![WAIT]@So stop giving me work to do![WAIT]@See ya![END]
-47-39E:
+47-39E:@La impaciencia juvenil, ¿eh?[WAIT]  ¡No sé qué pretendes, pero deberías usar[BREAK]  esa energía para algo más constructivo![WAIT]@¡Mira, soy un hombre muy ocupado![WAIT]@¡No me des más trabajo del que ya tengo![WAIT]@¡Nos vemos![END]
 47-40:@Hold it! Hold it![END]
 47-40E:@¡Echa el freno, madaleno![END]
 47-41:@I figured it was you again![WAIT]@Please, just give it a rest already![WAIT]@This is almost like a comic book at this point![WAIT]@Just behave yerself.[WAIT]@Forget all about this tunnel.[END]
-47-41E:
+47-41E:@¡Sabía que eras tú de nuevo![WAIT]@¡Por favor, dame un respiro![WAIT]@¡Esto está empezando a ser de chiste![WAIT]@Compórtate un poco, anda.[WAIT]@Y olvídate de este túnel.[END]
 47-42:@Whoa, whoa, whoa![END]
-47-42E:
+47-42E:@¡Eh, eh, eh![END]
 47-43:@[PAUSE 5A 00]I was keepin' an eye out for you.[WAIT]@I thought you might show up...[PAUSE 18 00] and you did.[WAIT]@C'mon, just turn back now. [PAUSE 5A 00]Please?[END]
-47-43E:
+47-43E:@[PAUSE 5A 00]Te tengo fichado, chaval.[WAIT]@Pensé que podrías aparecer...[PAUSE 18 00] y lo has hecho.[WAIT]@Vamos, da la vuelta, anda. [PAUSE 5A 00]¿Vale?[END]
 47-44:@Hold it! Do you never listen?![END]
-47-44E:
+47-44E:@¡Espera! ¡¿Tú escuchas cuando te hablan?![END]
 47-45:@You're teasin' me, aren't you?[WAIT]@You're not mockin' me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just turn back now. [PAUSE 5A 00]Please?[END]
-47-45E:
+47-45E:@¿Te estás quedando conmigo?[WAIT]@¿Te estás quedando conmigo por intentar[BREAK]  ser simpático, amable y amistoso?[WAIT]@¿Es eso?[WAIT]@Vale, pues esta es la última vez.[WAIT]@No volveré a intentar detenerte.[WAIT]@La próxima vez te ignoraré completamente.[WAIT]@Pero da la vuelta de una vez. [PAUSE 5A 00]¿Vale?[END]
 47-46:@...[END]
 47-46E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 47-47:@...[WAIT]@...[WAIT]@I dunno if you care or not, but I'll tell you[BREAK]  anyways.[WAIT]@My big bro lives on the other side of this[BREAK]  tunnel.[WAIT]@People say he looks just like me.[WAIT]@...No idea what he's up to lately, though.[END]
-47-47E:
+47-47E:@...[WAIT]@...[WAIT]@No sé si esto te interesará, pero te lo diré[BREAK]  igualmente.[WAIT]@Mi hermano mayor vive al otro lado de[BREAK]  este túnel.[WAIT]@La gente dice que somos clavados.[WAIT]@...Aunque no sé qué es de su vida.[END]
 
 [Container 48]
 48-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
@@ -4321,27 +4321,27 @@
 48-16E:@Ha sido destrozada por un rayo.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 48-17:@Club Titiboo books various bands and offers all[BREAK]  sorts of services for our patrons.[WAIT]  Please come in and enjoy![WAIT]@Let our profoundly bizarre atmosphere wash[BREAK]  over you![END]
-48-17E:
+48-17E:@El club Titibù acoge a las mejores bandas[BREAK]  y ofrece una gran variedad de servicios.[WAIT]  ¡Pasen y disfruten![WAIT]@¡Sumérjanse de lleno en nuestro[BREAK]  particularísimo ambiente![END]
 48-18:@For those wishing for another day of[BREAK]  wonderful leisure time...[WAIT]@Club Titiboo has what you want.[WAIT]@Let our profoundly bizarre atmosphere wash[BREAK]  over you![END]
-48-18E:
+48-18E:@Para aquellos que deseen pasar[BREAK]  otra velada inolvidable...[WAIT]@El club Titibú tiene lo que buscan.[WAIT]@¡Déjense llevar por nuestro particularísimo[BREAK]  ambiente![END]
 48-19:@*hop*[WAIT]@I'm head over heels for you.[END]
-48-19E:
+48-19E:@*hop*[WAIT]@Estoy coladito por ti.[END]
 48-20:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@Working in the factory isn't easy,[PAUSE 20 00] but you do[BREAK]  get free tickets to Club Titiboo out of it.[WAIT]@So it's not all bad.[END]
-48-20E:
+48-20E:@Oh, buenas, [LUCAS 23 02 00].[WAIT]@El trabajo en la fábrica es duro,[PAUSE 20 00] pero al menos[BREAK]  te dan entradas gratis para el club Titibú.[WAIT]@No está tan mal después de todo.[END]
 48-21:@Have you seen Butch anywhere?[WAIT]@He's always skippin' work to go off[BREAK]  somewhere...[END]
-48-21E:
+48-21E:@¿Has visto a Butch por ahí?[WAIT]@Siempre anda escaqueándose para ir a[BREAK]  algún sitio...[END]
 48-22:@Zzzz... Zzzz...[WAIT]@*mumble* *mumble*[WAIT]@Ahh![WAIT]@Oh, crap! I fell asleep![WAIT]@I guess that's what they call "sleep-standing".[WAIT]@Thanks for waking me up.[END]
-48-22E:
+48-22E:@Zzzz... Zzzz...[WAIT]@*murmullo* *murmullo*[WAIT]@¡Aah![WAIT]@¡Jopelines! ¡Me he quedado frito![WAIT]@Nunca pensé que me pudiera dormir de pie.[WAIT]@Gracias por despertarme.[END]
 48-23:@Hey, you kids.[WAIT]@I'm not in a very good mood at all right now.[WAIT]@Come back some other time, unless you[BREAK]  wanna get knocked flat on your butts.[END]
-48-23E:
+48-23E:@Eh, chavales.[WAIT]@No estoy de humor ahora mismo.[WAIT]@Volved en otro momento a no ser que[BREAK]  queráis que os patee el culo.[END]
 48-24:@You know the Caeribe Falls, just to the[BREAK]  northeast of here?[WAIT]@Some mole crickets have been digging some[BREAK]  really deep holes in that area.[WAIT]@Could they be any MORE inconsiderate?![WAIT]@We moles've been digging holes here for a long[BREAK]  time now,[WAIT]  so they should've at least gone through the[BREAK]  proper channels first.[WAIT]@*mumble* *mumble*.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Oh, I'm sorry.[WAIT]@I didn't mean to dump all my complaints onto[BREAK]  complete strangers.[END]
-48-24E:
+48-24E:@¿Conoces las cataratas Caeribe,[BREAK]  al noreste de aquí?[WAIT]@Algunos grillos topo han estado cavando[BREAK]  agujeros muy profundos por allí.[WAIT]@¡¿Se puede ser MÁS desconsiderado?![WAIT]@Llevamos mucho tiempo haciendo túneles[BREAK]  en esta zona,[WAIT]  así que al menos podrían habérnoslo[BREAK]  consultado antes.[WAIT]@*murmullo* *murmullo*.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][WAIT]@Oh, lo siento.[WAIT]@No pretendía volcar mi descontento sobre[BREAK]  unos desconocidos.[END]
 48-25:@The factory is closed down as of today.[WAIT]  We sincerely thank you for many things.[WAIT]@"Song of the Factory"[BREAK]            Lyrics: Director Brown[WAIT]  Everyone's sweat[WAIT]  Everyone's tears[WAIT]  Everyone's strength[WAIT]  Meld it all into clay[WAIT]  The factory will always be[WAIT]  in everyone's memories[WAIT]  Forever and ever[WAIT]  Goodbye, Factory[WAIT]  Thank you, Factory[END]
-48-25E:
+48-25E:@La fábrica cierra sus puertas desde hoy.[WAIT]  Os damos las gracias por todo.[WAIT]@"Canción de la fábrica"[BREAK]            Letra: Director Brown[WAIT]  Todo vuestro sudor.[WAIT]  Todas vuestras lágrimas.[WAIT]  Toda vuestra fuerza.[WAIT]  Convertidlo todo en arcilla.[WAIT]  Esta fábrica estará[WAIT]  en nuestros recuerdos[WAIT]  por siempre jamás.[WAIT]  Adiós, fábrica.[WAIT]  Gracias, fábrica.[END]
 48-26:@The ropeway station is that-a-way.[END]
-48-26E:
+48-26E:@El teleférico está en esa dirección.[END]
 48-27:[END]
-48-27E:
+48-27E:[END]
 
 [Container 49]
 49-0:@WANTED![WAIT]@My Generation![WAIT]  (It appears to be an old concert poster put up[BREAK]  by someone.[WAIT]  But...[PAUSE 1E 00] who?)[END]
@@ -4396,119 +4396,119 @@
 49-16E:@Ha sido destrozada por un rayo.[END]
 // Repeats: 35-16, 36-47, 38-16, 48-16, 49-16, 222-71, 223-16, 506-71
 49-17:@This ropeway leads to Club Titiboo.[BREAK]@Do you want to ride up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-49-17E:
+49-17E:@Este teleférico lleva al club Titibú.[BREAK]@¿Quieres subir?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 49-18:@Then why did you come here?![WAIT]@Oh well, whatever.[END]
-49-18E:
+49-18E:@¡¿Entonces a qué vienes aquí?![WAIT]@Bueno, da igual.[END]
 49-19:@Tickets, please.[END]
-49-19E:
+49-19E:@Billetes, por favor.[END]
 // Repeats: 49-19, 50-35
 49-20:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]You don't seem to have any tickets.[WAIT]@I can't let you on without tickets.[END]
-49-20E:
+49-20E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]No tenéis billetes.[WAIT]@Sin ellos no puedo dejaros pasar.[END]
 49-21:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Yes, everything is in order here.[WAIT]@Please, get on.[END]
-49-21E:
+49-21E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Todo parece en orden.[WAIT]@Subid, por favor.[END]
 // Repeats: 49-21, 50-36
 49-22:@[LUCAS 23 02 00].[WAIT]@Now isn't the time to head back to the village.[END]
-49-22E:
+49-22E:@[LUCAS 23 02 00].[WAIT]@Ahora no es momento de volver al pueblo.[END]
 49-23:@Oh, hello there, [FLINT 23 01 00] and[BREAK]  [LUCAS 23 02 00].[WAIT]@What's that?[WAIT]  Unknown Valley?[WAIT]@Here, I'll mark it on your map for you.[END]
-49-23E:
+49-23E:@Oh, hola, [FLINT 23 01 00] y[BREAK]  [LUCAS 23 02 00].[WAIT]@¿Cómo dices?[WAIT]  ¿El valle Desconocido?[WAIT]@Te marcaré su ubicación en el mapa.[END]
 49-24:@I don't know too much about this area, but I do[BREAK]  trust in my gut instincts.[END]
-49-24E:
+49-24E:@No sé mucho sobre esta zona, pero confío[BREAK]  plenamente en mi instinto.[END]
 49-25:@...Whoops![WAIT]@I'd like to help you, but you don't seem to have[BREAK]  a map of this area.[WAIT]@If you do find a map, bring it here and I'll mark[BREAK]  it for you.[END]
-49-25E:
+49-25E:@...¡Uuups![WAIT]@Me encantaría ayudarte, pero no tienes[BREAK]  ningún mapa de esta zona.[WAIT]@Si encuentras alguno, tráemelo y te lo[BREAK]  marcaré.[END]
 49-26:@Club Titiboo is waiting![WAIT]  For what, you ask?[WAIT]  Why, you, of course![END]
-49-26E:
+49-26E:@¡El club Titibú está esperando![WAIT]  ¿A quién?[WAIT]  ¡Pues a ti, claro está![END]
 49-27:[END]
-49-27E:
+49-27E:[END]
 
 [Container 50]
 50-0:@Binoculars. 1 DP for a look.[WAIT]@Have a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-50-0E:
+50-0E:@Prismáticos. 1 PD por un vistazo.[WAIT]@¿Quieres mirar por ellos?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 50-1:@You decided not to take a look.[END]
-50-1E:
+50-1E:@Decidiste no mirar.[END]
 50-2:@You didn't even have 1 DP, so you weren't[BREAK]  able to take a look.[END]
-50-2E:
+50-2E:@Ni siquiera tienes un mísero PD,[BREAK]  así que te quedas sin mirar.[END]
 50-3:@Ropeway Station[END]
-50-3E:
+50-3E:@Estación de teleférico[END]
 50-4:@Whoa, there.[WAIT]@Haven't seen you around here before...[WAIT]@We don't allow pets inside.[WAIT]@Sorry, but I'm gonna have to ask you to leave.[END]
-50-4E:
+50-4E:@Para el carro.[WAIT]@Tu cara no me suena...[WAIT]@Aquí no se permiten perros.[WAIT]@Lo siento, pero no puedo dejarte entrar con él.[END]
 50-5:@Come back some other time.[END]
-50-5E:
+50-5E:@Vuelve otro día.[END]
 50-6:@Whoa.[WAIT]@It's that guy who had a dog with him just a[BREAK]  minute ago...[EVENT][END]
-50-6E:
+50-6E:@Eh.[WAIT]@Es ese tío que vino con un perro[BREAK]  hace unos minutos...[EVENT][END]
 50-7:  ...and some dog-like dude.[END]
-50-7E:
+50-7E:  ...y un tío con cara de perro.[END]
 50-8:@No, there's somethin' fishy about this![WAIT]@Where'd that dog from earlier go, and where'd[BREAK]  this dog-like dude come from?![EVENT][END]
-50-8E:
+50-8E:@¡Esto me huele a chamusquina![WAIT]@¡¿Dónde está el perro de antes, y de dónde[BREAK]  ha salido este tío con cara de perro?![EVENT][END]
 50-9:@And on top of that, you smell underage![EVENT][END]
-50-9E:
+50-9E:@¡Además, tú hueles a menor de edad![EVENT][END]
 50-10:@*sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00][BREAK]  You smell like an underage kid and a dog![END]
-50-10E:
+50-10E:@*snif*[PAUSE 20 00] *snif*[PAUSE 20 00][BREAK]  ¡Oléis a menor de edad y a perro![END]
 50-11:@Now that you mention it, this IS weird![WAIT]@No suspicious people allowed![WAIT]@That's our rule here![WAIT]@Scram![WAIT]  Get lost, you kid-like guy and you dog-like[BREAK]  dude![END]
-50-11E:
+50-11E:@¡Todo esto es MUY raro![WAIT]@¡Nada de gente sospechosa![WAIT]@¡Son las reglas![WAIT]@¡Largo![WAIT]  ¡Fuera, y llévate a tu amigo[BREAK]  el de la cara de perro![END]
 50-12:@Nah! I say we pulverize 'em right here![END]
-50-12E:
+50-12E:@¡Yo voto por que les demos una paliza![END]
 50-13:@Oh, my![WAIT]@If it isn't the underage-smelling Poo[WAIT]  and the dog-smelling Wuuf![END]
-50-13E:
+50-13E:@¡Oh, vaya![WAIT]@¡Pero si son Pipo "el Yogurín"[WAIT]  y Guau "el Caraperro"![END]
 50-14:@I take it you two've been mistaken for an[BREAK]  underage kid and a dog yet again?[WAIT]@*giggle*[END]
-50-14E:
+50-14E:@Os han vuelto a confundir con[BREAK]  un niño y un perro, ¿a que sí?[WAIT]@*risita*[END]
 50-15:@Whaaa?![WAIT]@You know these dudes, Violet?[END]
-50-15E:
+50-15E:@¡¿Cómooo?![WAIT]@¿Conoces a estos tíos, Violet?[END]
 50-16:@Whaaa?![WAIT]@You know these dudes, Kumatora?[END]
-50-16E:
+50-16E:@¡¿Cómooo?![WAIT]@¿Conoces a estos tíos, Kumatora?[END]
 50-17:@I dunno, I still say there's somethin' not right[BREAK]  about these guys![WAIT]@Especially this dog-like dude here.[PAUSE C0 00][WAIT]@Shake![END]
-50-17E:
+50-17E:@No sé... ¡Sigo pensando que estos dos[BREAK]  tipos son muy sospechosos![WAIT]@Sobre todo este, el de la cara de perro.[PAUSE C0 00][WAIT]@¡Dame la patita![END]
 50-18:@Don't look away from me![WAIT][PAUSE 40 00]@Shake![END]
-50-18E:
+50-18E:@¡No me ignores![WAIT][PAUSE 40 00]@¡La patita![END]
 50-19:[PAUSE 3C 00]@See? You do know how to shake.[BREAK]  *grin*[END]
-50-19E:
+50-19E:[PAUSE 3C 00]@¿Ves cómo sabes dar la patita?[BREAK]  *sonrisa*[END]
 50-20:@*wh-[PAUSE 10 00]whimper*[BREAK]  (Yes, I do know how to shake, but...)[END]
-50-20E:
+50-20E:@*ge-[PAUSE 10 00]gemido*[BREAK]  (Claro que sé hacerlo, pero...)[END]
 50-21:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]This guy is definitely dog-like, but it seems[BREAK]  [PAUSE 20 00]he isn't a dog.[WAIT]@But, dude.[PAUSE 30 00][WAIT]@If by chance you ARE a dog.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  You'd be one of the best dogs to ever shake.[WAIT]@Heh.[END]
-50-21E:
+50-21E:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]Desde luego, tiene cara de perro...[BREAK]  [PAUSE 20 00]pero no creo que lo sea.[WAIT]@Ahora bien, tronco.[PAUSE 30 00][WAIT]@Si de verdad FUESES un perro.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  Serías el mejor dando la patita.[WAIT]@Je.[END]
 50-22:@Wonderful![WAIT]@Come in, have lots of fun, and forget about[BREAK]  allllll your worries![END]
-50-22E:
+50-22E:@¡Maravilloso![WAIT]@¡Entrad, pasadlo bien y olvidad[BREAK]  todas vuestras preocupaciones![END]
 50-23:@Please enjoy yourselves.[END]
-50-23E:
+50-23E:@Que lo paséis bien.[END]
 50-24:@Good job![END]
-50-24E:
+50-24E:@¡Bien hecho![END]
 50-25:@DCMC FAN CLUB[BREAK]  Members Wanted![WAIT]  D    Desperado[WAIT]  C    Crash[WAIT]  M   Mambo[WAIT]  C    Combo[WAIT]@We're looking for help for the cheering squad.[WAIT]@Try your best, and good luck![END]
-50-25E:
+50-25E:@CLUB DE FANS DE DCMC[BREAK]  ¡Se buscan miembros![WAIT]  D    Desperado[WAIT]  C    Crash[WAIT]  M   Mambo[WAIT]  C    Combo[WAIT]@Necesitamos nuevos animadores.[WAIT]@¡Hazlo lo mejor que puedas, y suerte![END]
 50-26:@DCMC Merchandise![BREAK]  Available ONLY at Club Titiboo![WAIT]@Come stop by if you wanna support us.[END]
-50-26E:
+50-26E:@¡Artículos de los DCMC![BREAK]  ¡SÓLO disponibles en el club Titibú![WAIT]@Más información en el lugar.[END]
 50-27:@Hey. Dude.[END]
-50-27E:
+50-27E:@Ey, troncos.[END]
 50-28:@Have fun.[END]
-50-28E:
+50-28E:@Que os divirtáis.[END]
 50-29:@Woof.[BREAK]  (Whew, that was scary...)[END]
-50-29E:
+50-29E:@Guau.[BREAK]  (Fiuu, qué susto...)[END]
 50-30:@Oh.[WAIT]@Headed home?[WAIT]@Please come again![END]
-50-30E:
+50-30E:@Oh.[WAIT]@¿Ya os váis?[WAIT]@Volved pronto, ¿vale?[END]
 50-31:@What are you doing, dude?[WAIT]@Peeing outside is strictly prohibited, you know.[END]
-50-31E:
+50-31E:@¿Qué haces, tronco?[WAIT]@Orinar fuera está terminantemente prohibido.[END]
 50-32:@Sorry to keep you waiting.[WAIT]@Okay, let's go.[END]
-50-32E:
+50-32E:@Perdonad la tardanza.[WAIT]@Venga, vamos allá.[END]
 50-33:@Let's go! To Unknown Valley![END]
-50-33E:
+50-33E:@¡Nos vamos al valle Desconocido![END]
 50-34:@This ropeway leads to the factory.[BREAK]@Will you ride down it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-50-34E:
+50-34E:@Este teleférico lleva a la fábrica.[BREAK]@¿Quieres subir?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 50-35:@Tickets, please.[END]
-50-35E:
+50-35E:@Billetes, por favor.[END]
 // Repeats: 49-19, 50-35
 50-36:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Yes, everything is in order here.[WAIT]@Please, get on.[END]
-50-36E:
+50-36E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Todo parece en orden.[WAIT]@Subid, por favor.[END]
 // Repeats: 49-21, 50-36
 50-37:@Oh, okay.[WAIT]@By the way, have you had a chance to look[BREAK]  through the binoculars there?[END]
-50-37E:
+50-37E:@Oh, vale.[WAIT]@Por cierto, ¿has probado a echar un vistazo[BREAK]  por los prismáticos de allí?[END]
 50-38:@I struggled and struggled to climb up the cliff,[WAIT]  and just when I finally make it to the top, [PAUSE 0C 00]I find[BREAK]  out they shut Club Titiboo down.[WAIT]@Since there's nothing else I can do, I decided to[BREAK]  take my time to savor using these binoculars.[WAIT]@I've been looking through them for three days[BREAK]  straight now.[WAIT]@I just can't get enough of it...[END]
-50-38E:
+50-38E:@Me afané y afané en trepar este risco,[WAIT]  y cuando por fin logro alcanzar la cima,[PAUSE 0C 00][BREAK]  descubro que han cerrado el club Titibú.[WAIT]@Como no tenía otra cosa que hacer, decidí[BREAK]  dedicarme a mirar por estos prismáticos.[WAIT]@Ya llevo tres días seguidos mirando[BREAK]  a través de ellos.[WAIT]@Es un vicio...[END]
 50-39:@An elephant statue.[END]
-50-39E:
+50-39E:@Un elefante de piedra.[END]
 
 [Container 51]
 51-0:@*crawl* *climb*[WAIT]@I decided to take a shortcut to Club Titiboo,[BREAK]  which is why I'm climbing up this cliff here.[WAIT]@*crawl* *climb*[WAIT]@I'd say I'm somewhere around Day 3 now.[WAIT]@*crawl* *climb*[END]
-51-0E:
+51-0E:@*trepa* *escala*[WAIT]@Decidí tomar un atajo hacia el club Titibú,[BREAK]  y por eso es que estoy trepando este risco.[WAIT]@*trepa* *escala*[WAIT]@Creo que ya llevo tres días.[WAIT]@*trepa* *escala*[END]
 51-1:@There's a man climbing up the cliff here.[END]
-51-1E:
+51-1E:@Hay un hombre trepando por el risco.[END]
 
 [Container 52]
 52-0:@Shoo! Shoo! Scram![WAIT]@Get outta here, you kid! [PAUSE 2E 00]And dog![END]
@@ -8103,7 +8103,7 @@
 175-4:@What's gonna happen to us?[END]
 175-4E:
 175-5:@Where are you going?! The Needle is right here![END]
-175-5E:
+175-5E:@¡¿A dónde vas?! ¡La Aguja está aquí![END]
 175-6:@Can you really pull this Needle, like Ionia said...?[WAIT]@I'm not sure if I should be afraid or happy...[WAIT]  A rush of emotions is overcoming me! I can't[BREAK]  believe I'm here, witnessing this moment![WAIT]@*thump*[PAUSE 1E 00] *thump*[PAUSE 1E 00][BREAK]  And another *thump*. [HEART][PAUSE 1E 00][END]
 175-6E:
 175-7:@Okay! Now pull it! [HEART][WAIT]@With all your might! [HEART][WAIT]@Right before my very eyes! [HEART][END]
@@ -9227,73 +9227,73 @@
 203-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 203-27:@*hop*[BREAK]  I'm a magic butterfrog.[WAIT]@I'm not very proud of my name.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-203-27E:
+203-27E:@*hop*[BREAK]  Soy una ranaposa mágica.[WAIT]@No estoy muy orgullosa de mi nombre.[WAIT]@¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 42-27, 203-27, 263-27
 203-28:@Your vague expression...[WAIT]  I guess it must be my name, huh?[END]
-203-28E:
+203-28E:@Esa expresión en tu rostro...[WAIT]  Es por mi nombre, ¿verdad?[END]
 // Repeats: 42-28, 203-28, 263-28
 203-29:@Woof![END]
-203-29E:
+203-29E:@¡Guau![END]
 // Repeats: 42-29, 203-29, 263-29
 203-30:@Woof woof woof woof![END]
-203-30E:
+203-30E:@¡Guau, guau, guau, guau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 203-31:@Girlish clothes are lying on the ground.[END]
-203-31E:
+203-31E:@Hay ropa de mujer en el suelo.[END]
 // Repeats: 42-31, 203-31, 263-31
 203-32:@*whimper*[END]
-203-32E:
+203-32E:@*gemido*[END]
 // Repeats: 42-32, 203-32, 263-32
 203-33:@Aiiiieee! [HEART][BREAK]  You caught me stark naked![WAIT]@Oh, aren't you that boy I met at Aeolia's house[BREAK]  three years ago? [HEART][WAIT]@Remember? You said you were going to the[BREAK]  Drago Plateau to avenge your mother...[END]
-203-33E:
+203-33E:@¡Ayyy! [HEART][BREAK]  ¡Me has pillado desnuda![WAIT]@Oh, ¿tú no eres ese niño al que conocí[BREAK]  en casa de Aeolia hace tres años? [HEART][WAIT]@¿Te acuerdas? Decías que ibas a la meseta[BREAK]  Drago para vengar a tu madre...[END]
 // Repeats: 42-33, 203-33, 263-33
 203-34:@Huh? That wasn't you?![WAIT]@Really? How odd...[WAIT]@I'm Ionia, one of the Magypsies. [HEART][END]
-203-34E:
+203-34E:@¿Eh? ¡¿Que no eras tú?![WAIT]@¿En serio? Qué raro...[WAIT]@Soy Ionia, una de las Magipsis. [HEART][END]
 // Repeats: 42-34, 203-34, 263-34
 203-35:@This is a Magic Butterfly colony.[WAIT]@I often come here to be revitalized after I've[BREAK]  worn myself out by overusing my PSI. [HEART][END]
-203-35E:
+203-35E:@Esto es una colonia de mariposas mágicas.[WAIT]@Siempre vengo aquí a relajarme[BREAK]  tras agotar mis poderes PSI. [HEART][END]
 // Repeats: 42-35, 203-35, 263-35
 203-36:@Are you here because you overused your PSI,[BREAK]  too? [HEART][EVENT][END]
-203-36E:
+203-36E:@¿Tú también vienes a restaurar tu PSI? [HEART][EVENT][END]
 // Repeats: 42-36, 203-36, 263-36
 203-37:@...Oh?[BREAK]  You've never heard of PSI?[END]
-203-37E:
+203-37E:@...¿Oh?[BREAK]  ¿Nunca has oído hablar del PSI?[END]
 // Repeats: 42-37, 203-37, 263-37
 203-38:@...That's odd.[WAIT]  I sense loads of magical power coming from[BREAK]  you. [HEART][END]
-203-38E:
+203-38E:@...Pues es extraño.[WAIT]  Porque siento un gran poder mágico[BREAK]  en tu interior. [HEART][END]
 // Repeats: 42-38, 203-38, 263-38
 203-39:@[PAUSE 5A 00]...Wait.[WAIT]@Just endure it for a little bit.[END]
-203-39E:
+203-39E:@[PAUSE 5A 00]...Espera.[WAIT]@Aguanta un segundín de nada.[END]
 // Repeats: 42-39, 203-39, 263-39
 203-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-203-40E:
+203-40E:@¡Algo despertó dentro de [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 203-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
-203-41E:
+203-41E:@¡[LUCAS 23 02 00] aprendió [25 FF F0 FF]![EVENT][END]
 // Repeats: 42-41, 203-41, 263-41
 203-42:@Lastly, power welled up from deep within his[BREAK]  heart![EVENT][END]
-203-42E:
+203-42E:@¡Un misterioso poder parece haber surgido[BREAK]  de lo más profundo de su corazón![EVENT][END]
 // Repeats: 42-42, 203-42, 263-42
 203-43:@[LUCAS 23 02 00] learned [FAVTHING]![END]
-203-43E:
+203-43E:@¡[LUCAS 23 02 00] aprendió [FAVTHING]![END]
 // Repeats: 42-43, 203-43, 263-43
 203-44:@[LUCAS 23 02 00] learned how to use PSI![END]
-203-44E:
+203-44E:@¡[LUCAS 23 02 00] aprendió a usar el PSI![END]
 // Repeats: 42-44, 203-44, 263-44
 203-45:@Oh! My goodness! [HEART][WAIT]@I can't believe it! You can use [FAVTHING]![BREAK]  Not even we Magypsies are able to use it![WAIT]@You sly devil, you! [HEART][END]
 203-45E:
 // Repeats: 42-45, 203-45, 263-45
 203-46:@I don't know where you come from or where[BREAK]  you're going,[WAIT]  but we might meet again. [HEART][END]
-203-46E:
+203-46E:@No sé de dónde vienes[BREAK]  ni a dónde te diriges,[WAIT]  pero quizás volvamos a vernos. [HEART][END]
 // Repeats: 42-46, 203-46, 263-46
 203-47:@So at least tell me your name.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Thanks. I'll remember that. [HEART][END]
-203-47E:
+203-47E:@Así que dime tu nombre al menos.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Gracias. Lo recordaré. [HEART][END]
 // Repeats: 42-47, 203-47, 263-47
 203-48:@Now go.[WAIT]@I want to boil up, too. [HEART][END]
-203-48E:
+203-48E:@Ahora ve.[WAIT]@Yo seguiré cociéndome aquí. [HEART][END]
 // Repeats: 42-48, 203-48, 263-48
 203-49:@You really love hot springs, don't you?[WAIT]@So do I. [HEART][END]
-203-49E:
+203-49E:@Te gustan mucho las aguas termales, ¿eh?[WAIT]@Ya somos dos. [HEART][END]
 // Repeats: 42-49, 203-49, 263-49
 203-50:@*hop*.[WAIT]@Hello, I'm a frog. Shall I record everything that[BREAK]  has happened so far?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 203-50E:
@@ -10379,7 +10379,7 @@
 222-82E:
 // Repeats: 222-82, 506-82
 222-83:@Woof woof woof woof![END]
-222-83E:
+222-83E:@¡Guau, guau, guau, guau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 222-84:@This is the white, metal box you rode here[BREAK]  from Snowcap Mountain.[END]
 222-84E:
@@ -11824,73 +11824,73 @@
 263-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 263-27:@*hop*[BREAK]  I'm a magic butterfrog.[WAIT]@I'm not very proud of my name.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-263-27E:
+263-27E:@*hop*[BREAK]  Soy una ranaposa mágica.[WAIT]@No estoy muy orgullosa de mi nombre.[WAIT]@¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 42-27, 203-27, 263-27
 263-28:@Your vague expression...[WAIT]  I guess it must be my name, huh?[END]
-263-28E:
+263-28E:@Esa expresión en tu rostro...[WAIT]  Es por mi nombre, ¿verdad?[END]
 // Repeats: 42-28, 203-28, 263-28
 263-29:@Woof![END]
-263-29E:
+263-29E:@¡Guau![END]
 // Repeats: 42-29, 203-29, 263-29
 263-30:@Woof woof woof woof![END]
-263-30E:
+263-30E:@¡Guau, guau, guau, guau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 263-31:@Girlish clothes are lying on the ground.[END]
-263-31E:
+263-31E:@Hay ropa de mujer en el suelo.[END]
 // Repeats: 42-31, 203-31, 263-31
 263-32:@*whimper*[END]
-263-32E:
+263-32E:@*gemido*[END]
 // Repeats: 42-32, 203-32, 263-32
 263-33:@Aiiiieee! [HEART][BREAK]  You caught me stark naked![WAIT]@Oh, aren't you that boy I met at Aeolia's house[BREAK]  three years ago? [HEART][WAIT]@Remember? You said you were going to the[BREAK]  Drago Plateau to avenge your mother...[END]
-263-33E:
+263-33E:@¡Ayyy! [HEART][BREAK]  ¡Me has pillado desnuda![WAIT]@Oh, ¿tú no eres ese niño al que conocí[BREAK]  en casa de Aeolia hace tres años? [HEART][WAIT]@¿Te acuerdas? Decías que ibas a la meseta[BREAK]  Drago para vengar a tu madre...[END]
 // Repeats: 42-33, 203-33, 263-33
 263-34:@Huh? That wasn't you?![WAIT]@Really? How odd...[WAIT]@I'm Ionia, one of the Magypsies. [HEART][END]
-263-34E:
+263-34E:@¿Eh? ¡¿Que no eras tú?![WAIT]@¿En serio? Qué raro...[WAIT]@Soy Ionia, una de las Magipsis. [HEART][END]
 // Repeats: 42-34, 203-34, 263-34
 263-35:@This is a Magic Butterfly colony.[WAIT]@I often come here to be revitalized after I've[BREAK]  worn myself out by overusing my PSI. [HEART][END]
-263-35E:
+263-35E:@Esto es una colonia de mariposas mágicas.[WAIT]@Siempre vengo aquí a relajarme[BREAK]  tras agotar mis poderes PSI. [HEART][END]
 // Repeats: 42-35, 203-35, 263-35
 263-36:@Are you here because you overused your PSI,[BREAK]  too? [HEART][EVENT][END]
-263-36E:
+263-36E:@¿Tú también vienes a restaurar tu PSI? [HEART][EVENT][END]
 // Repeats: 42-36, 203-36, 263-36
 263-37:@...Oh?[BREAK]  You've never heard of PSI?[END]
-263-37E:
+263-37E:@...¿Oh?[BREAK]  ¿Nunca has oído hablar del PSI?[END]
 // Repeats: 42-37, 203-37, 263-37
 263-38:@...That's odd.[WAIT]  I sense loads of magical power coming from[BREAK]  you. [HEART][END]
-263-38E:
+263-38E:@...Pues es extraño.[WAIT]  Porque siento un gran poder mágico[BREAK]  en tu interior. [HEART][END]
 // Repeats: 42-38, 203-38, 263-38
 263-39:@[PAUSE 5A 00]...Wait.[WAIT]@Just endure it for a little bit.[END]
-263-39E:
+263-39E:@[PAUSE 5A 00]...Espera.[WAIT]@Aguanta un segundín de nada.[END]
 // Repeats: 42-39, 203-39, 263-39
 263-40:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-263-40E:
+263-40E:@¡Algo despertó dentro de [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 263-41:@[LUCAS 23 02 00] learned [25 FF F0 FF]![EVENT][END]
-263-41E:
+263-41E:@¡[LUCAS 23 02 00] aprendió [25 FF F0 FF]![EVENT][END]
 // Repeats: 42-41, 203-41, 263-41
 263-42:@Lastly, power welled up from deep within his[BREAK]  heart![EVENT][END]
-263-42E:
+263-42E:@¡Un misterioso poder parece haber surgido[BREAK]  de lo más profundo de su corazón![EVENT][END]
 // Repeats: 42-42, 203-42, 263-42
 263-43:@[LUCAS 23 02 00] learned [FAVTHING]![END]
-263-43E:
+263-43E:@¡[LUCAS 23 02 00] aprendió [FAVTHING]![END]
 // Repeats: 42-43, 203-43, 263-43
 263-44:@[LUCAS 23 02 00] learned how to use PSI![END]
-263-44E:
+263-44E:@¡[LUCAS 23 02 00] aprendió a usar el PSI![END]
 // Repeats: 42-44, 203-44, 263-44
 263-45:@Oh! My goodness! [HEART][WAIT]@I can't believe it! You can use [FAVTHING]![BREAK]  Not even we Magypsies are able to use it![WAIT]@You sly devil, you! [HEART][END]
 263-45E:
 // Repeats: 42-45, 203-45, 263-45
 263-46:@I don't know where you come from or where[BREAK]  you're going,[WAIT]  but we might meet again. [HEART][END]
-263-46E:
+263-46E:@No sé de dónde vienes[BREAK]  ni a dónde te diriges,[WAIT]  pero quizás volvamos a vernos. [HEART][END]
 // Repeats: 42-46, 203-46, 263-46
 263-47:@So at least tell me your name.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Thanks. I'll remember that. [HEART][END]
-263-47E:
+263-47E:@Así que dime tu nombre al menos.[WAIT]@......[LUCAS 23 02 00].[WAIT]@Gracias. Lo recordaré. [HEART][END]
 // Repeats: 42-47, 203-47, 263-47
 263-48:@Now go.[WAIT]@I want to boil up, too. [HEART][END]
-263-48E:
+263-48E:@Ahora ve.[WAIT]@Yo seguiré cociéndome aquí. [HEART][END]
 // Repeats: 42-48, 203-48, 263-48
 263-49:@You really love hot springs, don't you?[WAIT]@So do I. [HEART][END]
-263-49E:
+263-49E:@Te gustan mucho las aguas termales, ¿eh?[WAIT]@Ya somos dos. [HEART][END]
 // Repeats: 42-49, 203-49, 263-49
 263-50:@*hop*.[WAIT]@Hello, I'm a frog. Shall I record everything that[BREAK]  has happened so far?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 263-50E:
@@ -12133,7 +12133,7 @@
 305-32:@Woof-woof.[WAIT]  (Walking like this is exhausting...)[END]
 305-32E:
 305-33:@*whimper*[END]
-305-33E:
+305-33E:@*gemido*[END]
 305-34:@What would you like to drink, sir?[WAIT]  *giggle*[END]
 305-34E:
 305-35:@...[WAIT]@You want...[PAUSE 5A 00] water?[END]
@@ -15416,7 +15416,7 @@
 444-2:@H-hey, [LUCAS 22 03 00]! Are you alright?![END]
 444-2E:
 444-3:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
-444-3E:
+444-3E:@¡Algo despertó dentro de [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 444-4:@[LUCAS 22 03 00] learned PK Flash![PAUSE 80 00][END]
 444-4E:
@@ -16999,7 +16999,7 @@
 506-82E:
 // Repeats: 222-82, 506-82
 506-83:@Woof woof woof woof![END]
-506-83E:
+506-83E:@¡Guau, guau, guau, guau![END]
 // Repeats: 42-30, 203-30, 222-83, 263-30, 506-83
 506-84:@This is the white, metal box you rode here[BREAK]  from Snowcap Mountain.[END]
 506-84E:

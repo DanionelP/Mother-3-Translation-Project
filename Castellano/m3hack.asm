@@ -1326,11 +1326,31 @@ org $9B9C364; incbin gfx_various_menu1.bin
 org $9B9D564; incbin gfx_various_menu2_[c].bin
 org $9B9D808; incbin gfx_start_battle_[c].bin
 org $9C97CE8; incbin gfx_exit_battle.bin
-org $9C926C8; incbin gfx_combo.bin
+//org $9C926C8; incbin gfx_combo.bin
 // org $9C5F340; incbin gfx_main_menu_[c].bin
 org $9CA6928; incbin gfx_music.bin
 org $967A0D0; incbin gfx_happy_end.bin
 org $993F270; incbin gfx_sprays.bin
+
+//Insert hit and total damage graphics
+org $9C926C8; incbin gfx_combo.bin
+org $9CFA738; db $FD // 2nd line, up 3 pixels (part 1)
+org $9CFA740; db $FD // 2nd line, up 3 pixels (part 2)
+org $9CFA748; db $FD // 2nd line, up 3 pixels (part 3)
+org $9CFA750; db $FD // 2nd line, up 3 pixels (part 4)
+org $9CFAB1C; db $FD // 1st line, up 3 pixels (part 1)
+org $9CFAB24; db $FD // 1st line, up 3 pixels (part 2)
+org $9CFA73A; db $FE,$81 // 2nd line, left 2 pixels (part 1)
+org $9CFA742; db $1E // 2nd line, left 2 pixels (part 2)
+org $9CFA74A; db $3E // 2nd line, left 2 pixels (part 3)
+org $9CFA752; db $5E // 2nd line, left 2 pixels (part 4)
+org $9CFAB1E; db $04 // 1st line, right 4 pixels (part 1)
+org $9CFAB26; db $24 // 1st line, right 4 pixels (part 2)
+org $8065658; db $3D // full 1st line, left 7 pixels back
+org $9CFAB30; db $FD // "MISS" text, up 3 pixels (part 2)
+org $9CFAB38; db $FD // "MISS" text, up 3 pixels (part 2)
+org $9CFAB32; db $F8,$81 // "MISS" text, left 8 pixels (part 1)
+org $9CFAB3A; db $18 // "MISS" text, left 8 pixels (part 2)
 
 // - Titlescreen
 org $9BCDE60; dd $3F6474
