@@ -1,7 +1,7 @@
 // All default/don't care names must be 8 letters or less
 
 00:Claus
-00-E: 
+00-E:Claus
 01:Claus
 01-E: 
 02:Claus
@@ -15,7 +15,7 @@
 06:Claus
 06-E: 
 07:Lucas
-07-E: 
+07-E:Lucas
 08:Lucas
 08-E: 
 09:Lucas
@@ -29,7 +29,7 @@
 0D:Lucas
 0D-E: 
 0E:Flint
-0E-E: 
+0E-E:Flint
 0F:Flint
 0F-E: 
 10:Flint
@@ -43,7 +43,7 @@
 14:Flint
 14-E: 
 15:Hinawa
-15-E: 
+15-E:Hinawa
 16:Hinawa
 16-E: 
 17:Hinawa
@@ -57,7 +57,7 @@
 1B:Hinawa
 1B-E: 
 1C:Boney
-1C-E: 
+1C-E:Boney
 1D:Boney
 1D-E: 
 1E:Boney
@@ -71,7 +71,7 @@
 22:Boney
 22-E: 
 23:Duster
-23-E: 
+23-E:Duster
 24:Duster
 24-E: 
 25:Duster
@@ -85,7 +85,7 @@
 29:Duster
 29-E: 
 2A:Kumatora
-2A-E: 
+2A-E:Kumatora
 2B:Kumatora
 2B-E: 
 2C:Kumatora
@@ -99,7 +99,7 @@
 30:Kumatora
 30-E: 
 31:Salsa
-31-E: 
+31-E:Salsa
 32:Salsa
 32-E: 
 33:Salsa
@@ -113,30 +113,30 @@
 37:Salsa
 37-E: 
 38:Omelets
-38-E: 
+38-E:Truites
 39:Pasta
-39-E: 
+39-E:Galets
 3A:Gratin
-3A-E: 
+3A-E:Calçots
 3B:Donuts
-3B-E: 
+3B-E:Tortell
 3C:Stew
-3C-E: 
+3C-E:Fricandó
 3D:Gelatin
-3D-E: 
+3D-E:Crema
 3E:Rice
-3E-E: 
+3E-E:Rossejat
 3F:Love
-3F-E: 
+3F-E:Amor
 40:Home Run
-40-E: 
+40-E:Castells
 41:Mach
-41-E: 
+41-E:Tió
 42:Top Spec
-42-E: 
+42-E:Dracs
 43:Mt. Fuji
-43-E: 
+43-E:Pirineus
 44:Camera
-44-E: 
+44-E:Coet
 45:Watering
-45-E: 
+45-E:Migdiada
