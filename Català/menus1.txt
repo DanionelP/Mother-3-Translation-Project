@@ -449,7 +449,7 @@
 00DE: The strong, kind,[BREAK]and dependable father.[END]
 00DE-E: Un pare fort i amable;[BREAK]digne de confiança.[END]
 00DF: The beloved mother![END]
-00DF-E: Una mare estimada per tots![END]
+00DF-E: Una mare estimada[BREAK]per tots![END]
 00E0: The brave and smart dog.[END]
 00E0-E: El gos de la família;[BREAK]valent i inteñigent.[END]
 00E1: A monkey who will endure[BREAK]anything for his girlfriend.[END]
