@@ -206,11 +206,11 @@
 066:Fish
 066-E:Peix
 067:Hermit Crab
-067-E:Bernat ermit‡
+067-E:Bernat ermit√†
 068:Lady
 068-E:Senyoreta
 069:M.Butterfly
-069-E:Papallona m‡gica
+069-E:Papallona m√†gica
 06A:Sheep
 06A-E:Ovella
 06B:Cow
@@ -228,13 +228,13 @@
 071:Baccio
 071-E: 
 072:Magic
-072-E:M‡gia
+072-E:M√†gia
 073:Drago Pup
 073-E: 
 074:Ionia
-074-E:IÚnia
+074-E:I√≤nia
 075:Doria
-075-E:DÚria
+075-E:D√≤ria
 076:Phrygia
 076-E:Phrygia
 077:Lydia
@@ -242,9 +242,9 @@
 078:Mixolydia
 078-E:Mixolydia
 079:Aeolia
-079-E:AeÚlia 
+079-E:Ae√≤lia 
 07A:Locria
-07A-E:LÚcria
+07A-E:L√≤cria
 07B:Pork Bean
 07B-E: 
 07C:Pork Tank
@@ -256,7 +256,7 @@
 07F:Gift Box
 07F-E: 
 080:Mole Cricket
-080-E:GriÒot‡lpid
+080-E:Gri√±ot√†lpid
 081:Frog
 081-E:Granota
 082:Lighter
@@ -294,7 +294,7 @@
 092:Drago Pup
 092-E: 
 093:Mole Cricket
-093-E:GriÒot‡lpid
+093-E:Gri√±ot√†lpid
 094:Elder Cricket
 094-E:
 095:Duster
@@ -316,7 +316,7 @@
 09D:Alec
 09D-E:Alec
 09E:Ionia
-09E-E:IÚnia
+09E-E:I√≤nia
 09F:Flint
 09F-E:Flint
 0A0:Fuel
@@ -324,7 +324,7 @@
 0A1:Leder
 0A1-E: 
 0A2:Mole Cricket
-0A2-E:GriÒot‡lpid
+0A2-E:Gri√±ot√†lpid
 0A3:Stray Dog
 0A3-E:
 0A4:Stray Dog
@@ -386,7 +386,7 @@
 0C0:Kumatora
 0C0-E:Kumatora
 0C1:Magic
-0C1-E:M‡gia
+0C1-E:M√†gia
 0C2:Pork Bomb
 0C2-E: 
 0C3:Person 195
@@ -400,7 +400,7 @@
 0C7:Old Guy
 0C7-E:
 0C8:Interpreter
-0C8-E:IntËrpret
+0C8-E:Int√®rpret
 0C9:Pig Book
 0C9-E: 
 0CA:Fixed Robot
@@ -422,7 +422,7 @@
 0D2:Secrebot
 0D2-E: 
 0D3:Binoculars
-0D3-E:Prism‡tics
+0D3-E:Prism√†tics
 0D4:Robot
 0D4-E:Robot
 0D5:Pancho
@@ -442,7 +442,7 @@
 0DC:Scrapped Robot
 0DC-E: 
 0DD:Ionia
-0DD-E:IÚnoa
+0DD-E:I√≤noa
 0DE:Talking Bones
 0DE-E: 
 0DF:Mr. Saturn
@@ -534,7 +534,7 @@
 10A:Crowd
 10A-E:
 10B:Host
-10B-E:AmfitriÛ
+10B-E:Amfitri√≥
 10C:Chauffeur
 10C-E:Xofer
 10D:Word on the Wind
@@ -568,7 +568,7 @@
 11B:Kumatora
 11B-E:Kumatora
 11C:Hippo Researcher
-11C-E:Inv. d'hipopÚtams
+11C-E:Inv. d'hipop√≤tams
 11D:Lucas
 11D-E:Lucas
 11E:Flint

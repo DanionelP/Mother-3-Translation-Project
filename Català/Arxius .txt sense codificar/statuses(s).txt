@@ -5,9 +5,9 @@
 00:(EMPTY)
 00-E:(BUIT)
 01:Poison
-01-E:VerÌ
+01-E:Ver√≠
 02:Numb
-02-E:Par‡lisi
+02-E:Par√†lisi
 03:Sleep
 03-E:Son
 04:Strange
@@ -15,15 +15,15 @@
 05:Crying
 05-E:Plorera
 06:Forgetful
-06-E:AmnËsia
+06-E:Amn√®sia
 07:Nauseous
-07-E:N‡usees
+07-E:N√†usees
 08:Fleas
 08-E:Puces
 09:On Fire
 09-E:En flames
 0A:Stopped, Frozen
-0A-E:ImmobilitzaciÛ
+0A-E:Immobilitzaci√≥
 0B:Smelly
 0B-E:Pudor
 0C:DCMC
@@ -51,7 +51,7 @@
 17:Counter
 17-E:Mirall
 18:Electrocuted
-18-E:ElectrocuciÛ
+18-E:Electrocuci√≥
 19:PSI Shield
 19-E:Escut PSI
 1A:PSI Counter
@@ -75,11 +75,11 @@
 23:Time Bomb
 23-E:Cronobomba
 24:Parameters Up
-24-E:Par‡metres [UP]
+24-E:Par√†metres [UP]
 25:Parameters Down
-25-E:Par‡metres [DOWN]
+25-E:Par√†metres [DOWN]
 26:Refresh
-26-E:RegeneraciÛ
+26-E:Regeneraci√≥
 27:Fell
 27-E:Caiguda
 28:MonkeyDanceOff

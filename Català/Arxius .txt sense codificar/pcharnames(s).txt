@@ -19,7 +19,7 @@
 08:Thomas
 08-E: 
 09:Ionia
-09-E:Iònia
+09-E:IÃ²nia
 0A:Fuel
 0A-E: 
 0B:Alec

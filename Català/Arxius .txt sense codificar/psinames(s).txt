@@ -22,13 +22,13 @@
 0A:PK Fire [OMEGA]
 0A-E:PK Foc [OMEGA]
 0B:PK Freeze [ALPHA]
-0B-E:PK GlaÁ [ALPHA]
+0B-E:PK Gla√ß [ALPHA]
 0C:PK Freeze [BETA]
-0C-E:PK GlaÁ [BETA]
+0C-E:PK Gla√ß [BETA]
 0D:PK Freeze [GAMMA]
-0D-E:PK GlaÁ [GAMMA]
+0D-E:PK Gla√ß [GAMMA]
 0E:PK Freeze [OMEGA]
-0E-E:PK GlaÁ [OMEGA]
+0E-E:PK Gla√ß [OMEGA]
 0F:PK Thunder [ALPHA]
 0F-E:PK Llamp [ALPHA]
 10:PK Thunder [BETA]
@@ -38,7 +38,7 @@
 12:PK Thunder [OMEGA]
 12-E:PK Llamp [OMEGA]
 13:PK Ground
-13-E:PK TerratrËmol
+13-E:PK Terratr√®mol
 14:(EMPTY)
 14-E:(BUIT)
 15:(EMPTY)
@@ -106,13 +106,13 @@
 34:Hypnosis [OMEGA]
 34-E:Hipnosi [OMEGA]
 35:Paralysis [ALPHA]
-35-E:Par‡lisi [ALPHA]
+35-E:Par√†lisi [ALPHA]
 36:Paralysis [OMEGA]
-36-E:Par‡lisi [OMEGA]
+36-E:Par√†lisi [OMEGA]
 37:Brainshock [ALPHA]
-37-E:ConfusiÛ [ALPHA]
+37-E:Confusi√≥ [ALPHA]
 38:Brainshock [OMEGA]
-38-E:ConfusiÛ [OMEGA]
+38-E:Confusi√≥ [OMEGA]
 39:(EMPTY)
 39-E:(BUIT)
 3A:Offense Down [ALPHA]
