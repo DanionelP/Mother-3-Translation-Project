@@ -800,10 +800,10 @@
 3-20E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 3-21:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-3-21E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
+3-21E:@"Bazar de Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 3-22:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-3-22E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
+3-22E:@No es más que un tendedero ordinario.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 3-23:@[FLINT 23 01 00]![END]
 3-23E:@¡[FLINT 23 01 00]![END]
@@ -4792,153 +4792,153 @@
 
 [Container 61]
 61-0:@This is a Pork Bean recharge station.[WAIT]@It's self-service, so please use it as you see[BREAK]  fit.[PAUSE 5A 00][WAIT]@My job is to stand here and say that this[BREAK]  station is self-service.[END]
-61-0E:
+61-0E:@Esto es una estación de recarga de vainas.[WAIT]@Es de autoservicio, así que[BREAK]  sírvete tú mismo.[PAUSE 5A 00][WAIT]@A mí me pagan por estar aquí[BREAK]  y hablar del autoservicio.[END]
 61-1:@Don't sweat it! It's no big deal![END]
-61-1E:
+61-1E:@¡No te esfuerces! ¡No vale la pena![END]
 61-2:@How to Recharge[WAIT]@Step 1: Place your Pork Bean on the Recharge[BREAK]  Panel.[WAIT]@Step 2: Press the [COLOR 03 00]A[COLOR 00 00] Button on the nearby[BREAK]  device to supply the Pork Bean with power.[WAIT]@Step 3: Once the device beeps, the recharge is[BREAK]  complete.[WAIT]@WARNING![WAIT]  When the device beeps, BE SURE to press the[BREAK]  [COLOR 03 00]A[COLOR 00 00] Button to turn it off![END]
-61-2E:
+61-2E:@Cómo recargar:[WAIT]@Paso 1: sitúe su Vaina porcina[BREAK]  sobre el panel de recarga.[WAIT]@Paso 2: pulse el botón [COLOR 03 00]A[COLOR 00 00] junto al[BREAK]  dispositivo adyacente para recargarla.[WAIT]@Paso 3: cuando oiga un "bip",[BREAK]  el proceso de recarga habrá finalizado.[WAIT]@¡ADVERTENCIA![WAIT]  ¡ASEGÚRESE de apagar el dispositivo[BREAK]  con el botón [COLOR 03 00]A[COLOR 00 00] tras oir el "bip"![END]
 61-3:@Turn it on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-61-3E:
+61-3E:@¿Quieres encenderlo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 61-4:@A Pork Bean hasn't been set in place.[END]
-61-4E:
+61-4E:@No hay ninguna vaina sobre el panel.[END]
 // Repeats: 61-4, 474-43
 61-5:@Recharge complete.[END]
-61-5E:
+61-5E:@Recarga finalizada.[END]
 61-6:@It appears you didn't recharge it very well.[END]
-61-6E:
+61-6E:@Por lo visto, no la has recargado del todo.[END]
 61-7:@Danger! Danger! Danger![PAUSE 1E 00][BREAK]  Press the [COLOR 03 00]A[COLOR 00 00] Button to stop it immediately![END]
-61-7E:
+61-7E:@¡Peligro! ¡Peligro! ¡Peligro![PAUSE 1E 00][BREAK]  ¡Pulse el botón [COLOR 03 00]A[COLOR 00 00] inmediatamente![END]
 61-8:@The Pork Bean broke down.[END]
-61-8E:
+61-8E:@La Vaina porcina ha quedado destrozada.[END]
 61-9:@A red light.[END]
-61-9E:
+61-9E:@Una luz roja.[END]
 // Repeats: 61-9, 371-11, 474-19
 61-10:@Squeak squeeeak...[WAIT]  (Next time I'm reborn, I hope I get to be a[BREAK]  sperm whale.[WAIT]  I wanna be a sperm whale and eat giant squids[BREAK]  and stuff.[WAIT]  Huh? My mom's calling for me?[WAIT]  Aw, crap! This is no time for me to be[BREAK]  dreaming about stuff![WAIT]  Okay, I'm going home now!)[END]
-61-10E:
+61-10E:@Chiii, chiiiii...[WAIT]  (En mi próxima vida, quiero reencarnarme[BREAK]  en un cachalote.[WAIT]  Quiero ser un cachalote y alimentarme[BREAK]  de calamares gigantes.[WAIT]  ¿Eh? ¿Que mi mamá me está llamando?[WAIT]  ¡Oh, retruécanos![BREAK]  ¡Mejor dejo de soñar despierto![WAIT]  ¡Vale, vale, me voy a casa!)[END]
 61-11:@Heya, I sell dangerous stuff.[WAIT]@It's my own personal [PAUSE 1E 00]dangerous stuff festival.[WAIT]@No one can say no to buying this stuff.[WAIT]@You want anything?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-61-11E:
+61-11E:@Hola, vendo mercancía de la peligrosa.[WAIT]@Es mi propio [PAUSE 1E 00]arsenal de mercancía peligrosa.[WAIT]@Nadie puede resistirse a estas monerías.[WAIT]@¿Quieres algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 61-12:@Yeah, I figured as much.[WAIT]@...Say,[PAUSE 10 00] you look kinda familiar somehow.[END]
-61-12E:
+61-12E:@Ya, lo suponía.[WAIT]@...Oye,[PAUSE 10 00] por alguna razón me resultas familiar.[END]
 61-13:@A fascinating bevy of goods, wouldn't you[BREAK]  agree?[WAIT]@...Say,[PAUSE 10 00] you look kinda familiar somehow.[END]
-61-13E:
+61-13E:@Es mercancía mala, muy malosa, ¿a que sí?[WAIT]@...Oye,[PAUSE 10 00] por alguna razón me resultas familiar.[END]
 61-14:@Bow-wow![WAIT]  (I'm a carefree stray dog.[WAIT]  We couldn't talk when you were riding your[BREAK]  vehicle earlier.[WAIT]  So let's talk now.)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-61-14E:
+61-14E:@¡Guau-guau![WAIT]  (Soy un perro callejero.[WAIT]  Antes no podíamos hablar porque[BREAK]  ibas en aquel vehículo.[WAIT]  Hablemos ahora.)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 61-15:@Bow wow bow.[WAIT]  (Here, YOU start the conversation.)[END]
-61-15E:
+61-15E:@Guau, gua-guau.[WAIT]  (Vale, TÚ empiezas.)[END]
 61-16:@Bow.[WAIT]  (I'm not very talkative either, actually.)[END]
-61-16E:
+61-16E:@Guau.[WAIT]  (La verdad es que soy poco hablador.)[END]
 61-17:@*sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00] *sniff*[PAUSE 10 00][WAIT]  (This scent...[PAUSE 10 00] it's the smell of[BREAK]  [EF 91][ITEM F0 FF]![WAIT]  And, as you can see, I happen to be a stray[BREAK]  dog![WAIT]  So there's only one logical thing for you to do[BREAK]  now.[WAIT]  Please give me that [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-61-17E:
+61-17E:@*snif*[PAUSE 10 00] *snif*[PAUSE 10 00] *snif*[PAUSE 10 00][WAIT]  (Este aroma...[PAUSE 10 00] ¡sólo puede ser[BREAK]  una [ITEM F0 FF]![WAIT]  Y, como bien podéis ver...[BREAK]  ¡Yo soy un perro![WAIT]  Así que, por lógica, sólo podéis[BREAK]  hacer una cosa con ella.[WAIT]  Por favor, dadme esa [ITEM F0 FF].)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // doggy biscuit or doggy jerky
 61-18:@Bow wow![WAIT]  (I'm exceptionally happy![WAIT]  I want to thank you guys somehow![WAIT]  ...Oh, I know! You can have this!)[END]
-61-18E:
+61-18E:@¡Guau, guau![WAIT]  (¡Estoy súper contento![WAIT]  ¡Quiero agradecéroslo de algún modo![WAIT]  ...¡Oh, ya sé! ¡Quedáos con esto!)[END]
 61-19:@Bow wow![WAIT]  (Take good care of my thank-you gift!)[END]
-61-19E:
+61-19E:@¡Guau-guau![WAIT]  (¡Dadle un buen uso a mi regalo!)[END]
 61-20:@*sniff*...[BREAK]  (I can't stop drooling...)[END]
-61-20E:
+61-20E:@*snif*...[BREAK]  (Estoy babeando...)[END]
 61-21:@[42 FF F0 FF] and company got [EF B1][ITEM F1 FF]![END]
-61-21E:
+61-21E:@¡[42 FF F0 FF] y compañía recibieron[BREAK]  [EF B1][ITEM F1 FF]![END]
 // pencil rocket or bomb
 61-22:@Preserve our beautiful scenery![BREAK]  Please refrain from posting signs.[END]
-61-22E:
+61-22E:@¡Protejamos nuestro bello entorno![BREAK]  Por favor, no coloquen carteles.[END]
 61-23:@Pork Bean Recharge Station[END]
-61-23E:
+61-23E:@Estación de recarga de Vainas[END]
 // Repeats: 61-23, 371-10, 474-3
 61-24:@It seems to have plenty of energy.[END]
-61-24E:
+61-24E:@Parece estar a tope de energía.[END]
 // Repeats: 61-24, 474-42
 61-25:[END]
-61-25E:
+61-25E:[END]
 
 [Container 63]
 63-0:@Oh! Commander![BREAK]  Whatever is the matter?[END]
-63-0E:
+63-0E:@¡Oh! ¡Comandante![BREAK]  ¡Hay algún problema?[END]
 63-1:@Don't tell me you threw away something[BREAK]  important,[WAIT]  and now you're chasing after it to get it back?[END]
-63-1E:
+63-1E:@¡No me diga que ha tirado algo importante[BREAK]  a la basura,[WAIT]  y ahora está intentando recuperarlo![END]
 63-2:@In that case, please use my Pork Bean.[WAIT]@Catching up to it on foot would probably be[BREAK]  impossible,[WAIT]  plus it's dangerous to walk on the highway![END]
-63-2E:
+63-2E:@En ese caso, utilice mi Vaina porcina.[WAIT]@Alcanzar ese camión a pie[BREAK]  es más o menos imposble,[WAIT]  ¡y caminar por la autopista es muy peligroso![END]
 63-3:@The pedals down by your feet...[WAIT]@The left one is the gas, and the right one is the[BREAK]  brake.[END]
-63-3E:
+63-3E:@¿Ve esos pedales a sus pies?[WAIT]@El izquierdo es para acelerar,[BREAK]  y el derecho, para frenar.[END]
 63-4:@All right, then! Be careful![END]
-63-4E:
+63-4E:@¡Bien! ¡Conduzca con precaución![END]
 // Repeats: 63-4, 400-7
 63-5:@Oh, I rented that Pork Bean under my name,[WAIT]  so please be sure to return it, okay?[END]
-63-5E:
+63-5E:@Oh, y esa vaina está alquilada a mi nombre,[WAIT]  así que devuélvamela entera, ¿vale?[END]
 63-6:@Oh, I hate to ask...[WAIT]  But could you explain simply how to make this[BREAK]  P-P-Pork... Bean vehicle move?[END]
-63-6E:
+63-6E:@Oh, disculpe, pero...[WAIT]  ¿Podría explicarme de manera sencilla cómo[BREAK]  funciona esta V-v-vaina... porcina?[END]
 // not sure who says this, some old man probably though
 63-7:@Oh. It's uhh, you know how it is...[WAIT]@I seem to be forgetting many things these[BREAK]  days, you see...[END]
-63-7E:
+63-7E:@Oh. Es que... ya sabe...[WAIT]@Últimamente me olvido de muchas cosas,[BREAK]  ¿sabe usted?...[END]
 63-8:@Th-thanks.[BREAK]  That's what I thought.[END]
-63-8E:
+63-8E:@G-gracias.[BREAK]  Es lo que suponía.[END]
 63-9:@He's passed out.[END]
-63-9E:
+63-9E:@Está en shock.[END]
 // Repeats: 63-9, 400-8
 
 [Container 66]
 66-0:@What's goin' on?[WAIT]@What're you doing, [DUSTER 23 03 00]?[WAIT]@We need to hurry![END]
-66-0E:
+66-0E:@¿Qué ocurre?[WAIT]@¿Qué estás haciendo, [DUSTER 23 03 00]?[WAIT]@¡Tenemos que darnos prisa![END]
 66-1:@Damn.[PAUSE 10 00] It's no use! It won't go![WAIT]@Looks like it's out of power.[WAIT]@I guess all we can do now is walk...[END]
-66-1E:
+66-1E:@Condenado cacharro.[PAUSE 10 00] ¡Es inútil! ¡No arranca![WAIT]@Debe haberse quedado sin energía.[WAIT]@Pues a pie que tendremos que seguir...[END]
 66-2:@It won't start up at all.[END]
-66-2E:
+66-2E:@No arranca.[END]
 66-3:@Squeak squeak squeak squeak.[WAIT]  (Guess what! Guess what![WAIT]  Whenever I eat a cookie and munch on it, my[BREAK]  cheeks get all big and chubby![WAIT]  It's so funny when they get like that.[WAIT]  Huh? My mom?[WAIT]  Oh, she's smiley again today.[WAIT]  She's smiley whenever me and her are[BREAK]  together.[WAIT]  So I'm gonna go home now.)[END]
-66-3E:
+66-3E:@Chi, chi, chi, chi, chi.[WAIT]  (¡Adivina qué! ¡Adivina qué![WAIT]  ¡Cuando me meto una galleta entera en[BREAK]  la boca, mis mejillas se hacen más grandes![WAIT]  Es muy gracioso.[WAIT]  ¿Eh? ¿Mi mamá?[WAIT]  Oh, hoy volverá a sonreir.[WAIT]  Siempre sonríe cuando estamos juntos,[WAIT]  así que me vuelvo a casa.)[END]
 
 [Container 67]
 67-0:@Finally! It's about time![END]
-67-0E:
+67-0E:@¡Por fin! ¡Ya era hora![END]
 67-1:@I just hope the egg's alright.[END]
-67-1E:
+67-1E:@Espero que el huevo esté a salvo.[END]
 67-2:@What is THAT?![END]
-67-2E:
+67-2E:@¡¿Qué es ESO?![END]
 67-3:@Here it is![END]
-67-3E:
+67-3E:@¡Aquí está![END]
 67-4:@Got the [ITEM DF 00]![END]
-67-4E:
+67-4E:@¡Conseguiste el [ITEM DF 00]![END]
 67-5:@Now I see.[WAIT][PAUSE 1E 00]@I really am [DUSTER 23 03 00].[WAIT]@I'm [DUSTER 23 03 00].[EVENT][END]
-67-5E:
+67-5E:@Ahora lo veo claro.[WAIT][PAUSE 1E 00]@Realmente soy [DUSTER 23 03 00].[WAIT]@Soy [DUSTER 23 03 00].[EVENT][END]
 67-6:@Guys! I'm [DUSTER 23 03 00]![WAIT]@I remember now! I really am [DUSTER 23 03 00]![WAIT][PAUSE 5A 00]@Yahoooo! I finally have my memory back![END]
-67-6E:
+67-6E:@¡Chicos! ¡Soy [DUSTER 23 03 00]![WAIT]@¡Ahora lo recuerdo todo! ¡Soy [DUSTER 23 03 00]![WAIT][PAUSE 5A 00]@¡Yujuuuu! ¡He recuperado la memoria![END]
 67-7:@Awesome! We did it![WAIT]@Yep! You're [DUSTER 23 03 00]![WAIT]@[DUSTER 23 03 00]! [PAUSE 20 00][DUSTER 23 03 00]![WAIT]@I'll keep calling you that, as many times as you[BREAK]  want![WAIT]@Now don't you dare lose the egg again![END]
-67-7E:
+67-7E:@¡Genial! ¡Lo logramos![WAIT]@¡Sí! ¡Eres [DUSTER 23 03 00]![WAIT]@¡[DUSTER 23 03 00]! [PAUSE 20 00]¡[DUSTER 23 03 00]![WAIT]@¡Te seguiré llamando así tantas veces[BREAK]  como quieras![WAIT]@¡Pero no pierdas ese huevo otra vez![END]
 67-8:@Woof woof woof![WAIT]  (You've always been [DUSTER 23 03 00]![BREAK]  You just forgot!)[END]
-67-8E:
+67-8E:@¡Guau, guau-au![WAIT]  (¡Siempre has sido [DUSTER 23 03 00]![BREAK]  ¡Solamente lo habías olvidado!)[END]
 67-9:@Commander![WAIT]@What are you doing, goofing around in a place[BREAK]  like this?![END]
-67-9E:
+67-9E:@¡Comandante![WAIT]@¡¿Qué hace, haciendo el tonto[BREAK]  en un lugar como este?![END]
 67-10:@We're heading straight to Thunder Tower.[WAIT]@If anyone needs to use the restroom on the[BREAK]  way there, please hold it in![EVENT][END]
-67-10E:
+67-10E:@Nos dirigimos a la Torre del trueno.[WAIT]@Si alguien tiene que ir al servicio durante[BREAK]  el trayecto, ¡que se aguante![EVENT][END]
 67-11:@Now to hit the pedal to the metal![END]
-67-11E:
+67-11E:@Ahora, ¡a pisarle a fondo![END]
 67-12:@Nothing but garbage...[END]
-67-12E:
+67-12E:@Nada más que basura...[END]
 67-13:@On closer look, this appears to be a worn-out[BREAK]  Clayman.[END]
-67-13E:
+67-13E:@Visto de cerca, parecen los restos[BREAK]  de un Arcilloso.[END]
 67-14:@A quite old Clayman.[END]
-67-14E:
+67-14E:@Un Arcilloso bastante viejo.[END]
 67-15:@Squeak squeak squeak![WAIT]  (Somehow, I feel like something is going to[BREAK]  happen in this garbage dump.[WAIT]@I guess it's just a mouse's sixth sense...[WAIT]  Well, I better head back to Mom now.)[END]
-67-15E:
+67-15E:@¡Chi, chi, chiii![WAIT]  (Por alguna razón, siento que algo[BREAK]  va a ocurrir en este vertedero.[WAIT]@Será cosa del sexto sentido ratonil...[WAIT]  Bueno, mejor me vuelvo con mamá.)[END]
 // Much of this comes from an EarthBound quote, this line isn't used in the game though
 67-16:@This is a garbage dump.[WAIT]@So let's throw our busted dreams out with the[BREAK]  rest of our trash![END]
-67-16E:
+67-16E:@Esto es un vertedero.[WAIT]@¡Tiremos nuestros sueños rotos[BREAK]  con el resto de la basura![END]
 67-17:@The garbage here is piled up like a mountain.[END]
-67-17E:
+67-17E:@Lo que se dice una montaña de basura.[END]
 67-18:@A totaled Pork Bean has been thrown away[BREAK]  here.[END]
-67-18E:
+67-18E:@Han tirado una Vaina porcina[BREAK]  totalmente desvencijada.[END]
 67-19:@A scrapped Instant Revitalizing Machine.[END]
-67-19E:
+67-19E:@Un Dispositivo de revitalización averiado.[END]
 
 [Container 69]
 69-0:[END]
-69-0E:
+69-0E:[END]
 69-1:[END]
-69-1E:
+69-1E:[END]
 
 [Container 70]
 70-0:@I'm a debug save frog.[BREAK]@Save?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-70-0E:
+70-0E:@Soy una rana debug.[BREAK]@¿Quieres guardar?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 70-1:@Ribbit ribbit.[BREAK]@You're so heartless.[END]
-70-1E:
+70-1E:@Croac, croac.[BREAK]@No tienes corazón.[END]
 
 [Container 72]
 72-0:[HOTSPRING 00 00][END]
@@ -5023,43 +5023,43 @@
 72-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 72-27:@Sunshine Forest ahead.[BREAK]  Beware of poisonous snakes.[WAIT]@Antidotes are always on hand, so please see[BREAK]  Isaac if you need one.[END]
-72-27E:
+72-27E:@Bosque Amanecer.[BREAK]  Cuidado con las serpientes venenosas.[WAIT]@No dudes en hablar con Isaac[BREAK]  si necesitas antídotos.[END]
 72-28:@Got an Antidote.[END]
-72-28E:
+72-28E:@Conseguiste un Antídoto.[END]
 72-29:@The forest's full of poisonous snakes and[BREAK]  other creatures,[WAIT]  so you should take an [ITEM 8B 00] with you,[BREAK]  [FLINT 23 01 00].[END]
-72-29E:
+72-29E:@El bosque está infestado de serpientes[BREAK]  venenosas y otras criaturas,[WAIT]  deberías coger algún [ITEM 8B 00],[BREAK]  [FLINT 23 01 00].[END]
 72-30:@...But it looks like you can't hold any more[BREAK]  stuff.[END]
-72-30E:
+72-30E:@...Pero parece que no puedes cargar[BREAK]  con más cosas.[END]
 72-31:@If you're tired, you can rest here a bit.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-72-31E:
+72-31E:@Puedes descansar aquí, si quieres.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 72-32:@Don't push yourself too hard, now.[END]
-72-32E:
+72-32E:@Nada de extralimitarse, ¿vale?[END]
 72-33:@Brrr, that's cold rain.[WAIT]@I don't like it. It doesn't seem like it's ever[BREAK]  going to stop...[END]
-72-33E:
+72-33E:@Brrr, la lluvia está helada.[WAIT]@No me gusta. Parece como si[BREAK]  no fuese a parar nunca...[END]
 72-34:@[HINAWA 22 08 00] promised she'd teach me how[BREAK]  to make delicious [FAVFOOD]...[END]
-72-34E:
+72-34E:@[HINAWA 22 08 00] me prometió que me[BREAK]  enseñaría a preparar [FAVFOOD]...[END]
 72-35:@There's no response to our shouting.[WAIT]@That doesn't leave us with many options...[END]
-72-35E:
+72-35E:@No parece haber nadie en casa.[WAIT]@Eso no nos deja muchas más opciones...[END]
 72-36:@Osohe Castle isn't this way.[END]
-72-36E:
+72-36E:@Por ahí no se va al castillo Osohe.[END]
 72-37:[END]
-72-37E:
+72-37E:[END]
 
 [Container 73]
 73-0:@!!![END]
-73-0E:
+73-0E:@¡¡¡!!![END]
 73-1:@Oh, crap! We can't let it get away![END]
-73-1E:
+73-1E:@¡Cuernos! ¡Que se nos escapa![END]
 73-2:@Squeak.[WAIT]  (I hate this stupid ol' factory.[WAIT]  There's nothing to eat here at all.[WAIT]  Huh? My mom's calling for me?[WAIT]  Yikes! I better get back before she gets[BREAK]  REALLY mad at me!)[END]
-73-2E:
+73-2E:@Chi-chi.[WAIT]  (Odio esta estúpida fábrica.[WAIT]  No hay nada que comer por aquí.[WAIT]  ¿Eh? ¿Que mi mamá me está llamando?[WAIT]  ¡Córcholis! ¡Será mejor que vuelva a casa[BREAK]  antes de que se enfade!)[END]
 73-3:[END]
-73-3E:
+73-3E:[END]
 
 [Container 75]
 75-0:@Squeak squeak squeeeak.[WAIT]  (This house I'm secretly living in got blasted by[BREAK]  lightning.)[END]
-75-0E:
+75-0E:@Chi, chi, chiiiii.[WAIT]  (La casa en la que estaba de inquilino[BREAK]  ha sido alcanzada por un rayo.)[END]
 75-1:[END]
-75-1E:
+75-1E:[END]
 
 [Container 77]
 77-0:[HOTSPRING 00 00][END]
@@ -5144,51 +5144,51 @@
 77-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 77-27:@No Suspicious Activities Allowed![WAIT]  This is an "interesting animal" preserve.[END]
-77-27E:
+77-27E:@¡Prohibidas las actividades sospechosas![WAIT]  Reserva de "Animales interesantes".[END]
 77-28:@There's a small notice board here.[WAIT]@"Going to the big city. See you all later."[END]
-77-28E:
+77-28E:@Hay una nota en la puerta.[WAIT]@"Me he ido a la gran ciudad. Nos vemos."[END]
 77-29:[END]
-77-29E:
+77-29E:[END]
 
 [Container 78]
 78-0:@Coming Soon: Oriander Observatory[END]
-78-0E:
+78-0E:@Próximamente: Observatorio Oriander[END]
 78-1:@The cabin appears to have been destroyed by[BREAK]  a direct lightning strike...[END]
-78-1E:
+78-1E:@La cabaña parece haber sido destruida[BREAK]  por un rayo...[END]
 
 [Container 79]
 79-0:@Ionia told me you would come here. [HEART][END]
-79-0E:
+79-0E:@Ionia me dijo que vendrías. [HEART][END]
 79-1:@The Needle I'm guarding is at the bottom of[BREAK]  this pond. [HEART][WAIT]@My Needle is much more of a pain to pull out.[WAIT]  *giggle*[END]
-79-1E:
+79-1E:@La Aguja que custodio está en el fondo[BREAK]  de este estanque. [HEART][WAIT]@Esta es mucho más difícil de extraer[BREAK]  que las otras.[WAIT]  *risita*[END]
 79-2:@It's hard to believe you really have the power[BREAK]  to pull the Needles.[WAIT]@But before you can even try,[WAIT]  we need to move the water from this pond[BREAK]  into that empty hole first.[END]
-79-2E:
+79-2E:@Cuesta creer que tú poseas la capacidad[BREAK]  de extraer las Agujas.[WAIT]@Pero para poder hacerlo con esta,[WAIT]  necesitamos llevar el agua del estanque[BREAK]  hasta ese agujero de al lado.[END]
 79-3:@You know that Chimera Laboratory to the[BREAK]  west of here?[WAIT]@There might be some junk there that could[BREAK]  help us move the pond water.[WAIT]@Why not look for something there? [HEART][END]
-79-3E:
+79-3E:@¿Conoces el laboratorio Quimera,[BREAK]  al oeste de aquí?[WAIT]@Puede que allí encuentres algo que[BREAK]  nos ayude a trasladar el agua.[WAIT]@¿Por qué no vas a echar un vistazo? [HEART][END]
 79-4:@After I fell from the airship...[WAIT]  Doria was there to rescue me.[WAIT]@Apparently, a pretty woman dressed in red[BREAK]  appeared in Doria's dreams...[WAIT]  ...and foretold that I'd fall into this pond.[WAIT]@For some reason, after I heard that story...[WAIT]  ...I just somehow knew you guys were alright[BREAK]  too, and that I'd see you again soon enough.[WAIT]@I was a little worried about you, though,[BREAK]  [LUCAS 23 02 00].[END]
-79-4E:
+79-4E:@Después de caer de la aeronave...[WAIT]  Doria me rescató.[WAIT]@Me contó que una hermosa mujer vestida[BREAK]  de rojo se le apareció en sueños...[WAIT]  ...y predijo que yo caería en este estanque.[WAIT]@No sé por qué, pero tras oír esa historia...[WAIT]  ...supe que estábais sanos y salvos,[BREAK]  y que nos volveríamos a ver muy pronto.[WAIT]@Aunque estaba algo preocupada por ti,[BREAK]  [LUCAS 23 02 00].[END]
 79-5:@Doria also says [DUSTER 23 03 00]'s alright.[WAIT]@I think he is, too.[END]
-79-5E:
+79-5E:@Doria dice que [DUSTER 23 03 00] está bien.[WAIT]@Yo también lo creo.[END]
 79-6:@Ooh![PAUSE 20 00] Yes, here we are! [HEART][WAIT]@This will solve our pond water dilemma![BREAK]  I just know it! [HEART][END]
-79-6E:
+79-6E:@¡Ooh![PAUSE 20 00] ¡Sí, allá vamos! [HEART][WAIT]@¡Esto resolverá nuestro húmedo dilema![BREAK]  ¡Estoy convencida! [HEART][END]
 79-7:@Ooh, look at him dry! [HEART][WAIT]@He's just drying away! [HEART][END]
-79-7E:
+79-7E:@¡Ooh, mirad! [HEART][WAIT]@¡Qué manera de secar! [HEART][END]
 79-8:@Keep at it a little more?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-79-8E:
+79-8E:@¿Quieres seguir un poco más?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 79-9:@Keep going even more?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-79-9E:
+79-9E:@¿Quieres seguir aún más?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 79-10:@Very little was accomplished![END]
-79-10E:
+79-10E:@¡No has progresado casi nada![END]
 79-11:@You sent your choice back.[END]
-79-11E:
+79-11E:@Mandaste de vuelta a la quimera.[END]
 79-12:@Today must not be your lucky day.[WAIT]@That's too bad...[END]
-79-12E:
+79-12E:@Hoy no es vuestro día de suerte.[WAIT]@Qué faena...[END]
 79-13:@Ooh! Look! [HEART][WAIT]@They're trying so hard! [HEART][END]
-79-13E:
+79-13E:@¡Ooh! ¡Mirad! [HEART][WAIT]@¡Qué empeño le ponen! [HEART][END]
 79-14:@I bet those kids could've managed it, had we[BREAK]  kept them going for a whole year straight.[WAIT][PAUSE 1E 00]  Or maybe not.[WAIT]@That's a bit of a pity.[BREAK]  *giggle*[END]
-79-14E:
+79-14E:@Seguro que esos pequeñines lo habrían[BREAK]  logrado si hubiesen seguido así un año.[WAIT][PAUSE 1E 00]  O no.[WAIT]@Dan un poco de penita.[BREAK]  *risita*[END]
 79-15:[END]
-79-15E:
+79-15E:[END]
 
 [Container 80]
 80-0:[HOTSPRING 00 00][END]
@@ -5273,227 +5273,227 @@
 80-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 80-27:@*gasp* *wheeze* *huff*[WAIT]  I'm a mole cricket! I followed you here![WAIT]@I'm studying, you see![BREAK]  I have an undying sense of curiosity![WAIT]@It's like the Call of the Wild[PAUSE 20 00], and all that![EVENT][END]
-80-27E:
+80-27E:@*buf* *cof* *uf*[WAIT]  ¡Soy un grillo topo! ¡Te he seguido hasta aquí![WAIT]@¡Soy un estudiante![BREAK]  ¡Mi curiosidad no conoce límites![WAIT]@Es como la "Llamada de la selva"[PAUSE 20 00], o algo así.[EVENT][END]
 80-28:@For whatever reason, I picked up all sorts of[BREAK]  stuff along the way![WAIT]@Please let me use them to conduct business![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-80-28E:
+80-28E:@Por cierto, ¡he ido recogiendo toda clase[BREAK]  de cosas por el camino![WAIT]@¡Permíteme darles un uso comercial![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 80-29:@Thank you![WAIT]@I'm still new to this, but I'm going to work as[BREAK]  hard as I possibly can![END]
-80-29E:
+80-29E:@¡Gracias![WAIT]@Todavía soy nuevo en esto,[BREAK]  ¡pero pienso esforzarme al máximo![END]
 80-30:@Oh. Okay, then.[WAIT]@But if you ever need anything, just let me[BREAK]  know anytime![WAIT]@I'll try my very hardest to serve you then, too![END]
-80-30E:
+80-30E:@Oh. Vale.[WAIT]@¡Pero no dudes en venir a verme[BREAK]  si necesitas algo![WAIT]@¡Me esforzaré por atenderte mejor que nadie![END]
 80-31:@The rabbits fled into this hole.[END]
-80-31E:
+80-31E:@Los conejos se han escondido aquí.[END]
 80-32:@*hop*[PAUSE 18 00] *slip*[WAIT]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-80-32E:
+80-32E:@*hop*[PAUSE 18 00] *croac*[WAIT]  ¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 80-33:@From the moment they're made, snowmen[BREAK]  wait for someone.[WAIT]@Some snowmen melt away without ever[BREAK]  meeting anyone.[END]
 80-33E:@Desde que somos creados, los muñecos[BREAK]  de nieve esperamos a alguien.[WAIT]@Algunos llegamos a derretirnos sin haber[BREAK]  conocido a ese alguien.[END]
 80-34:@Oh, dear me.[WAIT]@My little bunnies have run off.[WAIT]@...This is quite a surprise, you see. We haven't[BREAK]  had visitors in some time. [HEART][END]
-80-34E:
+80-34E:@Oh, cielo santo.[WAIT]@Mis conejitos se han escapado.[WAIT]@...Esto es toda una sorpresa.[BREAK]  Hacía mucho que no teníamos visita. [HEART][END]
 80-35:@You must be cold.[WAIT]@Come inside and warm up. [HEART][END]
 80-35E:@Debéis estar helados.[WAIT]@Entrad y calentaros un poco. [HEART][END]
 80-36:@That masked man...[WAIT]  Could he be the one pulling the Needles?![END]
-80-36E:
+80-36E:@Ese enmascarado...[WAIT]  ¡¿Es él quien está extrayendo las Agujas?![END]
 80-37:@Is Lydia alright...?[END]
-80-37E:
+80-37E:@¿Estará bien Lidia...?[END]
 80-38:@Woof![BREAK]  ([LUCAS 23 02 00].[WAIT]  Do you think Lydia's all right?)[END]
-80-38E:
+80-38E:@¡Guau![BREAK]  ([LUCAS 23 02 00].[WAIT]  ¿Crees que Lidia estará bien?)[END]
 80-39:@[LUCAS 23 02 00].[WAIT]@Someone other than you has pulled the Needle.[WAIT]@Whatever is inside that person's heart has[BREAK]  been passed on to the Dark Dragon...[WAIT]@You MUST pull the rest of the remaining[BREAK]  Needles from here on out...[END]
-80-39E:
+80-39E:@[LUCAS 23 02 00].[WAIT]@Otra persona ha extraído la Aguja.[WAIT]@Y lo que quiera que hubiese en su corazón[BREAK]  ha sido transmitido al Dragón oscuro...[WAIT]@DEBES asegurarte de extraer el resto[BREAK]  de las Agujas que quedan...[END]
 80-40:@Before I disappear, take this memento of me.[WAIT]@Take good care of it. [HEART][END]
-80-40E:
+80-40E:@Antes de desaparecer, querría darte esto.[WAIT]@Cuídalo bien. [HEART][END]
 80-41:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
-80-41E:
+80-41E:@Oh, vaya. Tu inventario está lleno.[WAIT]@¡Se siente! [HEART][END]
 // Repeats: 80-41, 175-18
 80-42:@Oh, wait.[PAUSE 18 00] I almost forgot something very[BREAK]  important.[WAIT]@Could you be a dear and give this to Ionia for[BREAK]  me? [HEART][END]
-80-42E:
+80-42E:@Oh, espera.[PAUSE 18 00] Casi me olvido[BREAK]  de algo muy importante.[WAIT]@¿Serías tan amable de darle esto a Ionia[BREAK]  de mi parte, cielín? [HEART][END]
 80-43:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-80-43E:
+80-43E:@Cuando se lo entregues, sabrá que[BREAK]  cinco de las Agujas han sido extraídas. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 80-44:@Don't worry about me. [HEART][WAIT]@You can use the white box at the top of this[BREAK]  mountain to leave. [HEART][EVENT][END]
-80-44E:
+80-44E:@No os preocupéis por mí. [HEART][WAIT]@Podéis utilizar la caja blanca de la cima[BREAK]  de la montaña para marcharos. [HEART][EVENT][END]
 80-45:@Also, go and ask my little Pigmask friend what[BREAK]  he wants to do now.[END]
-80-45E:
+80-45E:@Y de paso, preguntadle a mi amigo[BREAK]  el Puercareto qué va a hacer ahora.[END]
 80-46:@[LUCAS 23 02 00].[EVENT][END]
-80-46E:
+80-46E:@[LUCAS 23 02 00].[EVENT][END]
 80-47:@This is it. "The time" has come.[WAIT]@Believe in that, and keep pushing forward.[WAIT]@This is where I say farewell.[END]
-80-47E:
+80-47E:@No hay duda. "El momento" ha llegado.[WAIT]@Cree en esas palabras y sigue avanzando.[WAIT]@Ahora debo deciros adiós.[END]
 80-48:@Byebee! [HEART][WAIT]@Send hugs and kisses to the next Magypsy for[BREAK]  meeee! [HEART][END]
-80-48E:
+80-48E:@¡Adiositooo! [HEART][WAIT]@¡Dadle muchos besos y abrazos de mi parte[BREAK]  a la siguiente Magipsi! [HEART][END]
 80-49:@Where are you going? Don't ditch Lydia![END]
-80-49E:
+80-49E:@¿A dónde vas? ¡Ve a ver si Lidia está bien![END]
 80-50:@We snowmen are mere memories of a single[BREAK]  snowfall, and nothing more.[WAIT]@Pay me no mind.[END]
-80-50E:
+80-50E:@Los muñecos de nieve sólo somos[BREAK]  meros recuerdos de una nevada.[WAIT]@No te preocupes por mí.[END]
 80-51:[END]
-80-51E:
+80-51E:[END]
 
 [Container 81]
 81-0:@Come! Gather around![WAIT]@Come, one and all, fair denizens of Tazmily![WAIT]@Congratulations are in order for the hard work[BREAK]  you put in every single day![END]
-81-0E:
+81-0E:@¡Venid! ¡Acercaos![WAIT]@¡Venid todos, hijos de Tazmily![WAIT]@¡Merecéis ser felicitados por el duro trabajo[BREAK]  que desempeñáis a diario![END]
 81-1:@I've come here today to give you all wonderful[BREAK]  news...[PAUSE 3C 00] about happiness![END]
-81-1E:
+81-1E:@Me dirijo hoy a vosotros para hablaros[BREAK]  de algo maravilloso...[PAUSE 3C 00] ¡la felicidad![END]
 81-2:@...Blue skies.[WAIT]@White clouds.[WAIT]@Bountiful crops.[WAIT]@Stout livestock.[WAIT]@Happy families and kindhearted neighbors...[WAIT]@This village is filled with so many wondrous[BREAK]  things![END]
-81-2E:
+81-2E:@...Cielos azules.[WAIT]@Nubes blancas.[WAIT]@Abundantes cosechas.[WAIT]@Ganado saludable.[WAIT]@Familias felices y bondadosos vecinos...[WAIT]@¡Este pueblo está repleto de cosas buenas![END]
 81-3:@But, there's still something missing.[WAIT]@A tiny speck of uncertainty that steals into[BREAK]  each bright day.[END]
-81-3E:
+81-3E:@Pero aun así, hay algo que falla.[WAIT]@Una incertidumbre que ensombrece[BREAK]  cada brillante amanecer.[END]
 81-4:@Is this really how things should be?![WAIT]@Shouldn't we be living much more comfortable,[BREAK]  enjoyable lives?![END]
-81-4E:
+81-4E:@¡¿Es así como tiene que ser?![WAIT]@¡¿No deberían ser nuestras vidas[BREAK]  mucho más fáciles?![END]
 81-5:@It's only natural to harbor a few such[BREAK]  suspicions.[END]
-81-5E:
+81-5E:@Es natural mostrar cierto recelo[BREAK]  ante esta situación.[END]
 81-6:@Odd animals that have never been seen before[BREAK]  now lurk in our forests,[WAIT]  and giant balloon-like objects soar our skies![END]
-81-6E:
+81-6E:@¡Extraños animales que jamás habíamos visto[BREAK]  merodean por nuestros bosques![WAIT]  ¡Enormes globos que surcan nuestros cielos![END]
 81-7:@What's going on?![WAIT]@What's happening to the world we live in?![END]
-81-7E:
+81-7E:@¡¿Qué está ocurriendo?![WAIT]@¡¿Qué le está pasando al mundo[BREAK]  en el que vivimos?![END]
 81-8:@And that's not all![WAIT]@Not by a long shot![WAIT]@The word on the wind says that in the very[BREAK]  near future,[WAIT]  lightning powerful enough to burn down forests[BREAK]  and woods will rain down on us almost daily![END]
-81-8E:
+81-8E:@¡Pero eso no es todo![WAIT]@¡No, ni mucho menos![WAIT]@Dicen las malas lenguas que,[BREAK]  en un futuro no muy lejano,[WAIT]  ¡caerán a diario, sobre nosotros, rayos[BREAK]  capaces de arrasar un bosque entero![END]
 81-9:@Oh! You laughed at that, didn't you?[WAIT]@You thought to yourself, "Get real! Something[BREAK]  like that would never happen!"[WAIT]@But I truly believe this will soon be a reality.[END]
-81-9E:
+81-9E:@¡Oh! Eso os ha hecho gracia, ¿verdad?[WAIT]@Habéis pensado, "¡Venga ya![BREAK]  ¡Es imposible que ocurra algo así!"[WAIT]@Pero creedme cuando os digo que no lo es.[END]
 81-10:@And in times like this, isn't it human nature to[BREAK]  want to be happy?[WAIT]@To live with a smile on your face?[END]
-81-10E:
+81-10E:@Y, en tiempos como estos...[BREAK]  ¿No es natural querer ser feliz?[WAIT]@¿No es natural querer vivir con[BREAK]  una sonrisa en la cara?[END]
 81-11:@But I have good news for you![WAIT]@Today is your lucky day![END]
-81-11E:
+81-11E:@¡Pues tengo buenas noticias para vosotros![WAIT]@¡Hoy es vuestro día de suerte![END]
 81-12:@You can obtain happiness very easily.[END]
-81-12E:
+81-12E:@Esa felicidad es muy fácil de obtener.[END]
 81-13:@Just look here![WAIT]  Even my cute, adorable [SALSA 23 06 00] is[BREAK]  dancing so happily...[WAIT]@The reason for this, you see...[WAIT]  ...is that this monkey has gotten a head start[BREAK]  on obtaining happiness![END]
-81-13E:
+81-13E:@¡Mirad![WAIT]  Incluso mi adorable [SALSA 23 06 00] está[BREAK]  bailando alegremente...[WAIT]@La razón de que así sea...[WAIT]  ...¡es porque este mono ha tomado[BREAK]  la delantera en la búsqueda de la felicidad![END]
 81-14:@How exactly did little [SALSA 23 06 00] here[BREAK]  manage to find happiness?[WAIT]@All those who are interested, please raise your[BREAK]  hand boisterously.[WAIT]@Who wants to be happy?![END]
-81-14E:
+81-14E:@¿Cómo se las ha arreglado [SALSA 23 06 00][BREAK]  para encontrar la felicidad?[WAIT]@Todos los interesados pueden[BREAK]  alzar su mano sin vergüenza.[WAIT]@¡¿Quién quiere ser feliz?![END]
 81-15:@Okay, little [SALSA 23 06 00]![WAIT]@Go and ask the nice people who want[BREAK]  happiness for their names.[WAIT]@Please keep your hands raised, folks.[END]
-81-15E:
+81-15E:@¡Bien, mi pequeño [SALSA 23 06 00]![WAIT]@Ve a preguntar los nombres de esta buena[BREAK]  gente que busca la felicidad.[WAIT]@Mantened la mano alzada, amigos.[END]
 81-16:@I'm Biff.[WAIT]@I'm not really sure what this is about, but if I[BREAK]  can get something out of it, I'll give it a shot.[END]
-81-16E:
+81-16E:@Soy Biff.[WAIT]@No sé de qué va esto exactamente, pero si[BREAK]  puedo sacar provecho de ello,[WAIT]  qué menos que intentarlo.[END]
 81-17:@My name is Abbot.[WAIT]@I've been an avid collector of things ever since[BREAK]  I was a boy.[WAIT]  It's hard to explain, but just collecting stuff...[WAIT]  It somehow makes me happy.[WAIT]@Plus, I'd like to see what happiness looks like,[BREAK]  too.[END]
-81-17E:
+81-17E:@Me llamo Abbot.[WAIT]@He sido un ávido coleccionista de cosas[BREAK]  desde bien pequeño.[WAIT]  Es difícil de explicar, pero acumular cosas...[WAIT]  me hace feliz, en cierto modo.[WAIT]@Yo también quiero saber más[BREAK]  sobre esa "felicidad".[END]
 81-18:@I'm Abbey.[WAIT]@I respect my husband Abbot.[WAIT]@There's nothing bad about having TOO much[BREAK]  happiness, is there?[END]
-81-18E:
+81-18E:@Soy Abbey.[WAIT]@Opino igual que mi marido Abbot.[WAIT]@No puede haber nada malo en tener[BREAK]  DEMASIADA felicidad, después de todo.[END]
 81-19:@I'm Isaac.[WAIT]@I just wanna see if it really is that easy to be[BREAK]  happy.[END]
-81-19E:
+81-19E:@Soy Isaac.[WAIT]@Tan sólo quiero ver si de verdad[BREAK]  es tan fácil ser feliz.[END]
 81-20:@I don't need happiness. It's standing right next[BREAK]  to me.[END]
-81-20E:
+81-20E:@No necesito felicidad.[BREAK]  Ya la tengo a mi lado, y se llama Linda.[END]
 81-21:@Happiness, huh...[BREAK]  I'll admit, I am a little curious...[END]
-81-21E:
+81-21E:@Felicidad, mmm...[BREAK]  Lo admito, me mata la curiosidad...[END]
 81-22:@Happiness leaves when wanted.[END]
-81-22E:
+81-22E:@La felicidad desaparece cuando la buscas.[END]
 81-23:@Go on, now.[WAIT]@Go and ask the nice people who want[BREAK]  happiness for their names.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-81-23E:
+81-23E:@Venga.[WAIT]@Ve a preguntar los nombres de esta buena[BREAK]  gente que busca la felicidad.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 81-24:@Oh, dear me.[WAIT]@Whatever's the matter, my little[BREAK]  [SALSA 23 06 00]?[WAIT]@Are you exhausted already?[END]
-81-24E:
+81-24E:@Oh, cielos.[WAIT]@¿Qué ocurre, mi pequeño [SALSA 23 06 00]?[BREAK]@¿Ya estás cansado?[END]
 81-25:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-81-25E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
+81-25E:@No es más que un tendedero ordinario.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 81-26:@This hasn't been used, for whatever reason.[END]
 81-26E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 81-27:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-81-27E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
+81-27E:@"Bazar de Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 81-28:@"Jackie's Yado Inn"[BREAK]  We won't over-pamper you here.[END]
 81-28E:@"La posada Yado de Jackie"[BREAK]  No te mimaremos en exceso.[END]
 // Repeats: 3-19, 81-28, 211-12
 81-29:@Everyone![WAIT]@If even just one more of us can achieve[BREAK]  happiness, all will be right in the world![END]
-81-29E:
+81-29E:@¡Amigos![WAIT]@¡Conque uno solo de nosotros logre alcanzar[BREAK]  la felicidad, el mundo será un lugar mejor![END]
 81-30:@For those of you who didn't raise your hand,[BREAK]  please think it over later,[WAIT]  and if you decide that you do want happiness[BREAK]  after all, feel free to let me know anytime![END]
-81-30E:
+81-30E:@A aquellos que no habéis alzado la mano,[BREAK]  por favor, pensad en ello,[WAIT]  y si finalmente decidís que queréis alcanzar[BREAK]  la felicidad, ¡no dudéis en hacérmelo saber![END]
 81-31:@Well, that's all for today's show![WAIT]@May happiness come to this village![END]
-81-31E:
+81-31E:@¡Bueno, eso ha sido todo por hoy![WAIT]@¡Que la felicidad florezca en este pueblo![END]
 81-32:@Take care![END]
-81-32E:
+81-32E:@¡Cuidaos![END]
 81-33:@Now, then.[WAIT]@Come along, little [SALSA 23 06 00].[BREAK]  Let us return to the Yado Inn.[END]
-81-33E:
+81-33E:@Muy bien.[WAIT]@Vamos, mi pequeño [SALSA 23 06 00].[BREAK]  Volvamos a la posada Yado.[END]
 81-34:@You're safe now.[END]
-81-34E:
+81-34E:@Ahora estás a salvo.[END]
 81-35:@Dunno how you got involved with that[BREAK]  lie-spewin' fraud,[WAIT]  but you must've had your reasons, I guess.[WAIT]@Poor li'l thing.[END]
-81-35E:
+81-35E:@No sé cómo has acabado mezclándote[BREAK]  con semejante bocachancla,[WAIT]  pero me imagino que tendrás tus motivos.[WAIT]@Pobre pequeñín.[END]
 81-36:@Princess.[WAIT]@This is a great deed you've done.[WAIT]@Now let's go find that lazy moron[PAUSE 20 00] - I mean,[BREAK]  [DUSTER 23 03 00] -[PAUSE 20 00] and that egg he has with him.[WAIT]@I know he's all right;[WAIT]  morons like him never get sick or hurt, no[BREAK]  matter where they go or what they do.[END]
-81-36E:
+81-36E:@Princesa.[WAIT]@Ese ha sido un gesto muy noble[BREAK]  de vuestra parte.[WAIT]@Ahora, vayamos en busca de ese zoquete[PAUSE 20 00][BREAK]  - digo, [DUSTER 23 03 00] -[PAUSE 20 00] y el huevo.[WAIT]@Sé que está bien...[WAIT]  Da igual lo que pase, los zoquetes como él[BREAK]  siempre salen ilesos de estas situaciones.[END]
 81-37:@Yeah.[WAIT]@We just gotta find [DUSTER 23 03 00] and the egg.[END]
-81-37E:
+81-37E:@Sí.[WAIT]@Busquemos a [DUSTER 23 03 00] y el huevo.[END]
 81-38:@But first, let's free this monkey.[END]
-81-38E:
+81-38E:@Pero antes, liberemos a este monito.[END]
 81-39:@Geezer. Go steal that zapper gizmo while that[BREAK]  lyin' freak's still asleep.[END]
-81-39E:
+81-39E:@Viejales. Coge el chisme de los calambres[BREAK]  mientras el mercachifle ese duerme.[END]
 81-40:@Oh, right.[WAIT]@I should've swiped it earlier.[WAIT]@I'll be right back.[END]
-81-40E:
+81-40E:@Oh, cierto.[WAIT]@Ya debería haberlo hecho.[WAIT]@Vuelvo enseguida.[END]
 81-41:@You'll be free in a minute, monkey.[WAIT]@You must've had it rough.[END]
-81-41E:
+81-41E:@En unos minutos serás libre, monito.[WAIT]@Debes haberlas pasado canutas.[END]
 81-42:@Hey, monkey.[WAIT]@I stole the doohickey.[END]
-81-42E:
+81-42E:@Eh, mono.[WAIT]@He robado el cachivache.[END]
 81-43:@I accidentally bumped it on the way back.[BREAK]  Did it zap you?[WAIT]@Sorry 'bout that.[END]
-81-43E:
+81-43E:@Lo he accionado sin querer mientras volvía.[BREAK]  ¿Te ha dado una descarga?[WAIT]@Lo siento.[END]
 81-44:@Here, monkey.[WAIT]@You destroy it.[END]
-81-44E:
+81-44E:@Vamos, monito.[WAIT]@Destrózalo.[END]
 81-45:@Alright, monkey. You can go wherever you[BREAK]  want now.[WAIT]@You're free.[END]
-81-45E:
+81-45E:@Bueno, monito. Ahora puedes ir[BREAK]  a donde te plazca.[WAIT]@Eres libre.[END]
 81-46:@...You got something keepin' you from runnin'[BREAK]  away?[WAIT]@What is it?[END]
-81-46E:
+81-46E:@...¿Hay algo que te impide huir de este tipejo?[WAIT]@¿De qué se trata?[END]
 81-47:@Oh, your girlfriend's been kidnapped...?[WAIT]@Or "monkeynapped", I should say?[END]
-81-47E:
+81-47E:@Oh, ¿tienen secuestrada a tu media naranja...?[WAIT]@¿O debería decir, a tu "medio plátano"?[END]
 81-48:@Damn that cheap bastard![WAIT]@He's screwed up![END]
-81-48E:
+81-48E:@¡Maldito bastardo![WAIT]@¡Ya hay que ser retorcido![END]
 81-49:@Oh, did you call for me?[WAIT]@I happen to be that screwed-up, cheap bastard[BREAK]  you speak of![END]
-81-49E:
+81-49E:@¿Oh, me estaba llamando?[WAIT]@¡Resulta que yo soy ese retorcido bastardo[BREAK]  del que habla![END]
 // He talks very polite then very rude in Japanese, but this doesn't work well in English
 81-50:@To think I would get to meet you here, of all[BREAK]  places, Princess [KUMATORA 23 04 00]...[WAIT]@Nwehehehehe.[END]
-81-50E:
+81-50E:@¿Quién me iba a decir que os encontraría[BREAK]  aquí, Princesa [KUMATORA 23 04 00]...[WAIT]@Ñiejejejeje.[END]
 81-51:@You stupid monkey![BREAK]  Did you think you could get away from me?![END]
-81-51E:
+81-51E:@¡Y tú, mono estúpido![BREAK]  ¡¿De verdad creías que podías escapar de mí?![END]
 81-52:@He can![WAIT]@And we're gonna let him![END]
-81-52E:
+81-52E:@¡Claro que puede![WAIT]@¡Y nosotros le vamos a ayudar![END]
 81-53:@(Geezer.[PAUSE 10 00] Monkey.[PAUSE 10 00] You ready?)[EVENT][END]
-81-53E:
+81-53E:@(Viejales.[PAUSE 10 00] Monito.[PAUSE 10 00] ¿Preparados?)[EVENT][END]
 81-54:@(One... [PAUSE 20 00]two... [PAUSE 0C 00]three!)[EVENT][END]
-81-54E:
+81-54E:@(Uno... [PAUSE 20 00]dos... [PAUSE 0C 00]¡y tres!)[EVENT][END]
 81-55:@(.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]Is when we run![WAIT]  Got it?)[END]
-81-55E:
+81-55E:@(.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00]¡Es ahí es cuando corremos![WAIT]  ¿Lo habéis pillado?)[END]
 81-56:@(...Damn, they're fast.)[END]
-81-56E:
+81-56E:@(...¡Aaah! ¡Cuernos!)[END]
 81-57:@After them! Don't let them escape![END]
-81-57E:
+81-57E:@¡Tras ellos! ¡Que no escapen![END]
 81-58:@They're headed your way![END]
-81-58E:
+81-58E:@¡Se dirigen a vuestra posición![END]
 81-59:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]I see.[WAIT]@Then remain there on standby.[WAIT]@I'll be there shortly.[END]
-81-59E:
+81-59E:@.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]Ya veo.[WAIT]@Permaneced a la espera.[WAIT]@Estaré allí en un momento.[END]
 81-60:@Heh heh heh...[WAIT]@There's no escape from me.[PAUSE 20 00][BREAK]  Nwehe-nwehehehehe![END]
-81-60E:
+81-60E:@Je, je, je...[WAIT]@Nadie puede escapar de mí.[PAUSE 20 00][BREAK]  ¡Ñiejeje-ñiejejejeje![END]
 81-61:@[HINAWA 22 08 00] gave these Tazmily gerberas[BREAK]  to the villagers as a gift.[END]
 81-61E:@[HINAWA 22 08 00] les entregaba estas gerberas[BREAK]  a los vecinos como regalo.[END]
 // Repeats: 3-49, 81-61, 211-93
 
 [Container 82]
 82-0:@Lighter![END]
-82-0E:
+82-0E:@¡Lighter![END]
 82-1:@Hey![WAIT]@Lighter![WAIT]@You alright?![END]
-82-1E:
+82-1E:@¡Ey![WAIT]@¡Lighter![WAIT]@¡¿Estás bien?![END]
 82-2:@[FLINT 23 01 00]...[BREAK]@Oh, and Thomas...[WAIT]@D-dammit... *cough*[WAIT]@I try to beat these things up, but more just[BREAK]  keep comin'![WAIT]@I can't get past 'em![WAIT]@*cough* *cough*[END]
-82-2E:
+82-2E:@[FLINT 23 01 00]...[BREAK]@Oh, y Thomas...[WAIT]@Porras... *cof*[WAIT]@He intentado acabar con estas cosas,[BREAK]  ¡pero cada vez vienen más![WAIT]@¡No me dejan pasar![WAIT]@*cof* *cof*[END]
 82-3:@What IS that thing?![WAIT]@A bug?![END]
-82-3E:
+82-3E:@¡¿Qué ES esa cosa?![WAIT]@¡¿Un insecto?![END]
 82-4:@*cough*[PAUSE 18 00] *cough*[PAUSE 18 00][BREAK]  Dunno.[WAIT]@They're goin' around the forest, lightin' fires.[WAIT]@But never mind that, Fuel's still at home![END]
-82-4E:
+82-4E:@*cof*[PAUSE 18 00] *cof*[PAUSE 18 00][BREAK]  Ni idea.[WAIT]@Van de aquí para allá, quemando cosas.[WAIT]@Pero olvidaos de eso, ¡Fuel sigue en casa![END]
 82-5:@What?! Fuel's still in your shack?![WAIT]@[FLINT 23 01 00]! You go help Fuel![WAIT]@I'll look after Lighter![END]
-82-5E:
+82-5E:@¡¿Qué?! ¡¿Fuel sigue en la cabaña?![WAIT]@¡[FLINT 23 01 00]! ¡Ve a salvar a Fuel![WAIT]@¡Yo cuidaré de Lighter![END]
 82-6:@You should be able to use my lumber decently[BREAK]  enough.[WAIT]@Take it *cough*[PAUSE 18 00] *cough*[PAUSE 18 00] with you.[END]
-82-6E:
+82-6E:@Deberías ser capaz de manejar[BREAK]  mi madero sin problemas.[WAIT]@Llévatelo *cof*[PAUSE 18 00] *cof*[PAUSE 18 00] contigo.[END]
 82-7:@He appears to have passed out.[END]
-82-7E:
+82-7E:@Parece haberse desmayado.[END]
 82-8:@[FLINT 23 01 00].[WAIT]@If you're gonna use that lumber as a weapon,[BREAK]  be sure to "Equip" it first![WAIT]@It's completely useless otherwise![END]
-82-8E:
+82-8E:@[FLINT 23 01 00].[WAIT]@Si vas a usar ese madero como arma,[BREAK]  ¡asegúrate de "equipártelo" primero![WAIT]@¡De lo contrario no te servirá de nada![END]
 82-9:@The bugs have gathered![BREAK]@Watch yourself, now![END]
-82-9E:
+82-9E:@¡Ahí vienen esos bichos![BREAK]@¡Cuidado![END]
 82-10:@Lighter![WAIT]@Hey! Lighter![END]
-82-10E:
+82-10E:@¡Lighter![WAIT]@¡Ey! ¡Lighter![END]
 82-11:@He's passed out?![END]
-82-11E:
+82-11E:@¡¿Se ha desmayado?![END]
 82-12:@[FLINT 23 01 00]![BREAK]@I'll tend to Lighter![WAIT]@You hurry and look for Fuel![END]
-82-12E:
+82-12E:@¡[FLINT 23 01 00]![BREAK]@¡Yo me encargo de Lighter![WAIT]@¡Apresúrate y ve a por Fuel![END]
 82-13:@You've never seen a bug like this before.[END]
-82-13E:
+82-13E:@Nunca antes habías visto insectos así.[END]
 82-14:@Leave Lighter to me![WAIT]@What's wrong with you, [FLINT 23 01 00]?![WAIT]@There's no need to look so worried![END]
-82-14E:
+82-14E:@¡Deja que me ocupe de Lighter![WAIT]@¡¿Qué pasa contigo, [FLINT 23 01 00]?![WAIT]@¡No hace falta que te preocupes tanto![END]
 82-15:@[FLINT 26 01 00 03 00]!![WAIT]@Fuel's gonna get burned to death![WAIT]@I didn't know you were such a cold-hearted[BREAK]  person![END]
-82-15E:
+82-15E:@¡¡[FLINT 26 01 00 03 00]!![WAIT]@¡Fuel va a morir abrasado![WAIT]@¡Nunca imaginé que fueses tan desalmado![END]
 82-16:@The flames are so intense that you can't get[BREAK]  any closer![END]
-82-16E:
+82-16E:@¡Las llamas son tan intensas que[BREAK]  no puedes acercarte más![END]
 82-17:@A metal box-like object is lying here.[END]
-82-17E:
+82-17E:@Una especie de caja metálica.[END]
 
 [Container 83]
 83-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
@@ -5515,22 +5515,22 @@
 83-5E:@La casa se ha venido abajo.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 83-6:@Help![END]
-83-6E:
+83-6E:@¡Socorro![END]
 // Repeats: 83-6, 341-6
 83-7:@Help!![BREAK]@Heeeelllppp!![END]
-83-7E:
+83-7E:@¡¡Socorro!![BREAK]@¡¡Socorrooooo!![END]
 // Repeats: 83-7, 341-7
 83-8:@Something is blocking the door![END]
-83-8E:
+83-8E:@¡Algo está bloqueando la puerta![END]
 // Repeats: 83-8, 341-8
 83-9:@You could probably bust it open by ramming[BREAK]  into it![END]
-83-9E:
+83-9E:@¡Una embestida debería bastar[BREAK]  para echarla abajo![END]
 // Repeats: 83-9, 341-9
 83-10:@The door opened![END]
-83-10E:
+83-10E:@¡Has conseguido abrir la puerta![END]
 // Repeats: 83-10, 341-10
 83-11:[END]
-83-11E:
+83-11E:[END]
 
 [Container 84]
 84-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
@@ -5554,191 +5554,191 @@
 
 [Container 86]
 86-0:@Alright, that should do it![WAIT]@[FLINT 23 01 00]![WAIT]@Be careful coming up![END]
-86-0E:
+86-0E:@¡Bien, esto debería bastar![WAIT]@¡[FLINT 23 01 00]![WAIT]@¡Ten cuidado al subir![END]
 86-1:@If those claw marks are from a Drago, you'd[BREAK]  best be careful.[END]
-86-1E:
+86-1E:@Si esas marcas las ha hecho un Drago,[BREAK]  será mejor andarse con ojo.[END]
 86-2:@I had no idea [DUSTER 23 03 00] had such special[BREAK]  abilities...[WAIT]@The Thief Arts are an incredible thing.[END]
-86-2E:
+86-2E:@No sabía que [DUSTER 23 03 00] contase[BREAK]  con semejantes habilidades...[WAIT]@Las Artes del ladrón son increíbles.[END]
 86-3:@I'd be too scared to climb up.[WAIT]@Who knows what could be lurking up there...[END]
-86-3E:
+86-3E:@Yo no me atrevería a subir.[WAIT]@Quién sabe qué puede haber ahí arriba...[END]
 86-4:@[DUSTER 23 03 00] seems to be waiting at the top.[END]
-86-4E:
+86-4E:@[DUSTER 23 03 00] está esperando arriba.[END]
 86-5:@*whimper*[WAIT]  ([DUSTER 23 03 00] is waiting at the top, you[BREAK]  know...)[END]
-86-5E:
+86-5E:@*gemidor*[WAIT]  ([DUSTER 23 03 00] está esperándote,[BREAK]  ¿sabes?...)[END]
 86-6:@Woof woof![BREAK]  (Take me with you, too![WAIT][PAUSE 20 00]  I'm scared...[PAUSE 10 00] but I'll do my best!)[END]
-86-6E:
+86-6E:@¡Guau, guau![BREAK]  (¡Llévame contigo![WAIT][PAUSE 20 00]  Tengo miedo...[PAUSE 10 00] ¡pero me esforzaré[BREAK]  al máximo!)[END]
 86-7:@Take [BONEY 23 05 00] with you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-86-7E:
+86-7E:@¿Quieres llevarte a [BONEY 23 05 00] contigo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 86-8:@*whimper*...[BREAK]  (Please don't fall...)[END]
-86-8E:
+86-8E:@*gemido*...[BREAK]  (Por favor, no te caigas...)[END]
 86-9:@Woof.[WAIT]  (Gotta be careful not to fall.)[END]
-86-9E:
+86-9E:@Guau.[WAIT]  (Vayamos con sumo cuidado.)[END]
 86-10:@Looks like the rain's stopped.[END]
-86-10E:
+86-10E:@Parece que ha dejado de llover.[END]
 86-11:@I have a slight leg handicap, but I'll do my best.[WAIT]@Please take me with you.[END]
-86-11E:
+86-11E:@Tengo algo de cojera, pero no te defraudaré.[WAIT]@Por favor, déjame ir contigo.[END]
 86-12:@[DUSTER 23 03 00] joined your party![PAUSE F0 00][END]
-86-12E:
+86-12E:@¡[DUSTER 23 03 00] se unió al grupo![PAUSE F0 00][END]
 86-13:@I...[WAIT]@I...[WAIT]@I'm fine. I can get down on my own.[WAIT]@Don't worry about me, [FLINT 23 01 00]![BREAK]  Hurry on ahead![END]
-86-13E:
+86-13E:@E...[WAIT]@E...[WAIT]@Estoy bien. Puedo bajar yo solo.[WAIT]@¡No te preocupes por mí, [FLINT 23 01 00]![BREAK]  ¡Sigue adelante![END]
 86-14:@An incredibly suspicious object.[BREAK]  It's anyone's guess as to what it is.[END]
-86-14E:
+86-14E:@Un objeto la mar de sospechoso.[BREAK]  ¿Qué podría ser?[END]
 // Repeats: 86-14, 91-18
 86-15:@Hey! [FLINT 23 01 00]![BREAK]  There's someone here![END]
-86-15E:
+86-15E:@¡Ey! ¡[FLINT 23 01 00]![BREAK]  ¡Hay alguien ahí![END]
 86-16:@What are those?[WAIT]@Are they human...?[END]
-86-16E:
+86-16E:@¿Qué son esas cosas?[WAIT]@¿Son humanos...?[END]
 86-17:@What're they doing...?[END]
-86-17E:
+86-17E:@¿Y qué están haciendo...?[END]
 86-18:@Let's get a closer look, [FLINT 23 01 00].[END]
-86-18E:
+86-18E:@Vamos a acercanos, [FLINT 23 01 00].[END]
 86-19:[END]
-86-19E:
+86-19E:[END]
 
 [Container 87]
 87-0:@The forest still smells burnt.[WAIT]  Well, I guess it WAS a pretty big fire and all.[END]
-87-0E:
+87-0E:@El bosque aún huele a quemado.[WAIT]  Pero es normal, ha sido un GRAN incendio[BREAK]  a fin de cuentas.[END]
 87-1:@Let's hurry and find [HINAWA 22 08 00] so she can[BREAK]  make us some of her special [FAVFOOD].[END]
-87-1E:
+87-1E:@Démonos prisa en encontrar a [HINAWA 22 08 00][BREAK]  para que nos prepare [FAVFOOD].[END]
 87-2:@We've been calling their names for a while,[BREAK]  but there's been no response at all.[WAIT]@...Do you think maybe they're not in this area?[END]
-87-2E:
+87-2E:@Llevamos un buen rato llamándoles,[BREAK]  pero no hay respuesta alguna.[WAIT]@...¿Será que no están por esta zona?[END]
 87-3:@I'm sure [CLAUS 22 05 00] and [LUCAS 23 02 00][BREAK]  will come racing here before long[WAIT]  to have some of those slightly unclean and not[BREAK]  very tasty cookies of mine...[END]
-87-3E:
+87-3E:@Seguro que [CLAUS 22 05 00] y [LUCAS 23 02 00][BREAK]  aparecerán de un momento a otro[WAIT]  para probar mis ligeramente sucias[BREAK]  y no muy sabrosas galletas...[END]
 87-4:@[CLAUS 22 05 00] is a troublemaker,[WAIT]  so I bet he's hiding around here somewhere,[BREAK]  watching us worry our heads off.[WAIT]@But [LUCAS 23 02 00] is a crybaby, so I bet he's[BREAK]  probably in tears by now...[END]
-87-4E:
+87-4E:@[CLAUS 22 05 00] es un trasto,[WAIT]  seguro que está por ahí escondido,[BREAK]  mirando cómo nos preocupamos por él.[WAIT]@Y [LUCAS 23 02 00] es un llorica,[BREAK]  seguro que está por ahí lloriqueando...[END]
 87-5:@A fire, then rain.[WAIT]  And then children's smiles.[WAIT]@It will be all right.[WAIT]@Reggie knows it.[END]
-87-5E:
+87-5E:@Fuego, luego lluvia.[WAIT]  Después niños sonrientes.[WAIT]@Todo irá bien.[WAIT]@Reggie lo sabe.[END]
 
 [Container 88]
 88-0:[END]
-88-0E:
+88-0E:[END]
 88-1:[END]
-88-1E:
+88-1E:[END]
 88-2:@So the Needle really has been pulled...[END]
-88-2E:
+88-2E:@Así que la Aguja ha sido extraída...[END]
 88-3:@I have absolutely no idea who pulled it.[WAIT]@The Dark Dragon's heart will become as light[BREAK]  or as dark as the person who pulls it...[WAIT]  That's what is said, anyway, but I don't sense[BREAK]  anything here at all.[WAIT]@I don't sense a heart of good OR evil.[WAIT]@...How mysterious. [HEART][WAIT]@Could there be people in this world without[BREAK]  hearts?[END]
-88-3E:
+88-3E:@No tengo ni idea de quién Io ha hecho.[WAIT]@El corazón del Dragón oscuro será el[BREAK]  reflejo del de aquel que lo despierte...[WAIT]  Eso dice la leyenda, pero la verdad es que[BREAK]  no siento nada de nada en este lugar.[WAIT]@Ni bondad NI maldad. Nada...[WAIT]@...Qué misterioso. [HEART][WAIT]@¿Es posible que en este mundo exista[BREAK]  una persona sin corazón?[END]
 88-4:@Still...[WAIT]@I can't believe the time has actually come...[END]
-88-4E:
+88-4E:@En fin...[WAIT]@Cuesta creer que haya llegado el momento...[END]
 88-5:@I always assumed that the Dark Dragon would[BREAK]  stay sealed away for eternity...[END]
-88-5E:
+88-5E:@Siempre di por hecho que el Dragón oscuro[BREAK]  permanecería sellado eternamente...[END]
 88-6:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@No, [PAUSE 20 00]we still have a chance left.[END]
-88-6E:
+88-6E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00][WAIT]@No, [PAUSE 20 00]aún hay una posibilidad.[END]
 88-7:@You were able to learn PK [FAVTHING].[WAIT]@Could it be that you're also able to[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[END]
-88-7E:
+88-7E:@Has podido aprender PK [FAVTHING].[WAIT]@Quizás seas capaz de[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[END]
 88-8:@Oh, that's right.[WAIT]@I haven't explained anything to you at all.[WAIT]@I need to tell you about the Needles.[END]
-88-8E:
+88-8E:@Oh, cierto.[WAIT]@No te he explicado nada todavía.[WAIT]@He de hablarte sobre las Agujas.[END]
 88-9:@Who else besides you could've pulled this[BREAK]  Needle...?[END]
-88-9E:
+88-9E:@Aparte de ti, ¿quién podría haber extraído[BREAK]  esta Aguja...?[END]
 88-10:@What's that? What's that sound?[END]
-88-10E:
+88-10E:@¿Eh? ¿Qué es ese sonido?[END]
 88-11:@C- C- C- Commander! Please hurry here![WAIT]@We've located the next Needle![WAIT]@But[PAUSE 10 00] but[PAUSE 10 00] but the monkey![PAUSE 18 00] We need the monkey![WAIT]@The monkey can open it![WAIT]@Gah, what a pain in the neck![WAIT]@Anyway, the monkey's the key! I'll explain the[BREAK]  details later![WAIT]@P-p-please come to the Chimera Lab![WAIT]@I assume you know where the Chimera Lab is,[BREAK]  right?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-88-11E:
+88-11E:@¡C-C-C-Comandante! ¡Por favor, dese prisa![WAIT]@¡Ya hemos localizado la siguiente Aguja![WAIT]@Pero,[PAUSE 10 00] pero,[PAUSE 10 00] ¡el mono![PAUSE 18 00] ¡Necesitamos al mono![WAIT]@¡El mono puedo abrir el camino![WAIT]@¡Agh, menudo latazo![WAIT]@¡El mono es la clave! ¡Le contaré los detalles[BREAK]  más tarde![WAIT]@¡P-p-por favor, venga al laboratorio Quimera![WAIT]@Supongo que ya sabrá dónde está, ¿verdad?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 88-12:@Huh?[WAIT]@Commander! Your voice sounds kind of cheery[BREAK]  today![WAIT]@Well, anyways...[EVENT][END]
-88-12E:
+88-12E:@¿Uh?[WAIT]@¡Comandante! ¡Su voz suena más alegre[BREAK]  que de costumbre![WAIT]@Bueno, da igual...[EVENT][END]
 88-13:@Please take the Cross Road train to the[BREAK]  factory,[WAIT]  and when you arrive, go west from the[BREAK]  ropeway station that's behind the factory.[WAIT]@Did you get all that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-88-13E:
+88-13E:@Coja el tren de la Encrucijada[BREAK]  hasta la fábrica,[WAIT]  y cuando llegue, vaya al oeste desde la[BREAK]  estación de teleférico que hay detrás.[WAIT]@¿Podrá recordarlo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 88-14:@My mom told me that if you say "no" three or[BREAK]  more times in one day,[WAIT]  bird poop will come falling from the sky and[BREAK]  cause all kinds of trouble for you![WAIT]@Even if that doesn't happen,[WAIT]  you supposedly feel all grossed out anyway, as[BREAK]  if bird poop really HAD fallen.[END]
-88-14E:
+88-14E:@Mi madre me contaba que si dices "no"[BREAK]  tres veces en el mismo día,[WAIT]  ¡te caerá caca de pájaro encima[BREAK]  y no tendrás más que problemas![WAIT]@Aunque algo así no llegase a pasar,[WAIT]  uno debería sentirse fatal por dentro...[BREAK]  como si REALMENTE hubiese pasado.[END]
 88-15:@Actually, to be honest, I'm having a hard time[BREAK]  remembering it myself...[EVENT][END]
-88-15E:
+88-15E:@Para serle franco, incluso a mí me cuesta[BREAK]  mucho recordarlo...[EVENT][END]
 88-16:@You take the Cross Road train to the factory,[WAIT]  and when you arrive, you go west from the[BREAK]  ropeway station behind the factory...[PAUSE 18 00] right?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-88-16E:
+88-16E:@Coja el tren de la Encrucijada a la fábrica,[WAIT]  y cuando llegue, siga al oeste desde el[BREAK]  teleférico que hay tras dicha fábrica...[PAUSE 18 00] ¿vale?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 88-17:@Oh, if you know where it is, then there's no[BREAK]  problem at all.[WAIT]@Please hurry.[WAIT]@*beep*[END]
-88-17E:
+88-17E:@Oh, si ya sabe dónde es, entonces[BREAK]  no hay ningún problema.[WAIT]@Dese prisa, por favor.[WAIT]@*bip*[END]
 88-18:@Ahh![WAIT]@S-s-sorry![WAIT]@A Pork Tank just passed by, so I didn't catch[BREAK]  what you said![WAIT]@C-c-could you please repeat that?![END]
-88-18E:
+88-18E:@¡Aah![WAIT]@¡L-l-lo siento![WAIT]@¡Acaba de pasar un tanque a mi lado[BREAK]  y no le he podido escuchar![WAIT]@¡¿P-p-podría repetírmelo?![END]
 88-19:@Thank you![WAIT]@I'm heading to the Chimera Lab right now![WAIT]@There's a monkey! And trouble![WAIT]@And a Needle![WAIT]@Please hurry and panic, too, Commander![WAIT]@*beep*[END]
-88-19E:
+88-19E:@¡Gracias![WAIT]@¡Me voy pitando al laboratorio Quimera![WAIT]@¡Allí está el mono! ¡Y los problemas![WAIT]@¡Y la Aguja![WAIT]@¡Apresúrese usted también, Comandante![WAIT]@*bip*[END]
 88-20:@Wait![PAUSE 10 00] I have a premonition.[WAIT]@It says to not leave yet...[WAIT]@There's something here.[END]
-88-20E:
+88-20E:@¡Espera![PAUSE 10 00] Tengo un presagio.[WAIT]@No podemos irnos todavía...[WAIT]@Hay algo aquí.[END]
 88-21:@There's one other legend.[WAIT]@It says only those with the power of[BREAK]  PK [FAVTHING] can pull the seven Needles.[WAIT]@Not even we Magypsies have that ability.[WAIT]@In other words, you're able to pull the Needles[BREAK]  because you're a chosen boy.[END]
-88-21E:
+88-21E:@Existe otra leyenda.[WAIT]@"Sólo quienes dominen el PK [FAVTHING][BREAK]  podrán extraer las Agujas".[WAIT]@Ni siquiera las Magipsis tenemos ese poder.[WAIT]@En otras palabras, tú puedes extraer las[BREAK]  Agujas porque eres un elegido.[END]
 88-22:@They said the next Needle they're going after[BREAK]  is near the Chimera Laboratory...[WAIT]@That's the Needle that Doria is protecting.[END]
-88-22E:
+88-22E:@Dicen que la siguiente Aguja se encuentra[BREAK]  cerca del laboratorio Quimera...[WAIT]@Esa es la Aguja que protege Doria.[END]
 88-23:@That ladder is a shortcut back to Tazmily.[WAIT]@Head there![WAIT]@I'm worried about my own Needle now.[END]
-88-23E:
+88-23E:@Esa escalera es un atajo hacia Tazmily.[WAIT]@¡Id por allí![WAIT]@Yo estoy preocupada por mi propia Aguja.[END]
 88-24:@I just know we'll meet again.[WAIT]@But if we don't,[PAUSE 1E 00] then that means one of us[PAUSE 1E 00] has[BREAK]  left this world...[WAIT]@*giggle*[PAUSE 1E 00] Byebee! [HEART][END]
-88-24E:
+88-24E:@Sé que nos volveremos a ver.[WAIT]@Pero si no es así,[PAUSE 1E 00] sabremos que uno de[BREAK]  los dos[PAUSE 1E 00] ha dejado este mundo...[WAIT]@*risita*[PAUSE 1E 00] ¡Adiositooo! [HEART][END]
 88-25:@Woof woof![WAIT]  (Ionia said the other way would be quicker.)[END]
-88-25E:
+88-25E:@¡Guau, guau![WAIT]  (Ionia dijo que fuésemos por el otro camino.)[END]
 
 [Container 89]
 89-0:@I didn't realize it before, 'cause the flames[BREAK]  were so intense at the time,[WAIT]  but it looks like this area over here got hit[BREAK]  really bad by the fire, too.[END]
-89-0E:
+89-0E:@No me había dado cuenta[BREAK]  con todas esas llamas,[WAIT]  pero el fuego también ha[BREAK]  arrasado esta zona.[END]
 89-1:@Watch your step.[WAIT]  It's easy to lose your footing and slip around[BREAK]  here.[END]
-89-1E:
+89-1E:@Mira bien dónde pisas.[WAIT]  Es fácil pegar un resbalón por esta zona.[END]
 89-2:@I slipped and fell just a minute ago,[WAIT]  but I'm okay.[END]
-89-2E:
+89-2E:@Hace un rato resbalé y me caí,[WAIT]  pero estoy bien.[END]
 89-3:@[HINAWA 22 08 00] seems to have a good head on[BREAK]  her shoulders.[WAIT]@Not you, though.[WAIT]@You're pretty careless, so I bet you forgot to[BREAK]  bring Antidotes with you into the forest,[WAIT]  despite the fact the place is teeming with[BREAK]  Mighty Bitey Snakes everywhere.[WAIT]@Here, you can have one of my Antidotes.[WAIT]@If you don't think that'll be enough, you can[BREAK]  always get some more at Isaac's house.[END]
-89-3E:
+89-3E:@[HINAWA 22 08 00] parece tener la cabeza[BREAK]  bien amueblada.[WAIT]@Tú no, desde luego.[WAIT]@Eres tan descuidado... seguro que[BREAK]  ni siquiera te has traído Antídotos contigo.[WAIT]  ¿Tengo que recordarte que esto está[BREAK]  lleno de Serpientes mordedoras?[WAIT]@Toma, anda, coge uno de los míos.[WAIT]@Si necesitas más, siempre puedes[BREAK]  coger algunos en casa de Isaac.[END]
 89-4:@Oh, it looks like you can't carry any more[BREAK]  stuff.[WAIT]@You should probably throw something out so[BREAK]  you can take this with you.[END]
-89-4E:
+89-4E:@Oh, parece que no puedes cargar con[BREAK]  más cosas.[WAIT]@Si quieres llevarte esto, antes tendrás[BREAK]  que deshacerte de algo.[END]
 89-5:@We'll look around this area! You go on ahead![WAIT]@Sheesh! Pull yourself together![END]
-89-5E:
+89-5E:@¡Miraremos por aquí! ¡Tú ve adelantándote![WAIT]@¡Oh, venga! ¡Anímate, hombre![END]
 89-6:@Don't worry, [FLINT 23 01 00].[WAIT]@With all these people looking, I'm sure we'll find[BREAK]  them soon.[WAIT]@Let's have faith and keep searching.[END]
-89-6E:
+89-6E:@No te preocupes, [FLINT 23 01 00].[WAIT]@Con tanta gente colaborando, seguro[BREAK]  que los encontramos pronto.[WAIT]@Tengamos fe y sigamos buscando.[END]
 89-7:@Damn, they already got ahead of us![WAIT]@Monkey![BREAK]@Let's look for another way to go![END]
-89-7E:
+89-7E:@¡Cuernos, nos están cortando el paso![WAIT]@¡Monito![BREAK]@¡Busquemos otro camino![END]
 89-8:@Damn! No luck here, either![WAIT]@Is our only choice to go back now?![END]
-89-8E:
+89-8E:@¡Cuernos! ¡Por aquí tampoco![WAIT]@¡¿Sólo podemos retroceder, pues?![END]
 89-9:@We're surrounded...[END]
-89-9E:
+89-9E:@Estamos rodeados...[END]
 89-10:@It's attacking![END]
-89-10E:
+89-10E:@¡Nos ataca![END]
 89-11:@Now, then, Princess [KUMATORA 23 04 00].[WAIT]@May I ask that you behave and do as we say?[END]
-89-11E:
+89-11E:@Bueno, Princesa [KUMATORA 23 04 00].[WAIT]@¿Os portaréis bien y haréis lo que digamos?[END]
 89-12:@Who're you?![WAIT]@Get outta here, you stupid kid![END]
-89-12E:
+89-12E:@¡¿Y tú quién eres?![WAIT]@¡Largo de aquí, niñato estúpido![END]
 89-13:@Scram![0C FF 40 00][END]
-89-13E:
+89-13E:@¡Desaparece![0C FF 40 00][END]
 89-14:@Get lost, kid![0C FF 40 00][END]
-89-14E:
+89-14E:@¡Piérdete, mocoso![0C FF 40 00][END]
 89-15:@Shoo![0C FF 40 00][END]
-89-15E:
+89-15E:@¡Fuera![0C FF 40 00][END]
 89-16:@Stupid kid![0C FF 40 00][END]
-89-16E:
+89-16E:@¡Niñato idiota![0C FF 40 00][END]
 89-17:@OH[PAUSE 10 00] MY[PAUSE 10 00] PORK!![PAUSE 10 00][WAIT]@What is a baby Drago doing here?![WAIT]@You! Baby Drago! Get outta here![END]
-89-17E:
+89-17E:@¡¡SA...[PAUSE 10 00] SANTO[PAUSE 10 00] CERDO!![PAUSE 10 00][WAIT]@¡¿Qué hace ahí esa cría de Drago?![WAIT]@¡Tú! ¡Cría de Drago! ¡Largo de aquí![END]
 89-18:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![END]
-89-18E:
+89-18E:@¡[42 FF F1 FF] consiguió [EF 91][ITEM F0 FF]![END]
 89-19:@Hey![WAIT]@Get back here, you![END]
-89-19E:
+89-19E:@¡Eh![WAIT]@¡Vosotros, volved aquí![END]
 89-20:@No...[PAUSE 1E 00]  Stop...[PAUSE 1E 00][WAIT]  Stop! Don't! Please![END]
-89-20E:
+89-20E:@No...[PAUSE 1E 00]  Detente...[PAUSE 1E 00][WAIT]  ¡Para! ¡No! ¡Por favor![END]
 89-21:@Hahaha![WAIT]@Feeling better now, monkey?[END]
-89-21E:
+89-21E:@¡Jajaja![WAIT]@¿Ya te sientes mejor, monito?[END]
 89-22:@Whaaaaaaaaaa![END]
-89-22E:
+89-22E:@Uaaaaaaaaah![END]
 89-23:@[LUCAS 23 02 00].[WAIT]@I heard that you've done nothing but cry since[BREAK]  the day your mother passed away,[WAIT]  but what you did just now was wonderful.[WAIT]@You saved our lives.[WAIT]@Thank you, [LUCAS 23 02 00].[END]
-89-23E:
+89-23E:@[LUCAS 23 02 00].[WAIT]@Había oído que no hacías más que llorar[BREAK]  desde la muerte de tu madre,[WAIT]  pero lo que has hecho ha sido asombroso.[WAIT]@Nos has salvado la vida.[WAIT]@Gracias, [LUCAS 23 02 00].[END]
 89-24:@Oh, right.[PAUSE 20 00] Gotta say hi.[WAIT]@Hi! Nice to meetcha! And thanks![WAIT]@You didn't even know what was goin' on, but[BREAK]  you saved our lives.[WAIT]@It's probably a little late for it now, but you[BREAK]  should ask this geezer about what's goin' on.[END]
-89-24E:
+89-24E:@Oh, vale.[PAUSE 20 00] Me toca saludar.[WAIT]@¡Hola! ¡Encantada de conocerte! ¡Y gracias![WAIT]@No sabías qué estaba ocurriendo,[BREAK]  pero aun así decidiste ayudarnos.[WAIT]@Igual ya es tarde para ello, pero deberías[BREAK]  decirle al viejales que te ponga al día.[END]
 89-25:@Sure, I can fill you in on everything.[WAIT]@Will you listen, [LUCAS 23 02 00]?[EVENT][END]
-89-25E:
+89-25E:@Por supuesto, te lo contaré todo.[WAIT]@¿Me escucharás, [LUCAS 23 02 00]?[EVENT][END]
 89-26:[BREAK][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-89-26E:
+89-26E:[BREAK][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 89-27:@Well, it goes like this...[END]
-89-27E:
+89-27E:@Bueno, pues resulta que...[END]
 89-28:@You know you need to hear this![END]
-89-28E:
+89-28E:@¡No finjas que esto te da igual![END]
 89-29:@...And that's everything that's happened.[WAIT][PAUSE 5A 00]@No, [LUCAS 23 02 00]. You stay here in Tazmily.[WAIT]@I'm certain [CLAUS 22 05 00] will come back[BREAK]  sooner or later.[WAIT]@I'd like you and [FLINT 23 01 00] and the others[BREAK]  to work together to protect our village.[WAIT]@Oh, I intend to help, too, of course. What little I[BREAK]  can, at least.[WAIT]@Princess! I leave the monkey in your hands.[WAIT]@Oh... and the search for that moron, too.[END]
-89-29E:
+89-29E:@...Y así es como están las cosas.[WAIT][PAUSE 5A 00]@No, [LUCAS 23 02 00]. Tienes que quedarte aquí.[WAIT]@Estoy seguro de que [CLAUS 22 05 00][BREAK]  aparecerá tarde o temprano.[WAIT]@Quisiera que [FLINT 23 01 00], los demás y tú,[BREAK]  trabajáseis juntos para proteger Tazmily.[WAIT]@Oh, yo también ayudaré, claro.[BREAK]  Haré todo lo que pueda.[WAIT]@¡Princesa! Os confío al mono.[WAIT]@Oh... y también la búsqueda de ese zoquete.[END]
 89-30:@[LUCAS 23 02 00].[WAIT]  Dunno why, but I somehow get the feeling I'll[BREAK]  be seein' you again.[WAIT]@Take care of yourself![END]
-89-30E:
+89-30E:@[LUCAS 23 02 00].[WAIT]  No sé por qué, pero presiento[BREAK]  que nos veremos de nuevo.[WAIT]@¡Cuídate![END]
 89-31:@Okay, monkey![WAIT]@Let's go![END]
-89-31E:
+89-31E:@¡Bueno, monito![WAIT]@¡Nos vamos![END]
 
 [Container 90]
 90-0:@Squeak squeak squeeeak.[WAIT]  (The house I was secretly living in burned[BREAK]  down.)[END]
-90-0E:
+90-0E:@Chi, chi, chiiiii.[WAIT]  ("Mi casa" ha quedado reducida a cenizas.)[END]
 90-1:@Squeak squeak-squeak-squeak...[BREAK]  (Guess I have no choice but to hit the road...)[END]
-90-1E:
+90-1E:@Chi, chi-chi-chi...[BREAK]  (Supongo que tendré que buscarme la vida...)[END]
 90-2:@The house has completely collapsed.[END]
 90-2E:@La casa se ha venido abajo.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 90-3:[END]
-90-3E:
+90-3E:[END]
 
 [Container 91]
 91-0:[END]
@@ -5779,7 +5779,7 @@
 91-17:@[FLINT 23 01 00]! Where are you going?![BREAK]  Pull yourself together, man![END]
 91-17E:
 91-18:@An incredibly suspicious object.[BREAK]  It's anyone's guess as to what it is.[END]
-91-18E:
+91-18E:@Un objeto la mar de sospechoso.[BREAK]  ¿Qué podría ser?[END]
 // Repeats: 86-14, 91-18
 91-19:@I'm glad the Thief Arts proved useful, but our[BREAK]  problem still hasn't been solved.[END]
 91-19E:
@@ -5985,7 +5985,7 @@
 98-9E:
 // Repeats: 98-9, 175-19
 98-10:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-98-10E:
+98-10E:@Cuando se lo entregues, sabrá que[BREAK]  cinco de las Agujas han sido extraídas. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 98-11:@In Tazmily, I believe there is a[PAUSE 10 00][BREAK]  "map-loving and map-owning" fellow,[PAUSE 0F 00] yes?[WAIT]@I think he'll know where Ionia's house is.[WAIT]@So hurry there! Take this to Ionia! [HEART][END]
 98-11E:
@@ -8130,13 +8130,13 @@
 175-17:@Received [ITEM EC 00][PAUSE 40 00]![END]
 175-17E:
 175-18:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
-175-18E:
+175-18E:@Oh, vaya. Tu inventario está lleno.[WAIT]@¡Se siente! [HEART][END]
 // Repeats: 80-41, 175-18
 175-19:@Oh, wait. I almost forgot something very[BREAK]  important.[WAIT]@Could you give this to Ionia for me? [HEART][END]
 175-19E:
 // Repeats: 98-9, 175-19
 175-20:@Hand this over, and Ionia should understand[BREAK]  that five of the Needles have been pulled. [HEART][END]
-175-20E:
+175-20E:@Cuando se lo entregues, sabrá que[BREAK]  cinco de las Agujas han sido extraídas. [HEART][END]
 // Repeats: 80-43, 98-10, 175-20
 175-21:@I leave the rest in your hands now. [HEART][END]
 175-21E:
@@ -9558,13 +9558,13 @@
 211-12E:@"La posada Yado de Jackie"[BREAK]  No te mimaremos en exceso.[END]
 // Repeats: 3-19, 81-28, 211-12
 211-13:@This is just a simple clothesline.[WAIT]  You got a problem with that?![END]
-211-13E:@No es más que un simple tendedero.[WAIT]  ¡¿Tienes algún problema con ello?![END]
+211-13E:@No es más que un tendedero ordinario.[WAIT]  ¡¿Tienes algún problema con ello?![END]
 // Repeats: 3-22, 81-25, 211-13
 211-14:@This hasn't been used, for whatever reason.[END]
 211-14E:@Por alguna razón, nadie ha usado esto.[END]
 // Repeats: 3-20, 81-26, 211-14
 211-15:@"Thomas's Bazaar"[BREAK]  We got the goods.[END]
-211-15E:@"Bazar Thomas"[BREAK]  Sí, tenemos objetos.[END]
+211-15E:@"Bazar de Thomas"[BREAK]  Sí, tenemos objetos.[END]
 // Repeats: 3-21, 81-27, 211-15
 211-16:@Oh, [DUSTER 22 0F 00].[WAIT]@I haven't seen you in so long.[END]
 211-16E:
@@ -13289,19 +13289,19 @@
 341-5E:@La casa se ha venido abajo.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
 341-6:@Help![END]
-341-6E:
+341-6E:@¡Socorro![END]
 // Repeats: 83-6, 341-6
 341-7:@Help!![BREAK]@Heeeelllppp!![END]
-341-7E:
+341-7E:@¡¡Socorro!![BREAK]@¡¡Socorrooooo!![END]
 // Repeats: 83-7, 341-7
 341-8:@Something is blocking the door![END]
-341-8E:
+341-8E:@¡Algo está bloqueando la puerta![END]
 // Repeats: 83-8, 341-8
 341-9:@You could probably bust it open by ramming[BREAK]  into it![END]
-341-9E:
+341-9E:@¡Una embestida debería bastar[BREAK]  para echarla abajo![END]
 // Repeats: 83-9, 341-9
 341-10:@The door opened![END]
-341-10E:
+341-10E:@¡Has conseguido abrir la puerta![END]
 // Repeats: 83-10, 341-10
 341-11:[END]
 341-11E:
@@ -14068,10 +14068,10 @@
 371-9:@Pork Beans...[WAIT]@Be sure to use them efficiently![END]
 371-9E:
 371-10:@Pork Bean Recharge Station[END]
-371-10E:
+371-10E:@Estación de recarga de Vainas[END]
 // Repeats: 61-23, 371-10, 474-3
 371-11:@A red light.[END]
-371-11E:
+371-11E:@Una luz roja.[END]
 // Repeats: 61-9, 371-11, 474-19
 371-12:@I AM A BROKEN ROBOT.[WAIT]@I HAVE FORGOTTEN WHY I AM BROKEN,[BREAK]  THOUGH...[WAIT]@YOU CERTAINLY HAVE A LOT OF FREE TIME[BREAK]  TO BE TALKING TO SOMETHING LIKE ME.[WAIT][PAUSE 5A 00]@SORRY! SORRY![BREAK]  IT WAS RUDE OF ME TO SAY THAT.[END]
 371-12E:
@@ -15027,7 +15027,7 @@
 400-7E:
 // Repeats: 63-4, 400-7
 400-8:@He's passed out.[END]
-400-8E:
+400-8E:@Está en shock.[END]
 // Repeats: 63-9, 400-8
 400-9:@Ticket-like objects have fallen out of his[BREAK]  pocket.[END]
 400-9E:
@@ -16411,7 +16411,7 @@
 474-2:@This may seem persistent, but...[WAIT]  East: Garbage Dump[END]
 474-2E:
 474-3:@Pork Bean Recharge Station[END]
-474-3E:
+474-3E:@Estación de recarga de Vainas[END]
 // Repeats: 61-23, 371-10, 474-3
 474-4:@This line is so long! The wait is killing me![END]
 474-4E:
@@ -16444,7 +16444,7 @@
 474-18:@Hmm. That wasn't very thank you-ful.[END]
 474-18E:
 474-19:@A red light.[END]
-474-19E:
+474-19E:@Una luz roja.[END]
 // Repeats: 61-9, 371-11, 474-19
 474-20:@This seems like a fast car.[END]
 474-20E:
@@ -16491,10 +16491,10 @@
 474-41:@The panel on the recharge device is blinking.[BREAK]  It doesn't seem to work anymore.[END]
 474-41E:
 474-42:@It seems to have plenty of energy.[END]
-474-42E:
+474-42E:@Parece estar a tope de energía.[END]
 // Repeats: 61-24, 474-42
 474-43:@A Pork Bean hasn't been set in place.[END]
-474-43E:
+474-43E:@No hay ninguna vaina sobre el panel.[END]
 // Repeats: 61-4, 474-43
 474-44:@Received 1 DP.[END]
 474-44E:
