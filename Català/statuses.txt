@@ -17,7 +17,7 @@
 06:Forgetful
 06-E:Amnèsia
 07:Nauseous
-07-E:Nàusea
+07-E:Nàusees
 08:Fleas
 08-E:Puces
 09:On Fire

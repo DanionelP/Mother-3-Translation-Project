@@ -113,15 +113,15 @@
 37:Salsa
 37-E: 
 38:Omelets
-38-E:Truites
+38-E:Truita
 39:Pasta
 39-E:Galets
 3A:Gratin
-3A-E:CalÃ§ots
+3A-E:Calçots
 3B:Donuts
 3B-E:Tortell
 3C:Stew
-3C-E:FricandÃ³
+3C-E:Fricandó
 3D:Gelatin
 3D-E:Crema
 3E:Rice
@@ -131,7 +131,7 @@
 40:Home Run
 40-E:Castells
 41:Mach
-41-E:TiÃ³
+41-E:Tió
 42:Top Spec
 42-E:Dracs
 43:Mt. Fuji
