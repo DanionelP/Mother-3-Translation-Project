@@ -1209,13 +1209,13 @@ org $9C98A28; incbin gfx_youwon.bin
 org $9BA141C; incbin gfx_flavours.bin
 
 // Insert new Health Screen graphics
-org $9C8F332; db $E8 // Move the flashy text up by 8 pixels
-org $9C8F338; db $E8
-org $9C8F33E; db $E8
-org $9C8F344; db $E8
-org $9C8F34A; db $E8
-org $9C8F350; db $E8
-org $9C8F356; db $E8
+org $9C8F332; db $EC // Move the flashy text up by 8 pixels
+org $9C8F338; db $EC
+org $9C8F33E; db $EC
+org $9C8F344; db $EC
+org $9C8F34A; db $EC
+org $9C8F350; db $EC
+org $9C8F356; db $EC
 org $9C8DEB4; incbin gfx_healthscreen_[c].bin
 org $9C8DEA8; dd $9F87A20-$9C8DE98
 org $9F87A20; incbin gfx_healthtext_[c].bin
