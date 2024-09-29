@@ -1217,7 +1217,9 @@ org $9C8F34A; db $E8
 org $9C8F350; db $E8
 org $9C8F356; db $E8
 org $9C8DEB4; incbin gfx_healthscreen_[c].bin
-org $9C8F154; incbin gfx_healthtext_[c].bin
+org $9C8DEA8; dd $9F87A20-$9C8DE98
+org $9F87A20; incbin gfx_healthtext_[c].bin
+
 
 // insert new "LAB" graphics to replace "LABO"
 org $8F0E670; incbin gfx_lab1_[c].bin
