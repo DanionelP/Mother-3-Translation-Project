@@ -1312,10 +1312,25 @@ org $9B9D564; incbin gfx_various_menu2_[c].bin
 org $9B9D808; incbin gfx_start_battle_[c].bin
 org $9C97CE8; incbin gfx_exit_battle.bin
 org $9C926C8; incbin gfx_combo.bin
-org $9C5F340; incbin gfx_main_menu_[c].bin
+//org $9C5F340; incbin gfx_main_menu_[c].bin
 org $9CA6928; incbin gfx_music.bin
 org $967A0D0; incbin gfx_happy_end.bin
 org $993F270; incbin gfx_sprays.bin
+
+// - Titlescreen
+org $9BCDE60; dd $40BFD4
+org $9FD9D60; incbin gfx_main_menu_[c].bin
+org $9C5F838; db $F0,$C0,$00 // NEW GAME, part 1 ($00,$40,$00 => $FC,$C0,$00) position, size, zone
+org $9C5F83E; db $30,$40,$60 // NEW GAME, part 2 ($20,$40,$04 => $3C,$40,$60)
+org $9C5F848; db $00,$C0,$70 // make LOAD sprite larger + centered ($10,$40,$08 => $00,$C0,$6F)
+org $9C5F852; db $F4,$41,$64 // SOUND PLAYER part 1
+org $9C5F858; db $14,$40,$68 // SOUND PLAYER part 2
+org $9C5F85E; db $34,$40,$6C // SOUND PLAYER part 3
+org $9C5F81C; db $C0,$C1,$1D // mini credits part 1
+org $9C5F822; db $00,$C0,$3D // mini credits part 2
+org $9C5F82C; db $E8,$80,$B8,$01,$5D         // mini credits part 3 (2 small dots on the left)
+org $9C5F827; db $02                                 // hide trash sprite
+
 
 // - New Pork City
 org $8E8DBAC; incbin gfx_ticket_[c].bin
