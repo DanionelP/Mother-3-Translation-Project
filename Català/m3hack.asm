@@ -624,15 +624,15 @@ org $804E560; bl naming_screen_hacks.reprint_after_invalid_duplicated
 //org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
 
 // Disable L and R alphabet switching
-org $803E79F; db $E0
+//org $803E79F; db $E0
 
 // Enable L and R alphabet switching on the factory screen
-//org $804DD16; db $0E // L
-//org $804DD60; db $0E // R
+org $804DD16; db $0E // L
+org $804DD60; db $0E // R
 
 // Cycle through two alphabets instead of three (all screens)
-//org $804DD34; db $20 // L
-//org $804DD76; db $20 // R
+org $804DD34; db $20 // L
+org $804DD76; db $20 // R
 
 // Allow characters to use more than one "Don't Care" name - From Jumpman
 //org $8050562; nop; nop
