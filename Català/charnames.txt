@@ -296,7 +296,7 @@
 093:Mole Cricket
 093-E:Griñotàlpid
 094:Elder Cricket
-094-E:
+094-E:Griñotàlpid senior
 095:Duster
 095-E:Duster 
 096:Kumatora
@@ -330,7 +330,7 @@
 0A4:Stray Dog
 0A4-E: 
 0A5:Item Guy
-0A5-E: 
+0A5-E:Paiobjectes
 0A6:Shadow
 0A6-E:Ombra
 0A7:Sparrow
@@ -518,7 +518,7 @@
 102:Mixolydia
 102-E:Mixolydia
 103:Item Guy
-103-E: 
+103-E:Paiobjectes
 104:Moved Rock
 104-E: 
 105:Blocking Rock

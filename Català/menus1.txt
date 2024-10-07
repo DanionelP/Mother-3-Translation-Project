@@ -55,9 +55,9 @@
 0019: Data is corrupt.[END]
 0019-E: Les dades són corruptes.[END]
 001A: Unable to save.[END]
-001A-E: No pot desar-se.[END]
+001A-E: No es pot desar.[END]
 001B: Unable to copy.[END]
-001B-E: No pot copiar-se.[END]
+001B-E: No es pot copiar.[END]
 001C: This will erase this save file.[BREAK]Is that okay?[END]
 001C-E: El fitxer serà eliminat.[BREAK]Vol continuar?[END]
 001D: This will erase all save files.[END]
@@ -85,7 +85,7 @@
 0028: Fast[END]
 0028-E: Ràpida[END]
 0029: Medium[END]
-0029-E: Mitjana[END]
+0029-E: Normal[END]
 002A: Slow[END]
 002A-E: Lenta[END]
 002B: Plain[END]
@@ -121,11 +121,11 @@
 003A: [END]
 003A-E: [END]
 003B: On whom?[END]
-003B-E: 
+003B-E: Amb qui?[END]
 003C: Menu[END]
 003C-E: Menú[END]
 003D: To whom?[END]
-003D-E: 
+003D-E: A qui?[END]
 003E: Use[END]
 003E-E: Utilitzar[END]
 003F: Give[END]
@@ -183,13 +183,13 @@
 0059: [END]
 0059-E: [END]
 005A: Use on whom?[END]
-005A-E: 
+005A-E: Amb qui ho vol utilitzar?[END]
 005B: [END]
 005B-E: [END]
 005C: can't be used.[END]
-005C-E: 
+005C-E: no pot ser utilitzat.[END]
 005D: Brute Force[END]
-005D-E: 
+005D-E: Força bruta[END]
 005E: Thief Tools[END]
 005E-E: Eines de lladre[END]
 005F: Sniff[END]
@@ -273,7 +273,7 @@
 0086: [END]
 0086-E: [END]
 0087: Item Guy[END]
-0087-E: 
+0087-E: Paiobjectes[END]
 0088: Deposit[END]
 0088-E: Ingressar[END]
 0089: Withdraw[END]
@@ -281,7 +281,7 @@
 008A: End[END]
 008A-E: Sortir[END]
 008B: Inventory full.[BREAK]Can't withdraw any more items.[END]
-008B-E: 
+008B-E: Inventari ple.[BREAK]No pot retirar cap més objecte.[END]
 008C: Prologue[END]
 008C-E: Pròleg[END]
 008D: Chapter 1[END]
@@ -403,25 +403,25 @@
 00C7: [END]
 00C7-E: [END]
 00C8: The Funny Stick brought feelings of happiness.[END]
-00C8-E: 
+00C8-E: El Pal graciós ha portat joia a l'ambient.[END]
 00C9: You learned more about the DCMC than you knew[BREAK]before![END]
-00C9-E: 
+00C9-E: Amb tot el que has après, ara et sents com un[BREAK]veritable fan dels DCMC![END]
 00CA: That's not really something you'd want to eat...[END]
-00CA-E: 
+00CA-E: No sembla gaire recomanable cruspir-se això...[END]
 00CB: That's not really something you'd want to eat...[END]
-00CB-E: 
+00CB-E: No sembla gaire recomanable cruspir-se això...[END]
 00CC: You need some big-time courage to eat[BREAK]something like this.[END]
-00CC-E: 
+00CC-E: Hauràs de fer el cor fort si vols[BREAK]empassar-te això.[END]
 00CD: The sight of the baby chick warmed [A0 FF]'s[BREAK]heart.[END]
 00CD-E: 
 00CE: The chicken dashed off at breakneck speed![END]
-00CE-E: 
+00CE-E: La gallina ha fugit ales ajudeu-me![END]
 00CF: This isn't the time to use that.[END]
-00CF-E: Ara no és el moment d'utilitzar [18 EF]![END]
+00CF-E: No és el moment d'utilitzar [18 EF]![END]
 00D0: [A0 FF]'s hands are sticky now.[END]
-00D0-E: Ara [A0 FF] té les mans enganxifoses.
+00D0-E: 
 00D1: Definitely way too small for a person to[BREAK]enter.[END]
-00D1-E: 
+00D1-E: Per aquí no hi cap ni un ratolí, molt[BREAK]menys una persona.[END]
 00D2: [END]
 00D2-E: [END]
 00D3: [END]
@@ -459,7 +459,7 @@
 00E3: A strong, wise, and rather[BREAK]masculine girl.[END]
 00E3-E: Una noia forta, sàvia[BREAK]i poc delicada.[END]
 00E4: What's your favorite[BREAK]homemade food?[END]
-00E4-E: Quin és el seu menjar[BREAK]casolà preferit?[END]
+00E4-E: Quin és el seu àpat[BREAK]preferit?[END]
 00E5: What's your favorite[BREAK]thing?[END]
 00E5-E: Quina és la seva cosa[BREAK]preferida?[END]
 00E6: [END]
