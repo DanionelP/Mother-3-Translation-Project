@@ -3,7 +3,7 @@
 // Be sure you give room for the 'favorite song' icon!
 
 000: [END]
-000-E: 
+000-E: [END]
 001:Let's Begin![END]
 001-E: 
 002:Fun Naming[END]
@@ -11,15 +11,15 @@
 003:Voice 1101[END]
 003-E: 
 004:Welcome![END]
-004-E: 
+004-E:Benvingut![END]
 005:Alec's Log House[END]
 005-E: 
 006:Mom's Hometown[END]
 006-E: 
 007:Save[END]
-007-E: 
+007-E:Desar[END]
 008:I'm a Mole Cricket![END]
-008-E: 
+008-E:Soc un griñotàlpid![END]
 009:Enemy Encounter![END]
 009-E: 
 00A:Bothersome Guys[END]
@@ -33,15 +33,15 @@
 00E:A Letter to You, Honey[END]
 00E-E: 
 00F:Carrier Pigeon[END]
-00F-E: 
+00F-E: Colom missatger[END]
 010:Mysterious Flying Object[END]
 010-E: 
 011:LOG-O-TYPE[END]
 011-E: 
 012:F-F-Fire![END]
-012-E: 
+012-E:F-f-foc![END]
 013:Chapter 1[END]
-013-E: 
+013-E: Capítol 1[END]
 014:Sound of Siren[END]
 014-E: 
 015:Together[END]
@@ -75,7 +75,7 @@
 023:Letter from You, My Sweet[END]
 023-E: 
 024:Hard Rain[END]
-024-E: 
+024-E:Pluja intensa[END]
 025:Let's Go Together![END]
 025-E: 
 026:Run, My Dog, Run![END]
@@ -91,7 +91,7 @@
 02B:Tragic Reconstruction[END]
 02B-E: 
 02C:Confusion[END]
-02C-E: 
+02C-E:Confusió[END]
 02D:MOTHER 3 Love Theme[END]
 02D-E: 
 02E:Sorrowful Tazmily[END]
@@ -119,11 +119,11 @@
 039:Astonishing March[END]
 039-E: 
 03A:Magypsy Party[END]
-03A-E: 
+03A-E:Festa magitana[END]
 03B:Much Better![END]
 03B-E: 
 03C:Danger[END]
-03C-E: 
+03C-E:Perill[END]
 03D:More Troublesome Guys[END]
 03D-E: 
 03E:Toppling March[END]
@@ -139,7 +139,7 @@
 043:Long Shadow[END]
 043-E: 
 044:Chapter 2[END]
-044-E: 
+044-E:Capítol 2[END]
 045:Passing Down Secrets[END]
 045-E: 
 046:Mind of a Thief[END]
@@ -147,19 +147,19 @@
 047:Suspicious Flying Object[END]
 047-E: 
 048:Huh?[END]
-048-E: 
+048-E:Eh?[END]
 049:Zombeat[END]
 049-E: 
 04A:Tough Zombeat[END]
 04A-E: 
 04B:Fate[END]
-04B-E: 
+04B-E:Destí[END]
 04C:Accelerondo[END]
 04C-E: 
 04D:More Cumbersome Guys[END]
 04D-E: 
 04E:Osohe Castle[END]
-04E-E: 
+04E-E:Castell d'Osohe[END]
 04F:More Dangerous Guys[END]
 04F-E: 
 050:Back Beat Battle - Hard[END]
@@ -177,7 +177,7 @@
 056:Mambo de Battle Plus[END]
 056-E: 
 057:Serious[END]
-057-E: 
+057-E:Seriós[END]
 058:Unfounded Revenge[END]
 058-E: 
 059:Polterg-g-g-geist[END]

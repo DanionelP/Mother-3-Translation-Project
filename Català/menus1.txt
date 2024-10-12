@@ -13,7 +13,7 @@
 0004: No[END]
 0004-E: No[END]
 0005: End[END]
-0005-E: Sortir[END]
+0005-E: Finalitzar[END]
 0006: [END]
 0006-E: [END]
 0007: [END]

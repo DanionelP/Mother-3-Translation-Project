@@ -2,61 +2,61 @@
 // On a given screen (between WAITs), there can be a maximum of 304 characters.
 
 0000: [END]
-0000-E: 
+0000-E: [END]
 0001: Dash[END]
 0001-E: 
 0002: Ram[END]
 0002-E: 
 0003: Push[END]
-0003-E: 
+0003-E: Empènyer[END]
 0004: Item Guy[END]
-0004-E: 
+0004-E: Paiobjectes[END]
 0005: Save Frogs[END]
-0005-E: 
+0005-E: Granotes de desat[END]
 0006: Talking Wind[END]
 0006-E: 
 0007: Status[END]
 0007-E: 
 0008: Key Items[END]
-0008-E: 
+0008-E: Objectes clau[END]
 0009: Memo[END]
-0009-E: 
+0009-E: Notes[END]
 000A: Sleep[END]
-000A-E: 
+000A-E: Son[END]
 000B: Wooden Box[END]
 000B-E: 
 000C: Map[END]
-000C-E: 
+000C-E: Mapa[END]
 000D: Comment Box[END]
 000D-E: 
 000E: Goods[END]
-000E-E: 
+000E-E: Béns[END]
 000F: Equip[END]
-000F-E: 
+000F-E: Equip[END]
 0010: Offense[END]
-0010-E: 
+0010-E: Atac[END]
 0011: Defense[END]
-0011-E: 
+0011-E: Defensa[END]
 0012: Drago Fang[END]
-0012-E: 
+0012-E: Ullal de Drago[END]
 0013: Talking Sparrow[END]
-0013-E: 
+0013-E: Pardal xerraire[END]
 0014: Intelligence[END]
-0014-E: 
+0014-E: Inteñigència[END]
 0015: Speed[END]
-0015-E: 
+0015-E: Velocitat[END]
 0016: Battle[END]
-0016-E: 
+0016-E: Combat[END]
 0017: Dragos[END]
 0017-E: 
 0018: Pigmasks[END]
-0018-E: 
+0018-E: Porcarotes[END]
 0019: Wall Staples[END]
-0019-E: 
+0019-E: Grapes de paret[END]
 001A: Pork Saucers[END]
 001A-E: 
 001B: Magypsies[END]
-001B-E: 
+001B-E: Magitanes[END]
 001C: Arrow Lizard[END]
 001C-E: 
 001D: Hot Springs[END]
@@ -64,37 +64,37 @@
 001E: Magic Butterfly[END]
 001E-E: 
 001F: Osohe Castle[END]
-001F-E: 
+001F-E: Castell d'Osohe[END]
 0020: Gift Boxes[END]
-0020-E: 
+0020-E: Capses de regal[END]
 0021: Rope Snake[END]
-0021-E: 
+0021-E: Serpicorda[END]
 0022: Osohe Ghosts[END]
-0022-E: 
+0022-E: Fantasmes d'Osohe[END]
 0023: Kindness[END]
-0023-E: 
+0023-E: Amabilitat[END]
 0024: Battle Secrets[END]
-0024-E: 
+0024-E: Secrets de combat[END]
 0025: Noble Spittoon[END]
-0025-E: 
+0025-E: Escopidor opulent[END]
 0026: PSI[END]
-0026-E: 
+0026-E: PSI[END]
 0027: Haunted Brooms[END]
-0027-E: 
+0027-E: Escombres embruixades[END]
 0028: Egg of Light[END]
-0028-E: 
+0028-E: Ou de llum[END]
 0029: Pork Beans[END]
 0029-E: 
 002A: Instant Rev. Devices[END]
 002A-E: 
 002B: Happy Boxes[END]
-002B-E: 
+002B-E: Capses joioses[END]
 002C: Vending Machines[END]
-002C-E: 
+002C-E: Màquina expenedora[END]
 002D: Money[END]
-002D-E: 
+002D-E: Diners[END]
 002E: Claymen[END]
-002E-E: 
+002E-E: Argilhomes[END]
 002F: Club Titiboo[END]
 002F-E: 
 0030: Stone Sheet Clippers[END]
@@ -102,71 +102,71 @@
 0031: Charging Device[END]
 0031-E: 
 0032: Porky[END]
-0032-E: 
+0032-E: Porky[END]
 0033: Healer[END]
 0033-E: 
 0034: Pigmask Army[END]
-0034-E: 
+0034-E: Exèrcit porcarota[END]
 0035: Masked Man[END]
 0035-E: 
 0036: Seven Needles[END]
 0036-E: 
 0037: Nowhere Islands[END]
-0037-E: 
+0037-E: Illes Enlloc[END]
 0038: Mole Cricket[END]
-0038-E: 
+0038-E: Griñotàlpid[END]
 0039: Dark Dragon[END]
-0039-E: 
+0039-E: Drac obscur[END]
 003A: Mr. Saturn[END]
-003A-E: 
+003A-E: Sr. Saturn[END]
 003B: Bird of Light[END]
-003B-E: 
+003B-E: Ocell de llum[END]
 003C: Magical Creatures[END]
-003C-E: 
+003C-E: Criatures màgiques[END]
 003D: Chupichupyoi[END]
 003D-E: 
 003E: Saturn Valley[END]
-003E-E: 
+003E-E: Vall Saturn[END]
 003F: Mole Cricket Hole[END]
-003F-E: 
+003F-E: Cau dels griñotàlpids[END]
 0040: About Leder[END]
 0040-E: 
 0041: Coupon Exchange[END]
 0041-E: 
 0042: Poison[END]
-0042-E: 
+0042-E: Verí[END]
 0043: Paralysis[END]
-0043-E: 
+0043-E: Paràlisi[END]
 0044: Sleep[END]
-0044-E: 
+0044-E: Son[END]
 0045: Nausea[END]
-0045-E: 
+0045-E: Nàusees[END]
 0046: Strange[END]
-0046-E: 
+0046-E: Fora de seny[END]
 0047: Forgetful[END]
-0047-E: 
+0047-E: Amnèsia[END]
 0048: Crying[END]
-0048-E: 
+0048-E: Plorera[END]
 0049: Fleas[END]
-0049-E: 
+0049-E: Puces[END]
 004A: Siren Beetle[END]
-004A-E: 
+004A-E: Escarabalarma[END]
 004B: Smoke Bomb[END]
-004B-E: 
+004B-E: Bomba de fum[END]
 004C: Hypno-Pendulum[END]
-004C-E: 
+004C-E: Hipnopèndol[END]
 004D: Scary Mask[END]
-004D-E: 
+004D-E: Careta aterridora[END]
 004E: Tickle Stick[END]
-004E-E: 
+004E-E: Plomall pessigolles[END]
 004F: Needle Locations[END]
 004F-E: 
 0050: Battle Tips[END]
-0050-E: 
+0050-E: Consells de combat[END]
 0051: Coupons[END]
-0051-E: 
+0051-E: Cupons[END]
 0052: Porkyupons[END]
-0052-E: 
+0052-E: Porcupons[END]
 0053: @Hold the B Button for a short[BREAK]  time and the character will[BREAK]  crouch.[BREAK][BREAK]@Upon release, the character will[BREAK]  move at twice the normal speed.[WAIT]@When several party members are[BREAK]  present, wait until everyone[BREAK]  has crouched.[BREAK][BREAK]@Use the D-Pad to direct the[BREAK]  path of the characters' dash.[END]
 0053-E: 
 0054: @During a dash, try charging into[BREAK]  different objects to see what[BREAK]  happens.[BREAK][BREAK]@Ramming into an enemy that[BREAK]  is weaker than you will stun[BREAK]  it temporarily.[WAIT]@However, if the enemy is[BREAK]  stronger, you will be thrust[BREAK]  into a battle as usual.[WAIT]@If the enemy is simply no match[BREAK]  for you, it will be defeated[BREAK]  upon contact.[END]

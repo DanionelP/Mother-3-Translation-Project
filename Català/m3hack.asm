@@ -1292,8 +1292,10 @@ org $8D5A2A8; incbin gfx_titiboo_oil_[c].bin
 org $8DB555C; incbin gfx_debug_[c].bin
 
 // - Tazmily
-org $8DD2260; incbin gfx_bazar1_[c].bin
-org $8DD1ECC; incbin gfx_bazar2_[c].bin
+org $8D3C0F0; dd $1288920
+org $9FC3E00; incbin gfx_bazar1_[c].bin
+org $8D3C0F4; dd $1288578
+org $9FC3A58; incbin gfx_bazar2_[c].bin
 org $9C68724; incbin gfx_bazar_credits.bin
 org $8DD6054; incbin gfx_sheriff1_[c].bin
 org $8DD5D60; incbin gfx_sheriff2_[c].bin

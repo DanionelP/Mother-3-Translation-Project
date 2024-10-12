@@ -27,9 +27,9 @@
 0C:Current Coords[END]
 0C-E: 
 0D:Money On Hand[END]
-0D-E: 
+0D-E:Diners en efectiu[END]
 0E:Coupon[END]
-0E-E: 
+0E-E:Cupó[END]
 0F:Leder Counter[END]
 0F-E: 
 10:Respawn Location[END]
@@ -63,25 +63,25 @@
 1E:[END]
 1E-E: 
 1F:Put the game in Sleep Mode?[END]
-1F-E: 
+1F-E:Vol aturar temporalment el joc?[END]
 20:[END]
-20-E: 
+20-E:[END]
 21:[END]
-21-E: 
+21-E:[END]
 22:Yes[END]
-22-E: 
+22-E:Sí[END]
 23:No[END]
-23-E: 
+23-E:No[END]
 24:Goods[END]
-24-E: 
+24-E:Béns[END]
 25:Equip[END]
-25-E: 
+25-E:Equip[END]
 26:PSI[END]
-26-E: 
+26-E:PSI[END]
 27:Status[END]
 27-E: 
 28:Sleep[END]
-28-E: 
+28-E:Son[END]
 29:Lucky[END]
 29-E: 
 30:Violet[END]
