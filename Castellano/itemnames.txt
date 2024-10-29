@@ -461,7 +461,7 @@
 00E5: Rope Snake DX
 00E5-E: Serpicuerda DX
 00E6: Transceiver
-00E6-E: Teléfono móvil
+00E6-E: Transceptor
 00E7: Ticket
 00E7-E: Billete
 00E8: Battle Memory

@@ -2298,7 +2298,7 @@ la
 a la 
 de la 
 -
-//Teléfono móvil
+//Transceptor
 Un 
 un 
 El 
