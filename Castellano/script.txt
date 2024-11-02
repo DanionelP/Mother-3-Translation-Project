@@ -2649,7 +2649,7 @@
 26-7:@It's [CLAUS 22 05 00]'s other shoe...[END]
 26-7E:@El otro zapato de [CLAUS 22 05 00]...[END]
 26-8:@[CLAUS 22 05 00]! We're here to rescue you![WAIT]@Where are you?![END]
-26-8E:@¡[CLAUS 22 05 00]! ¡Venimos a rescatarte![WAIT]@¡¿Dónde estás?![END]
+26-8E:@¡[CLAUS 22 05 00]! ¡Hemos venido a rescatarte![WAIT]@¡¿Dónde estás?![END]
 26-9:@What is THAT?![WAIT]@That's[PAUSE 20 00] not a Drago anymore.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@I have a bad feeling about this...![END]
 26-9E:@¡¿Qué es ESO?![WAIT]@Eso[PAUSE 20 00] ya ni siquiera es un Drago.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 40 00][BREAK]@¡Tengo un mal presentimiento...![END]
 
@@ -12021,529 +12021,529 @@
 
 [Container 302]
 302-0:@Heya! How's it goin'?![WAIT]@I got some homemade DCMC merchandise for[BREAK]  ya right here![WAIT]@If it breaks or rips, I'll stay up all night to fix it![WAIT]@Nah! Just kiddin'![WAIT]@I kid a lot![WAIT]@But never mind that, buy some o' these here[BREAK]  DCMC goods![END]
-302-0E:
+302-0E:@¡Buenas! ¡¿Qué tal todo?![WAIT]@¡Tengo un montón de artículos[BREAK]  artesanales de los DCMC![WAIT]@¡Si se rompen, yo mismo los reparo![WAIT]@¡Nah! ¡Era broma![WAIT]@¡Me encanta bromear![WAIT]@¡Pero olvidaos de eso y comprad[BREAK]  alguno de mis increíbles artículos![END]
 302-1:@All the waitresses here giggle at the end of[BREAK]  everything they say.[WAIT]@I really wish they'd get rid of that rule, though.[BREAK]  It's so stupid.[WAIT]@*giggle*[END]
-302-1E:
+302-1E:@Todas las camareras del local nos tenemos[BREAK]  que reír al acabar una frase.[WAIT]@Ojalá que se deshiciesen de esa regla.[BREAK]  Es una completa estupidez.[WAIT]@*risita*[END]
 302-2:@Tonda Gossa![WAIT]@That's the greeting. You know, THE greeting?[WAIT]@Tonda Gossa![WAIT]@You should at least learn the DCMC greeting,[BREAK]  you know![END]
-302-2E:
+302-2E:@¡Tonda Gossa![WAIT]@Ese es el saludo. Ya sabes, EL saludo.[WAIT]@¡Tonda Gossa![WAIT]@¡¿Ni siquiera conoces el saludo de los DCMC?![END]
 302-3:@We don't have restrooms for dogs here.[WAIT]@Oh, you're not a dog?[PAUSE 28 00] My apologies.[WAIT]@*giggle*[END]
-302-3E:
+302-3E:@No tenemos servicios para perros.[WAIT]@¿Oh, no es usted un perro?[PAUSE 28 00] Disculpe.[WAIT]@*risita*[END]
 302-4:@Sshhh.[WAIT]@Listen, but don't change the expression on[BREAK]  your face.[WAIT]@I know I'm dressed in this crappy girly outfit,[BREAK]  but it's me![PAUSE 30 00] [KUMATORA 23 04 00]![WAIT]  We met at the Sunshine Forest, remember?[WAIT]@I'll explain everything later.[BREAK]  [PAUSE 20 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Put on a smile, will ya?[PAUSE 40 00][WAIT]@Okay, good.[PAUSE 20 00][EVENT][END]
-302-4E:
+302-4E:@Sshhh.[WAIT]@Actúa con normalidad y escucha[BREAK]  lo que te voy a decir.[WAIT]@Sé que llevo un vestido hortera y cursi,[BREAK]  ¡pero soy yo![PAUSE 30 00] ¡[KUMATORA 23 04 00]![WAIT]  Nos conocimos en el bosque Amanecer.[WAIT]@Luego te contaré el resto.[BREAK]  [PAUSE 20 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Sonríe, ¿quieres?[PAUSE 40 00][WAIT]@Así, mucho mejor.[PAUSE 20 00][EVENT][END]
 302-5:@Okay![WAIT]@The next DCMC song is about to begin![WAIT]@Please go on in and find some empty seats.[WAIT]@*giggle*[END]
-302-5E:
+302-5E:@¡Bien![WAIT]@¡El concierto está a punto de empezar![WAIT]@Por favor, pasen y tomen asiento.[WAIT]@*risita*[END]
 302-6:@Here we are![WAIT]@[ITEM 6E 00]s, on sale now at Club Titiboo![WAIT]@You really should try one at least once![WAIT]@*giggle*[END]
-302-6E:
+302-6E:@¡Bienvenidos![WAIT]@¡[ITEM 6E 00], sólo en el club Titibú![WAIT]@¡Tenéis que probar una por lo menos![WAIT]@*risita*[END]
 302-7:@This way. This way.[eND]
-302-7E:
+302-7E:@Por aquí. Por aquí.[END]
 302-8:@What is it?[END]
-302-8E:
+302-8E:@¿Qué pasa?[END]
 302-9:@...There's someone on the stage.[END]
-302-9E:
+302-9E:@...Hay alguien en el escenario.[END]
 302-10:@Tonda Gossa...[WAIT]@Thanks, guys...[END]
-302-10E:
+302-10E:@Tonda Gossa...[WAIT]@Gracias, chicos...[END]
 302-11:@Tons of fliers for upcoming concerts.[WAIT]  "DCMC Jazz Night"[BREAK]  "DCMC Funkalatina Night"[WAIT]  "DCMC Macarena Night"[BREAK]  "DCMC Membership Application"[WAIT]  "DCMC Fan Appreciation Festival"[BREAK]  "DCMC Concert for King P"[WAIT]  "DCMC Mini-Comedy Club"[END]
-302-11E:
+302-11E:@Propaganda de futuros conciertos.[WAIT]  "Noche de Jazz con los DCMC"[BREAK]  "Noche Funkylatina con los DCMC"[WAIT]  "Noche Macarena con los DCMC"[BREAK]  "Audiciones para los DCMC"[WAIT]  "Festival de fans de los DCMC"[BREAK]  "Concierto para el Rey P de los DCMC"[WAIT]  "Club de comedia de los DCMC"[END]
 
 [Container 303]
 303-0:@No matter where I am, I never forget my job.[END]
-303-0E:
+303-0E:@Da igual dónde esté, nunca olvidaré mi trabajo.[END]
 303-1:[END]
-303-1E:
+303-1E:[END]
 303-2:@Are you a lady?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-303-2E:
+303-2E:@¿Eres una mujer?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 303-3:@This is the ladies' room, you know.[END]
-303-3E:
+303-3E:@Pues este es el baño de mujeres.[END]
 303-4:@There's someone in here![END]
-303-4E:
+303-4E:@¡Pues está ocupado![END]
 303-5:[END]
-303-5E:
+303-5E:[END]
 
 [Container 304]
 304-0:@Staff only![END]
-304-0E:
+304-0E:@¡Sólo personal![END]
 304-1:[END]
-304-1E:
+304-1E:[END]
 
 [Container 305]
 305-0:[SOUND 00 00]@Yeah!![END]
-305-0E:
+305-0E:[SOUND 00 00]@¡¡Hurra!![END]
 305-1:[SOUND 04 00]@*whistle* *whistle*[END]
-305-1E:
+305-1E:[SOUND 04 00]@*silbido* *silbido*[END]
 305-2:[SOUND 01 00]@Eee![BREAK]@I love you, Magic!!![END]
-305-2E:
+305-2E:[SOUND 01 00]@¡Uaaah![BREAK]@¡¡¡Te quiero, Magic!!![END]
 305-3:[SOUND 05 00]@Baccio! Baccio![END]
-305-3E:
+305-3E:[SOUND 05 00]@¡Baccio! ¡Baccio![END]
 305-4:[SOUND 01 00]@OJ!!! Wooo![END]
-305-4E:
+305-4E:[SOUND 01 00]@¡¡¡OJ!!! ¡Uoooh![END]
 305-5:[SOUND 00 00]@Zmizz! You're the greatest!![END]
-305-5E:
+305-5E:[SOUND 00 00]@¡Zmizz! ¡¡Eres el mejor!![END]
 305-6:[SOUND 05 00]@Yeah! Lucky![END]
-305-6E:
+305-6E:[SOUND 05 00]@¡Sí! ¡Lucky![END]
 305-7:[SOUND 05 00]@Gorgeous![END]
-305-7E:
+305-7E:[SOUND 05 00]@¡Gorgeous![END]
 305-8:@Tonda Gossa![WAIT]@In my line of sight is that girl who's always at[BREAK]  the beach.[WAIT]@She's staring at me like she really likes me...[WAIT]@I'm starting to think that I could like her, too.[END]
-305-8E:
+305-8E:@¡Tonda Gossa![WAIT]@Ahí está esa mujer a la que siempre[BREAK]  veo en la playa.[WAIT]@Me está mirando como si yo le gustase...[WAIT]@Y creo que a mí también me gusta.[END]
 305-9:@Tonda Gossa![WAIT]@In my line of sight is that man who's always at[BREAK]  the beach.[WAIT]@He's staring at me like he really likes me...[WAIT]@I'm starting to think that I could like him, too.[END]
-305-9E:
+305-9E:@¡Tonda Gossa![WAIT]@Ahí está ese hombre al que siempre[BREAK]  veo en la playa.[WAIT]@Me está mirando como si yo le gustase...[WAIT]@Y creo que a mí también me gusta.[END]
 305-10:@I hope the encore starts soon.[WAIT]@Oh, and after each concert, one of the girls[BREAK]  here even gives out free DCMC pamphlets![END]
-305-10E:
+305-10E:@Qué ganas de que empiece ya el bis.[WAIT]@¡Por cierto, después de cada concierto se[BREAK]  reparten panfletos publicitarios gratuitos![END]
 305-11:@Word is that everyone in the DCMC's lost their[BREAK]  memory.[END]
-305-11E:
+305-11E:@Dicen que todos los miembros de DCMC[BREAK]  tienen amnesia.[END]
 305-12:@Supposedly, there's just one guy who makes[BREAK]  the whole world go 'round.[WAIT]@No, actually, I'm not sure if it's a guy or not.[BREAK]  I guess it could be a woman or even a kid.[END]
-305-12E:
+305-12E:@Supuestamente hay un tío manejando[BREAK]  todo el cotarro desde las sombras.[WAIT]@Bueno, en verdad no sé si es un hombre.[BREAK]  A lo mejor es una mujer o incluso un niño.[END]
 305-13:@Lucky, the bass player, definitely looks a lot[BREAK]  like [DUSTER 23 03 00].[WAIT]@But I don't know. There's something different[BREAK]  about him. I can't quite put my finger on it.[END]
-305-13E:
+305-13E:@Lucky, el bajista, se parece un montón[BREAK]  a [DUSTER 23 03 00].[WAIT]@Pero no sé. Creo que hay algo que los[BREAK]  diferencia, pero no sabría decirte el qué.[END]
 305-14:@Gorgeous, the bass player, definitely looks a[BREAK]  lot like [DUSTER 23 03 00].[WAIT]@But I don't know. There's something different[BREAK]  about him. I can't quite put my finger on it.[END]
-305-14E:
+305-14E:@Gorgeous, el bajista, se parece un montón[BREAK]  a [DUSTER 23 03 00].[WAIT]@Pero no sé. Creo que hay algo que los[BREAK]  diferencia, pero no sabría decirte el qué.[END]
 305-15:@Wow, you're really late.[WAIT]@The DCMC concert's already over.[WAIT]  *chew* *chew*[WAIT]@Everyone's just waiting for the encore now.[WAIT]@*giggle*[END]
-305-15E:
+305-15E:@Guau, sí que habéis llegado tarde.[WAIT]@El concierto ya se ha terminado.[WAIT]  *masca* *masca*[WAIT]@Todos están esperando el bis.[WAIT]@*risita*[END]
 305-16:@See that scary-looking guy over there?[WAIT]  I thought for sure he was our head honcho,[WAIT]  but apparently there are people way, way[BREAK]  higher up on the ladder than him.[END]
-305-16E:
+305-16E:@¿Ves a ese tipo tan imponente de ahí?[WAIT]  Antes pensaba que ese era el amo del cotarro,[WAIT]  pero parece ser que hay gente[BREAK]  muy por encima de él en rango.[END]
 305-17:@I've been wondering about it for a while now,[WAIT]  but you know Lucky, the bass player?[WAIT]  [PAUSE 20 00].[PAUSE 10 00].[PAUSE 10 00].That totally has to be a wig.[WAIT]@Heheheh.[END]
-305-17E:
+305-17E:@Llevo un tiempo pensando en esto...[WAIT]  ¿Conoces a Lucky, el bajista?[WAIT]  [PAUSE 20 00].[PAUSE 10 00].[PAUSE 10 00].Lleva peluca, fijo.[WAIT]@Jejeje.[END]
 305-18:@I've been wondering about it for a while now,[WAIT]  but you know Gorgeous, the bass player?[WAIT]  [PAUSE 20 00].[PAUSE 10 00].[PAUSE 10 00].That totally has to be a wig.[WAIT]@Heheheh.[END]
-305-18E:
+305-18E:@Llevo un tiempo pensando en esto...[WAIT]  ¿Conoces a Gorgeous, el bajista?[WAIT]  [PAUSE 20 00].[PAUSE 10 00].[PAUSE 10 00].Lleva peluca, fijo.[WAIT]@Jejeje.[END]
 305-19:@Yeah? What do YOU want?[WAIT]@*sniff* *sniff*[WAIT]@You smell like a dog.[WAIT]@Like a dog, and a kid.[WAIT]@This ain't no place for dog-smelling kids to[BREAK]  come.[END]
-305-19E:
+305-19E:@¿Sí? ¿QUÉ queréis?[WAIT]@*snif* *snif*[WAIT]@Oléis a perro.[WAIT]@Y también a niño.[WAIT]@Este no es lugar para niños[BREAK]  que huelen a perro.[END]
 305-20:[SOUND 01 00]@Eww.[WAIT]@You have such a hairy face.[WAIT]@*chuckle*[END]
-305-20E:
+305-20E:[SOUND 01 00]@Uuugh.[WAIT]@Vaya cara más peluda.[WAIT]@*risita*[END]
 305-21:[SOUND 01 00]@These front row seats belong to us.[WAIT]@Stay away from here! You have some nerve![END]
-305-21E:
+305-21E:[SOUND 01 00]@Estos asientos son para nosotros.[WAIT]@¡Largo de aquí![END]
 305-22:@Huh?[WAIT]@This isn't the restroom![END]
-305-22E:
+305-22E:@¿Eh?[WAIT]@¡Esto no es el baño![END]
 305-23:@Oh.[WAIT]@This isn't the dressing room.[END]
-305-23E:
+305-23E:@Oh.[WAIT]@Esto no es el vestuario.[END]
 305-24:@Huh?[BREAK]@I messed up again.[END]
-305-24E:
+305-24E:@¿Eh?[BREAK]@Ya he vuelto a liarme.[END]
 305-25:@Aaaahhhh![WAIT]@Watch where you're walking![WAIT]@You got ketchup all over my clothes![WAIT]@Aww, man! Thanks a lot![END]
-305-25E:
+305-25E:@¡Aaaah![WAIT]@¡Mira por dónde andas![WAIT]@¡Me has dejado perdido de ketchup![WAIT]@¡¡Muchísimas gracias, hombre!![END]
 305-26:[SOUND 01 00]@Oh, sir.[WAIT]@Pardon me.[WAIT]@Would you like a [ITEM 71 00]?[WAIT]@It's only [80 FF F0 FF] DP.[WAIT]@*giggle*[WAIT][MENU 02 00][MENUSPACEYES]Sure[MENUSPACEYES]No thanks[ENDCHOICES][END]
-305-26E:
+305-26E:[SOUND 01 00]@Oh, señor.[WAIT]@Disculpe.[WAIT]@¿Le apetecería una [ITEM 71 00]?[WAIT]@Son sólo [80 FF F0 FF] PD.[WAIT]@*risita*[WAIT][MENU 02 00][MENUSPACEYES]Claro[MENUSPACEYES]No, gracias[ENDCHOICES][END]
 305-27:[SOUND 01 00]@Oh, that's too bad.[WAIT]@But please try some sometime, okay?[WAIT]@*giggle*[END]
-305-27E:
+305-27E:[SOUND 01 00]@Oh, es una pena.[WAIT]@Pero debería probarla algún día.[WAIT]@*risita*[END]
 305-28:[SOUND 01 00]@Thanks![WAIT]@These weren't selling well at all.[WAIT]@So we really appreciate your business![WAIT]@*giggle*[END]
-305-28E:
+305-28E:[SOUND 01 00]@¡Gracias![WAIT]@Estas cosas no las compra nadie ni queriendo.[WAIT]@¡Así que apreciamos mucho su consumición![WAIT]@*risita*[END]
 305-29:[SOUND 01 00]@Oh, I'm sorry, sir.[BREAK]  But...[PAUSE 28 00] you don't have enough money! Too bad![END]
-305-29E:
+305-29E:[SOUND 01 00]@Oh, lo lamento, señor.[BREAK]  Pero...[PAUSE 28 00] ¡no le llega el dinero! ¡Mala suerte![END]
 305-30:[SOUND 01 00]@Oh, sir.[WAIT]@Pardon[PAUSE 2E 00] you.[WAIT]@Please don't bump into me anymore, okay?[WAIT]@*giggle*[END]
-305-30E:
+305-30E:[SOUND 01 00]@Oh, señor.[WAIT]@Disculpe,[PAUSE 2E 00] pero...[WAIT]@¿Podría dejar de empujarme, por favor?[WAIT]@*risita*[END]
 305-31:@Woof.[WAIT]  (The encore won't start if we keep walking[BREAK]  around like this.[WAIT]  Let's go sit down, okay?)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-305-31E:
+305-31E:@Guau.[WAIT]  (El bis no va a empezar nunca si seguimos[BREAK]  dando vueltas de un lado para otro.[WAIT]  ¿Qué tal si nos buscamos una mesa?)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 305-32:@Woof-woof.[WAIT]  (Walking like this is exhausting...)[END]
-305-32E:
+305-32E:@Guau-guau.[WAIT]  (Caminar así es agotador...)[END]
 305-33:@*whimper*[END]
 305-33E:@*gemido*[END]
 305-34:@What would you like to drink, sir?[WAIT]  *giggle*[END]
-305-34E:
+305-34E:@¿Qué le apetecería beber al señorito?[WAIT]  *risita*[END]
 305-35:@...[WAIT]@You want...[PAUSE 5A 00] water?[END]
-305-35E:
+305-35E:@...[WAIT]@¿Un vaso de...[PAUSE 5A 00] agua?[END]
 305-36:@Pppppth!![END]
-305-36E:
+305-36E:@¡¡Pfffff!![END]
 305-37:@Oh! Hey there, [LUCAS 23 02 00]![WAIT]  I was wondering who in the world would order[BREAK]  water in a place like this![WAIT]@I mean, come on? Water? Ppppppttth![END]
-305-37E:
+305-37E:@¡Oh! ¿Eres tú, [LUCAS 23 02 00]?[WAIT]  ¡Ya me estaba preguntando quién narices[BREAK]  se pide agua en un lugar así![WAIT]@Es que en serio... ¿Agua? ¡Pfffff![END]
 305-38:@Hey! Violet, baby![END]
-305-38E:
+305-38E:@¡Ey! ¡Violet, moza![END]
 305-39:@Hey! Kumatora, baby![END]
-305-39E:
+305-39E:@¡Ey! ¡Kumatora, moza![END]
 305-40:@One [ITEM 6D 00] for this here boy![WAIT]@And a [ITEM 6F 00] for his dog-like friend![WAIT]@It's on me, the great Thomas, of course![END]
-305-40E:
+305-40E:@¡Una [ITEM 6D 00] para el chaval![WAIT]@¡Y una [ITEM 6F 00] para su amigo![WAIT]@¡Por supuesto, invito yo![END]
 305-41:@Certainly, sir![WAIT]@One [ITEM 6D 00] instead of water,[BREAK]  and one [ITEM 6F 00]. Coming right up![WAIT]@*giggle*[END]
-305-41E:
+305-41E:@¡Sí, señor![WAIT]@Una [ITEM 6D 00] en vez de agua,[BREAK]  y una [ITEM 6F 00]. ¡Marchando![WAIT]@*risita*[END]
 305-42:@Wow. Never thought I'd see you here,[BREAK]  [LUCAS 23 02 00].[END]
-305-42E:
+305-42E:@No esperaba verte aquí, [LUCAS 23 02 00].[END]
 305-43:@Here you are, gentlemen![END]
-305-43E:
+305-43E:@¡Aquí tienen, caballeros![END]
 305-44:@Shhh. Listen, but don't change the expression[BREAK]  on your face.[WAIT]@There's a lot I need to talk to you about after[BREAK]  the DCMC concert's over.[END]
-305-44E:
+305-44E:@Sshhh. Actúa con normalidad y escucha[BREAK]  lo que te voy a decir.[WAIT]@Tenemos mucho de lo que hablar cuando[BREAK]  termine el concierto de los DCMC.[END]
 305-45:@After it's over, don't leave. Hang out in the[BREAK]  lobby.[WAIT]@I'll be there to get you.[END]
-305-45E:
+305-45E:@Cuando acabe, no os vayáis.[BREAK]  Esperadme en el vestíbulo.[WAIT]@Nos reuniremos allí.[END]
 305-46:@Alright, see ya later.[WAIT]@You idiot! Don't change your expression![END]
-305-46E:
+305-46E:@Bien, os veo luego.[WAIT]@¡Tontorrón! ¡Que actúes con normalidad![END]
 305-47:[PAUSE 1E 00]@Well, enjoy yourselves![WAIT]@*giggle*[END]
-305-47E:
+305-47E:[PAUSE 1E 00]@¡Bueno, que disfruten![WAIT]@*risita*[END]
 305-48:@Heeeey, [LUCAS 23 02 00]![WAIT]@What were you and Violet talkin' about?[WAIT]@I never knew you were such a ladies' man![END]
-305-48E:
+305-48E:@¡Eeeey, [LUCAS 23 02 00]![WAIT]@¿De qué estabas hablando con Violet?[WAIT]@¡No sabía que eras un don juan![END]
 305-49:@Heeeey, [LUCAS 23 02 00]![WAIT]@What were you and Kumatora talkin' about?[WAIT]@I never knew you were such a ladies' man![END]
-305-49E:
+305-49E:@¡Eeeey, [LUCAS 23 02 00]![WAIT]@¿De qué estabas hablando con Kumatora?[WAIT]@¡No sabía que eras un don juan![END]
 305-50:@Oh! It's starting![END]
-305-50E:
+305-50E:@¡Oh! ¡Ya empieza![END]
 305-51:@Tonda Gossa![WAIT]@Are you enjoying the show?![END]
-305-51E:
+305-51E:@¡Tonda Gossa![WAIT]@¡¿Estáis disfrutando del show?![END]
 305-52:@OH MY PORK![WAIT]@Looks like our time is up, sad to say.[END]
-305-52E:
+305-52E:@¡SANTO CERDO![WAIT]@Parece que vamos justos de tiempo.[END]
 305-53:@So here's one last song for ya.[WAIT]@Here's "King P's Theme"![WAIT]@Hit it![END]
-305-53E:
+305-53E:@Una última canción, pues.[WAIT]@¡El "Tema del Rey P"![WAIT]@¡Dale![END]
 305-54:@Woof woof.[WAIT]  (My ears are ringing...)[END]
-305-54E:
+305-54E:@Guau, guau.[WAIT]  (Me pitan los oídos...)[END]
 305-55:@How about a [ITEM 21 00] as a souvenir of[BREAK]  your visit to Club Titiboo?[WAIT]  *chew* *chew*[WAIT]@*giggle*[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-305-55E:
+305-55E:@¿Queréis un [ITEM 21 00] como recuerdo[BREAK]  de vuestra visita al club Titibú?[WAIT]  *masca* *masca*[WAIT]@*risita*[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 305-56:@Oh. It looks like you can't carry any more[BREAK]  stuff.[END]
-305-56E:
+305-56E:@Oh. Parece ser que no tenéis sitio.[END]
 305-57:@Oh.[WAIT]@They ARE free, you know...[END]
-305-57E:
+305-57E:@Oh.[WAIT]@Son GRATIS, ¿eh?[END]
 305-58:@They're real popular with die-hard fans.[WAIT]@You just scored yourself some nice swag![WAIT]@*giggle*[END]
-305-58E:
+305-58E:@Son muy populares entre los más fans.[WAIT]@¡Todo una joya para los coleccionistas![WAIT]@*risita*[END]
 305-59:@Wasn't that DCMC show just great?[BREAK]  It was so full of soul![WAIT]  *chew* *chew*[END]
-305-59E:
+305-59E:@¿No ha estado genial el concierto?[BREAK]  ¡Absolutamente vibrante![WAIT]  *masca* *masca*[END]
 305-60:@Will you[PAUSE 20 00] come back again?[PAUSE 20 00][BREAK]  You won't?[PAUSE 20 00] You will?[PAUSE 20 00] You will won't?[WAIT]@*giggle*?[PAUSE 20 00][BREAK]  *giggle*, right?[WAIT]@Are you doing anything later?[PAUSE 20 00] Are you not?[WAIT]@Give you a break already?[PAUSE 20 00][BREAK]  Will I give you no break already?[WAIT]@Whatever, I'm tired of this. Bye.[END]
-305-60E:
+305-60E:@Dime,[PAUSE 20 00] ¿vas a volver?[PAUSE 20 00][BREAK]  ¿Sí?[PAUSE 20 00] ¿No?[PAUSE 20 00] ¿A lo mejor?[WAIT]@¿*risita*?[PAUSE 20 00][BREAK]  *risita*, ¿verdad?[WAIT]@¿Vas a hacer algo más tarde?[PAUSE 20 00] ¿No?[WAIT]@¿Tienes un rato libre?[PAUSE 20 00][BREAK]  ¿No tienes ratos libres?[WAIT]@Bah, ya me he cansado de esto. Adiós.[END]
 305-61:@I'm not a stain. I'm a pick.[END]
-305-61E:
+305-61E:@No soy una mancha. Soy una púa.[END]
 305-62:@See! I told you so![WAIT]@Lucky the bass player's wig started to come[BREAK]  off during the Tonda Gos-song![END]
-305-62E:
+305-62E:@¡Ves! ¡Te lo dije![WAIT]@¡A Lucky casi se le cae la peluca[BREAK]  durante la canción![END]
 305-63:@See! I told you so![WAIT]@Gorgeous the bass player's wig started to[BREAK]  come off during the Tonda Gos-song![END]
-305-63E:
+305-63E:@¡Ves! ¡Te lo dije![WAIT]@¡A Gorgeous casi se le cae la peluca[BREAK]  durante la canción![END]
 305-64:@Man, the DCMC are always so awesome, no[BREAK]  matter how many times I hear 'em![WAIT]@Tonda Gossa! Tonda Gossa![END]
-305-64E:
+305-64E:@¡Tío, los DCMC siempre serán los mejores,[BREAK]  da igual las veces que los escuche![WAIT]@¡Tonda Gossa! ¡Tonda Gossa![END]
 305-65:[SOUND 01 00]@I wish I could listen to them forever![END]
-305-65E:
+305-65E:[SOUND 01 00]@¡Oooh, podría estar escuchándolos[BREAK]  eternamente![END]
 305-66:[SOUND 01 00]@The place smelled a little more dog-like today[BREAK]  than usual, but it was still a great show![END]
-305-66E:
+305-66E:[SOUND 01 00]@La sala olía a perro más de lo normal,[BREAK]  ¡pero aun así ha sido un gran espectáculo![END]
 305-67:@I wanna be in a band too...[END]
-305-67E:
+305-67E:@Yo también quiero estar en una banda...[END]
 305-68:@Tonda Gossa![WAIT]@I wonder if there's still a train heading back[BREAK]  home...[END]
-305-68E:
+305-68E:@¡Tonda Gossa![WAIT]@Espero que todavía no haya salido[BREAK]  el último tren...[END]
 305-69:@Oh my pork![WAIT]@What if all the trains have stopped running for[BREAK]  today and I can't get back home?[END]
-305-69E:
+305-69E:@¡Santo cerdo![WAIT]@¡Qué pasa si ya no hay más trenes por hoy[BREAK]  y no puedo volver a casa?[END]
 305-70:@Heeeey, [LUCAS 23 02 00]![WAIT]@What were you and Violet talkin' about?[WAIT]@I mean, you just met for the first time, right?![WAIT]  Man, you're good![END]
-305-70E:
+305-70E:@¡Eeeey, [LUCAS 23 02 00]![WAIT]@¿De qué estabas hablando con Violet?[WAIT]@Es decir, ¡os acabáis de conocer, ¿no?![WAIT]  ¡Vaya tío que estás hecho![END]
 305-71:@Heeeey, [LUCAS 23 02 00]![WAIT]@What were you and Kumatora talkin' about?[WAIT]@I mean, you just met for the first time, right?![WAIT]  Man, you're good![END]
-305-71E:
+305-71E:@¡Eeeey, [LUCAS 23 02 00]![WAIT]@¿De qué estabas hablando con Kumatora?[WAIT]@Es decir, ¡os acabáis de conocer, ¿no?![WAIT]  ¡Vaya tío que estás hecho![END]
 305-72:@Whew, that was great![WAIT]@Now to head back to the factory and put in[BREAK]  some overtime![END]
-305-72E:
+305-72E:@¡Fiuuu, ha estado genial![WAIT]@¡Ahora, de vuelta a la fábrica[BREAK]  a hacer horas extra![END]
 305-73:@If Lucky really is [DUSTER 23 03 00], why doesn't[BREAK]  he recognize me?[END]
-305-73E:
+305-73E:@Si Lucky es realmente [DUSTER 23 03 00],[BREAK]  ¿por qué no me reconoce?[END]
 305-74:@If Gorgeous really is [DUSTER 23 03 00], why[BREAK]  doesn't he recognize me?[END]
-305-74E:
+305-74E:@Si Gorgeous es realmente [DUSTER 23 03 00],[BREAK]  ¿por qué no me reconoce?[END]
 305-75:[END]
-305-75E:
+305-75E:[END]
 
 [Container 306]
 306-0:@Squeak squeak.[WAIT]  (Mice are greedy and love to collect things.[BREAK]  Would you like to buy some of mine?)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-306-0E:
+306-0E:@Chii, chii.[WAIT]  (Tengo un gran surtido de objetos.[BREAK]  ¿Quieres echarle un vistazo?)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 306-1:@Squeak.[WAIT]  (Thanks.)[END]
-306-1E:
+306-1E:@Chi.[WAIT]  (Gracias.)[END]
 306-2:@Squeeeak.[WAIT]  (Come back again!)[END]
-306-2E:
+306-2E:@Chiiiii.[WAIT]  (¡Vuelve pronto!)[END]
 306-3:[END]
-306-3E:
+306-3E:[END]
 
 [Container 308]
 308-0:@A rather old snare drum.[END]
-308-0E:
+308-0E:@Un viejo tambor.[END]
 308-1:@There's a hole here. It looks like you can jump[BREAK]  down from it.[WAIT]@Try jumping down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-308-1E:
+308-1E:@Un agujero.[BREAK]  Parece que puedes saltar por él.[WAIT]@¿Quieres saltar?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 308-2:@As you can plainly see, I am a wooden bass.[WAIT]  I'm still in my prime.[WAIT]@But ever since the bass below showed up, I've[BREAK]  been left to rot in this moldy-smelling attic.[END]
-308-2E:
+308-2E:@Como puedes ver, soy un bajo de madera.[WAIT]  Estoy como nuevo.[WAIT]@Pero hace poco me reemplazaron, y ahora[BREAK]  me estoy pudriendo en este ático mohoso.[END]
 308-3:@I'm filled with so much frustration.[WAIT]@I'm gonna turn this frustration into violence[BREAK]  and take my stress out on you guys![WAIT]@You're gonna be bawlin' your eyes out![END]
-308-3E:
+308-3E:@Es muy frustrante.[WAIT]@¡Voy a convertir mi frustración en violencia[BREAK]  y me voy a desahogar con vosotros![WAIT]@¡Preparaos para llorar como críos![END]
 308-4:@Tonda Gossa![WAIT]@You can keep coming here a million times, and[BREAK]  I'll just make you cry a bazillion times![END]
-308-4E:
+308-4E:@¡Tonda Gossa![WAIT]@¡Podéis intentarlo un millón de veces[BREAK]  y os voy a hacer llorar otras tantas![END]
 308-5:[END]
-308-5E:
+308-5E:[END]
 
 [Container 309]
 309-0:@Squeak?[BREAK]  (Eh?[PAUSE 28 00] Izzatchew, Alfie?[WAIT]  Wheh've ya been wivaht sennin' a dicky bird?[WAIT]  Ya dihn't come by fo' New Yeah's or Crackah[BREAK]  Night,[WAIT]  so yeh Grandmum an' I 'ave been all jack.[WAIT]  So, wotcheh?[WAIT]  Yeh mus' be bleedin' 'ank Marvin, eh?[WAIT]  'Eah's summadat [ITEM 5E 00] fo' yeh.)[END]
-309-0E:
+309-0E:@¿Chiii?[BREAK]  (¿Eh?[PAUSE 28 00] ¿Eresh tú, Alfie?[WAIT]  ¿Qué tal te va la vida, jovenshito?[WAIT]  Como no hash venido en Navidad[BREAK]  ni en Noshevieja,[WAIT]  eshtábamosh muy preocupadosh por ti.[WAIT]  Ya que estásh...[WAIT]  ...¿por qué no te quedash un rato?[WAIT]  Toma, bebe un poco de [ITEM 5E 00].)[END]
 // grandpa talking
 309-1:@Squeak squeak-squeak?[WAIT]  (Oi, Alfie, it's been donkeys, china.[WAIT]  Wonned teh rabbit us ahtta sum mo' bees,[BREAK]  izzat it?[WAIT]  Eh, dat's calvin.[WAIT]  De ol' pot ain't usin' de Bugs.[WAIT]  But mum's de dicky.)[END]
-309-1E:
+309-1E:@¿Chi-chi, chi, chi?[WAIT]  (Oh, Alfie, hash vuelto.[WAIT]  Ya nosh eshtábamosh preguntando[BREAK]  dónde eshtabash...[WAIT]  Deja que te mire.[WAIT]  ¿Comesh como Diosh manda?[WAIT]  Eshtásh muy flaco.)[END]
 // grandma talking
 309-2:@Squeak squeak squeeeeak.[WAIT]  (Why aincha show ya jem rahn' heah more?)[END]
-309-2E:
+309-2E:@Chi, chi, chiiiiii.[WAIT]  (Deberiash vishitarnosh másh a menudo.)[END]
 309-3:@Squeeeeak squeak.[WAIT]  (Weh've been waitin' a bloody long 'arry Lime[BREAK]  all pat wiv yew aht on yeh toblerone.)[END]
-309-3E:
+309-3E:@Chiiii, chi.[WAIT]  (Hay que ver lo que hash creshido[BREAK]  deshde la última vesh que te vi.)[END]
 309-4:@Got some [ITEM 5E 00]![END]
 309-4E:@¡Conseguiste un [ITEM 5E 00]![END]
 // Repeats: 104-5, 309-4
 309-5:@Got some [ITEM 69 00]![END]
-309-5E:
+309-5E:@¡Conseguiste un [ITEM 69 00]![END]
 309-6:@Squeak squeak.[WAIT]  (Wot? Yeh jazz bands ah full...[WAIT]  Come back baked potatah, eh?)[END]
-309-6E:
+309-6E:@Chiiiii.[WAIT]  (Vash cargado de trashtosh...[WAIT]  Organisha tush coshash, anda.)[END]
 309-7:@Squeeeak.[WAIT]  (Ah, yeh jazz bands ah full.[WAIT]  Eh, das sorry. Come back baked potatah, den.)[END]
-309-7E:
+309-7E:@Chiiiii.[WAIT]  (Vash cargado de trashtosh...[WAIT]  Vash a tener que organishar tush coshash.)[END]
 309-8:@Squeak[PAUSE 10 00] squeak-squeak-squeak.[WAIT]  Squeak[PAUSE 20 00] squeak-squeak squeak.[WAIT]  (Jus' cos me an' de fridge live in dis pope don'[BREAK]  mean we can let in jes aneh ol' bloke.[WAIT]  We'ah plannin' on a couple uh right long nellies.[WAIT]  We'ah watchin' aht fo' barney.[WAIT]  We'ah watchin' aht fo' barney.[WAIT]  Catch me drif', garden gate?)[EVENT][END]
-309-8E:
+309-8E:@Chi,[PAUSE 10 00] chi-chi-chi.[WAIT]  Chi,[PAUSE 20 00] chi-chi-chi.[WAIT]  (Deshde luego, hay que ver cómo[BREAK]  shon eshtosh tiemposh que corren.[WAIT]  Queríamosh mudarnosh al campo.[WAIT]  Comprarnosh una cashita.[WAIT]  Eshash coshash, ¿shabesh?[WAIT]  Pero eshtá todo caríshimo.)[EVENT][END]
 309-9:@Squeak?[BREAK]  (Right, eh, Gramps?)[END]
-309-9E:
+309-9E:@¿Chi?[BREAK]  (¿Verdad, abuelo?)[END]
 309-10:@Squeak[PAUSE 10 00] squeak-squeak-squeak.[WAIT]  Squeeeak[PAUSE 20 00] squeak-squeak squeak.[WAIT]  (Yeh, de dutch is spot on.[WAIT]  An ice cream like me would go right radio if[BREAK]  some jam roll fahn' aht we'ah artfuls.[WAIT]  Dat Johnson lot free doors ovah wos taken[BREAK]  fo' Fred Wests, an' now they'ah brown bread.[WAIT]  So yeh need to watch aht fo' barney, too.[WAIT]  Watch aht fo' barney. Yeh get me?)[EVENT][END]
-309-10E:
+309-10E:@Chi,[PAUSE 10 00] chi-chi-chi.[WAIT]  Chii,[PAUSE 20 00] chi-chi, chi.[WAIT]  (Ay, mish pobresh hueshosh.[WAIT]  De joven me pashaba el día comiendo[BREAK]  y shaltando de aquí para allá.[WAIT]  Pero ahora lash articulashionesh me crujen[BREAK]  por cualquier cosha.[WAIT]  Y mejor que no hable de mi lumbalgia.[WAIT]  Envejesher esh algo muy duro.)[EVENT][END]
 309-11:@Squeeeak?[BREAK]  (Right, eh, Grams?)[END]
-309-11E:
+309-11E:@¿Chiii?[BREAK]  (¿Verdad, abuela?)[END]
 
 [Container 319]
 319-0:@That secret passage is handy, but I always get[BREAK]  covered in mud every time I use it.[WAIT]@Not to mention that sticky junk from all those[BREAK]  slugs.[END]
-319-0E:
+319-0E:@Ese pasadizo secreto es muy útil, pero siempre[BREAK]  me pongo perdida de barro cuando lo uso.[WAIT]@Por no hablar de las babas pegajosas esas[BREAK]  que sueltan las babosas.[END]
 319-1:@I'm gonna hop in the shower real quick, so just[BREAK]  relax here.[END]
-319-1E:
+319-1E:@Voy a darme una ducha rápida,[BREAK]  vosotros descansad un poco.[END]
 319-2:@Some way or another I wound up with this[BREAK]  fancy room.[WAIT]@Anyways, go shower, you two.[WAIT]@There's even a hot spring in there, if that's[BREAK]  more your thing.[WAIT]@We can talk afterwards.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-319-2E:
+319-2E:@No me preguntéis cómo he acabado[BREAK]  en esta habitación tan cursi...[WAIT]@En fin, daos una ducha.[WAIT]@También tenéis las aguas termales,[BREAK]  si lo preferís.[WAIT]@Y cuando terminéis, hablaremos.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 319-3:@You're exhausted and dirty, ain't you?[WAIT]@A shower'll freshen you right up.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-319-3E:
+319-3E:@Estáis sucios y exhaustos.[WAIT]@Una ducha no os vendría mal.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 319-4:@I know you wanna hurry and all, but c'mon, you[BREAK]  guys reek.[WAIT]@Just go take a shower![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-319-4E:
+319-4E:@Sé que no hay tiempo que perder,[BREAK]  pero es que os canta el olor.[WAIT]@¡Id a ducharos de una vez![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 319-5:@How about you, doggy?[WAIT]@Want me to shampoo you all up?[WAIT][MENU 02 00][MENUSPACEYES]Woof![MENUSPACEYES]Woof?[ENDCHOICES][END]
-319-5E:
+319-5E:@¿Qué me dices, perrito?[WAIT]@¿Quieres que te enjabone?[WAIT][MENU 02 00][MENUSPACEYES]¡Guau![MENUSPACEYES]¿Guau?[ENDCHOICES][END]
 319-6:@Just take a damn shower already!![END]
-319-6E:
+319-6E:@¡¡Duchaos de una puñetera vez!![END]
 319-7:@...And that's how I finally managed to sneak[BREAK]  myself in here.[WAIT]@But we'll never find out what happened to the[BREAK]  Hummingbird Egg [WAIT]  until [DUSTER 23 03 00] regains his memory.[END]
-319-7E:
+319-7E:@...Y así fue como he acabado trabajando[BREAK]  en este lugar.[WAIT]@Pero no podremos conocer el paradero[BREAK]  del Huevo del colibrí hasta que[WAIT]  [DUSTER 23 03 00] recupere la memoria.[END]
 319-8:@At this rate, there's no tellin' when the pigs'll[BREAK]  get their hands on it.[END]
-319-8E:
+319-8E:@Ni siquiera sabemos si esos cerdos[BREAK]  lo habrán encontrado ya.[END]
 319-9:@[LUCAS 23 02 00].[WAIT]@See [DUSTER 23 03 00] and try talkin' to him.[WAIT]@Maybe he'll remember something if he sees[BREAK]  you two.[END]
-319-9E:
+319-9E:@[LUCAS 23 02 00].[WAIT]@Intenta hablar con [DUSTER 23 03 00].[WAIT]@Quizás recuerde algo al veros.[END]
 319-10:@There're guards outside.[WAIT]@They're not exactly bad guys, but I don't[BREAK]  wanna risk makin' things more complicated.[END]
-319-10E:
+319-10E:@Los seguratas están afuera.[WAIT]@No son mala gente, pero no nos interesa[BREAK]  complicar aún más las cosas.[END]
 319-11:@Climb up this ladder and go through the attic.[WAIT]  You can get to [DUSTER 23 03 00]'s room from[BREAK]  there.[WAIT]@It's not the most direct way of gettin' there,[BREAK]  but you're less likely to get caught.[END]
-319-11E:
+319-11E:@Subid por esta escalera y cruzad el ático.[WAIT]  Podéis llegar al cuarto de [DUSTER 23 03 00][BREAK]  desde allí.[WAIT]@No es el camino más corto, pero al menos[BREAK]  vais a pasar desapercibidos.[END]
 319-12:@I'll get all the DCMC members together.[WAIT]@I'll need to explain the situation to them, too.[WAIT]@See you in a little bit![END]
-319-12E:
+319-12E:@Mientras, yo voy a reunir al resto de la banda.[WAIT]@Tengo que ponerles al corriente de esto.[WAIT]@¡Os veo en un rato![END]
 319-13:@The door is blocked.[END]
-319-13E:
+319-13E:@La puerta está bloqueada.[END]
 
 [Container 320]
 320-0:[END]
-320-0E:
+320-0E:[END]
 320-1:[END]
-320-1E:
+320-1E:[END]
 
 [Container 321]
 321-0:@What took you so long?[WAIT]@Anyways, I just finished explaining everything[BREAK]  to the band members.[END]
-321-0E:
+321-0E:@¿Por qué habéis tardado tanto?[WAIT]@En fin, ya le he explicado todo[BREAK]  a los miembros de la banda.[END]
 321-1:@Tonda Gossa![WAIT]@So, you're the one trying to run off with[BREAK]  Lucky?[END]
-321-1E:
+321-1E:@¡Tonda Gossa![WAIT]@¿Eres tú el que quiere llevarse[BREAK]  a nuestro Lucky?[END]
 321-2:@Tonda Gossa![WAIT]@So, you're the one trying to run off with[BREAK]  Gorgeous?[END]
-321-2E:
+321-2E:@¡Tonda Gossa![WAIT]@¿Eres tú el que quiere llevarse[BREAK]  a nuestro Gorgeous?[END]
 321-3:@We're discussing things right now.[END]
-321-3E:
+321-3E:@Nos pillas en pleno debate.[END]
 321-4:@Oh, man. What to do...?[END]
-321-4E:
+321-4E:@Oh, tío. Qué dilema...[END]
 321-5:@Whew.[END]
-321-5E:
+321-5E:@Fiuuu.[END]
 321-6:@This is the new wooden bass.[END]
-321-6E:
+321-6E:@El nuevo bajo de madera.[END]
 321-7:@Is there anywhere else to go but here?![END]
-321-7E:
+321-7E:@¿A dónde vas? ¡Esto es importante![END]
 321-8:@I wanna have faith in destiny.[END]
-321-8E:
+321-8E:@Quiero tener fe en el destino.[END]
 321-9:@Woof woof...[WAIT]  (Boy, am I thirsty...)[END]
-321-9E:
+321-9E:@Guau, guau...[WAIT]  (Me muero de sed...)[END]
 321-10:@Tonda Gossa.[WAIT][PAUSE 2E 00]@...Who are you?[END]
-321-10E:
+321-10E:@Tonda Gossa.[WAIT][PAUSE 2E 00]@...¿Quién eres?[END]
 321-11:@He's the one I was talking about just now,[BREAK]  [DUSTER 23 03 00].[WAIT]  You two know each other.[END]
-321-11E:
+321-11E:@Es el chico del que te acabo de hablar,[BREAK]  [DUSTER 23 03 00].[WAIT]  Ya os conocéis.[END]
 321-12:@[DUSTER 23 03 00]?[WAIT]@It's true that I don't even remember my real[BREAK]  name,[WAIT]  but I've lived my life as Lucky for years now.[END]
-321-12E:
+321-12E:@¿[DUSTER 23 03 00]?[WAIT]@Es verdad que no recuerdo[BREAK]  mi verdadero nombre,[WAIT]  pero es que ya llevo muchos años[BREAK]  siendo Lucky.[END]
 321-13:@[DUSTER 23 03 00]?[WAIT]@It's true that I don't even remember my real[BREAK]  name,[WAIT]  but I've lived my life as Gorgeous for years[BREAK]  now.[END]
-321-13E:
+321-13E:@¿[DUSTER 23 03 00]?[WAIT]@Es verdad que no recuerdo[BREAK]  mi verdadero nombre,[WAIT]  pero es que ya llevo muchos años[BREAK]  siendo Gorgeous.[END]
 321-14:@Okay.[WAIT]@All right, Lucky.[WAIT]@I hate to ask, but could you tell him everything[BREAK]  you remember, too?[END]
-321-14E:
+321-14E:@Vale.[WAIT]@Bueno, Lucky.[WAIT]@¿Podrías contarle a este chico[BREAK]  todo lo que recuerdas?[END]
 321-15:@Okay.[WAIT]@All right, Gorgeous.[WAIT]@I hate to ask, but could you tell him everything[BREAK]  you remember, too?[END]
-321-15E:
+321-15E:@Vale.[WAIT]@Bueno, Gorgeous.[WAIT]@¿Podrías contarle a este chico[BREAK]  todo lo que recuerdas?[END]
 321-16:@...Yeah, alright.[WAIT]@I can definitely tell that something very[BREAK]  important is taking place here...[END]
-321-16E:
+321-16E:@...Está bien.[WAIT]@Definitivamente parece ser[BREAK]  algo muy importante...[END]
 321-17:[PAUSE 60 00]@I had absolutely no memory whatsoever from[BREAK]  before I came to Club Titiboo.[WAIT]@I had no idea who I was, where I came from, or[BREAK]  where I was going.[WAIT][PAUSE 20 00]@But for some reason, I was clutching a strange[BREAK]  egg with great care.[WAIT]@I didn't know where I was going, yet I[BREAK]  continued to walk desperately.[END]
-321-17E:
+321-17E:[PAUSE 60 00]@Antes de mi llegada al club Titibú[BREAK]  era incapaz de recordar nada.[WAIT]@No sabía ni quién era, de dónde venía,[BREAK]  ni a dónde me dirigía.[WAIT][PAUSE 20 00]@Pero por algún motivo, llevaba[BREAK]  un extraño huevo conmigo.[WAIT]@No sabía a dónde ir, pero seguí[BREAK]  caminando, desesperado.[END]
 321-18:@All I knew was that the egg was really[BREAK]  important for some reason.[WAIT]@I knew I absolutely HAD to keep it safe...[WAIT]@So I looked for a place to hide it.[END]
-321-18E:
+321-18E:@Sólo sabía que ese huevo era[BREAK]  importante por alguna razón.[WAIT]@TENÍA que ponerlo a buen recaudo...[WAIT]@Así que decidí esconderlo.[END]
 321-19:@And then,[PAUSE 20 00] after walking[PAUSE 20 00] and walking,[WAIT]  I buried the egg inside a big dirt clod in a valley,[BREAK]  where I knew no one would ever find it.[END]
-321-19E:
+321-19E:@Así pues,[PAUSE 20 00] después de andar[PAUSE 20 00] y andar,[WAIT]  enterré el huevo en un valle,[BREAK]  donde nadie podría encontrarlo.[END]
 321-20:[PAUSE 5A 00]@I still know where it is. I haven't forgotten.[WAIT]@You go up a cliff near a giant waterfall and...[END]
-321-20E:
+321-20E:[PAUSE 5A 00]@Todavía recuerdo el lugar. No lo he olvidado.[WAIT]@Subes por el risco junto a la cascada y...[END]
 321-21:@...Unknown Valley![WAIT]@That's it, [DUSTER 23 03 00]![WAIT]@The egg we all worked so hard to protect is[BREAK]  there![WAIT]@Let's go there right now![END]
-321-21E:
+321-21E:@¡...El valle Desconocido![WAIT]@¡Eso es, [DUSTER 23 03 00]![WAIT]@¡El huevo que estamos buscando esta allí![WAIT]@¡Tenemos que ir pero ya![END]
 321-22:[PAUSE 5A 00]@...But, am I really [DUSTER 23 03 00]?[WAIT]@If I am this "[DUSTER 23 03 00]" person, that[BREAK]  means I'll have to leave the band...[PAUSE 5A 00] Right?[WAIT]@[DUSTER 23 03 00] or Lucky...[PAUSE 30 00][BREAK]  One of them will cease to exist after today...[PAUSE 5A 00][WAIT]  Right?![WAIT]@If it turns out I'm [DUSTER 23 03 00], what[BREAK]  happens to the DCMC?[WAIT]@But if I continue to live as Lucky, then what[BREAK]  was that egg thing all about?[WAIT][PAUSE 2E 00]@What should I do?![BREAK][PAUSE 2E 00]@I just can't decide...[END]
-321-22E:
+321-22E:[PAUSE 5A 00]@..Pero, ¿realmente soy [DUSTER 23 03 00]?[WAIT]@Si de verdad soy ese tal "[DUSTER 23 03 00]",[BREAK]  voy a tener que dejar la banda...[PAUSE 5A 00] ¿No es así?[WAIT]@[DUSTER 23 03 00] o Lucky...[PAUSE 30 00][BREAK]  Hoy, uno de los dos dejará de existir...[PAUSE 5A 00][WAIT]  ¡¿No es así?![WAIT]@Si resulta que soy [DUSTER 23 03 00],[BREAK]  ¿qué va a ser de DCMC?[WAIT]@Pero si sigo viviendo como Lucky,[BREAK]  ¿qué va a ser de ese huevo del que habláis?[WAIT][PAUSE 2E 00]@¡¿Qué debería hacer?![BREAK][PAUSE 2E 00]@No tengo ni idea...[END]
 321-23:[PAUSE 5A 00]@...But, am I really [DUSTER 23 03 00]?[WAIT]@If I am this "[DUSTER 23 03 00]" person, that[BREAK]  means I'll have to leave the band...[PAUSE 5A 00] Right?[WAIT]@[DUSTER 23 03 00] or Gorgeous...[PAUSE 30 00][BREAK]  One of them will cease to exist after today...[PAUSE 5A 00][WAIT]  Right?![WAIT]@If it turns out I'm [DUSTER 23 03 00], what[BREAK]  happens to the DCMC?[WAIT]@But if I continue to live as Gorgeous, then[BREAK]  what was that egg thing all about?[WAIT][PAUSE 2E 00]@What should I do?![BREAK][PAUSE 2E 00]@I just can't decide...[END]
-321-23E:
+321-23E:[PAUSE 5A 00]@..Pero, ¿realmente soy [DUSTER 23 03 00]?[WAIT]@Si de verdad soy ese tal "[DUSTER 23 03 00]",[BREAK]  voy a tener que dejar la banda...[PAUSE 5A 00] ¿No es así?[WAIT]@[DUSTER 23 03 00] o Gorgeous...[PAUSE 30 00][BREAK]  Hoy, uno de los dos dejará de existir...[PAUSE 5A 00][WAIT]  ¡¿No es así?![WAIT]@Si resulta que soy [DUSTER 23 03 00],[BREAK]  ¿qué va a ser de DCMC?[WAIT]@Pero si sigo viviendo como Gorgeous,[BREAK]  ¿qué va a ser de ese huevo del que habláis?[WAIT][PAUSE 2E 00]@¡¿Qué debería hacer?![BREAK][PAUSE 2E 00]@No tengo ni idea...[END]
 321-24:@...Of course you can't.[WAIT]@All you can do is ask destiny.[END]
-321-24E:
+321-24E:@...Es una elección que nadie podría hacer.[WAIT]@Tiene que ser el propio destino quien decida.[END]
 321-25:@Yeah.[WAIT]@If destiny decides it, I'll say goodbye to you[BREAK]  with a smile on my face.[END]
-321-25E:
+321-25E:@Exacto.[WAIT]@Si el destino así lo quiere, te diré adiós[BREAK]  con una sonrisa en la cara.[END]
 321-26:@Yeah.[WAIT]@If destiny decides it, I'll say goodbye to[BREAK]  Gorgeous with a smile on my face.[END]
-321-26E:
+321-26E:@Exacto.[WAIT]@Si el destino así lo quiere, le diré adiós a[BREAK]  Gorgeous con una sonrisa en la cara.[END]
 321-27:@Destiny, huh...[PAUSE 2E 00] Yeah, let's ask destiny.[WAIT]@We have a way...[WAIT]@The same thing we've always done whenever[BREAK]  we weren't sure what to do.[END]
-321-27E:
+321-27E:@Destino...[PAUSE 2E 00] Sí, que lo decida el desitno.[WAIT]@Hay una manera...[WAIT]@Lo que siempre hemos hecho cuando[BREAK]  no sabíamos qué hacer.[END]
 321-28:@...Stone-Sheet-Clippers, huh?[END]
-321-28E:
+321-28E:@¿...Cuarzo-pergamino-tenazas?[END]
 321-29:@Yup.[WAIT]@This [LUCAS 23 02 00] fellow will play[BREAK]  Stone-Sheet-Clippers with us.[WAIT]@If he beats all five of us in a row, you'll go.[WAIT]@But if he loses even once, you'll stay in the[BREAK]  DCMC and keep on playing the bass.[WAIT][PAUSE 1E 00]@How's that sound?[END]
-321-29E:
+321-29E:@Cuarzo-pergamino-tenazas.[WAIT]@[LUCAS 23 02 00] va a jugar[BREAK]  a Cuarzo-pergamino-tenazas con nosotros.[WAIT]@Si nos gana a los cinco, te irás con él.[WAIT]@Pero si pierde aunque sólo sea una vez,[BREAK]  seguirás siendo nuestro bajista.[WAIT][PAUSE 1E 00]@¿Cómo lo ves?[END]
 321-30:@Five in row, huh... I'm cool with that.[WAIT]@You, there.[PAUSE 2E 00] You're okay with that, right?[END]
-321-30E:
+321-30E:@A los cinco, ¿eh?... Por mí, vale.[WAIT]@¿Tú qué dices?[PAUSE 2E 00] ¿Te parece bien?[END]
 321-31:@Okay, well, we're ready to begin when you are.[WAIT]@You can start with any one of us.[END]
-321-31E:
+321-31E:@Bueno, cuando quieras, empezamos.[WAIT]@¿A quién vas a retar primero?[END]
 321-32:@Okay, well, we're ready to begin when you are.[END]
-321-32E:
+321-32E:@Bueno, cuando quieras, empezamos.[END]
 321-33:@For the most part, everyone always does a[BREAK]  specific first move when playing this game.[WAIT]@That explains why Baccio loses to Magic.[END]
-321-33E:
+321-33E:@En este juego, todos tenemos la manía[BREAK]  de usar siempre el mismo movimiento.[WAIT]@Por eso Baccio siempre pierde contra Magic.[END]
 321-34:@You ready to go?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-321-34E:
+321-34E:@¿Estás preparado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 321-34, 321-41, 321-56
 321-35:@Okay, here goes.[WAIT]@Stoooone, sheeeet, clippers![END]
-321-35E:
+321-35E:@Ok, allá vamos.[WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-36:@Ack, my bad![WAIT]@I went too late![WAIT]@Sorry, let's do a do-over![BREAK]@Stoooone, sheeeet, clippers![END]
-321-36E:
+321-36E:@¡Ah, lo siento![WAIT]@¡He sido muy lento![WAIT]@¡Empecemos de nuevo![BREAK]@¡Cuarzo, pergamino, tenazas![END]
 321-37:@A tie... M-man, this is getting intense.[WAIT]@Let's go again![BREAK]@Stoooone, sheeeet, clippers![END]
-321-37E:
+321-37E:@Un empate... T-tío, qué tensión.[WAIT]@¡Otra vez![BREAK]@¡Cuarzo, pergamino, tenazas![END]
 321-38:@I lose...[WAIT]@I lose with pizazz![END]
-321-38E:
+321-38E:@He perdido...[WAIT]@¡Pero con clase![END]
 321-39:@Have faith in destiny.[END]
-321-39E:
+321-39E:@Ten fe en el destino.[END]
 321-40:@Shimmy almost always starts with stone.[WAIT]@It's up to you to believe that or not, though.[EVENT][END]
-321-40E:
+321-40E:@Shimmy siempre empieza con cuarzo.[WAIT]@Ya es tu decisión creerme o no.[EVENT][END]
 321-41:@You ready to go?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-321-41E:
+321-41E:@¿Estás preparado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 321-34, 321-41, 321-56
 321-42:@Stoooone, sheeeet, clippers![END]
-321-42E:
+321-42E:@¡Cuarzo, pergamino, tenazas![END]
 321-43:@Tonda Gossa![WAIT]@You went too late on that one![WAIT]@Come on, now! Destiny is riding on this![BREAK]  Let's go at the same time![WAIT]@Stoooone, sheeeet, clippers![END]
-321-43E:
+321-43E:@¡Tonda Gossa![WAIT]@¡Ahí has estado muy lento![WAIT]@¡Concéntrate! ¡Hay mucho en juego![BREAK]  ¡Hagámoslo a la vez![WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-44:@Whew. This is getting intense.[WAIT]@Again! Stoooone, sheeeet, clippers![END]
-321-44E:
+321-44E:@Buf. Esto se está poniendo emocionante.[WAIT]@¡De nuevo! ¡Cuarzo, pergamino, tenazas![END]
 321-45:@Ol' Shimmy usually does stone first...[END]
-321-45E:
+321-45E:@Shimmy suele empezar con cuarzo...[END]
 321-46:@I lose![WAIT]@Luck is with you.[END]
-321-46E:
+321-46E:@¡He perdido![WAIT]@La suerte está de tu lado.[END]
 321-47:@I should go a little later.[END]
-321-47E:
+321-47E:@Debo tener paciencia.[END]
 321-48:@I always wind up tying whenever I play[BREAK]  Stone-Sheet-Clippers with Shimmy.[END]
-321-48E:
+321-48E:@Cada vez que Shimmy y yo jugamos[BREAK]  a esto, la cosa acaba en empate.[END]
 321-49:@Alright, let's do this thing.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-321-49E:
+321-49E:@Venga, empecemos.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 321-50:@Okay, let's do it![WAIT]@Stoooone, sheeeet, clippers![END]
-321-50E:
+321-50E:@¡Que gane el mejor![WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-51:@Oops![WAIT]@It's against the rules to go after like that.[BREAK]  Stoooone, sheeeet, clippers![END]
-321-51E:
+321-51E:@¡Uups![WAIT]@No vale esperar al movimiento del rival.[BREAK]  ¡Cuarzo, pergamino, tenazas![END]
 321-52:@A tie, huh?[WAIT]@Again! Stoooone, sheeeet, clippers![END]
-321-52E:
+321-52E:@Un empate, ¿eh?[WAIT]@¡Otra vez! ¡Cuarzo, pergamino, tenazas![END]
 321-53:@Come here after you've calmed yourself down.[END]
-321-53E:
+321-53E:@Relájate un poco y empezamos de nuevo.[END]
 321-54:@Gah![WAIT]@I won't complain. You win![END]
-321-54E:
+321-54E:@¡Aah![WAIT]@Nada que objetar. ¡Has ganado![END]
 321-55:@I seem to recall that whenever me, Magic, and[BREAK]  our band leader'd play Stone-Sheet-Clippers,[WAIT]  we'd always wind up in a tie.[END]
-321-55E:
+321-55E:@Siempre que Magic, OJ y yo jugamos[BREAK]  a Cuarzo-pergamino-tenazas, la cosa[WAIT]  termina en empate.[END]
 321-56:@You ready to go?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-321-56E:
+321-56E:@¿Estás preparado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 321-34, 321-41, 321-56
 321-57:@Is it best if I win...?[BREAK][PAUSE 3C 00]  No, I'll leave that up to destiny.[WAIT]@Stoooone, sheeeet, clippers![END]
-321-57E:
+321-57E:@¿Ganar o perder...?[BREAK][PAUSE 3C 00]  Que lo decida el destino.[WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-58:@AAAAAAAchooooo!![WAIT]@*sniffle* *sniffle*...[WAIT]@Sorry. Do-over.[WAIT]@Stoooone, sheeeet, clippers![END]
-321-58E:
+321-58E:@¡AAAAAAAchíiiiis!![WAIT]@*snif* *sniff*...[WAIT]@Lo siento.[WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-59:@Again! Stoooone, sheeeet, clippers![END]
-321-59E:
+321-59E:@¡Repetimos! ¡Cuarzo, pergamino, tenazas![END]
 321-60:@Whew. I feel the same way.[END]
-321-60E:
+321-60E:@Fiu. Yo estoy igual.[END]
 321-61:@Looks like I lose.[WAIT]@I guess destiny's telling me to lose.[END]
-321-61E:
+321-61E:@Vaya, he perdido.[WAIT]@Así lo quiere el destino, supongo.[END]
 321-62:@Whenever me, Magic, and Baccio play[BREAK]  Stone-Sheet-Clippers, we always end in a tie.[END]
-321-62E:
+321-62E:@Magic, Baccio y yo siempre empatamos[BREAK]  cuando jugamos a Cuarzo-pergamino-tenazas.[END]
 321-63:@Let me be the last one to go.[WAIT]@After all, I AM the band leader.[END]
-321-63E:
+321-63E:@Yo voy a ser tu último rival.[WAIT]@A fin de cuentas, SOY el líder.[END]
 321-64:@You ready?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-321-64E:
+321-64E:@¿Estás listo?[WAIT][MENU 02 00][MENUSPACEYES]Lo estoy[MENUSPACENO]Todavía no[ENDCHOICES][END]
 321-65:@If I win this, Lucky will stay in the DCMC.[WAIT]@If you win, Lucky will go with you.[WAIT][PAUSE 5A 00]@Lucky... You cool with that?[END]
-321-65E:
+321-65E:@Si gano yo, Lucky se queda con nosotros.[WAIT]@Si ganas tú, se va con vosotros.[WAIT][PAUSE 5A 00]@Lucky... ¿Te parece bien?[END]
 321-66:@If I win this, Gorgeous will stay in the DCMC.[WAIT]@If you win, Gorgeous will go with you.[WAIT][PAUSE 5A 00]@Gorgeous... You cool with that?[END]
-321-66E:
+321-66E:@Si gano yo, Gorgeous se queda con nosotros.[WAIT]@Si ganas tú, se va con vosotros.[WAIT][PAUSE 5A 00]@Gorgeous... ¿Te parece bien?[END]
 321-67:[PAUSE 3C 00]@I wanna trust in destiny.[WAIT][PAUSE 1E 00]@If it's my destiny to go, then I'm sure he'll win.[WAIT]@And if it's not my destiny, he'll lose and I'll[BREAK]  stay here.[WAIT][PAUSE 3C 00]@...It's as simple as that.[END]
-321-67E:
+321-67E:[PAUSE 3C 00]@Quiero creer en el destino.[WAIT][PAUSE 1E 00]@Si mi destino es irme, ganará, estoy seguro.[WAIT]@Si mi destino es quedarme aquí,[BREAK]  perderá irremisiblemente.[WAIT][PAUSE 3C 00]@...Así de simple.[END]
 321-68:@Okay, then.[WAIT]@[LUCAS 23 02 00].[WAIT]@Do "clippers".[WAIT]@I'm going to do "sheet".[END]
-321-68E:
+321-68E:@De acuerdo.[WAIT]@[LUCAS 23 02 00].[WAIT]@Saca "tenazas".[WAIT]@Yo voy a sacar "pergamino".[END]
 321-69:[PAUSE 3C 00]@Tonda Gossa![WAIT]@Alright, here we go![WAIT]@Stoooone, sheeeeeeeeet, clippers![END]
-321-69E:
+321-69E:[PAUSE 3C 00]@¡Tonda Gossa![WAIT]@¡Vamos allá![WAIT]@¡Cuarzooo, pergaminooo, tenazas![END]
 321-70:@Oh, I'm so happy![END]
-321-70E:
+321-70E:@¡Oh, qué feliz soy![END]
 321-71:@NOT![END]
-321-71E:
+321-71E:@¡NO![END]
 321-72:@Keep it down, will ya?![EVENT][END]
-321-72E:
+321-72E:@¡¿Queréis callaros?![EVENT][END]
 321-73:@Save your guys' hootin' and hollerin' for the[BREAK]  stage![END]
-321-73E:
+321-73E:@¡Guardaos esos gritos para el escenario,[BREAK]  me cago en tó'![END]
 321-74:@...[WAIT]@Looks like they haven't noticed you guys.[EVENT][END]
-321-74E:
+321-74E:@...[WAIT]@Parece ser que no os han visto.[EVENT][END]
 321-75:@I forgot what we just did, so let's do a[BREAK]  do-over.[WAIT]@Stoooone, sheeeet, clippers![END]
-321-75E:
+321-75E:@Ya no sé ni por dónde íbamos,[BREAK]  así que empecemos de nuevo.[WAIT]@¡Cuarzo, pergamino, tenazas![END]
 321-76:@A tie, huh...[WAIT]@Again! Stoooone, sheeeet, clippers![END]
-321-76E:
+321-76E:@Un empate, ¿eh?...[WAIT]@¡Otra vez! ¡Cuarzo, pergamino, tenazas![END]
 321-77:@I see. So this is destiny.[END]
-321-77E:
+321-77E:@Ya veo. Así que este es el desitno.[END]
 321-78:@I guess Lucky probably is this [DUSTER 23 03 00][BREAK]  guy, after all.[END]
-321-78E:
+321-78E:@Supongo que Lucky es ese tal [DUSTER 23 03 00],[BREAK]  después de todo.[END]
 321-79:@I guess Gorgeous probably is this[BREAK]  [DUSTER 23 03 00] guy, after all.[END]
-321-79E:
+321-79E:@Supongo que Gorgeous es ese tal[BREAK]  [DUSTER 23 03 00], después de todo.[END]
 321-80:@Go! Don't worry about anything else at all![END]
-321-80E:
+321-80E:@¡Ve con ellos! ¡No te preocupes por nada![END]
 321-81:@I think [DUSTER 23 03 00] hid the egg in Unknown[BREAK]  Valley.[WAIT]@Which means I have no reason to stay here[BREAK]  anymore, either.[END]
-321-81E:
+321-81E:@Creo [DUSTER 23 03 00] ha escondido el huevo[BREAK]  en el valle Desconocido.[WAIT]@Lo que significa que no tengo motivo alguno[BREAK]  por el que debería quedarme aquí.[END]
 321-82:@Alright! Time to get outta these girl clothes![END]
-321-82E:
+321-82E:@¡Bien! ¡Hora de quitarse esta ropa cursi![END]
 321-83:@Thanks for everything, guys.[WAIT]@Take care, now![END]
-321-83E:
+321-83E:@Gracias por todo, chicos.[WAIT]@¡Cuidaos![END]
 321-84:@Outta my way, dammit![END]
-321-84E:
+321-84E:@¡Quitaos de en medio, leñe![END]
 321-85:@Lucky...[PAUSE 28 00] No, [DUSTER 23 03 00], I guess.[WAIT]@You were the greatest bass player ever.[WAIT][PAUSE 1E 00]@I'm gonna miss you, man.[END]
-321-85E:
+321-85E:@Lucky...[PAUSE 28 00] No, [DUSTER 23 03 00].[WAIT]@Has sido el mejor bajista de todos.[WAIT][PAUSE 1E 00]@Te voy a echar de menos, tío.[END]
 321-86:@Gorgeous...[PAUSE 28 00] No, [DUSTER 23 03 00], I guess.[WAIT]@You were the greatest bass player ever.[WAIT][PAUSE 1E 00]@I'm gonna miss you, man.[END]
-321-86E:
+321-86E:@Gorgeous...[PAUSE 28 00] No, [DUSTER 23 03 00].[WAIT]@Has sido el mejor bajista de todos.[WAIT][PAUSE 1E 00]@Te voy a echar de menos, tío.[END]
 321-87:@I hope we meet again someday.[END]
-321-87E:
+321-87E:@Espero que volvamos a vernos.[END]
 321-88:@I'm sure we will.[END]
-321-88E:
+321-88E:@Seguro que sí.[END]
 321-89:@Don't go forgetting the time you spent with us[BREAK]  now. You dig?[END]
-321-89E:
+321-89E:@Intenta no olvidarte de nosotros[BREAK]  demasiado rápido, ¿vale?[END]
 321-90:@...Lucky.[END]
-321-90E:
+321-90E:@...Lucky.[END]
 321-91:@...Gorgeous.[END]
-321-91E:
+321-91E:@...Gorgeous.[END]
 321-92:@I still don't remember anything, but I'll come[BREAK]  with you guys anyway.[END]
-321-92E:
+321-92E:@Sigo sin recordar nada, pero aun así[BREAK]  me iré con vosotros.[END]
 321-93:@Okay! Let's go![END]
-321-93E:
+321-93E:@¡Ok! ¡Vamos![END]
 321-94:@[DUSTER 23 03 00] joined your party![PAUSE 68 01][END]
 321-94E:@¡[DUSTER 23 03 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 139-25, 321-94
 321-95:[END]
-321-95E:
+321-95E:[END]
 
 [Container 322]
 322-0:@Hey. You say something?[END]
-322-0E:
+322-0E:@¿Mmm? ¿Decías algo?[END]
 322-1:@I didn't say nothin', dude.[END]
-322-1E:
+322-1E:@No he dicho nada, tronco.[END]
 322-2:@Oh, it's just a dog.[END]
-322-2E:
+322-2E:@Oh, sólo era un perro.[END]
 322-3:@There ain't no dogs here, dude.[END]
-322-3E:
+322-3E:@Aquí no hay ningún perro, tronco.[END]
 322-4:@I took care of the bodyguards.[END]
-322-4E:
+322-4E:@Me he encargado de los seguratas.[END]
 322-5:@Let's go![END]
-322-5E:
+322-5E:@¡Vamos![END]
 322-6:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
 322-6E:@¡[KUMATORA 23 04 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 322-7:@Nnnng. Nnnggggg.[END]
-322-7E:
+322-7E:@Nnnng. Nnnggggg.[END]
 322-8:@Gekkkk.[END]
-322-8E:
+322-8E:@Uuugh.[END]
 322-9:@OJ's room.[WAIT]@The door's locked.[END]
-322-9E:
+322-9E:@El camerino de OJ.[WAIT]@La puerta está cerrada.[END]
 322-10:@Magic's room.[WAIT]@The door's locked.[END]
-322-10E:
+322-10E:@El camerino de Magic.[WAIT]@La puerta está cerrada.[END]
 322-11:@Shimmy's room.[WAIT]@The door's locked.[END]
-322-11E:
+322-11E:@El camerino de Shimmy.[WAIT]@La puerta está cerrada.[END]
 322-12:@Baccio's room.[WAIT]@The door's locked.[END]
-322-12E:
+322-12E:@El camerino de Baccio.[WAIT]@La puerta está cerrada.[END]
 322-13:@An empty room.[WAIT]@The door's locked.[END]
-322-13E:
+322-13E:@Un camerino vacío.[WAIT]@La puerta está cerrada.[END]
 322-14:@There's a slot for money here.[WAIT]@Insert 150 DP?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-322-14E:
+322-14E:@Una ranura para meter dinero.[WAIT]@¿Quieres insertar 150 PD?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 322-14, 360-20
 322-15:@A [ITEM 61 00] came out![END]
-322-15E:
+322-15E:@¡Del interior salió un [ITEM 61 00]![END]
 // Repeats: 322-15, 360-21
 322-16:@You can't hold any more items.[END]
-322-16E:
+322-16E:@No puedes llevar más objetos.[END]
 // Repeats: 322-16, 360-22
 322-17:@You don't have enough money.[END]
 322-17E:@No tienes suficiente dinero.[END]
@@ -12551,16 +12551,16 @@
 
 [Container 323]
 323-0:@You unlocked the door.[END]
-323-0E:
+323-0E:@Abriste la cerradura.[END]
 // Repeats: 323-0, 653-0
 323-1:[END]
-323-1E:
+323-1E:[END]
 
 [Container 324]
 324-0:@C'mon, hurry it up. This way.[END]
-324-0E:
+324-0E:@Deprisa. Por aquí.[END]
 324-1:[END]
-324-1E:
+324-1E:[END]
 
 [Container 327]
 327-0:[HOTSPRING 00 00][END]
@@ -12657,19 +12657,19 @@
 327-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 327-31:@Okay! Oxygen supply complete![WAIT]@Time to head for Tanetane Island![END]
-327-31E:
+327-31E:@¡Bien! ¡Oxígeno restaurado![WAIT]@¡Hora de irse a la isla Tanetane![END]
 327-32:@Whew...[WAIT]@I know they supply us with oxygen, but these[BREAK]  machines just aren't my thing...[WAIT]@They're really demoralizing.[END]
-327-32E:
+327-32E:@Buf...[WAIT]@Sé que nos dan oxígeno y tal, pero[BREAK]  estas máquinas dan mucha grima...[WAIT]@Sólo con verlas me deprimo.[END]
 327-33:@...Really?[WAIT]@I like 'em a lot.[END]
-327-33E:
+327-33E:@...¿En serio?[WAIT]@A mí me gustan.[END]
 327-34:@Danger![WAIT]  Don't forget to supply yourself with oxygen[BREAK]  while underwater.[WAIT]@Use the oxygen supply machines efficiently and[BREAK]  effectively.[END]
-327-34E:
+327-34E:@¡Peligro![WAIT]  No te olvides de reponer oxígeno[BREAK]  mientras estás en el agua.[WAIT]@Utiliza las máquinas de oxígeno[BREAK]  de forma eficiente.[END]
 327-35:@Good work today.[END]
-327-35E:
+327-35E:@Hoy hemos hecho un buen trabajo.[END]
 327-36:@Yeah.[BREAK]@Good work today.[END]
-327-36E:
+327-36E:@Sí.[BREAK]@No ha estado mal.[END]
 327-37:@See you later.[END]
-327-37E:
+327-37E:@Nos vemos.[END]
 
 [Container 328]
 328-0:[HOTSPRING 00 00][END]
@@ -12766,7 +12766,7 @@
 328-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 328-31:@*hop* *glub* *glub* *gaaaaakkkkkk*[WAIT]@I am Frogman.[BREAK]  *gaakkkkkkk* *blub* *blub*[WAIT]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END][END]
-328-31E:
+328-31E:@*hop* *glub* *glub* *gaaaaah*[WAIT]@Soy una Sirrana.[BREAK]  *gaaaaah *blub* *blub*[WAIT]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END][END]
 328-32:@Please be careful out there.[EVENT][END]
 328-32E:@Por favor, ten cuidado.[EVENT][END]
 // Repeats: 0-170, 328-32
@@ -12774,9 +12774,9 @@
 328-33E:@Saluda de mi parte a las demás ranas.[END]
 // Repeats: 0-171, 328-33
 328-34:@Oh. Okay.[BREAK]  *gakkkkkkk*[WAIT]@Give my regards to the next frog you meet.[END]
-328-34E:
+328-34E:@Oh. Vale.[BREAK]  *gaaaaah*[WAIT]@Saluda de mi parte a las demás.[END]
 328-35:[END]
-328-35E:
+328-35E:[END]
 
 [Container 329]
 329-0:[HOTSPRING 00 00][END]
@@ -12873,11 +12873,11 @@
 329-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 329-31:@I'm a Make-It-Big Fish.[WAIT]@I'm a real hard worker, so I'm gonna make it[BREAK]  big in life.[WAIT]  I'm talking BIG here![WAIT]  Maybe even bigger than a whale![END]
-329-31E:
+329-31E:@Soy un pez emprendedor.[WAIT]@Trabajo como una mula y pienso[BREAK]  llegar a lo más alto.[WAIT]  ¡Me convertiré en todo un pez gordo![WAIT]  ¡O incluso en una ballena![END]
 329-32:@I'm a real crybaby. All I ever do is cry.[WAIT]@It might be my fault that the ocean's so salty.[END]
-329-32E:
+329-32E:@Soy un llorica. No hago más que llorar.[WAIT]@¿Será culpa mía que el mar sea tan salado?[END]
 329-33:@I'm thinking of using this fishing pole I found[BREAK]  to try to catch some humans.[END]
-329-33E:
+329-33E:@Creo que voy a usar esta caña de pescar[BREAK]  para ver si pica algún humano.[END]
 
 [Container 330]
 330-0:[HOTSPRING 00 00][END]
@@ -12974,23 +12974,23 @@
 330-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 330-31:@Do you breathe through gills?[WAIT]  You don't?[WAIT]@Are you an enemy? An enemy of all fishkind?[WAIT]  If so, then what do you say we fight?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-330-31E:
+330-31E:@¿Respiras mediante agallas?[WAIT]  ¿No?[WAIT]@¿Eres un enemigo? ¿Un enemigo de los peces?[WAIT]  Si lo eres, dime, ¿pelearías conmigo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 330-32:@No, you shouldn't do that. Fighting isn't nice.[WAIT]@It's like they say, "Claw me and I'll claw thee."[BREAK]  Treasure the fish you catch.[WAIT]@No, wait! Don't catch fish! Let's all get along.[WAIT]@Well, later! Bye![END]
-330-32E:
+330-32E:@No, no deberías hacerlo. Pelear está mal.[WAIT]@Ya sabes lo que dicen: "El pez que busca[BREAK]  el anzuelo, busca su duelo."[WAIT]@¡No, no! ¡Nada de anzuelos! Seamos amigos.[WAIT]@¡Bueno, adiós![END]
 330-33:@Huh? You're not going to fight?[BREAK]  Even though we're enemies?[WAIT]@Oh, well. Whatever.[END]
-330-33E:
+330-33E:@¿Eh? ¿Que no vas a pelar?[BREAK]  ¿Pese a que somos enemigos?[WAIT]@Ah, bueno. Pues nada.[END]
 330-34:@Those [ENEMYNAME AF 00]s are such punks![BREAK]  One stole my shell![WAIT]@He was like, "You're such a loser! You deserve[BREAK]  to crawl around the sea floor without a shell!"[WAIT]@He was so mean and hurtful! He might as well[BREAK]  have just thrown saltwater in my eyes.[END]
-330-34E:
+330-34E:@¡Esas [ENEMYNAME AF 00] son lo peor![BREAK]  ¡Una me ha robado la concha![WAIT]@Me dijo, "¡Menudo parguela! ¡Ahora vas a ir[BREAK]  desnudo por todo el fondo marino!"[WAIT]@¡Qué palabras tan hirientes! C-creo que[BREAK]  me ha entrado agua salada en los ojos.[END]
 330-35:@I'm so cold... I'm so embarrassed...[WAIT]@I'm so cold AND embarrassed...[END]
-330-35E:
+330-35E:@Qué frío... Qué vergüenza...[WAIT]@Siento frío Y vergüenza...[END]
 330-36:@Th-that's my shell![WAIT]  My home![WAIT]@Please! Give it back to me![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-330-36E:
+330-36E:@¡E-esa es mi concha![WAIT]  ¡Mi hogar![WAIT]@¡Por favor! ¡Devuélvemela![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 330-37:@Thank you![WAIT]@I can't give you anything in return, but I do[BREAK]  have some cash, if that's okay with you![WAIT]@How much shall I give you?[WAIT]  [80 FF F0 FF] DP or so?[WAIT]@Please accept it![END]
-330-37E:
+330-37E:@¡Gracias![WAIT]@No tengo nada que darte a cambio, pero,[BREAK]  ¡puedo darte dinero, si te parece bien![WAIT]@¿Cuánto debería darte?[WAIT]  ¿[80 FF F0 FF] PD?[WAIT]@¡Acéptalos, por favor![END]
 330-38:@Thank you so much![END]
-330-38E:
+330-38E:@¡Muchísimas gracias![END]
 330-39:@I appreciate that.[WAIT]@I'll use this opportunity to continue my cold and[BREAK]  embarrassing training for a while more.[END]
-330-39E:
+330-39E:@Gracias de todos modos.[WAIT]@Supongo que aprovecharé para seguir con[BREAK]  mi entrenamiento de frío y vergüenza.[END]
 
 [Container 331]
 331-0:[HOTSPRING 00 00][END]
@@ -13087,7 +13087,7 @@
 331-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 331-31:@...It appears to be out of order.[END]
-331-31E:
+331-31E:@...Parece estar fuera de servicio.[END]
 
 [Container 332]
 332-0:[HOTSPRING 00 00][END]
@@ -13184,90 +13184,90 @@
 332-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 332-31:@Do you like sushi?[WAIT]@It's not my thing.[END]
-332-31E:
+332-31E:@¿Te gusta el sushi?[WAIT]@A mí no me va.[END]
 332-32:@Do you like steak?[WAIT]@I like it more than sushi.[END]
-332-32E:
+332-32E:@¿Te gustan los filetes?[WAIT]@A mí me gustan más que el sushi.[END]
 332-33:@Further ahead is Tanetane Island.[WAIT]@There, you'll find the forbidden...[PAUSE 2E 00][BREAK]  There, you'll find the forbidden...[PAUSE 2E 00][WAIT]  The forbidden... What was it again?[WAIT]@There's a forbidden[PAUSE 1E 00] what-was-it-again there![END]
-332-33E:
+332-33E:@Te estás acercando a la isla Tanetane.[WAIT]@Allí te vas a encontrar...[PAUSE 2E 00][BREAK]  Allí te vas a encontrar...[PAUSE 2E 00][WAIT]  Era algo prohibido... ¿pero el qué?[WAIT]@¡Allí te vas a encontrar[PAUSE 1E 00] un nosequé prohibido![END]
 
 [Container 333]
 333-0:@An intense smell is coming from inside the[BREAK]  box...[END]
-333-0E:
+333-0E:@Un olor intenso emana del interior[BREAK]  de la caja...[END]
 333-1:[END]
-333-1E:
+333-1E:[END]
 
 [Container 334]
 334-0:[END]
-334-0E:
+334-0E:[END]
 334-1:[END]
-334-1E:
+334-1E:[END]
 
 [Container 335]
 335-0:[END]
-335-0E:
+335-0E:[END]
 335-1:[END]
-335-1E:
+335-1E:[END]
 
 [Container 336]
 336-0:@For part-timers, you sure do work hard.[BREAK]  You're really something.[WAIT]@But you should probably get out of this building[BREAK]  as fast as you can.[END]
-336-0E:
+336-0E:@Para ser trabajadores a tiempo parcial,[BREAK]  os estáis esforzando un montón.[WAIT]@Pero creo que deberíais salir de aquí[BREAK]  cuanto antes.[END]
 336-1:@I put some rice balls in the freezer room, but[BREAK]  they wound up frozen solid.[WAIT]@I should've eaten them sooner...[END]
-336-1E:
+336-1E:@He dejado mi almuerzo en la sala frigorífica,[BREAK]  pero se ha congelado.[WAIT]@Tendría que habérmelo comido antes...[END]
 336-2:@The monkey...[BREAK]  It let the red one out of its cage...[WAIT]@We're done for now...[END]
-336-2E:
+336-2E:@El mono...[BREAK]  Ha dejado escapar a esa cosa roja...[WAIT]@Estamos perdidos...[END]
 336-3:@There are lots of boxes here. There's stuff[BREAK]  inside, but who knows what it is...[END]
-336-3E:
+336-3E:@Hay cajas por todas partes.[BREAK]  A saber lo que tienen dentro...[END]
 336-4:@This appears to have been unused for a long[BREAK]  time.[END]
 336-4E:@Tiene pinta de no haber sido usada[BREAK]  en mucho tiempo.[END]
 // Repeats: 110-14, 336-4
 336-5:@It's kind of filthy, and not something you'd[BREAK]  really want to touch.[END]
-336-5E:
+336-5E:@Está bastante sucio, y tampoco es algo[BREAK]  que te gustaría tocar.[END]
 336-6:@There's an elevator here.[WAIT][MENU 02 00][MENUSPACEYES]1F[MENUSPACENO]Don't Ride[BREAK][ENDCHOICES][END]
-336-6E:
+336-6E:@Un ascensor.[WAIT][MENU 02 00][MENUSPACEYES]PB[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 336-7:[END]
-336-7E:
+336-7E:[END]
 
 [Container 337]
 337-0:@"EMERGENCY!" is displayed on the screen.[END]
-337-0E:
+337-0E:@En la pantalla se puede leer "¡EMERGENCIA!".[END]
 337-1:@There are many tools here. Who knows what[BREAK]  they're used for, though.[END]
-337-1E:
+337-1E:@Un montón de herramientas,[BREAK]  pero no sabes para qué sirven.[END]
 
 [Container 340]
 340-0:@Oh, welcome.[WAIT]@Who might you be?[END]
-340-0E:
+340-0E:@Oh, saludos.[WAIT]@¿Quién eres?[END]
 340-1:@Are you the Magypsy who lives on this island?[END]
-340-1E:
+340-1E:@¿Eres la Magipsi que vive en esta isla?[END]
 340-2:@That's right.[WAIT]@I'm Locria, the Magypsy of New Pork Island.[WAIT]@And you are?[END]
-340-2E:
+340-2E:@Así es.[WAIT]@Soy Locria, la Magipsi de la isla Nueva Pork.[WAIT]@¿Y tú eres...?[END]
 340-3:@I'm [KUMATORA 23 04 00], Ionia's apprentice,[BREAK]  and daughter of King Osohe.[END]
-340-3E:
+340-3E:@Soy [KUMATORA 23 04 00], aprendiz de Ionia[BREAK]  e hija del Rey Osohe.[END]
 340-4:@So you're the ones going around pulling all the[BREAK]  Needles, then?[END]
-340-4E:
+340-4E:@¿Sois los responsables de la extracción[BREAK]  de las Agujas?[END]
 340-5:@Yeah.[WAIT]@And the Needle you're guarding here is the last[BREAK]  one left.[END]
-340-5E:
+340-5E:@Eso es.[WAIT]@Y la Aguja que proteges es[BREAK]  la última que queda.[END]
 340-6:@Eeee!![WAIT]@Really?![WAIT]@Oh, my! Whatever is going to happen?![WAIT]@I can't wait to see!![END]
-340-6E:
+340-6E:@¡¡Iiiiih!![WAIT]@¡¿En serio?![WAIT]@¡Cielos! ¡¿Y qué va a pasar si es extraída?![WAIT]@¡¡Qué nervios!![END]
 340-7:@The Dark Dragon's gonna be revived once the[BREAK]  Needle here gets pulled, you know![WAIT]@Do you even understand?![END]
-340-7E:
+340-7E:@¡Cuando la última Aguja sea extraída,[BREAK]  el Dragón oscuro resucitará![WAIT]@¡¿Ni siquiera sabías eso?![END]
 340-8:@Oh, but, that's okay.[WAIT]@What happens to the world is none of my[BREAK]  business.[END]
-340-8E:
+340-8E:@Ah, sin problema.[WAIT]@Me trae sin cuidado lo que le ocurra a[BREAK]  este mundo.[END]
 340-9:@Fine! Then go ahead and ignore everything[BREAK]  without a care in the world![WAIT]@Just don't blame me if something irreversibly[BREAK]  bad happens![END]
-340-9E:
+340-9E:@¡Vale! ¡Sigue adelante sin preocuparte por[BREAK]  el destino del planeta![WAIT]@¡Pero no me eches las culpas a mí si causas[BREAK]  daños irreparables![END]
 340-10:@Locria.[WAIT]@He's not a bad person.[BREAK]  Forgive him.[END]
-340-10E:
+340-10E:@Locria.[WAIT]@No es mala persona.[BREAK]  Perdónale.[END]
 // no idea who's talking at all, and who's being talked about, need that speaker info!
 340-11:@Oh![WAIT]@I'm not offended at all.[WAIT]@But anyways, good luck.[WAIT]  I'm behind you 100%.[END]
-340-11E:
+340-11E:@¡Oh![WAIT]@Si no estoy ofendida.[WAIT]@En fin, buena suerte.[WAIT]  Tenéis todo mi apoyo.[END]
 340-12:@Thanks.[END]
 340-12E:@Gracias.[END]
 // Repeats: 6-9, 233-38, 340-12
 340-13:@Welcome.[WAIT]@Take a quick nap?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-340-13E:
+340-13E:@Saludos.[WAIT]@¿Una siestecita?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 340-14:@It's not good to push yourself too hard, you[BREAK]  know.[END]
-340-14E:
+340-14E:@No se gana nada por esforzarse más de la[BREAK]  cuenta.[END]
 340-15:@Good luck, okay?[WAIT]@I'm behind you 100%.[END]
-340-15E:
+340-15E:@Buena suerte, ¿eh?[WAIT]@Tenéis todo mi apoyo.[END]
 
 [Container 341]
 341-0:@Wahh![WAIT]@I'm pitch black and covered in soot,[PAUSE 20 00] but I'm[BREAK]  alive.[WAIT]@Oh, you're pitch black too, Mr. [FLINT 23 01 00].[WAIT]@Thank you, Mr. Pitch Black [FLINT 23 01 00]![WAIT]@Thank you so so so much,[BREAK]  Mr. Pitch Black [FLINT 23 01 00]![END]
@@ -13304,769 +13304,769 @@
 341-10E:@¡Has conseguido abrir la puerta![END]
 // Repeats: 83-10, 341-10
 341-11:[END]
-341-11E:
+341-11E:[END]
 341-12:@You can't go back now![END]
-341-12E:
+341-12E:@¡No hay vuelta atrás![END]
 341-13:[END]
-341-13E:
+341-13E:[END]
 
 [Container 342]
 342-0:@A fallen support beam is blocking the way![END]
-342-0E:
+342-0E:@¡Una viga está bloqueando el paso![END]
 342-1:@Mr. [FLINT 23 01 00]![END]
-342-1E:
+342-1E:@¡Sr. [FLINT 23 01 00]![END]
 342-2:@You took Fuel into your care![PAUSE A0 00][END]
-342-2E:
+342-2E:@¡Pusiste a salvo a Fuel![PAUSE A0 00][END]
 342-3:[END]
-342-3E:
+342-3E:[END]
 
 [Container 343]
 343-0:@[FLINT 23 01 00]! Don't do it![WAIT]@That won't solve anything![WAIT][PAUSE 40 00]@You'll only make its child go through what[BREAK]  [CLAUS 22 05 00] and [LUCAS 23 02 00] had to![END]
-343-0E:
+343-0E:@¡[FLINT 23 01 00]! ¡No lo hagas![WAIT]@¡Así no vas a solucionar nada![WAIT][PAUSE 40 00]@¡Sólo vas a hacer que su cría pase por lo[BREAK]  mismo que [CLAUS 22 05 00] y [LUCAS 23 02 00]![END]
 343-1:[END]
-343-1E:
+343-1E:[END]
 
 [Container 344]
 344-0:@Authorized personnel only.[END]
-344-0E:
+344-0E:@Sólo personal autorizado.[END]
 344-1:@Now Showing: "Chimera Report"[BREAK]  Sponsored by P-Corp.[END]
-344-1E:
+344-1E:@Cartelera: "Informe Quimera"[BREAK]  Patrocinado por: Corporación P.[END]
 344-2:@Oh, hold on there.[BREAK]@Little boy.[END]
-344-2E:
+344-2E:@Oh, espere.[BREAK]@Señorito.[END]
 344-3:@You need to pay to see that film, so please[BREAK]  purchase your tickets here.[END]
-344-3E:
+344-3E:@Si quiere ver la película, va a tener[BREAK]  que comprar una entrada.[END]
 344-4:@Chimera Report tickets are available here.[WAIT]@It's 10 DP per ticket.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-344-4E:
+344-4E:@¿Quiere entradas para Informe Quimera?[WAIT]@Son 10 PD cada una.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 344-5:@Thank you![WAIT]@Please go through the hallway to the right of[BREAK]  the entrance.[WAIT]@*giggle*[END]
-344-5E:
+344-5E:@¡Gracias![WAIT]@Por favor, siga por el pasillo[BREAK]  que hay a su derecha.[WAIT]@*risita*[END]
 344-6:@Oh, I see.[WAIT]@Well, please come again.[BREAK]@*giggle*[END]
-344-6E:
+344-6E:@Oh, ya veo.[WAIT]@Vuelva pronto.[BREAK]@*risita*[END]
 344-7:@Oh, my.[WAIT]@You don't have enough money.[END]
-344-7E:
+344-7E:@Vaya.[WAIT]@No le llega el dinero.[END]
 344-8:@Thank you for coming![WAIT]@Please visit again sometime![BREAK]@*giggle*[END]
-344-8E:
+344-8E:@¡Gracias por venir![WAIT]@¡Vuelva pronto![BREAK]@*risita*[END]
 344-9:@*click* *whir*[WAIT]@WELCOME.[WAIT]@THE CHIMERA THEATER IS CURRENTLY[BREAK]  CLOSED.[WAIT]@*whir* *click*[END]
-344-9E:
+344-9E:@*clic* *clic*[WAIT]@BIENVENIDOS.[WAIT]@EN ESTOS MOMENTOS, EL CINE QUIMERA[BREAK]  SE ENCUENTRA CERRADO.[WAIT]@*clic* *clic*[END]
 344-10:@*click* *whir*[WAIT]@THANK YOU FOR COMING.[WAIT]@*whir* *click*[END]
-344-10E:
+344-10E:@*clic* *clic*[WAIT]@GRACIAS POR VENIR.[WAIT]@*clic* *clic*[END]
 344-11:@*click* *whir*[WAIT]@I AM BROKEN.[WAIT]  BROKEN.[WAIT]  BROKEN.[WAIT]  YOU DON'T MIND, DO YOU?[WAIT]@*whir* *click*[END]
-344-11E:
+344-11E:@*clic* *clic*[WAIT]@ESTOY AVERIADA.[WAIT]  AVERIADA.[WAIT]  AVERIADA.[WAIT]  NO IMPORTA, ¿VERDAD?[WAIT]@*clic* *clic*[END]
 344-12:@This area is off-limits![WAIT]@And don't you dare try to find some other way[BREAK]  inside![END]
-344-12E:
+344-12E:@¡Prohibido pasar![WAIT]@¡Y ni se os ocurra buscar[BREAK]  otra forma de entrar![END]
 344-13:@Oh! You're...[WAIT]  ...the part-timers who start here today, right?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-344-13E:
+344-13E:@¡Ah! Vosotros sois...[WAIT]  ...los trabajadores que empezaban hoy, ¿no?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 344-14:@Okay, cool.[WAIT]@You can get inside through the back of the[BREAK]  mini-theater.[WAIT]  The mini-theater's to the right of the[BREAK]  entrance, in case you didn't know.[WAIT]@Go in through there and change your clothes.[WAIT]@It's good to have you on board![END]
-344-14E:
+344-14E:@Vale, genial.[WAIT]@Pasad a través de la parte de atrás[BREAK]  del mini-cine.[WAIT]  Podéis acceder al mini-cine por esta[BREAK]  puerta de aquí, por cierto.[WAIT]@Venga, entrad y cambiaos de ropa.[WAIT]@¡Me alegro de teneros aquí![END]
 344-15:@Oh.[WAIT]@Well, it's great that you're so interested in our[BREAK]  company's research,[WAIT]  especially at such a young age.[WAIT]@But please don't go behind the mini-theater's[BREAK]  speakers to get inside the lab.[WAIT]@When someone tells you not to do something,[BREAK]  you're not supposed to do it.[WAIT]@Understand?[END]
-344-15E:
+344-15E:@Oh.[WAIT]@Bueno, es halagador que mostréis interés[BREAK]  por nuestra investigación,[WAIT]  sobre todo siendo tan jóvenes.[WAIT]@Pero por favor, no os coléis en el laboratorio[BREAK]  a través del mini-cine.[WAIT]@Cuando alguien os dice que no hagáis algo,[BREAK]  es que no hay que hacerlo.[WAIT]@¿Entendido?[END]
 344-16:@These shutters will close in the case of an[BREAK]  emergency.[END]
-344-16E:
+344-16E:@Estas puertas se cerrarán[BREAK]  en caso de emergencia.[END]
 344-17:@Hey, you guys![WAIT]@Where do you think you're going?![BREAK]  You're on the job![END]
-344-17E:
+344-17E:@¡Eh, vosotros![WAIT]@¡¿A dónde creéis que vais?![BREAK]  ¡Tenéis trabajo![END]
 344-18:@I have some special medicine here, not sold in[BREAK]  any vending machines.[WAIT]  Could I interest you in some?[END]
-344-18E:
+344-18E:@Vendo fármacos especiales que nunca[BREAK]  vas a ver en ningún otro lugar.[WAIT]  ¿Te interesa?[END]
 344-19:@Cheapskate.[END]
-344-19E:
+344-19E:@Pesetero.[END]
 344-20:@Heh heh.[WAIT]@If you ever need anything else, I'm your man.[END]
-344-20E:
+344-20E:@Jejeje.[WAIT]@Si necesitas algo más, soy tu hombre.[END]
 344-21:[END]
-344-21E:
+344-21E:[END]
 
 [Container 345]
 345-0:@Check out what's playing in the theater?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-345-0E:
+345-0E:@¿Quieres mirar qué ponen en el cine?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 345-1:@Oh, my! Are you here to see the film?[WAIT]@Just a moment, then. It'll begin shortly.[END]
-345-1E:
+345-1E:@¡Oh! ¿Han venido a ver la película?[WAIT]@Esperen, empezará ahora mismo.[END]
 345-2:@Oh, my![WAIT]@...The video equipment seems to be broken.[END]
-345-2E:
+345-2E:@¡Oh![WAIT]@...El equipo de vídeo parece estar averiado.[END]
 345-3:@I'm very sorry.[WAIT]@The rest of today's showings are cancelled.[END]
-345-3E:
+345-3E:@Lo siento mucho.[WAIT]@Los demás pases de hoy quedan cancelados.[END]
 345-4:@Thank you.[WAIT]  Please visit again.[END]
-345-4E:
+345-4E:@Gracias.[WAIT]  Vuelvan pronto.[END]
 345-5:[END]
-345-5E:
+345-5E:[END]
 
 [Container 346]
 346-0:@Even in the bathroom [NOTE][BREAK]  I can save [NOTE][WAIT]@I really suggest you save your game here.[WAIT]@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-346-0E:
+346-0E:@Incluso en el bañooo [NOTE][BREAK]  Puedes guardaaar [NOTE][WAIT]@Yo que tú guardaría la partida aquí.[WAIT]@*hop*[BREAK]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 346-1:@For frogs inside bathrooms, the sky is[BREAK]  rectangular and small.[WAIT]@But no saving for you, huh?[WAIT]@Well, if you ever change your mind, just let me[BREAK]  know.[END]
-346-1E:
+346-1E:@Para una rana en el interior de un lavabo,[BREAK]  el cielo es rectangular y pequeño.[WAIT]@¿No quieres guardar?[WAIT]@Bueno, vuelve por aquí si cambias de opinión,[BREAK]  ¿vale?[END]
 346-2:[END]
-346-2E:
+346-2E:[END]
 346-3:[END]
-346-3E:
+346-3E:[END]
 346-4:[END]
-346-4E:
+346-4E:[END]
 346-5:[END]
-346-5E:
+346-5E:[END]
 
 [Container 347]
 347-0:@There are pig masks in here.[WAIT]  Put them on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-347-0E:
+347-0E:@Máscaras de puercareto.[WAIT]  ¿Quieres ponértelas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 347-1:@This locker is empty.[END]
-347-1E:
+347-1E:@Una taquilla vacía.[END]
 // Repeats: 347-1, 357-27
 347-2:@A bunch of yucky laundry is inside here.[END]
-347-2E:
+347-2E:@Dentro hay un montón de ropa apestosa.[END]
 // Repeats: 347-2, 357-26
 347-3:[END]
-347-3E:
+347-3E:[END]
 
 [Container 348]
 348-0:[END]
-348-0E:
+348-0E:[END]
 348-1:[END]
-348-1E:
+348-1E:[END]
 
 [Container 349]
 349-0:@A bunch of filthy cloth has been placed in here.[END]
-349-0E:
+349-0E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 349-1:@There's nothing in here.[END]
-349-1E:
+349-1E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 349-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-349-2E:
+349-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 349-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-349-3E:
+349-3E:@Aaay...[WAIT]@Esa cosa roja se va a quedar frente a la puerta[BREAK]  si te entra el pánico...[WAIT]@Pero seguro que puedes aprovecharte[BREAK]  de eso para tenderle una trampa.[WAIT]@¡Qué listo soy![WAIT]@¡No puedo creer lo listo que soy![WAIT]@Aaay.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 349-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-349-4E:
+349-4E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 349-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-349-5E:
+349-5E:@¡Hay un gran botón en su espalda![WAIT]@¡Tienes que pulsarlo![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 349-6:@Come, now![BREAK]@Be courageous![END]
-349-6E:
+349-6E:@¡Vamos![BREAK]@¡Sé valiente![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 349-7:@Use the dog as bait![END]
-349-7E:
+349-7E:@¡Usa al perro de cebo![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 349-8:@Oh...[END]
-349-8E:
+349-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 349-9:@Thank you, lad.[BREAK]  And monkey.[END]
-349-9E:
+349-9E:@Gracias, jovencito.[BREAK]  Gracias, mono.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 349-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-349-10E:
+349-10E:@Creo que ya va siendo hora de abandonar[BREAK]  las ciencias bélicas[WAIT]  y dedicar mi vida a hacer del mundo[BREAK]  un lugar mejor.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 349-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-349-11E:
+349-11E:@Oh...[WAIT]@¿Te gusta mi idea?[WAIT]@¡Gracias, perrito![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 349-12:@I- I'm sorry![END]
-349-12E:
+349-12E:@¡P-perdón![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 349-13:@I was merely joking about the bait thing![END]
-349-13E:
+349-13E:@¡Lo de usarte como cebo era broma![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 349-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-349-14E:
+349-14E:@¡Ha sido un malentendido![BREAK]  ¡¡Una confusión!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 349-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-349-15E:
+349-15E:@¡[SALSA 22 12 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 
 [Container 350]
 350-0:@A Memo About the Kind of Chimeras I Want[WAIT]  - Ones that don't eat much![WAIT]  - Ones as nice and loving as they are cool![WAIT]  - Ones with a decent flavor and scent![WAIT]  - Ones that won't cry at night![WAIT]  - Ones that make a good bodyguard![WAIT]  - Ones with a great coat of fur![WAIT]  - Ones that don't chew with their mouth open![WAIT]  - Ones with poop that doesn't stink much![WAIT]  - Ones that are warmhearted![WAIT]  - Ones that aren't oversensitive![END]
-350-0E:
+350-0E:@Los tipos de quimera que quiero tener:[WAIT]  - ¡Unas que coman poco![WAIT]  - ¡Unas que sean monas pero molonas![WAIT]  - ¡Unas de buen olor y sabor![WAIT]  - ¡Unas que no lloren de noche![WAIT]  - ¡Unas que sirvan de guardaespaldas![WAIT]  - ¡Unas que sean peludas![WAIT]  - ¡Unas que no coman con la boca abierta![WAIT]  - ¡Unas a las que no les huela la caca![WAIT]  - ¡Unas que sean cariñosas![WAIT]  - ¡Unas que no sean hipersensibles![END]
 350-1:@[ENEMYNAME 7B 00][WAIT]@10,000,000 DP[END]
-350-1E:
+350-1E:@[ENEMYNAME 7B 00][WAIT]@10 000 000 PD[END]
 350-2:@[ENEMYNAME 78 00][WAIT]@8,000,000 DP[END]
-350-2E:
+350-2E:@[ENEMYNAME 78 00][WAIT]@8 000 000 PD[END]
 350-3:@[ENEMYNAME 70 00][WAIT]@12,500,000 DP[END]
-350-3E:
+350-3E:@[ENEMYNAME 70 00][WAIT]@12 500 000 PD[END]
 350-4:@[ENEMYNAME 1B 00][WAIT]@SOLD OUT[END]
-350-4E:
+350-4E:@[ENEMYNAME 1B 00][WAIT]@VENDIDO[END]
 350-5:@I just remembered this Chimera's weakness,[BREAK]  so I mustered up the courage to come here.[END]
-350-5E:
+350-5E:@He recordado del punto débil de esta Quimera[BREAK]  y he reunido todo mi valor para venir aquí.[END]
 350-6:@This is a high-tech, battery-operated Chimera.[WAIT]@In other words, if we set the power switch on[BREAK]  its back to "OFF", it will stop![END]
-350-6E:
+350-6E:@Esta moderna quimera funciona con batería.[WAIT]@En otras palabras, si ponemos su interruptor[BREAK]  en "OFF", ¡dejará de moverse![END]
 350-7:[END]
-350-7E:
+350-7E:[END]
 350-8:[END]
-350-8E:
+350-8E:[END]
 350-9:[END]
-350-9E:
+350-9E:[END]
 350-10:[END]
-350-10E:
+350-10E:[END]
 350-11:[END]
-350-11E:
+350-11E:[END]
 350-12:[END]
-350-12E:
+350-12E:[END]
 350-13:[END]
-350-13E:
+350-13E:[END]
 350-14:[END]
-350-14E:
+350-14E:[END]
 350-15:[END]
-350-15E:
+350-15E:[END]
 350-16:[END]
-350-16E:
+350-16E:[END]
 350-17:[END]
-350-17E:
+350-17E:[END]
 350-18:[END]
-350-18E:
+350-18E:[END]
 350-19:[END]
-350-19E:
+350-19E:[END]
 350-20:[END]
-350-20E:
+350-20E:[END]
 350-21:[END]
-350-21E:
+350-21E:[END]
 350-22:[END]
-350-22E:
+350-22E:[END]
 350-23:[END]
-350-23E:
+350-23E:[END]
 350-24:[END]
-350-24E:
+350-24E:[END]
 350-25:[END]
-350-25E:
+350-25E:[END]
 
 [Container 351]
 351-0:@S-stop!! Stay away!![WAIT]@This is my hiding spot![END]
-351-0E:
+351-0E:@¡¡N-no!! ¡¡Vete!![WAIT]@¡Este es mi escondite![END]
 351-1:@An image of an odd creature you've never[BREAK]  seen before is being displayed on the screen.[END]
-351-1E:
+351-1E:@La pantalla muestra una imagen de[BREAK]  una extraña criatura que jamás habías visto.[END]
 351-2:@There are lots of graphs here, but there's no[BREAK]  telling what they mean.[END]
-351-2E:
+351-2E:@Esto está lleno de gráficas, pero ignoras[BREAK]  lo que representan.[END]
 351-3:@The creature in this photograph?[WAIT]@This is a being known as a "Mr. Saturn".[WAIT]@Apparently.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] Ahem.[PAUSE 10 00][WAIT]  [ALTERNATEFONT]they talk like this.[EVENT][END]
-351-3E:
+351-3E:@¿La criatura de esta fotografía?[WAIT]@Es un ser conocido como "Mr. Saturn".[WAIT]@Al parecer.[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00] Ejem.[PAUSE 10 00][WAIT]  [ALTERNATEFONT]hablan asi.[EVENT][END]
 351-4:@According to recent research, they appear to[BREAK]  live on the far eastern edge of the highway,[WAIT]  in a village they constructed for themselves.[END]
-351-4E:
+351-4E:@Recientes investigaciones han desvelado[BREAK]  que habitan en el extremo este de la autopista,[WAIT]  en un pueblo que ellos mismos construyeron.[END]
 351-5:@Supposedly, there's a village of Mr. Saturns on[BREAK]  the far eastern edge of the highway.[WAIT]@A Pork Bean would probably be the quickest[BREAK]  way to get there.[END]
-351-5E:
+351-5E:@Al parecer, hay un poblado Mr. Saturn[BREAK]  en el extremo este de la autopista.[WAIT]@Una Vaina porcina sería la forma[BREAK]  más rápida de llegar allí.[END]
 
 [Container 352]
 352-0:@Instructions are written on the whiteboard.[WAIT]@"Emergency Measures"[WAIT]@"Should the Ultimate Chimera escape from its[BREAK]  cage, seal all entrances and exits immediately.[WAIT]@In the unlikely event that it gets outside,[WAIT]  use full force[PAUSE 3E 00] to feign ignorance and pretend[BREAK]  nothing happened.[WAIT]@In the event that the Ultimate Chimera is seen[BREAK]  by civilians," ............[WAIT]@The rest has been erased and is unreadable.[END]
-352-0E:
+352-0E:@Hay instrucciones escritas en la pizarra.[WAIT]@"Medidas de emergencia"[WAIT]@"Si la Quimera refinitiva escapase de su jaula,[BREAK]  han de sellarse todas las entradas y salidas.[WAIT]@En el improbable caso de que salga al exterior,[WAIT]  pongan todo su empeño[PAUSE 3E 00] en fingir[BREAK]  que aquí no ha pasado nada.[WAIT]@Si la Quimera refinitiva entra en contacto[BREAK]  con civiles," ............[WAIT]@El resto está borrado y es ilegible.[END]
 352-1:@These lab coats have been neatly cleaned.[END]
-352-1E:
+352-1E:@Estas batas de laboratorio están impolutas.[END]
 352-2:@There are many documents in here.[END]
-352-2E:
+352-2E:@Documentos de todo tipo.[END]
 352-3:[END]
-352-3E:
+352-3E:[END]
 
 [Container 353]
 353-0:@Various chemicals are lined up here.[END]
-353-0E:
+353-0E:@Diversos compuestos químicos.[END]
 // Repeats: 353-0, 362-0
 353-1:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-353-1E:
+353-1E:@Eso de arriba parece ser algún tipo[BREAK]  de compuesto, pero está muy alto.[END]
 // Repeats: 353-1, 353-3, 362-1
 353-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-353-2E:
+353-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 353-3:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-353-3E:
+353-3E:@Eso de arriba parece ser algún tipo[BREAK]  de compuesto, pero está muy alto.[END]
 // Repeats: 353-1, 353-3, 362-1
 353-4:@This appears to be an operating table for[BREAK]  animals.[END]
-353-4E:
+353-4E:@Parece una mesa de operaciones[BREAK]  para animales.[END]
 353-5:@Everything is neatly organized here.[END]
-353-5E:
+353-5E:@Todo está organizado cuidadosamente.[END]
 353-6:@I don't know anything about it breaking out of[BREAK]  the lab![WAIT]@I haven't seen anything![WAIT]@I don't know anything![END]
-353-6E:
+353-6E:@¡No sé nada de ninguna criatura que se[BREAK]  haya fugado del laboratorio![WAIT]@¡No he visto nada![WAIT]@¡No sé nada![END]
 353-7:[END]
-353-7E:
+353-7E:[END]
 
 [Container 354]
 354-0:@A bunch of filthy cloth has been placed in here.[END]
-354-0E:
+354-0E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 354-1:@There's nothing in here.[END]
-354-1E:
+354-1E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 354-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-354-2E:
+354-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 354-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-354-3E:
+354-3E:@Aaay...[WAIT]@Esa cosa roja se va a quedar frente a la puerta[BREAK]  si te entra el pánico...[WAIT]@Pero seguro que puedes aprovecharte[BREAK]  de eso para tenderle una trampa.[WAIT]@¡Qué listo soy![WAIT]@¡No puedo creer lo listo que soy![WAIT]@Aaay.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 354-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-354-4E:
+354-4E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 354-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-354-5E:
+354-5E:@¡Hay un gran botón en su espalda![WAIT]@¡Tienes que pulsarlo![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 354-6:@Come, now![BREAK]@Be courageous![END]
-354-6E:
+354-6E:@¡Vamos![BREAK]@¡Sé valiente![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 354-7:@Use the dog as bait![END]
-354-7E:
+354-7E:@¡Usa al perro de cebo![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 354-8:@Oh...[END]
-354-8E:
+354-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 354-9:@Thank you, lad.[BREAK]  And monkey.[END]
-354-9E:
+354-9E:@Gracias, jovencito.[BREAK]  Gracias, mono.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 354-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-354-10E:
+354-10E:@Creo que ya va siendo hora de abandonar[BREAK]  las ciencias bélicas[WAIT]  y dedicar mi vida a hacer del mundo[BREAK]  un lugar mejor.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 354-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-354-11E:
+354-11E:@Oh...[WAIT]@¿Te gusta mi idea?[WAIT]@¡Gracias, perrito![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 354-12:@I- I'm sorry![END]
-354-12E:
+354-12E:@¡P-perdón![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 354-13:@I was merely joking about the bait thing![END]
-354-13E:
+354-13E:@¡Lo de usarte como cebo era broma![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 354-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-354-14E:
+354-14E:@¡Ha sido un malentendido![BREAK]  ¡¡Una confusión!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 354-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-354-15E:
+354-15E:@¡[SALSA 22 12 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 354-16:@There's an elevator here.[WAIT][MENU 02 00][MENUSPACEYES]B1[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-354-16E:
+354-16E:@Un ascensor.[WAIT][MENU 02 00][MENUSPACEYES]S1[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 354-17:@This operating table is so big that even a[BREAK]  Drago could fit on it.[END]
-354-17E:
+354-17E:@Incluso un Drago cabría en semejante[BREAK]  mesa de operaciones.[END]
 354-18:@A robotic arm.[END]
-354-18E:
+354-18E:@Un brazo mecánico.[END]
 354-19:@There are so many huge machines lined up here[WAIT]  that it almost seems more like a construction[BREAK]  site than an operating room.[END]
-354-19E:
+354-19E:@Con toda esta maquinaria, cualquiera diría[WAIT]  que esto parece más una obra que una sala[BREAK]  de operaciones.[END]
 354-20:@Various tools are lined up here.[END]
-354-20E:
+354-20E:@Herramientas de todo tipo.[END]
 354-21:@Everything past here is top secret.[END]
-354-21E:
+354-21E:@Todo lo que ves aquí es alto secreto.[END]
 354-22:@Haven't seen any monkeys come through here.[BREAK]  Have you checked the second floor?[END]
-354-22E:
+354-22E:@No he visto pasar a ningún mono por aquí.[BREAK]  ¿Has mirado en la primera planta?[END]
 354-23:@Monkeys?[WAIT]@Yeah, some ran through this door, actually.[END]
-354-23E:
+354-23E:@¿Monos?[WAIT]@Sí, acabo de verlos pasar por aquí.[END]
 354-24:@...Why didn't I run after them, you ask?[END]
-354-24E:
+354-24E:@...¿Que por qué no los he detenido, dices?[END]
 354-25:@...Ow...[BREAK]  Oww, oww...[WAIT]@M-my stomach, it pains me so.[WAIT]@Yeah, that Ultimate Chimera or Kimura or[BREAK]  whatever it's called....[WAIT]@I'd make quick work of it,[PAUSE 30 00] if only it weren't for[BREAK]  my aching stomach...[END]
-354-25E:
+354-25E:@...Ay...[BREAK]  Aaay, aaay...[WAIT]@M-mi estómago, qué dolor.[WAIT]@Sí, esa Tempura refinitiva[BREAK]  o como narices se llame....[WAIT]@Me encargaría de ella,[PAUSE 30 00] si no fuese[BREAK]  por este dolor de estómago...[END]
 354-26:@Like they say, you can't fight on an aching[BREAK]  stomach.[WAIT]@So I leave the rest to you! See ya![END]
-354-26E:
+354-26E:@No se puede pelear cuando se tiene[BREAK]  dolor de estómago.[WAIT]@¡Lo dejo todo en tus manos! ¡Adiós![END]
 354-27:@I opened that door, and it was standing like[BREAK]  RIGHT THERE.[WAIT]@Oh, man. This is too much for me to handle...[WAIT]@If that red one's out there, I'm just gonna[BREAK]  have to wait it out in the freezer room...[END]
-354-27E:
+354-27E:@Fui a abrir la puerta y esa cosa estaba ahí,[BREAK]  MIRÁNDOME.[WAIT]@Oh, tío. No soporto esta presión...[WAIT]@Mientras siga ahí, voy a tener que esconderme[BREAK]  en la sala frigorífica...[END]
 354-28:@Wait, that elevator goes to the basement?[WAIT]@Huh?[WAIT]@Then... what room is this again?[END]
-354-28E:
+354-28E:@Espera, ¿ese ascensor va al sótano?[WAIT]@Entonces...[WAIT]@¿En qué habitación estoy?[END]
 354-29:[END]
-354-29E:
+354-29E:[END]
 
 [Container 355]
 355-0:@This Drago has been frozen and encased in ice.[END]
-355-0E:
+355-0E:@Este Drago está congelado.[END]
 355-1:@It's covered in frost.[WAIT]@There seems to be an animal encased in ice in[BREAK]  here.[END]
-355-1E:
+355-1E:@Un bloque de hielo.[WAIT]@Parece haber un animal atrapado[BREAK]  en su interior.[END]
 355-2:@It's so covered in frost that you can't see[BREAK]  what's inside.[END]
-355-2E:
+355-2E:@La escarcha no te permite ver[BREAK]  lo que hay en su interior.[END]
 355-3:@Frigid air is blowing ceaselessly from this[BREAK]  machine.[WAIT]@It's so cold that someone could probably[BREAK]  freeze in here.[END]
-355-3E:
+355-3E:@Del interior de esta máquina[BREAK]  sale un aire gélido.[WAIT]@Es tan frío que podrías acabar congelado[BREAK]  en cuestión de minutos.[END]
 355-4:@The doors on this cabinet are frozen shut.[END]
-355-4E:
+355-4E:@Las puertas están congeladas y no se abren.[END]
 355-5:[END]
-355-5E:
+355-5E:[END]
 
 [Container 356]
 356-0:@You found a very old magazine.[WAIT]@Read it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-356-0E:
+356-0E:@Una revista del año de la pera.[WAIT]@¿Quieres leerla?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 356-1:@"My Secret Life,[PAUSE 20 00] chapter three."[WAIT]  (Story from the previous chapter.)[WAIT]@I was neither a murder suspect, nor a target[BREAK]  for an international spy organization.[WAIT]@But I drove a car down the Jersey Turnpike at[BREAK]  80 mph.[WAIT]@...A police officer pulled me over and asked for[BREAK]  my driver's license.[WAIT]@He said I was going 20 mph over the speed[BREAK]  limit.[WAIT]@I instantly pointed to my wife and said,[BREAK]  "I'm in a hurry,[PAUSE 20 00] my wife is in labor."[WAIT]@Fortunately,[PAUSE 20 00] my wife actually had a big[BREAK]  stomach.[WAIT]@I hoped he'd let me go with this excuse.[WAIT]@"Oh,[PAUSE 20 00] since it's an emergency.[WAIT]@I'll lead you to the hospital with my police car,"[PAUSE 20 00][BREAK]  he said.[WAIT]@"No,[PAUSE 20 00] it's not necessary."[PAUSE 24 00][BREAK]  "Why not?"[PAUSE 20 00] asked the officer.[WAIT]@"Uh...[PAUSE 20 00] well..."[PAUSE 2E 00][BREAK]  "Let's get going,"[PAUSE 20 00] said the officer...[WAIT]@<No,[PAUSE 20 00] no![PAUSE 20 00]  We can't![PAUSE 20 00][BREAK]  This baby is a demon child!"[END]
-356-1E:
+356-1E:@"Mi vida secreta,[PAUSE 20 00] capítulo 3."[WAIT]  (Resumen de lo ocurrido.)[WAIT]@No era sospechoso de asesinato, ni tampoco[BREAK]  objetivo de espías internacionales.[WAIT]@Pero iba a 130 km/h por la A-2,[BREAK]  dirección Madrid.[WAIT]@...Un oficial de policía me detuvo[BREAK]  y me pidió los papeles.[WAIT]@Había superado el límite de velocidad[BREAK]  en 30 km/h.[WAIT]@Instintivamente, señalé a mi mujer y dije,[BREAK]  "Es urgente,[PAUSE 20 00] mi mujer va a dar a luz."[WAIT]@Por suerte,[PAUSE 20 00] mi mujer tenía una barriga[BREAK]  prominente por aquel entonces.[WAIT]@Pensaba que nos dejaría ir con esa excusa.[WAIT]@"Oh,[PAUSE 20 00] ya que es una urgencia...[WAIT]@...les llevaré al hospital en mi coche",[PAUSE 20 00][BREAK]  me dijo amablemente.[WAIT]@"No,[PAUSE 20 00] no hace falta."[PAUSE 24 00][BREAK]  "¿Por qué no?",[PAUSE 20 00] me preguntó.[WAIT]@"Bueno...[PAUSE 20 00] verá..."[PAUSE 2E 00][BREAK]  "Vamos",[PAUSE 20 00] dijo el policía...[WAIT]@<¡No,[PAUSE 20 00] no![PAUSE 20 00]  ¡No podemos![PAUSE 20 00][BREAK]  Este bebé... ¡es el Anticristo!"[END]
 356-2:@Good.[WAIT]@That may be the best choice.[END]
-356-2E:
+356-2E:@Sí...[WAIT]@Seguramente sea lo mejor.[END]
 356-3:@There's an old book here, titled[BREAK]  "Overcoming Shyness".[END]
-356-3E:
+356-3E:@Un viejo libro titulado[BREAK]  "Cómo superar la timidez".[END]
 356-4:@This box is filled with brand-new syringes and[BREAK]  the like.[END]
-356-4E:
+356-4E:@Una caja llena de jeringuillas[BREAK]  y cosas por el estilo.[END]
 356-5:@There are lots of hard-to-understand books[BREAK]  lined up here.[END]
-356-5E:
+356-5E:@Una estantería repleta de libros[BREAK]  de temática compleja.[END]
 356-6:@Some animal food is sitting here.[WAIT]@Chimera-Chow[BREAK]  "Chimeras Go Straight For It!"[END]
-356-6E:
+356-6E:@Parece comida para animales.[WAIT]@Quimera-Chups[BREAK]  "¡El favorito de las quimeras!"[END]
 356-7:@There are various documents in here.[END]
-356-7E:
+356-7E:@Documentos de todo tipo.[END]
 
 [Container 357]
 357-0:@A bunch of filthy cloth has been placed in here.[END]
-357-0E:
+357-0E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 357-1:@There's nothing in here.[END]
-357-1E:
+357-1E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 357-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-357-2E:
+357-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 357-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-357-3E:
+357-3E:@Aaay...[WAIT]@Esa cosa roja se va a quedar frente a la puerta[BREAK]  si te entra el pánico...[WAIT]@Pero seguro que puedes aprovecharte[BREAK]  de eso para tenderle una trampa.[WAIT]@¡Qué listo soy![WAIT]@¡No puedo creer lo listo que soy![WAIT]@Aaay.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 357-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-357-4E:
+357-4E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 357-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-357-5E:
+357-5E:@¡Hay un gran botón en su espalda![WAIT]@¡Tienes que pulsarlo![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 357-6:@Come, now![BREAK]@Be courageous![END]
-357-6E:
+357-6E:@¡Vamos![BREAK]@¡Sé valiente![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 357-7:@Use the dog as bait![END]
-357-7E:
+357-7E:@¡Usa al perro de cebo![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 357-8:@Oh...[END]
-357-8E:
+357-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 357-9:@Thank you, lad.[BREAK]  And monkey.[END]
-357-9E:
+357-9E:@Gracias, jovencito.[BREAK]  Gracias, mono.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 357-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-357-10E:
+357-10E:@Creo que ya va siendo hora de abandonar[BREAK]  las ciencias bélicas[WAIT]  y dedicar mi vida a hacer del mundo[BREAK]  un lugar mejor.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 357-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-357-11E:
+357-11E:@Oh...[WAIT]@¿Te gusta mi idea?[WAIT]@¡Gracias, perrito![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 357-12:@I- I'm sorry![END]
-357-12E:
+357-12E:@¡P-perdón![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 357-13:@I was merely joking about the bait thing![END]
-357-13E:
+357-13E:@¡Lo de usarte como cebo era broma![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 357-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-357-14E:
+357-14E:@¡Ha sido un malentendido![BREAK]  ¡¡Una confusión!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 357-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-357-15E:
+357-15E:@¡[SALSA 22 12 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 357-16:@I can't believe I got assigned to this post...[END]
-357-16E:
+357-16E:@¿Por qué tenían que destinarme aquí?[END]
 357-17:@I should've had one of those extra rice balls[BREAK]  this morning...[END]
-357-17E:
+357-17E:@Definitivamente, debería haberme comido[BREAK]  una de esas bolas de arroz...[END]
 357-18:@I was no match at all...[END]
-357-18E:
+357-18E:@No he podido hacer nada...[END]
 357-19:@When that red one's in the hallway, you gotta[BREAK]  hide in an elevator or room until it passes...[WAIT]@I knew all about that, and yet...[BREAK]@...Man, I'm so stupid![WAIT]  Stupid! Stupid! Stupid![WAIT]@Oww.[END]
-357-19E:
+357-19E:@Cuando esa cosa se pasea por los pasillos,[BREAK]  lo mejor es esconderse hasta que se vaya...[WAIT]@¿Por qué no me he escondido?[BREAK]@¡Seré idiota![WAIT]  ¡Idiota! ¡Idiota! ¡Idiota![WAIT]@Aaay.[END]
 357-20:@Let's see...[WAIT]  The next room over is the[PAUSE 24 00] specimen room.[WAIT]@And then... And then... And then...[BREAK]  Those stairs there[PAUSE 24 00] take you to the first floor...[WAIT]@And then... there's an elevator[PAUSE 24 00] in that room[BREAK]  over there, with the door open[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. I think?[WAIT]@Huh??[WAIT]@Now I'm all confused again...[WAIT]@But I think that's probably right.[WAIT]@Should I repeat all that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-357-20E:
+357-20E:@Veamos...[WAIT]  Eso de ahí es[PAUSE 24 00] la sala de especímenes.[WAIT]@Veamos... Veamos... Veamos...[BREAK]  Esas escaleras de ahí[PAUSE 24 00] van a la planta baja...[WAIT]@Veamos... en esa sala de ahí[PAUSE 24 00][BREAK]  hay un ascensor[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. creo...[WAIT]@Mmm...[WAIT]@Lo demás lo tengo borroso...[WAIT]@Pero sí, creo que era así.[WAIT]@¿Quieres que te lo repita?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 357-20, 357-21
 357-21:@Let's see...[WAIT]  The next room over is the[PAUSE 24 00] specimen room.[WAIT]@And then... And then... And then...[BREAK]  Those stairs there[PAUSE 24 00] take you to the first floor...[WAIT]@And then... there's an elevator[PAUSE 24 00] in that room[BREAK]  over there, with the door open[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. I think?[WAIT]@Huh??[WAIT]@Now I'm all confused again...[WAIT]@But I think that's probably right.[WAIT]@Should I repeat all that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-357-21E:
+357-21E:@Veamos...[WAIT]  Eso de ahí es[PAUSE 24 00] la sala de especímenes.[WAIT]@Veamos... Veamos... Veamos...[BREAK]  Esas escaleras de ahí[PAUSE 24 00] van a la planta baja...[WAIT]@Veamos... en esa sala de ahí[PAUSE 24 00][BREAK]  hay un ascensor[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. creo...[WAIT]@Mmm...[WAIT]@Lo demás lo tengo borroso...[WAIT]@Pero sí, creo que era así.[WAIT]@¿Quieres que te lo repita?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 357-20, 357-21
 357-22:@Alright, here goes![PAUSE 3C 00][EVENT][END]
-357-22E:
+357-22E:@¡Bien, allá va![PAUSE 3C 00][EVENT][END]
 357-23:@What a relief![END]
-357-23E:
+357-23E:@¡Qué alivio![END]
 357-24:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-357-24E:
+357-24E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 357-25:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-357-25E:
+357-25E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]PB[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 357-25, 364-0
 357-26:@A bunch of yucky laundry is inside here.[END]
-357-26E:
+357-26E:@Dentro hay un montón de ropa apestosa.[END]
 // Repeats: 347-2, 357-26
 357-27:@This locker is empty.[END]
-357-27E:
+357-27E:@Una taquilla vacía.[END]
 // Repeats: 347-1, 357-27
 
 [Container 358]
 358-0:@Books about mammals and such.[END]
-358-0E:
+358-0E:@Libros sobre mamíferos.[END]
 358-1:@"Ultimate Chimera Report"[WAIT]  Removal of this report from laboratory[BREAK]  premises is forbidden.[END]
-358-1E:
+358-1E:@"Informe de la Quimera refinitiva"[WAIT]  Está prohibido sacar este informe[BREAK]  del laboratorio.[END]
 358-2:@Books not about mammals.[END]
-358-2E:
+358-2E:@Libros sobre no-mamíferos.[END]
 358-3:@I found this really old magazine in the storage[BREAK]  room earlier.[WAIT]@Who the heck put it there, I wonder...[END]
-358-3E:
+358-3E:@Me he encontrado esta vieja revista[BREAK]  en el almacén.[WAIT]@Me pregunto quién narices la ha dejado ahí...[END]
 
 [Container 359]
 359-0:@I'm all ticked off 'cause the part-timers[BREAK]  who're supposed to come today are late.[WAIT]@You're in the way, so go on, get outta here.[WAIT]@And don't you even dare think about checking[BREAK]  inside the lockers[WAIT]  and putting on any pig masks you find.[END]
-359-0E:
+359-0E:@Estos trabajadores a tiempo parcial...[BREAK]  ¿cómo pueden llegar tarde el primer día?[WAIT]@Eh, vosotros. Fuera de aquí, que estorbáis.[WAIT]@Y nada de trastear con el contenido[BREAK]  de las taquillas[WAIT]  o disfrazarse con uniformes ajenos.[END]
 359-1:[END]
-359-1E:
+359-1E:[END]
 
 [Container 360]
 360-0:@A bunch of filthy cloth has been placed in here.[END]
-360-0E:
+360-0E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 360-1:@There's nothing in here.[END]
-360-1E:
+360-1E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 360-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-360-2E:
+360-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 360-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-360-3E:
+360-3E:@Aaay...[WAIT]@Esa cosa roja se va a quedar frente a la puerta[BREAK]  si te entra el pánico...[WAIT]@Pero seguro que puedes aprovecharte[BREAK]  de eso para tenderle una trampa.[WAIT]@¡Qué listo soy![WAIT]@¡No puedo creer lo listo que soy![WAIT]@Aaay.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 360-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-360-4E:
+360-4E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 360-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-360-5E:
+360-5E:@¡Hay un gran botón en su espalda![WAIT]@¡Tienes que pulsarlo![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 360-6:@Come, now![BREAK]@Be courageous![END]
-360-6E:
+360-6E:@¡Vamos![BREAK]@¡Sé valiente![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 360-7:@Use the dog as bait![END]
-360-7E:
+360-7E:@¡Usa al perro de cebo![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 360-8:@Oh...[END]
-360-8E:
+360-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 360-9:@Thank you, lad.[BREAK]  And monkey.[END]
-360-9E:
+360-9E:@Gracias, jovencito.[BREAK]  Gracias, mono.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 360-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-360-10E:
+360-10E:@Creo que ya va siendo hora de abandonar[BREAK]  las ciencias bélicas[WAIT]  y dedicar mi vida a hacer del mundo[BREAK]  un lugar mejor.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 360-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-360-11E:
+360-11E:@Oh...[WAIT]@¿Te gusta mi idea?[WAIT]@¡Gracias, perrito![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 360-12:@I- I'm sorry![END]
-360-12E:
+360-12E:@¡P-perdón![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 360-13:@I was merely joking about the bait thing![END]
-360-13E:
+360-13E:@¡Lo de usarte como cebo era broma![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 360-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-360-14E:
+360-14E:@¡Ha sido un malentendido![BREAK]  ¡¡Una confusión!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 360-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-360-15E:
+360-15E:@¡[SALSA 22 12 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 360-16:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
-360-16E:
+360-16E:@Qué oportuno.[WAIT]@Sois los nuevos, ¿no?[BREAK]@¡Pues poneos a buscar![WAIT]@¡Hay unos monos a la fuga![END]
 // Repeats: 360-16, 361-0
 360-17:@I was just about to go home for today, but[BREAK]  now I hafta look for some stupid monkeys...[WAIT]@They are SO gonna get reconstructed if I get[BREAK]  my hands on 'em![END]
-360-17E:
+360-17E:@Ya tendría que estar en casa, pero me[BREAK]  han ordenado buscar a unos monos...[WAIT]@¡Como los pille, van a saber lo que es ser[BREAK]  REMODELADOS![END]
 360-18:@Oink...[END]
-360-18E:
+360-18E:@Oink...[END]
 360-19:@Okay, here's the plan. I escape into a room[BREAK]  when the red one is waiting outside.[WAIT]@But if he's already standing in front of the[BREAK]  room I wanna go in,[WAIT]  I make a mad dash for the next room over[BREAK]  instead.[WAIT]@...Brilliant![WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-360-19E:
+360-19E:@Vale, este es el plan. Mientras esa cosa esté[BREAK]  fuer yo me oculto en una habitación.[WAIT]@Pero si se encuentra frente a la puerta[BREAK]  que quiero cruzar,[WAIT]  echo a correr como un loco hacia la siguiente.[WAIT]@...¡Brillante![WAIT]@¡Qué listo soy![WAIT]@¡Hay que ver lo listo que soy![WAIT]@Aaay.[END]
 360-20:@There's a slot for money here.[WAIT]@Insert 150 DP?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-360-20E:
+360-20E:@Una ranura para meter dinero.[WAIT]@¿Quieres insertar 150 PD?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 322-14, 360-20
 360-21:@A [ITEM 61 00] came out![END]
-360-21E:
+360-21E:@¡Del interior salió un [ITEM 61 00]![END]
 // Repeats: 322-15, 360-21
 360-22:@You can't hold any more items.[END]
-360-22E:
+360-22E:@No puedes llevar más objetos.[END]
 // Repeats: 322-16, 360-22
 360-23:@You don't have enough money.[END]
 360-23E:@No tienes suficiente dinero.[END]
 // Repeats: 0-229, 322-17, 360-23
 360-24:@Sounds like things have quieted down now.[WAIT]@Do you think they caught it?[END]
-360-24E:
+360-24E:@Parece que las cosas se han calmado.[WAIT]@¿Habrán logrado capturarla?[END]
 360-25:@I realize that Dr. Andonuts is awesomely[BREAK]  awesome,[WAIT]  but what exactly did he create that Ultimate[BREAK]  Chimera for, I wonder?[WAIT][PAUSE 2E 00]@Art?[END]
-360-25E:
+360-25E:@Entiendo que el Dr. Andonuts sea[BREAK]  literalmente la repera y tal,[WAIT]  pero, ¿con qué fin crearía[BREAK]  esa Quimera refinitiva?[WAIT][PAUSE 2E 00]@¿Arte?[END]
 
 [Container 361]
 361-0:@Perfect timing.[WAIT]@You guys are part-timers, right?[BREAK]@Then get looking, too![WAIT]@Some monkeys've gone missing![END]
-361-0E:
+361-0E:@Qué oportuno.[WAIT]@Sois los nuevos, ¿no?[BREAK]@¡Pues poneos a buscar![WAIT]@¡Hay unos monos a la fuga![END]
 // Repeats: 360-16, 361-0
 361-1:@They should be hiding somewhere in the lab.[WAIT]@There's two of 'em! Scour every last inch of[BREAK]  the place![END]
-361-1E:
+361-1E:@Tienen que estar por aquí, en algún lugar.[WAIT]@¡Son dos![BREAK]  ¡Registrad hasta el último rincón![END]
 
 [Container 362]
 362-0:@Various chemicals are lined up here.[END]
-362-0E:
+362-0E:@Diversos compuestos químicos.[END]
 // Repeats: 353-0, 362-0
 362-1:@There appears to be a special kind of chemical[BREAK]  up above, but it's out of reach.[END]
-362-1E:
+362-1E:@Eso de arriba parece ser algún tipo[BREAK]  de compuesto, pero está muy alto.[END]
 // Repeats: 353-1, 353-3, 362-1
 
 [Container 363]
 363-0:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
-363-0E:
+363-0E:@Una máquina muy grande.[BREAK]  ¿Cuál será su función?[END]
 363-1:@A giant hippopotamus Chimera has been placed[BREAK]  here.[END]
-363-1E:
+363-1E:@Una gigantesca quimera hipopótamo.[END]
 363-2:@This here Chimera is, I believe, my best yet:[WAIT]  The Hippo-Launcher![WAIT]@Not even you guys could stand up to it.[END]
-363-2E:
+363-2E:@Esta es mi mejor creación hasta la fecha:[WAIT]  ¡la Hipolanzadera![WAIT]@Ni siquiera vosotros podríais con ella.[END]
 363-3:[END]
-363-3E:
+363-3E:[END]
 
 [Container 364]
 364-0:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-364-0E:
+364-0E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]PB[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 357-25, 364-0
 364-1:@*squawk* *squawk*![BREAK]  I'm not stuffed![WAIT]@I'm alive![PAUSE 1E 00] I'm plenty alive, dagnabbit![END]
-364-1E:
+364-1E:@¡*croaa* *croaa*![BREAK]  ¡No estoy disecada![WAIT]@¡Estoy viva![PAUSE 1E 00] ¡Vivita y coleando, cagondié![END]
 // Repeats: 126-10, 364-1
 364-2:@All kinds of mathematical formulas have been[BREAK]  scribbled here.[END]
-364-2E:
+364-2E:@Alguien ha escrito un montón[BREAK]  de fórmulas matemáticas.[END]
 364-3:@Various experimentation tools are lined up[BREAK]  here.[END]
-364-3E:
+364-3E:@Parecen ser herramientas de investigación.[END]
 364-4:@Various things are lined up in confusion here.[END]
-364-4E:
+364-4E:@Un batiburrillo de objetos de toda clase.[END]
 364-5:@There's a large machine here.[BREAK]  What it's used for is anyone's guess.[END]
-364-5E:
+364-5E:@Una máquina muy grande.[BREAK]  ¿Cuál será su función?[END]
 
 [Container 365]
 365-0:[END]
-365-0E:
+365-0E:[END]
 365-1:@(*hop*[BREAK]  Save your game?)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-365-1E:
+365-1E:@(*hop*[BREAK]  ¿Quieres guardar la partida?)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 365-2:@(Even when stuffed, a frog is still a frog.)[END]
-365-2E:
+365-2E:@(Disecada o no, una rana es una rana.)[END]
 365-3:@Some sort of competition trophy has been[BREAK]  placed here as decoration.[WAIT]@"Runner-up"[END]
-365-3E:
+365-3E:@Este esqueleto parece ser el trofeo[BREAK]  de alguna clase de concurso.[WAIT]@Pone: "Subcampeón"[END]
 365-4:@A skull of a young Drago.[END]
-365-4E:
+365-4E:@El cráneo de un Drago.[END]
 365-5:@Some bones. Who knows.[END]
-365-5E:
+365-5E:@Pues eso... huesos.[END]
 365-6:@Mouse bones.[END]
-365-6E:
+365-6E:@Huesos de ratón.[END]
 365-7:@Miscellaneous bones.[END]
-365-7E:
+365-7E:@Huesos variados.[END]
 365-8:@Various bones.[END]
-365-8E:
+365-8E:@Huesos...[END]
 365-9:@A full [ENEMYNAME 6F 00] skeleton.[END]
-365-9E:
+365-9E:@Un esqueleto de [ENEMYNAME 6F 00].[END]
 365-10:@A full [ENEMYNAME 78 00] skeleton.[END]
-365-10E:
+365-10E:@Un esqueleto de [ENEMYNAME 78 00].[END]
 365-11:@A full [ENEMYNAME 61 00] skeleton.[END]
-365-11E:
+365-11E:@Un esqueleto de [ENEMYNAME 61 00].[END]
 365-12:@A full Dragosaurus skeleton.[END]
-365-12E:
+365-12E:@Un esqueleto de Dragosaurio.[END]
 365-13:@Look out!![END]
-365-13E:
+365-13E:@¡¡Cuidado!![END]
 365-14:@Are you okay, cute part-timer?![END]
-365-14E:
+365-14E:@¡¿Estás bien, novato?![END]
 365-15:@How many are left?[END]
-365-15E:
+365-15E:@¿Cuántas quedan?[END]
 365-16:@Just the one now.[END]
-365-16E:
+365-16E:@Solamente "esa".[END]
 365-17:@"The" one...?[WAIT]@You mean the red one with the huge mouth...?[END]
-365-17E:
+365-17E:@¿"Esa"...?[WAIT]@¿La de color rojo con la boca enorme...?[END]
 365-18:@...Yeah.[END]
-365-18E:
+365-18E:@...Sí.[END]
 365-19:@That thing means serious trouble.[END]
-365-19E:
+365-19E:@La cosa va a ponerse fea, entonces.[END]
 365-20:@Just standing here won't solve anything.[WAIT]@For now, let's hurry and seal the exits.[END]
-365-20E:
+365-20E:@Quedarnos aquí de pie no va a solucionar nada.[WAIT]@¡Deprisa, hay que sellar todas las salidas![END]
 365-21:@Watch yourselves, guys![END]
-365-21E:
+365-21E:@¡Tened cuidado, chicos![END]
 365-22:@Hey, cute part-timer.[WAIT]@There's actually one more that's still lurking[BREAK]  around here somewhere...[WAIT]@One that's WAY more dangerous than that one[BREAK]  just now...[END]
-365-22E:
+365-22E:@Ey, novato.[WAIT]@Una de esas cosas sigue suelta[BREAK]  y nadie sabe por dónde anda...[WAIT]@Y es MUCHO más peligrosa que[BREAK]  la que te acaba de atacar...[END]
 365-23:@If, while looking for the monkeys, you happen[BREAK]  to see a red thing with a gigantic mouth...[WAIT]  ...GET[PAUSE 20 00] THE HECK[PAUSE 20 00] OUT[PAUSE 20 00] OF[PAUSE 20 00] THERE![PAUSE 40 00][END]
-365-23E:
+365-23E:@Si, mientras buscas a los monos, te topas[BREAK]  a una cosa roja con la boca enorme...[WAIT]  ...[PAUSE 20 00] ¡SAL[PAUSE 20 00] DE[PAUSE 20 00] AHÍ[PAUSE 20 00] PITANDO![PAUSE 40 00][END]
 365-24:@Listen. Pay close attention, now...[WAIT]@If you run into a red,[PAUSE 0C 00] huge-mouthed[PAUSE 0C 00] Chimera,[WAIT]  do absolutely[PAUSE 20 00] NOTHING[PAUSE 20 00] to it.[PAUSE 40 00][WAIT]@Got that?[WAIT][PAUSE 20 00]@I've warned you.[PAUSE 40 00][WAIT]@And, while I'm warning you like this,[WAIT]  I should add that it'd be even more dangerous[BREAK]  not to take the time out to talk with that frog.[END]
-365-24E:
+365-24E:@En serio. No te lo tomes a broma...[WAIT]@Si ves una quimera[PAUSE 0C 00] roja[PAUSE 0C 00] con la boca enorme,[WAIT]  ni se te ocurra[PAUSE 20 00] ACERCARTE[PAUSE 20 00] a ella.[PAUSE 40 00][WAIT]@¿Entendido?[WAIT][PAUSE 20 00]@Quedas avisado.[PAUSE 40 00][WAIT]@Y debo añadir,[WAIT]  que sería muy irresponsable por tu parte[BREAK]  no ir a hablar con una rana cuanto antes.[END]
 365-25:@All right! Be careful, now![END]
-365-25E:
+365-25E:@¡Eso es todo! ¡Ve con ojo![END]
 365-26:@Here, you can have this medicine.[WAIT]@It's the latest stuff.[WAIT]@All these medicines have such similar names[BREAK]  that I mix them up all the time.[END]
-365-26E:
+365-26E:@Ten, llévate este medicamento.[WAIT]@Es lo último en medicinas.[WAIT]@Todos estos mejunjes tienen unos nombres[BREAK]  tan parecidos que siempre los confundo.[END]
 365-27:@Wha...?[BREAK]@Looks like you can't hold any more stuff.[END]
-365-27E:
+365-27E:@¿Eh...?[BREAK]@Parece que no tienes sitio para esto.[END]
 365-28:@I've been stuck inside the lab and out of[BREAK]  natural sunlight for so long[WAIT]  that I think it's starting to affect my health.[WAIT]@Actually, I think you guys could use some[BREAK]  sunlight and fresh air, too.[END]
-365-28E:
+365-28E:@Llevo tanto tiempo aquí enclaustrado[BREAK]  y sin exposición a la luz solar,[WAIT]  que creo que me está pasando factura.[WAIT]@A vosotros tampoco os vendría nada mal[BREAK]  algo de sol y aire fresco.[END]
 365-29:@Regular Route[RIGHT][BREAK]  (But, you know, do whatever you want.)[END]
-365-29E:
+365-29E:@Ruta habitual[RIGHT][BREAK]  (Pero vamos, ve por donde quieras.)[END]
 
 [Container 366]
 366-0:@There are many unidentifiable objects here, all[BREAK]  preserved in formaldehyde.[END]
-366-0E:
+366-0E:@Diversos objetos no identificados,[BREAK]  conservados en formaldehído.[END]
 366-1:@Full bodies of animals large and small are being[BREAK]  preserved in chemicals.[END]
-366-1E:
+366-1E:@Animales de todo tipo, conservados[BREAK]  en sustancias químicas.[END]
 366-2:@You get the feeling that staying in here for too[BREAK]  long will make you lose your appetite.[END]
-366-2E:
+366-2E:@Algo te dice que, si sigues aquí mucho tiempo,[BREAK]  vas a acabar perdiendo el apetito.[END]
 366-3:@Everyone in [42 FF 00 00]'s party lost their[BREAK]  appetite.[END]
-366-3E:
+366-3E:@[42 FF 00 00] y compañía[BREAK]  han perdido el apetito.[END]
 366-4:@I know this is my job, but I really don't want to[BREAK]  stay in here for too long...[WAIT]@*bleeergh*[BREAK]@I lost my appetite again...[END]
-366-4E:
+366-4E:@Sé que es mi trabajo, pero no quiero[BREAK]  estar aquí ni un minuto más...[WAIT]@*puaaaj*[BREAK]@Ya he vuelto a perder el apetito...[END]
 366-5:@I dunno what my partner's deal is. This place[BREAK]  doesn't bother me at all.[WAIT]@In fact, I even come in here to eat sometimes.[END]
-366-5E:
+366-5E:@Este tío es un tiquismiquis.[BREAK]  No veo qué tiene de malo este sitio.[WAIT]@Yo a veces vengo a comer aquí y todo.[END]
 
 [Container 367]
 367-0:@[ENEMYNAME F0 FF].[END]
-367-0E:
+367-0E:@[ENEMYNAME F0 FF].[END]
 367-1:[END]
-367-1E:
+367-1E:[END]
 
 [Container 368]
 368-0:@Brain specimens of various animals are stored[BREAK]  here.[END]
-368-0E:
+368-0E:@Toda una colección de cerebros de animales.[END]
 368-1:@The nervous systems of various animals are[BREAK]  being preserved in chemicals here.[END]
-368-1E:
+368-1E:@Entrañas de diversos animales, conservadas[BREAK]  en sustancias químicas.[END]
 
 [Container 369]
 369-0:@A bunch of filthy cloth has been placed in here.[END]
-369-0E:
+369-0E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 369-1:@There's nothing in here.[END]
-369-1E:
+369-1E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 369-2:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]2F[MENUSPACENO]3F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-369-2E:
+369-2E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]P1[MENUSPACENO]P2[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 349-2, 353-2, 354-2, 357-2, 360-2, 369-2
 369-3:@Oww...[WAIT]@That red one'll stand right outside the room if[BREAK]  you start to panic...[WAIT]@But I bet you could lure it into a trap if you[BREAK]  used that to your advantage.[WAIT]@I'm so smart![WAIT]@I can't believe how smart I am![WAIT]@Oww.[END]
-369-3E:
+369-3E:@Aaay...[WAIT]@Esa cosa roja se va a quedar frente a la puerta[BREAK]  si te entra el pánico...[WAIT]@Pero seguro que puedes aprovecharte[BREAK]  de eso para tenderle una trampa.[WAIT]@¡Qué listo soy![WAIT]@¡No puedo creer lo listo que soy![WAIT]@Aaay.[END]
 // Repeats: 349-3, 354-3, 357-3, 360-3, 369-3
 369-4:@Let's see...[WAIT]@The exit is to the south... I think?[WAIT]@And there's an elevator in this room...[WAIT]@And to the west is the... oppressing room...?[BREAK]  Opportunity room...?[WAIT]  Opening room...?[PAUSE 2E 00][BREAK]  You know, the room where they do surgery.[WAIT]@Actually, come to think of it, those monkeys[BREAK]  fled into the basement earlier...[WAIT]  But how DO you get to the basement?[END]
-369-4E:
+369-4E:@Vamos a ver...[WAIT]@La salida está al sur... ¿así era?[WAIT]@En esta sala hay un ascensor...[WAIT]@Y al oeste está... ¿la sala de opresiones...?[BREAK]  ¿La sala de oportunidades...?[WAIT]  ¿La sala de opuestos...?[PAUSE 2E 00][BREAK]  Ya sabes, esa sala en la que hacen cirugía.[WAIT]@Ahora que caigo, esos monos han huido[BREAK]  al sótano hace un rato...[WAIT]  ¿Pero CÓMO se llega al sótano?[END]
 // Repeats: 349-4, 354-4, 357-4, 357-24, 360-4, 369-4
 369-5:@There's a large button on its back![WAIT]@You need to press it![EVENT][END]
-369-5E:
+369-5E:@¡Hay un gran botón en su espalda![WAIT]@¡Tienes que pulsarlo![EVENT][END]
 // Repeats: 349-5, 354-5, 357-5, 360-5, 369-5
 369-6:@Come, now![BREAK]@Be courageous![END]
-369-6E:
+369-6E:@¡Vamos![BREAK]@¡Sé valiente![END]
 // Repeats: 349-6, 354-6, 357-6, 360-6, 369-6
 369-7:@Use the dog as bait![END]
-369-7E:
+369-7E:@¡Usa al perro de cebo![END]
 // Repeats: 349-7, 354-7, 357-7, 360-7, 369-7
 369-8:@Oh...[END]
-369-8E:
+369-8E:@Oh...[END]
 // Repeats: 349-8, 354-8, 357-8, 360-8, 369-8
 369-9:@Thank you, lad.[BREAK]  And monkey.[END]
-369-9E:
+369-9E:@Gracias, jovencito.[BREAK]  Gracias, mono.[END]
 // Repeats: 349-9, 354-9, 357-9, 360-9, 369-9
 369-10:@I think I'll use this opportunity to leave the[BREAK]  military[WAIT]  and devote my life to making all living things[BREAK]  happy.[END]
-369-10E:
+369-10E:@Creo que ya va siendo hora de abandonar[BREAK]  las ciencias bélicas[WAIT]  y dedicar mi vida a hacer del mundo[BREAK]  un lugar mejor.[END]
 // Repeats: 349-10, 354-10, 357-10, 360-10, 369-10
 369-11:@Oh...[WAIT]@You agree with my idea?[WAIT]@Thank you, dog![END]
-369-11E:
+369-11E:@Oh...[WAIT]@¿Te gusta mi idea?[WAIT]@¡Gracias, perrito![END]
 // Repeats: 349-11, 354-11, 357-11, 360-11, 369-11
 369-12:@I- I'm sorry![END]
-369-12E:
+369-12E:@¡P-perdón![END]
 // Repeats: 349-12, 354-12, 357-12, 360-12, 369-12
 369-13:@I was merely joking about the bait thing![END]
-369-13E:
+369-13E:@¡Lo de usarte como cebo era broma![END]
 // Repeats: 349-13, 354-13, 357-13, 360-13, 369-13
 369-14:@It's a simple misunderstanding![BREAK]  You have it all wrong!![END]
-369-14E:
+369-14E:@¡Ha sido un malentendido![BREAK]  ¡¡Una confusión!![END]
 // Repeats: 349-14, 354-14, 357-14, 360-14, 369-14
 369-15:@[SALSA 22 12 00] joined your party![PAUSE 68 01][END]
-369-15E:
+369-15E:@¡[SALSA 22 12 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 349-15, 354-15, 357-15, 360-15, 369-15
 369-16:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-369-16E:
+369-16E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]PB[MENUSPACENO]P1[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 369-16, 370-1
 369-17:[END]
-369-17E:
+369-17E:[END]
 
 [Container 370]
 370-0:@Up ahead is a monster that could even make[BREAK]  quick work of a skilled security guard like me.[WAIT]@In one sense, I guess you could say he's...[BREAK]  Giygas-y.[WAIT]@He's dangerous, so you can't go inside.[END]
-370-0E:
+370-0E:@Ni siquiera un soldado tan fuerte como yo[BREAK]  podría con ese monstruo de ahí dentro.[WAIT]@¿Cómo describirlo? Es absolutamente...[BREAK]  Giygásico.[WAIT]@No puedo dejarte entrar, sería peligrosísimo.[END]
 370-1:@There's an elevator here.[WAIT][MENU 03 00][MENUSPACEYES]1F[MENUSPACENO]2F[MENUSPACENO]Don't use[BREAK][ENDCHOICES][END]
-370-1E:
+370-1E:@Un ascensor.[WAIT][MENU 03 00][MENUSPACEYES]PB[MENUSPACENO]P1[MENUSPACENO]No subir[BREAK][ENDCHOICES][END]
 // Repeats: 369-16, 370-1
 370-2:@There's nothing in here.[END]
-370-2E:
+370-2E:@Aquí no hay nada.[END]
 // Repeats: 349-1, 354-1, 357-1, 360-1, 369-1, 370-2
 370-3:@A bunch of filthy cloth has been placed in here.[END]
-370-3E:
+370-3E:@Alguien ha dejado su ropa sucia aquí.[END]
 // Repeats: 349-0, 354-0, 357-0, 360-0, 369-0, 370-3
 
 [Container 371]
 371-0:@It appears to be broken.[END]
-371-0E:
+371-0E:@Parece estar roto.[END]
 371-1:@It's broken.[END]
-371-1E:
+371-1E:@Está roto.[END]
 371-2:@This recharge device seems to be broken.[WAIT]@Oh, but please don't worry. I'll manage[BREAK]  somehow.[END]
-371-2E:
+371-2E:@Este dispositivo de recarga parece estar roto.[WAIT]@Oh, no se preocupe.[BREAK]  Voy a ver si puedo hacer algo.[END]
 371-3:@Whew...[WAIT]@I tried to fix this recharge device myself...[WAIT]@But it was just too formidable a foe...[END]
-371-3E:
+371-3E:@Fiuuu...[WAIT]@He intentado reparar el dispositivo yo solo...[WAIT]@Pero es un enemigo formidable...[END]
 371-4:@Greetings, Commander.[WAIT]@Our Pork Bean ran out of power, you see,[BREAK]  and...[WAIT]@Yes? A garbage truck?[WAIT]@Oh, one just headed north from here.[END]
-371-4E:
+371-4E:@Saludos, comandante.[WAIT]@Verá, nuestra vaina se ha quedado[BREAK]  sin energía y...[WAIT]@¿Eh? ¿Un camión?[WAIT]@Sí, acabo de ver uno. Iba hacia el norte.[END]
 371-5:@He said, "I'll kick this stupid thing 'til it works!"[BREAK]  and then he broke the recharge device...[END]
-371-5E:
+371-5E:@Dijo: "¡Le voy a dar patadas hasta que vaya!".[BREAK]  Al final, se cargó el dispositivo de recarga...[END]
 371-6:@This Pork Bean is out of power.[END]
-371-6E:
+371-6E:@Se ha quedado sin energía.[END]
 371-7:@Problem here.[END]
-371-7E:
+371-7E:@Problemas.[END]
 371-8:@West: To Death Desert[BREAK]  North: To Garbage Dump[END]
-371-8E:
+371-8E:@Oeste: Desierto de la muerte[BREAK]  Norte: Vertedero[END]
 371-9:@Pork Beans...[WAIT]@Be sure to use them efficiently![END]
-371-9E:
+371-9E:@Vainas porcinas...[WAIT]@¡Úsalas de manera eficiente![END]
 371-10:@Pork Bean Recharge Station[END]
 371-10E:@Estación de recarga de Vainas[END]
 // Repeats: 61-23, 371-10, 474-3
@@ -14074,9 +14074,9 @@
 371-11E:@Una luz roja.[END]
 // Repeats: 61-9, 371-11, 474-19
 371-12:@I AM A BROKEN ROBOT.[WAIT]@I HAVE FORGOTTEN WHY I AM BROKEN,[BREAK]  THOUGH...[WAIT]@YOU CERTAINLY HAVE A LOT OF FREE TIME[BREAK]  TO BE TALKING TO SOMETHING LIKE ME.[WAIT][PAUSE 5A 00]@SORRY! SORRY![BREAK]  IT WAS RUDE OF ME TO SAY THAT.[END]
-371-12E:
+371-12E:@SOY UN ROBOT AVERIADO.[WAIT]@AUNQUE HE OLVIDADO[BREAK]  CÓMO HE ACABADO ASÍ...[WAIT]@DEBES DE TENER MUCHO TIEMPO LIBRE[BREAK]  PARA HABLAR CON ALGUIEN COMO YO.[WAIT][PAUSE 5A 00]@¡PERDÓN! ¡PERDÓN![BREAK]  ESO HA SIDO MUY BORDE DE MI PARTE.[END]
 371-13:[END]
-371-13E:
+371-13E:[END]
 
 [Container 373]
 373-0:[HOTSPRING 00 00][END]
@@ -14173,7 +14173,7 @@
 373-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 373-31:[END]
-373-31E:
+373-31E:[END]
 
 [Container 374]
 374-0:[HOTSPRING 00 00][END]
@@ -14270,7 +14270,7 @@
 374-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 374-31:[END]
-374-31E:
+374-31E:[END]
 
 [Container 375]
 375-0:[HOTSPRING 00 00][END]
@@ -14367,7 +14367,7 @@
 375-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 375-31:[END]
-375-31E:
+375-31E:[END]
 
 [Container 376]
 376-0:[HOTSPRING 00 00][END]
@@ -14464,7 +14464,7 @@
 376-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 376-31:[END]
-376-31E:
+376-31E:[END]
 
 [Container 377]
 377-0:[HOTSPRING 00 00][END]
@@ -14561,7 +14561,7 @@
 377-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 377-31:[END]
-377-31E:
+377-31E:[END]
 
 [Container 378]
 378-0:[HOTSPRING 00 00][END]
@@ -14658,11 +14658,11 @@
 378-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 378-31:@I may not look like it, but I'm not a starfish.[WAIT]@I used to be a shining star in the night sky.[WAIT]@Long, long ago, I fell into the ocean as a[BREAK]  shooting star.[WAIT]@Do you believe me?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-378-31E:
+378-31E:@Lo creas o no, pero no soy una estrella de mar.[WAIT]@Solía brillar allí arriba, en el firmamento.[WAIT]@Hace mucho, mucho tiempo, caí al mar[BREAK]  como una estrella fugaz.[WAIT]@¿Me crees?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 378-32:@Are you serious?[END]
-378-32E:
+378-32E:@¿De verdad?[END]
 378-33:@It's okay if you don't believe me.[WAIT]@Because the truth is inside me.[END]
-378-33E:
+378-33E:@No pasa nada si no me crees.[WAIT]@Porque la verdad está en mi interior.[END]
 
 [Container 379]
 379-0:[HOTSPRING 00 00][END]
@@ -14759,278 +14759,278 @@
 379-30E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
 379-31:@Moo.[WAIT]  (I am a sea cow.[WAIT]  The star on my forehead is my most charming[BREAK]  feature.[WAIT]  I know it's crowded in here,[WAIT]  but please warm yourself up with some nice,[BREAK]  warm Royal Milk Tea.)[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-379-31E:
+379-31E:@Muu.[WAIT]  (Soy una vaca marina.[WAIT]  La estrella de mi frente es mi característica[BREAK]  más encantadora.[WAIT]  Sé que esto es muy angosto,[WAIT]  pero prueba un poco de este delicioso Té[BREAK]  de leche real.)[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 379-32:@Moo.[WAIT]  (Oh. Do you not like it freshly-squeezed?)[END]
-379-32E:
+379-32E:@Muu.[WAIT]  (¿No te gusta? Es leche recién ordeñada.)[END]
 379-33:@Moo.[BREAK]  (Oh, my. Are you leaving already?)[END]
-379-33E:
+379-33E:@Muu.[BREAK]  (Oh, mecachis. ¿Ya te vas?)[END]
 
 [Container 380]
 380-0:@Yeah, here we go.[BREAK]@The hole looked just like this.[EVENT][END]
-380-0E:
+380-0E:@Sí, vamos bien.[BREAK]@Era un agujero como este.[EVENT][END]
 380-1:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]But.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
-380-1E:
+380-1E:@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Pero.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 20 00][END]
 380-2:@Were there this many last time.[PAUSE 0C 00].[PAUSE 0C 00].?[PAUSE 20 00][END]
-380-2E:
+380-2E:@¿Había tantos la última vez.[PAUSE 0C 00].[PAUSE 0C 00].?[PAUSE 20 00][END]
 380-3:@Oh, well. One of them's gotta be the right one.[WAIT]@Let's just jump down them at random.[END]
-380-3E:
+380-3E:@Bueno, da igual. Tiene que ser uno de estos.[WAIT]@Saltemos por cualquiera de ellos.[END]
 380-4:@Whole Lotta Holes[WAIT]@Expected Completion Date:[BREAK]  Spring 2006[END]
-380-4E:
+380-4E:@Agujeros a gogó[WAIT]@Fin de obra estimado:[BREAK]  Primavera de 2006[END]
 380-5:@Yeah... This is it.[END]
-380-5E:
+380-5E:@Sí... Aquí es.[END]
 380-6:@I hid the egg inside that mud figure.[END]
-380-6E:
+380-6E:@He escondido el huevo dentro de esa cosa.[END]
 380-7:@Yes![WAIT]@It's still here![END]
-380-7E:
+380-7E:@¡Bien![WAIT]@¡Aún está aquí![END]
 380-8:@[DUSTER 23 03 00]! Are you okay?![END]
-380-8E:
+380-8E:@¡[DUSTER 23 03 00]! ¡¿Estás bien?![END]
 380-9:@Yeah...[PAUSE 20 00][WAIT]@I-[PAUSE 20 00] I'm fine...[WAIT]@Was that lightning just now?![WAIT]@Whew, that was close...![END]
-380-9E:
+380-9E:@Sí...[PAUSE 20 00][WAIT]@E-[PAUSE 20 00]Estoy bien...[WAIT]@¡¿Qué ha sido ese rayo?![WAIT]@Fiuuu... ¡Ha estado cerca![END]
 380-10:@It took off with the egg![END]
-380-10E:
+380-10E:@¡Se marcha con el huevo![END]
 380-11:@We gotta go after it![END]
-380-11E:
+380-11E:@¡Hay que ir tras él![END]
 380-12:@This area is off-limits so we can conduct[BREAK]  repairs on Thunder Tower![WAIT]@Give some consideration to our needs too,[BREAK]  won't ya?![END]
 380-12E:@¡Esta zona ha sido acordonada porque[BREAK]  estamos reparando la torre![WAIT]@¡A veces hay que pensar un poco[BREAK]  en las necesidades de los demás![END]
 // Repeats: 58-1, 380-12
 380-13:[END]
-380-13E:
+380-13E:[END]
 
 [Container 381]
 381-0:@*dig* *dig* *dig* *dig*[WAIT]@Boy, digging holes is so much fun![WAIT]@It's also tiring![BREAK]  But it's so much fun![WAIT]@May the ground everywhere become a hole![END]
-381-0E:
+381-0E:@*cava* *cava* *cava* *cava*[WAIT]@¡Qué divertido es esto de cavar![WAIT]@¡Y qué agotador![BREAK]  ¡Agotador, pero divertido![WAIT]@¡A cavar! ¡A cavar agujeros sin parar![END]
 381-1:@Dig, dig, dig dig, dig-dig-dig-dig.[WAIT]@Are you folks lost?[PAUSE 2E 00] You are, aren't you?[WAIT]@This hole is so much greater than it was three[BREAK]  years ago. It's incredible, actually![WAIT]@So it's only natural for people to get lost in[BREAK]  here.[WAIT]  Hahahahaha![WAIT]@But, yeah, everyone's workin' so hard.[WAIT]@This hole's gonna get more and more complex![WAIT]@May the ground everywhere become a[BREAK]  complex hole![END]
-381-1E:
+381-1E:@Cava, cava, cava, cava-cava.[WAIT]@¿Os habéis perdido?[PAUSE 2E 00] ¿Es eso?[WAIT]@Llevamos tres años ampliando este agujero.[BREAK]  ¡Ahora es inmenso, enorme![WAIT]@No es de extrañar que la gente[BREAK]  se pierda en él.[WAIT]  ¡Jajajajaja![WAIT]@Todos se están esforzando mucho.[WAIT]@¡Haremos este agujero aún más complejo![WAIT]@¡A cavar! ¡A cavar agujeros complejos[BREAK]  sin parar![END]
 381-2:@*dig* *dig* *dig* *dig*[WAIT]@Whew. I'm gonna take a break.[WAIT]@Hey, let's play a game. Try to guess the word[BREAK]  I'm thinking of, okay?[WAIT]@I'm thinking of a word[PAUSE 20 00] that starts with an "m"[BREAK]  and rhymes with "hole".[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Wait, that's too easy![WAIT]@Okay, let's do a do-over, then.[WAIT]@The new word I'm thinking of[PAUSE 20 00] starts with an[BREAK]  "h" and rhymes with "mole".[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Okay, never mind. I'm not very good at this[BREAK]  game.[WAIT]@Break time's over! Time to get back to work![WAIT]@*dig* *dig*[END]
-381-2E:
+381-2E:@*cava* *cava* *cava*[WAIT]@Fiuuu, necesito un descanso.[WAIT]@Ey, juguemos a un juego. Adivina en qué[BREAK]  palabra estoy pensando.[WAIT]@Estoy pensando en una palabra[PAUSE 20 00] que[BREAK]  empieza por "t" y acaba con "opo".[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]¡Espera, eso es muy fácil![WAIT]@Vale, empecemos de nuevo.[WAIT]@Estoy pensando en una palabra[PAUSE 20 00] que[BREAK]  empieza por "top" y acaba con "o".[WAIT]@.[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00]Olvídalo[BREAK]  Nunca he sido bueno en esto.[WAIT]@¡Se acabó el descanso! ¡A seguir trabajando![WAIT]@*cava* *cava*[END]
 381-3:@*dig* *dig* *dig* *dig*[WAIT]@Once upon a time, there was a lazy mole who[BREAK]  lived in a hole.[WAIT]@This mole would never, ever dig on his own.[WAIT]  Instead, he would stand by holes that others[BREAK]  dug and say, "*dig* *dig* *dig* *dig*."[WAIT][PAUSE 60 00]@What happened to that mole, you ask?[WAIT]@No, uhh, I don't know this story very well.[WAIT][PAUSE 60 00]@Oh, now I remember![WAIT]@Let's see...[BREAK]  And he lived happily ever after.[END]
-381-3E:
+381-3E:@*cava* *cava* *cava*[WAIT]@Hace mucho, mucho tiempo, había un topo[BREAK]  de lo más vago.[WAIT]@Tan vago era, que no cavaba agujeros.[WAIT]  En lugar de eso, se ponía junto a los de los[BREAK]  demás y decía, "*cava* *cava* *cava*."[WAIT][PAUSE 60 00]@¿Que qué fue de ese topo?[WAIT]@Eeh, pues a ver que haga memoria...[WAIT][PAUSE 60 00]@¡Ay, ya me acuerdo![WAIT]@Veamos...[BREAK]  "Y vivió feliz por siempre jamás".[END]
 381-4:@*lazy* *lazy*[WAIT]@I dunno, I don't see why it's so important to fill[BREAK]  the ground with holes.[WAIT]@Why can't the ground just stay as ground, and[BREAK]  holes stay as holes?[WAIT]@I think ground and holes can exist side-by-side.[WAIT]@That's why I'm not digging and saying,[BREAK]  "*dig* *dig* *dig*" constantly.[WAIT]@*lazy* *lazy*[END]
-381-4E:
+381-4E:@*vaguea* *vaguea*[WAIT]@No sé, no entiendo por qué es tan importante[BREAK]  esto de cavar agujeros.[WAIT]@¿Por qué no dejamos que el suelo sea suelo[BREAK]  y los agujeros, agujeros?[WAIT]@Una convivencia agujesuelil es posible.[WAIT]@Por eso prefiero no cavar y decir,[BREAK]  "*cava* *cava* *cava*" todo el rato.[WAIT]@*vaguea* *vaguea*[END]
 381-5:@Dig, dig, dig dig, dig-dig-dig-dig.[WAIT]@What's the weather like outside?[WAIT]@Eh? Sunny?[BREAK]  What's sunny like again?[WAIT]@Oh, it's cloudy, then?[BREAK]  Ah, cloudy![WAIT]@Wow... that's so incredible.[WAIT]@Sunny! Oh! Cloudy![END]
-381-5E:
+381-5E:@Cava, cava, cava, requetecava.[WAIT]@¿Qué tiempo hace ahí fuera?[WAIT]@¿Eh? ¿Soleado?[BREAK]  ¿Qué es "soleado"?[WAIT]@Oh, ¿nublado, entonces?[BREAK]  ¡Ah, nublado![WAIT]@Guau... es alucinante.[WAIT]@¡Soleado! ¡Oh! ¡Nublado![END]
 381-6:@Dig, dig, dig dig, dig-dig-dig-dig.[WAIT]@Something called "[FAVFOOD]"[BREAK]  appeared to me in a dream.[WAIT]@But what is this so-called "[FAVFOOD]"?[WAIT]@Do you know?[WAIT]@Our world is really small, so there's a lot we[BREAK]  don't know about.[WAIT]@[FAVFOOD]...[BREAK]  I dunno why, but that kind of excites me.[WAIT]@Hehehe.[PAUSE 2E 00] It must be good stuff.[END]
-381-6E:
+381-6E:@Cava, cava, cava, requetecava.[WAIT]@Algo llamado "[FAVFOOD]"[BREAK]  se me ha aparecido en sueños.[WAIT]@¿Pero qué es eso de "[FAVFOOD]"?[WAIT]@¿Tú lo sabes?[WAIT]@Vivir bajo tierra implica desconocer[BREAK]  gran cantidad de cosas.[WAIT]@[FAVFOOD]...[BREAK]  Sólo con decirlo ya me emociono.[WAIT]@Jejeje.[PAUSE 2E 00] Debe de ser algo bueno.[END]
 381-7:@Dig, dig, dig dig, dig-dig-dig-dig.[WAIT]@Honestly, now![WAIT]@I just stepped on some sunglasses![WAIT]  Why doesn't anyone ever tidy things up like[BREAK]  they should?![WAIT]@I've even tripped on helmets before![WAIT]  Because no one ever puts anything away like[BREAK]  they should![WAIT]@Honestly, now! Moles these days![END]
-381-7E:
+381-7E:@Cava, cava, cava, requetecava.[WAIT]@¡Ya estoy harto![WAIT]@¡Acabo de pisar unas gafas de sol![WAIT]  ¡¿Es que la gente no puede ser[BREAK]  un poco más ordenada?![WAIT]@¡Antes incluso me he tropezado con un casco![WAIT]  ¡¿Por qué nadie se molesta[BREAK]  en recoger sus cosas![WAIT]@¡De verdad! ¡Los topos de hoy en día...![END]
 381-8:@Moles building dungeons?[WAIT]@In actuality, mole tunnels are more than just[BREAK]  places to live;[WAIT]  they also serve as traps intended to confuse[BREAK]  and capture food, such as insects.[WAIT]  In other words, the moles' tunnels also act as[BREAK]  literal dungeons.[WAIT]@Moreover, large-scale tunnels over 100[BREAK]  meters in length are not at all uncommon.[WAIT]@If you ever get the opportunity, you should[BREAK]  take some time out to watch moles in action.[END]
-381-8E:
+381-8E:@¿Topos construyendo mazmorras?[WAIT]@Ciertamente, sus túneles son algo más[BREAK]  que un lugar para vivir;[WAIT]  también los usan para confundir y capturar[BREAK]  a sus presas, como los insectos.[WAIT]  En definitiva, son mazmorras[BREAK]  con todas las de la ley.[WAIT]@De hecho, se sabe que estos túneles pueden[BREAK]  superar los 100 metros de longitud.[WAIT]@Si alguna vez tienes la oportunidad de hacerlo,[BREAK]  observa con atención a estos animalitos.[END]
 381-9:[END]
-381-9E:
+381-9E:[END]
 
 [Container 386]
 386-0:@Ahead: Foot traffic only.[BREAK]  Pork Beans not allowed.[END]
-386-0E:
+386-0E:@Área peatonal.[BREAK]  Vainas porcinas prohibidas.[END]
 386-1:[ALTERNATEFONT]@this way.[END]
 386-1E:[ALTERNATEFONT]@por aqui.[END]
 // Repeats: 222-86, 386-1, 506-86
 386-2:[ALTERNATEFONT]@watching ceiling.[END]
-386-2E:
+386-2E:[ALTERNATEFONT]@miro techo.[END]
 386-3:[ALTERNATEFONT]@tears overflow.[END]
-386-3E:
+386-3E:[ALTERNATEFONT]@lagrimas mill.[END]
 386-4:@The construction here has been left unfinished.[END]
-386-4E:
+386-4E:@Al parecer, han dejado las obras a medias.[END]
 386-5:[END]
-386-5E:
+386-5E:[END]
 
 [Container 388]
 388-0:@Something that looks like a lotus root is[BREAK]  blocking the path.[END]
-388-0E:
+388-0E:@El camino está bloqueado por lo que[BREAK]  parece ser una raíz de loto.[END]
 388-1:@*mumble* *mumble*[END]
-388-1E:
+388-1E:@*murmullo* *murmullo*[END]
 388-2:@Oh, glad to see you didn't wimp out on me.[WAIT]@This here is our elder.[WAIT]@I've asked him to be the judge for our match[BREAK]  today.[WAIT]@If you try to run away or do anything cheap,[BREAK]  neither of us'll sit by quietly...[WAIT]  Just so you know.[WAIT][PAUSE 1E 00]@Anyways, I've got special rules for our match.[WAIT]@If, by some chance, an outcome isn't reached[BREAK]  after 10 minutes have passed,[WAIT]  we'll go to overtime, which'll last five more[BREAK]  minutes.[WAIT]@And if a conclusion still isn't reached after[BREAK]  that, our elder'll decide who the winner is.[WAIT][PAUSE 1E 00]@Elder. Is there anything you'd like to add?[END]
-388-2E:
+388-2E:@Me alegra ver que no te has echado atrás.[WAIT]@Este es nuestro líder.[WAIT]@Le he pedido que sea el juez[BREAK]  de nuestro combate.[WAIT]@No pasaremos por alto ningún intento[BREAK]  de huida o juego sucio...[WAIT]  Que lo sepas.[WAIT][PAUSE 1E 00]@Por cierto, hay reglas especiales.[WAIT]@Si, por algún casual, el resultado final[BREAK]  no se ha decidido en 10 minutos,[WAIT]  habrá una prórroga de cinco minutos[BREAK]  de duración.[WAIT]@Y si la prórroga termina en empate...[BREAK]  pues ganará quien diga el venerable.[WAIT][PAUSE 1E 00]@¿Algo que añadir, oh, venerable?[END]
 388-3:@Wait.[PAUSE 30 00] You folks are truly, seriously going to[BREAK]  fight him?[WAIT]@Take my advice.[WAIT]@Sometimes, the bravest thing to do is to run[BREAK]  away.[WAIT][PAUSE 3C 00]@...But you insist on it?[WAIT]@In that case, I won't stop you.[END]
-388-3E:
+388-3E:@Viajeros.[PAUSE 30 00] ¿Realmente tenéis intención[BREAK]  de batiros con él?[WAIT]@Escuchadme.[WAIT]@No hay cobardía alguna en eludir[BREAK]  una derrota segura.[WAIT][PAUSE 3C 00]@...¿Aun así, vais a pelear?[WAIT]@En ese caso, no os voy a detener.[END]
 388-4:@Now do you realize the strength of the mole[BREAK]  cricket?![WAIT]@Huh?[WAIT]@Wait a minute! Don't tell me you got wiped out[BREAK]  on purpose?![WAIT]@Fight me seriously! C'mon, gimme your best[BREAK]  shot![WAIT]@Are you ready?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-4E:
+388-4E:@¿Qué opináis ahora del poder[BREAK]  de los grillos topo?![WAIT]@¿Eh?[WAIT]@¡Un momento![BREAK]  ¡¿No os habréis dejado ganar aposta?![WAIT]@¡Vamos, luchad en serio![BREAK]  ¡Y ni se os ocurra conteneros![WAIT]@¡¿Estáis listos?![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-5:@You ready to do this thing?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-5E:
+388-5E:@¡¿Listos para la acción?![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-6:@Too bad! Quit complaining![WAIT]@The bell has rung![END]
-388-6E:
+388-6E:@¡Ya es tarde para arrepentirse![WAIT]@¡Empieza el combate![END]
 388-7:@Alright! I guess you have no care for your own[BREAK]  life![WAIT]@The bell has rung![END]
-388-7E:
+388-7E:@¡Se ve que sentís poco aprecio[BREAK]  por vuestras vidas![WAIT]@¡Empieza el combate![END]
 388-8:@That's enough! That's enough! We give up![WAIT]@To think that such a mighty mole cricket[BREAK]  warrior could be so easily defeated...[WAIT]@Perhaps mole crickets aren't so powerful[BREAK]  after all...[WAIT]@I'll meditate on what else this means at a later[BREAK]  time.[WAIT]@But, for now, the match is over.[PAUSE 20 00][WAIT]@I suppose the traditional thing to do now is be[BREAK]  on good terms with you.[WAIT]@So let's be friends.[WAIT]@Is there anything you need?[END]
-388-8E:
+388-8E:@¡Basta! ¡Basta! ¡Nos rendimos![WAIT]@Y pensar que un guerrero tan poderoso[BREAK]  haya caído con tanta facilidad...[WAIT]@Quizás no seamos tan fuertes,[BREAK]  después de todo...[WAIT]@Más tarde voy a reflexionar[BREAK]  sobre todo esto.[WAIT]@En fin, ha sido una victoria justa.[PAUSE 20 00][WAIT]@Oh, sí. Es tradición hacer las paces[BREAK]  después de una pelea, así que...[WAIT]@Seamos amigos, ¿vale?[WAIT]@¿Podemos ayudaros en algo?[END]
 388-9:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-9E:
+388-9E:@Lo cierto es que sí.[WAIT]@¿Sabéis dónde están las Agujas[BREAK]  que sellan al Dragón oscuro?[WAIT]@Las estamos buscando.[END]
 388-10:@Actually, yeah.[WAIT]@Do you know where the Needles sealing away[BREAK]  the Dark Dragon are?[WAIT]@We're looking for them.[END]
-388-10E:
+388-10E:@Lo cierto es que sí.[WAIT]@¿Sabéis dónde están las Agujas[BREAK]  que sellan al Dragón oscuro?[WAIT]@Las estamos buscando.[END]
 388-11:@...Come again?[WAIT]@You're searching for Needles said to be sealing[BREAK]  away the Dark Dragon?[END]
-388-11E:
+388-11E:@...¿Cómo dices?[WAIT]@¿Estáis buscando las Agujas[BREAK]  que sellan al Dragón oscuro?[END]
 388-12:@We mole crickets aren't very knowledgeable[BREAK]  creatures.[WAIT]@But, call it a hunch, I think there could be a[BREAK]  clue to these mysterious objects[WAIT]  on the mountain on the far end of this mole[BREAK]  cricket hole.[WAIT]@I figure that's what the elder wants to say,[BREAK]  too.[WAIT]@He's hard to read sometimes, though.[END]
-388-12E:
+388-12E:@Nosotros, los grillos topo,[BREAK]  no sabemos mucho del tema.[WAIT]@Pero mi intuición me dice que podríais[BREAK]  encontrar alguna pista en[WAIT]  la montaña que hay al otro lado[BREAK]  de esta madriguera.[WAIT]@Creo que el venerable opina lo mismo.[WAIT]@O no. A veces es muy impredecible...[END]
 388-13:@Yes. I agree.[WAIT]@The mountain![WAIT]@Go through this mole cricket hole and head up[BREAK]  the mountain![WAIT]@I'm certain that's what you must do![END]
-388-13E:
+388-13E:@Sí, opino igual.[WAIT]@¡La montaña![WAIT]@¡Atravesad esta madriguera[BREAK]  y dirigíos a la montaña![WAIT]@¡Sin duda, ese es vuestro destino![END]
 388-14:@The mountain, huh...[WAIT]@We don't have any other leads to follow up on,[BREAK]  so let's check it out.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
-388-14E:
+388-14E:@La montaña, mmm...[WAIT]@No tenemos más pistas, así que deberíamos[BREAK]  ir a echar un vistazo.[WAIT]@Oh, por cierto.[WAIT]@No sabréis nada sobre el Dragón oscuro,[BREAK]  ¿verdad?[END]
 388-15:@The mountain, huh...[WAIT]@Let's check it out, then.[WAIT]@Oh, hey.[WAIT]@You guys don't know anything about the Dark[BREAK]  Dragon itself, do you?[END]
-388-15E:
+388-15E:@La montaña, mmm...[WAIT]@Iremos a echarle un vistazo, sí.[WAIT]@Oh, por cierto.[WAIT]@No sabréis nada sobre el Dragón oscuro,[BREAK]  ¿verdad?[END]
 388-16:@...Come again?[WAIT]  Do we know anything about the Dark Dragon?[END]
-388-16E:
+388-16E:@...¿Qué dices?[WAIT]  ¿Que si sabemos algo del Dragón oscuro?[END]
 388-17:@Sadly, we don't.[WAIT]@We really are just mole crickets.[WAIT]@Even though he's our elder, he's still just a[BREAK]  mole cricket, too.[WAIT]@We have no real strength at all... It's a pity.[WAIT]@The very least we can do...[WAIT]  ...is help you by eating the lotus roots blocking[BREAK]  your way, and other things like that.[WAIT][PAUSE 1E 00]@Wow... A dragon...[PAUSE 0F 00][BREAK]  I bet it's really incredible...[END]
-388-17E:
+388-17E:@No, por desgracia no.[WAIT]@No somos más que grilos topo.[WAIT]@Tanto yo, como el venerable y el resto[BREAK]  de nuestros hermanos.[WAIT]@Si al menos fuésemos más fuertes...[WAIT]@Lo mínimo que podemos hacer...[WAIT]  ...es ayudaros comiéndonos las raíces[BREAK]  de loto que bloquean el paso.[WAIT][PAUSE 1E 00]@Guau... Un dragón...[PAUSE 0F 00][BREAK]  Tiene que ser algo increíble...[END]
 388-18:@It must be incredible, indeed.[WAIT]@I've learned so much today.[WAIT]@A dragon that sleeps underground, needles[BREAK]  that seal it away, us being surprisingly weak...[WAIT]@Living a long life is worth it.[WAIT]@Do you suppose you could tell us mole crickets[BREAK]  about even more things?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-18E:
+388-18E:@Sin duda tiene que serlo.[WAIT]@Hoy nos habéis enseñado mucho.[WAIT]@Sobre ese dragón que duerme bajo tierra,[BREAK]  sobre esas Agujas, sobre nuestra debilidad...[WAIT]@La vida está llena de sorpresas.[WAIT]@¿Creéis que podríais contarnos más[BREAK]  acerca de otras cosas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-19:@Thanks.[WAIT]@We'll try not to be too much of a bother,[WAIT][PAUSE 20 00]  so please raise us to be great.[END]
-388-19E:
+388-19E:@Gracias.[WAIT]@No quiero parecer un pesado, pero...[WAIT][PAUSE 20 00]  ¡enseñadnos cuanto sepáis![END]
 388-20:@I see. I figured you might say that.[WAIT]@I guess we'll try to learn about all sorts of[BREAK]  things as we study you from afar, then.[WAIT]  I hope that's all right.[END]
-388-20E:
+388-20E:@Ya veo. Suponía que ibas a decir eso.[WAIT]@En fin, intentaremos seguir vuestros[BREAK]  progresos y aprenderemos de ellos.[WAIT]  Espero que no os importa.[END]
 388-21:@To start off, I'm thinking of starting a business[BREAK]  in our own unique, mole cricket way.[WAIT]@Please stop by if you ever happen to see us![END]
-388-21E:
+388-21E:@Para empezar, hemos pensado en abrir[BREAK]  un negocio al más puro estilo grillo topo.[WAIT]@¡Párate a saludar si te cruzas con nosotros![END]
 388-22:@Oh, yeah.[EVENT][END]
-388-22E:
+388-22E:@Oh, sí.[EVENT][END]
 388-23:@If you're gonna go through this mole cricket[BREAK]  hole, you should take my little bro with you.[WAIT]@He's little, but he's a tough one.[WAIT]@You can treat him just like any other item.[WAIT][PAUSE 0F 00]@Hey! Little bro! C'mere![END]
-388-23E:
+388-23E:@Si quieres adentrarte en la madriguera,[BREAK]  deberías llevarte a mi hermano pequeño.[WAIT]@Es pequeño, pero matón.[WAIT]@Puedes usarlo como un objeto más.[WAIT][PAUSE 0F 00]@¡Ey! ¡Hermanito! ¡Ven aquí![END]
 388-24:@Received the [ITEM B8 00]![PAUSE 40 00][END]
-388-24E:
+388-24E:@¡Recibiste el [ITEM B8 00]![PAUSE 40 00][END]
 388-25:@If you get lost in this mole cricket hole,[WAIT]  just ask my little bro for help and he'll bring[BREAK]  you straight back here.[WAIT][PAUSE 0F 00]@Right, little bro?[WAIT]@...C'mon, bro! Get your act together![WAIT]@The bad news is he's kinda lame and hates the[BREAK]  sunlight more than anything else in the world.[WAIT]@So be careful. You can't take him with you[BREAK]  outside the mole cricket hole.[WAIT][PAUSE 1E 00]@...Right, little bro?![END]
-388-25E:
+388-25E:@Si te pierdes por la madriguera,[WAIT]  pídele ayuda a mi hermanito[BREAK]  y te traerá de vuelta aquí.[WAIT][PAUSE 0F 00]@¿Verdad, hermanito?[WAIT]@...¡Vamos, hermanito! ¡Ponte las pilas![WAIT]@Lo malo es que es bastante rarito y odia[BREAK]  la luz solar con todo su ser.[WAIT]@Tenlo en cuenta. No va a poder acompañarte[BREAK]  más allá de esta madriguera.[WAIT][PAUSE 1E 00]@...¡¿Verdad, hermanito?![END]
 388-26:@Oh, it looks like your inventory's full.[BREAK]  I guess you can't take my little bro with you.[END]
-388-26E:
+388-26E:@Oh, tu inventario parece estar lleno.[BREAK]  Así no puedes llevarte a mi hermanito contigo.[END]
 388-27:@*mumble* *mumble* *murmur*...[BREAK]  What wonderful times![END]
-388-27E:
+388-27E:@*murmullo* *murmullo* *murmullo*...[BREAK]  Cinco... minutos más...[END]
 388-28:@After meeting you guys, the elder's suddenly[BREAK]  full of life and enthusiastically asleep.[END]
-388-28E:
+388-28E:@Con toda la emoción de haberos conocido,[BREAK]  el venerable se ha quedado dormido.[END]
 388-29:@Our elder knows everything.[WAIT]@Our elder has many acquaintances.[END]
-388-29E:
+388-29E:@El venerable lo sabe todo.[WAIT]@El venerable tiene muchos contactos.[END]
 388-30:@We're mole crickets.[WAIT]@We dig holes and live in them.[WAIT][PAUSE 1E 00]@We're exceptionally proud.[END]
-388-30E:
+388-30E:@Somos grillos topo.[WAIT]@Vivimos en los hoyos que cavamos.[WAIT][PAUSE 1E 00]@Y sacamos pecho por ello.[END]
 388-31:@We are Mr. Mole Crickets.[WAIT]@We dig holes and live in them,[PAUSE 2E 00] but we're very[BREAK]  humble.[END]
-388-31E:
+388-31E:@Somos grillos topo.[WAIT]@Vivimos en los hoyos que cavamos,[PAUSE 2E 00][BREAK]  pero no sacamos pecho por ello.[END]
 388-32:@Mole crickets know everything.[WAIT]@Just about everything ever.[WAIT]@Like how to dig holes and how to win fights.[END]
-388-32E:
+388-32E:@Los grillos topo sabemos de todo.[WAIT]@Dominamos muchas disciplinas.[WAIT]@Como el arte de cavar y el arte del combate.[END]
 388-33:@Lotus root-things are yum.[WAIT]@Even their holes are yum.[END]
-388-33E:
+388-33E:@Las raíces de loto están deliciosas.[WAIT]@Y sus agujeros también.[END]
 388-34:@This mole cricket hole is reallllly big, you know.[WAIT]@You're gonna get bored fast if you don't do[BREAK]  pointless chit-chat with us.[END]
-388-34E:
+388-34E:@Esta madriguera es enooorme, que lo sepas.[WAIT]@Como no te pares a hablar con nosotros,[BREAK]  te vas a aburrir de lo lindo.[END]
 388-35:@Whenever there's a turn, turn.[WAIT]@Always turn.[WAIT]@Absolutely turn.[WAIT]@That's the trick to getting through this mole[BREAK]  cricket hole.[END]
-388-35E:
+388-35E:@Siempre que haya una bifurcación, gira.[WAIT]@Gira siempre.[WAIT]@En cada bifurcación.[WAIT]@Es la mejor forma de llegar a la salida[BREAK]  de esta madriguera.[END]
 388-36:@Here, I'll give you this unbelievably accurate[BREAK]  yet unhelpful map.[END]
-388-36E:
+388-36E:@Toma, llévate este increíblemente detallado[BREAK]  pero inservible mapa.[END]
 388-37:@*crawl* *crawl*[WAIT]@I'm the only green save mole cricket in the[BREAK]  whole world.[WAIT]@The frogs have given me their permission to[BREAK]  save games here, so I'm in charge of that.[WAIT]@So, will you save your game?[WAIT]@Oooh! This is so exciting![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-37E:
+388-37E:@*arrastra* *arrastra*[WAIT]@Soy el único grillo topo de guardado[BREAK]  en todo el mundo.[WAIT]@Las ranas me han autorizado poder guardar[BREAK]  partidas en su lugar, pero sólo aquí.[WAIT]@Qué, ¿te guardo la partida?[WAIT]@¡Oooh! ¡Qué emocionante![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-38:@*crawl* *crawl*[WAIT]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-38E:
+388-38E:@*arrastra* *arrastra*[WAIT]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-39:@Thank you![WAIT]@I'm so happy you believed me![WAIT]@I'll work hard to save your game juuuust right![END]
-388-39E:
+388-39E:@¡Gracias![WAIT]@¡Tu confianza me llena de gozo![WAIT]@¡Voy a guardar tus datos con sumo cuidado![END]
 388-40:@Yeah... You're right.[WAIT]@Only frogs can save games...[BREAK]  Anything else is just a cheap imitation.[WAIT]@I guess that's one way to think about it...[WAIT]@It's not much,[PAUSE 20 00] but I feel a little rejected.[END]
-388-40E:
+388-40E:@Sí... Tienes razón.[WAIT]@Sólo las ranas pueden guardar...[BREAK]  Lo demás son imitaciones baratas.[WAIT]@Supongo que es una forma de verlo...[WAIT]@Vaya,[PAUSE 20 00] me siento un poco rechazado.[END]
 388-41:@Please take care![END]
-388-41E:
+388-41E:@¡Cuídate![END]
 388-42:@Give my regards to the next frog you meet![END]
-388-42E:
+388-42E:@¡Saluda de mi parte a las demás ranas![END]
 388-43:@Now on sale![WAIT]@The Mole Cricket Hole's famous Sincerity[BREAK]  Dumplings![WAIT]@Whether they sell or not,[WAIT]  I make them every day and set them out so I[BREAK]  can practice conducting business.[WAIT]@I have some super-fresh ones today, too![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-388-43E:
+388-43E:@¡Ya a la venta![WAIT]@¡Las famosas Bolitas sinceras[BREAK]  de los grillos topo![WAIT]@Da igual si no se venden,[WAIT]  las preparo a diario para practicar[BREAK]  mis estrategias comerciales.[WAIT]@¿Quieres una? ¡Están recién hechas![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 388-44:@I understand. This is helping me learn a lot.[WAIT]@You're right, though. They may be sincere, but[BREAK]  they're not very tasty.[END]
-388-44E:
+388-44E:@Te entiendo. Aún tengo mucho que aprender.[WAIT]@Pero tienes razón. Puede que sean sinceras,[BREAK]  pero no están muy buenas.[END]
 388-45:@Now on sale! Elder approved![WAIT]@Made fresh daily![WAIT]@Only the most honest of the honest make[BREAK]  these Sincerity Dumplings![END]
-388-45E:
+388-45E:@¡Ya a la venta! ¡Recién hechas![WAIT]@¡Las favoritas del venerable![WAIT]@¡Sólo los más honestos pueden preparar[BREAK]  estas Bolitas sinceras![END]
 
 [Container 389]
 389-0:@You want to get to what's on the other end of[BREAK]  this mole cricket hole?[WAIT]@Everything over there is mysterious for some[BREAK]  reason.[WAIT]@I'm not brave at all, so I'm too scared to go.[END]
-389-0E:
+389-0E:@¿Eh? ¿Que qué hay al otro lado[BREAK]  de esta madriguera?[WAIT]@Pues la verdad es que es todo un misterio,[BREAK]  incluso para nosotros.[WAIT]@Y yo soy un miedica, no pienso ir a mirar.[END]
 389-1:@If there's a turn, turn. Even if you don't want[BREAK]  to.[WAIT]@Do that, and you'll eventually reach the other[BREAK]  end of this mole cricket hole.[WAIT]@Have faith in yourself, and proceed[PAUSE 2E 00] NOT[BREAK]  straight ahead![WAIT]@Time for another song![WAIT]  [NOTE] It's a twisty, turny road [NOTE][WAIT]  [NOTE] but it's not the path I chose [NOTE][WAIT]  [NOTE] But don't complain, just grin and bear it [NOTE][WAIT]  [NOTE] as you go down that twisty, turny road [NOTE][WAIT]  [NOTE] It's not the path I chose [NOTE][WAIT]  [NOTE] Who did choose it, I wonder [NOTE][END]
-389-1E:
+389-1E:@Si llegas a una bifurcación, gira.[BREAK]  Gira aunque no quieras hacerlo.[WAIT]@Sigue mi consejo y tarde o temprano[BREAK]  darás con la salida de la madriguera.[WAIT]@Sigue tu instinto y...[PAUSE 2E 00][BREAK]  ¡haz exactamente lo que te digo![WAIT]@¡Ahí te va una cancioncita![WAIT]  [NOTE] Un largo camino se postra ante ti [NOTE][WAIT]  [NOTE] Un largo camino que yo no escogí [NOTE][WAIT]  [NOTE] Nunca te rindas, mantén la constancia [NOTE][WAIT]  [NOTE] Sigue el camino con arrogancia [NOTE][WAIT]  [NOTE] Dime pues, ¿quién lo escogió? [NOTE][WAIT]  [NOTE] ¡Lo único que sé es que no fui yo! [NOTE][END]
 389-2:@It's so rare to meet non-mole crickets.[WAIT]@Could you let me bite you real quick?[WAIT]@If not, could you let me lick you instead?[WAIT]@No? Oh, well.[END]
-389-2E:
+389-2E:@Vosotros... no sois grillos topo.[WAIT]@¿Puedo daros un mordisquito?[WAIT]@¿Y un lametón de nada?[WAIT]@¿No? Oh, vale.[END]
 389-3:@You went out of your way to come talk to me?[WAIT]@Even when you could've lost your way?[WAIT]@You make me so happy I wanna cry...[END]
-389-3E:
+389-3E:@¿Habéis venido hasta aquí sólo para verme?[WAIT]@¿Aun con el riesgo de perderos?[WAIT]@Creo que voy a llorar de felicidad...[END]
 389-4:@Whenever there's a turn, be SURE you turn![WAIT]@No matter what happens, turn at every turn![WAIT]@Do that, and you'll never get lost![END]
-389-4E:
+389-4E:@¡Gira SIEMPRE en cada bifurcación![WAIT]@¡En todas y cada una de ellas![WAIT]@¡Hazlo y terminarás encontrando la salida![END]
 389-5:[END]
-389-5E:
+389-5E:[END]
 
 [Container 391]
 391-0:[END]
-391-0E:
+391-0E:[END]
 391-1:[END]
-391-1E:
+391-1E:[END]
 
 [Container 392]
 392-0:[END]
-392-0E:
+392-0E:[END]
 392-1:[END]
-392-1E:
+392-1E:[END]
 
 [Container 393]
 393-0:[END]
-393-0E:
+393-0E:[END]
 393-1:[END]
-393-1E:
+393-1E:[END]
 
 [Container 394]
 394-0:[END]
-394-0E:
+394-0E:[END]
 394-1:[END]
-394-1E:
+394-1E:[END]
 
 [Container 395]
 395-0:[END]
-395-0E:
+395-0E:[END]
 395-1:[END]
-395-1E:
+395-1E:[END]
 
 [Container 398]
 398-0:@Squeak![WAIT]  (Huh?! Oh, okay! I'll go home right now![WAIT]  By the way, I'm pretty sure none of my[BREAK]  brothers went past this tunnel.)[END]
-398-0E:
+398-0E:@¡Chiii![WAIT]  (¡¿Eh?! ¡Oh, vale! ¡Me vuelvo a casa![WAIT]  Por cierto, ninguno de mis hermanos[BREAK]  ha cruzado este túnel.)[END]
 398-1:[END]
-398-1E:
+398-1E:[END]
 
 [Container 399]
 399-0:@Squeeeark![WAIT]  (Ahh! You found me![WAIT]  And I was so proud of the fact I'd never lost a[BREAK]  game of one-player hide-and-go-seek before...[WAIT]  Huh? My mom's calling for me?[WAIT]  Well, I better go home, then! Bye-bye!)[END]
-399-0E:
+399-0E:@¡Chiiiiii![WAIT]  (¡Ah! ¡Me has pillado![WAIT]  Y yo que me enorgullecía de seguir invicto[BREAK]  en el "Escondite en solitario"...[WAIT]  ¿Eh? ¿Que me está llamando mi mamá?[WAIT]  ¡Pues será mejor que me vaya! ¡Adiós!)[END]
 399-1:@I'm Leo-Leo. I'm one bad dude.[WAIT]@I brought all these presents here 'cause girls[BREAK]  everywhere are tryin' to make me fall for 'em.[WAIT]@Each one's from a different girl, of course![WAIT]@So anyways, all these presents here belong to[BREAK]  me.[WAIT]@You can't have any.[END]
-399-1E:
+399-1E:@Soy Leo-Leo. Un tío chungo.[WAIT]@He traído aquí todos los regalos que me[BREAK]  han hecho las chicas a las que les gusto.[WAIT]@¡Cada uno es de una chica distinta, claro![WAIT]@En cualquier caso, todos estos regalos[BREAK]  son míos.[WAIT]@Ni los toques.[END]
 399-2:@You naturally try to open a gift box the instant[BREAK]  you see one, don't ya?[WAIT]@But too bad! These ones belong to me![END]
-399-2E:
+399-2E:@¿Qué pasa, que porque veas un regalo[BREAK]  ya tienes que abrirlo?[WAIT]@¡Se siente! ¡Todo esto es mío![END]
 399-3:@You look like you're thinking to yourself,[BREAK]  "Come on, just one box."[WAIT]@Well, too bad![END]
-399-3E:
+399-3E:@Seguro que estás pensando:[BREAK]  "Si insisto, seguro que me da uno."[WAIT]@¡Pues no![END]
 399-4:@I really doubt you're popular with the girls.[BREAK]  You don't seem like a very bad dude, either.[WAIT]@I dunno, should I let you open one...?[WAIT]@Nope! Not gonna happen![END]
-399-4E:
+399-4E:@Tienes cara de no comerte ni un rosco.[BREAK]  Y pareces de todo menos un tío chungo.[WAIT]@No sé, ¿debería dejarte abrir uno...?[WAIT]@¡No, no y no! ¡De eso nada![END]
 399-5:@Okay, okay![WAIT]@You can have one, and only one.[WAIT]@Even a bad dude like Leo-Leo has a nice side.[WAIT]@...That's why the chicks dig me.[END]
-399-5E:
+399-5E:@¡Vale, vale![WAIT]@Puedes abrir uno, ¡pero sólo uno![WAIT]@Soy un tío chungo, pero tengo un buen corazón.[WAIT]@...Por eso le gusto a las chicas.[END]
 399-6:@Well, go ahead and open one.[WAIT]@I'll let you have whatever's inside.[END]
-399-6E:
+399-6E:@Vamos, elige uno y ábrelo.[WAIT]@Puedes quedarte con su contenido.[END]
 399-7:@I already gave you one of the gift boxes.[WAIT]@I can't let you have any more than that.[WAIT]@They're symbols of my hotness, after all.[END]
-399-7E:
+399-7E:@Ya te he dejado abrir un regalo.[WAIT]@No puedo dejar que abras los demás.[WAIT]@Son la prueba de mi atractivo sexual.[END]
 399-8:@Hey, you![WAIT]@That present's mine![BREAK]@Get your filthy hands off it![END]
-399-8E:
+399-8E:@¡Eh, tú![WAIT]@¡Ese regalo es mío![BREAK]@¡Quítale las zarpas de encima![END]
 399-9:@Hey, you![WAIT]@We agreed you'd only get to open one![WAIT]@You need to keep to your word, dude![END]
-399-9E:
+399-9E:@¡Eh, tú![WAIT]@¡Quedamos en que sólo podías abrir uno![WAIT]@¡Mantente fiel a tu palabra, tío![END]
 399-10:@I opened all the other boxes.[WAIT]@What was inside them?[PAUSE 30 00][BREAK]  Tons of awesome stuff.[WAIT]@That sweater you chose was the suckiest[BREAK]  present of all.[END]
-399-10E:
+399-10E:@He abierto todos los regalos.[WAIT]@¿Que qué había dentro?[PAUSE 30 00][BREAK]  Muchísimas cosas chulas.[WAIT]@El jersey que te llevaste era[BREAK]  el peor regalo de todos.[END]
 399-11:@[42 FF 00 00] opened the present.[EVENT][END]
 399-11E:@[42 FF 00 00] abrió el regalo.[EVENT][END]
 // Repeats: 0-53, 39-0, 399-11, 509-0
 399-12:@[42 FF 00 00] got a [ITEM F1 FF].[WAIT]@But the name "Leo-Leo" is knitted into it in[BREAK]  large letters.[END]
-399-12E:
+399-12E:@[42 FF 00 00] consiguió un [ITEM F1 FF].[WAIT]@Pero tiene cosido "Leo-Leo"[BREAK]  en letras enormes.[END]
 399-13:@[42 FF 00 00] got a [ITEM F1 FF].[WAIT]@But you couldn't hold any more stuff.[END]
-399-13E:
+399-13E:@[42 FF 00 00] consiguió un [ITEM F1 FF].[WAIT]@Pero no tienes donde guardarlo.[END]
 
 [Container 400]
 400-0:@What're you doing?![BREAK]@Watch where you're going![END]
-400-0E:
+400-0E:@¡¿Qué haces?![BREAK]@¡Mira por dónde vas![END]
 400-1:@Oh, I'm sorry.[WAIT]@I didn't know it was you, Commander.[END]
-400-1E:
+400-1E:@Oh, lo siento.[WAIT]@No sabía que era usted, comandante.[END]
 400-2:@I-it's you, Commander! I'm terribly sorry, sir![END]
-400-2E:
+400-2E:@¡C-comandante! ¡Lo siento mucho, señor![END]
 400-3:@From the looks of it...[WAIT]@It appears that you mistakenly threw[BREAK]  something into the garbage.[END]
-400-3E:
+400-3E:@Ya veo...[WAIT]@Parece ser que ha tirado algo a[BREAK]  la basura por accidente.[END]
 400-4:@If you're headed for the garbage dump, please[BREAK]  follow the truck in this.[END]
-400-4E:
+400-4E:@Si piensa seguir a ese camión,[BREAK]  llévese esta vaina.[END]
 400-5:@The garbage dump is northeast of here.[WAIT]@Please hurry after it[WAIT]  and retrieve whatever embarrassing thing it[BREAK]  was that you accidentally threw away.[END]
-400-5E:
+400-5E:@El vertedero se encuentra al noreste.[WAIT]@Dese prisa[WAIT]  y recupere eso tan embarazoso[BREAK]  que ha tirado por accidente.[END]
 400-6:@Please be very careful not to slip and get in an[BREAK]  accident![END]
-400-6E:
+400-6E:@¡Ah, y tenga mucho cuidado con[BREAK]  las superficies deslizantes![END]
 400-7:@All right, then! Be careful![END]
-400-7E:
+400-7E:@¡Bien! ¡Conduzca con precaución![END]
 // Repeats: 63-4, 400-7
 400-8:@He's passed out.[END]
 400-8E:@Está en shock.[END]
 // Repeats: 63-9, 400-8
 400-9:@Ticket-like objects have fallen out of his[BREAK]  pocket.[END]
-400-9E:
+400-9E:@Se le han caído unos tickets del bolsillo.[END]
 
 [Container 404]
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
@@ -18003,7 +18003,7 @@
 
 [Container 653]
 653-0:@You unlocked the door.[END]
-653-0E:
+653-0E:@Abriste la cerradura.[END]
 // Repeats: 323-0, 653-0
 653-1:[END]
 653-1E:
