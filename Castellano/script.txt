@@ -9056,7 +9056,7 @@
 198-4:@It's an absolute miracle that you didn't even[BREAK]  get a scratch.[END]
 198-4E:@Es un milagro que los dos estéis[BREAK]  sanos y salvos.[END]
 198-5:@In a dream I had, [HINAWA 22 08 00] told me to pile[BREAK]  hay in that spot right away.[WAIT]@She saved your lives.[END]
-198-5E:@[HINAWA 22 08 00] se me apareció en sueños[BREAK]  y me dijo que apilase esa pila de heno.[WAIT]@Os ha salvado la vida.[END]
+198-5E:@[HINAWA 22 08 00] se me apareció en sueños[BREAK]  y me dijo que apilase esa pila de heno.[WAIT]@Ha sido ella quien os ha salvado la vida.[END]
 198-6:@No matter where she goes, [HINAWA 22 08 00] is[BREAK]  always thinking about you.[END]
 198-6E:@No importa dónde esté, [HINAWA 22 08 00][BREAK]  siempre estará velando por ti.[END]
 198-7:@Wait, wait![PAUSE 20 00] Where are you going, and why are[BREAK]  you ignoring us?![END]
@@ -15034,255 +15034,255 @@
 
 [Container 404]
 404-0:@Squeak squeak-squeak squeeeeak.[WAIT]  (Oh, me, oh, my.[WAIT]  My children went off to play and haven't come[BREAK]  home.[WAIT]@If you happen to see them, please tell them[BREAK]  their mother says to come home.[WAIT]  Please.[WAIT]  Please.[WAIT]  Oh, incidentally, I have seven children in all.)[END]
-404-0E:
+404-0E:@Chi, chi-chi-chi, chiiiiiiiiiiiiii.[WAIT]  (Ay, mi madre.[WAIT]  Mis niños han salido a jugar[BREAK]  y todavía no han vuelto a casa.[WAIT]@Si por algún casual los ves, diles que vuelvan[BREAK]  a casa cuanto antes, por favor.[WAIT]  Por favor.[WAIT]  Por favor.[WAIT]  Oh, por cierto, tengo siete hijos.)[END]
 404-1:@Squeak squeeeeak.[WAIT]  (Oh, you're that kind person from before.[WAIT]  Parenting is indeed difficult.[WAIT]  Mice grow exponentially in number, after all.[WAIT]  But,[PAUSE 2E 00] but![WAIT]  Having children makes our happiness grow[BREAK]  exponentially, too!)[END]
-404-1E:
+404-1E:@Chi, chiiiii.[WAIT]  (Oh, eres tú.[WAIT]  No es fácil ser madre.[WAIT]  Los ratones solemos tener una gran prole.[WAIT]  Pero,[PAUSE 2E 00] ¡pero![WAIT]  ¡Para nosotros, eso es sinónimo[BREAK]  de una gran felicidad!)[END]
 404-2:@Squeak-squeak.[WAIT]  (Thanks to your kind help, my children have[BREAK]  started to return.[WAIT]  Thank you. Thank you so much!)[END]
-404-2E:
+404-2E:@Chi-chiiii.[WAIT]  (Gracias a ti, mis niños han empezado[BREAK]  a regresar a casa.[WAIT]  Gracias. ¡Muchísimas gracias!)[END]
 404-3:[END]
-404-3E:
+404-3E:[END]
 404-4:@Squeak-squeeeeak.[WAIT]  (Even so, 1 mouse is still missing.[WAIT]  If you happen to see it, tell it to come[BREAK]  back to its mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let it know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-4E:
+404-4E:@Chi-chiiiii.[WAIT]  (Todavía hecho en falta a 1 de mis hijos.[WAIT]  Ya tendrían que estar todos de vuelta.[BREAK]  No son horas de andar a solar por ahí.[WAIT]  Por favor,[PAUSE 1E 00] ayúdame a buscar.[WAIT]  Por favor.[PAUSE 1E 00] ¡Por favor!)[END]
 404-5:@Squeak-squeeeeak.[WAIT]  (Even so, [80 FF F0 FF] mice are still missing.[WAIT]  If you happen to see them, tell them to come[BREAK]  back to their mother right this minute.[WAIT]  Please,[PAUSE 1E 00] please let them know.[WAIT]  Please.[PAUSE 1E 00] Please!)[END]
-404-5E:
+404-5E:@Chi-chiiiii.[WAIT]  (Todavía hecho en falta a [80 FF F0 FF] de mis hijos.[WAIT]  Ya tendrían que estar todos de vuelta.[BREAK]  No son horas de andar a solar por ahí.[WAIT]  Por favor,[PAUSE 1E 00] ayúdame a buscar.[WAIT]  Por favor.[PAUSE 1E 00] ¡Por favor!)[END]
 404-6:@Squeeeeeeeeaaak![WAIT]  (Thank you so much![WAIT]  Thanks to you, all my children have returned[BREAK]  home, with cheerful smiles on their faces.[WAIT]  For being so kind to me, I insist[PAUSE 2E 00] on giving you[BREAK]  two things as a token of appreciation.[WAIT]  The first is a kiss from me.[WAIT]  And the other thing is th[PAUSE 20 00]-th[PAUSE 20 00]-this!)[END]
-404-6E:
+404-6E:@¡Chiiiiiiiiiiiiiiiiiiiii![WAIT]  (¡Muchísimas gracias![WAIT]  Gracias a ti, todos mis niños han vuelto[BREAK]  a casa con una sonrisa en la cara.[WAIT]  Has sido muy considerado conmigo,[PAUSE 2E 00] por lo[BREAK]  que te voy a dar dos muestras de aprecio.[WAIT]  La primera es un beso.[WAIT]  ¡Y la otra, e[PAUSE 20 00]-e[PAUSE 20 00]-esto!)[END]
 404-7:@Squeeeak.[WAIT]  (...Or at least that was the plan, but it seems[BREAK]  you can't hold any more stuff.[WAIT]  Please come back after tidying your items.)[END]
-404-7E:
+404-7E:@Chiiii.[WAIT]  (...O esa era mi intención, al menos,[BREAK]  pero no tienes sitio para esto.[WAIT]  Vuelve después de reorganizar tu inventario.)[END]
 404-8:@Got a Shield Snatcher![END]
-404-8E:
+404-8E:@¡Conseguiste el Roba-escudos![END]
 404-9:@Squeak![WAIT]  (Hey! Dude![WAIT]  It's me, The Squeekz! That hip chick magnet[BREAK]  you met by the pond earlier.[WAIT]  But now I'm a stay-at-home daddy-o.)[END]
-404-9E:
+404-9E:@¡Chi![WAIT]  (¡Ey! ¡Tronco![WAIT]  ¡Soy yo, "El Rata"! Sí, ese imán de hembras[BREAK]  que conociste en el bosque.[WAIT]  Pero ahora soy un papasito legal.)[END]
 404-10:@Squeak.[WAIT]  (I'm not really sure what happened, but my[BREAK]  hubby finally came back home.[WAIT][PAUSE 1E 00]  But just between you and me, I think his old[BREAK]  self might've had more charm...[WAIT]  Ohohohoho!)[END]
-404-10E:
+404-10E:@Chii.[WAIT]  (No sé a qué se habrá debido, pero mi esposito[BREAK]  por fin ha vuelto a casa.[WAIT][PAUSE 1E 00]  Que esto quede entre nosotros,[BREAK]  pero me encantaban sus pintas de guaperas...[WAIT]  ¡Jojojojo!)[END]
 404-11:@Try not to speed too much![BREAK]  "Dept. of Highway Management"[END]
-404-11E:
+404-11E:@¡Moderen la velocidad![BREAK]  "Departamento de tráfico"[END]
 404-12:@Caution! Chimera crossing![END]
-404-12E:
+404-12E:@¡Peligro! ¡Paso de quimeras![END]
 404-13:@Graffiti has been written on this sign.[WAIT]@"Put the pedal to the metal, you morons!"[END]
-404-13E:
+404-13E:@Han hecho un grafiti sobre el cartel.[WAIT]@"¡Pisadle a fondo, panolis!"[END]
 404-14:@East: Garbage Dump[END]
-404-14E:
+404-14E:@Este: Vertedero[END]
 404-15:@"Bouillon" is written on the sign.[WAIT]@Add "Soup" to the end of it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-404-15E:
+404-15E:@Alguien ha escrito "bullabesa".[WAIT]@¿Quieres añadir "Sopa" al principio?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 404-16:@Nice.[WAIT]@Surely everyone gets the urge to write graffiti[BREAK]  on something at least once, wouldn't you say?[END]
-404-16E:
+404-16E:@Genial.[WAIT]@Todos sentimos la imperiosa necesidad de[BREAK]  hacer un grafiti de vez en cuando, ¿eh?[END]
 404-17:@Yes, that may be for the best.[END]
-404-17E:
+404-17E:@Sí, eso sería lo más sensato.[END]
 404-18:@"Bouillon Soup" is written on the sign.[END]
-404-18E:
+404-18E:@Pone "Sopa bullabesa".[END]
 404-19:@"Dog" is written on the sign.[WAIT]@Add "Hot" to the sign?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-404-19E:
+404-19E:@Alguien ha escrito "Perrito".[WAIT]@¿Quieres añadir "caliente"?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 404-20:@I could really go for a hot dog...[WAIT]  Especially a Schickhaus from Little Mac's on[BREAK]  Jenkinson's Boardwalk.[WAIT]  Loaded with chili, cheese, and onions. Mmm.[WAIT]  Little Mac's is known for its pizza and[BREAK]  cheesesteak, but the hot dogs are fantastic.[WAIT]  If you're ever at the Jersey Shore, be sure to[BREAK]  stop by![WAIT]  Or, if you ever happen to be in the Pittsburgh[BREAK]  area, check out the Dirty O.[WAIT]  There's some amazing hot dog fare to be had[BREAK]  there![END]
-404-20E:
+404-20E:@Mataría por un perrito caliente...[WAIT]  Especialmente uno de los Charles[BREAK]  que hacen en el Hotty Doggy.[WAIT]  Con su queso cheddar y su cebollita. Mmm.[WAIT]  Hotty Doggy es conocido por sus perritos[BREAK]  calientes, y tiene todo el sentido del mundo.[WAIT]  ¡Si alguna vez te pasas por Sevilla,[BREAK]  es una visita obligatoria![WAIT]  O si no, en Valencia tienes el Not For Dogs,[BREAK]  que también los hacen riquísimos.[WAIT]  ¡Es alucinante la variedad de perritos[BREAK]  que tienen![END]
 404-21:@Yeah, "Dog Food" would be much better.[BREAK]  Let's just call the whole thing off.[END]
-404-21E:
+404-21E:@No, eso es lo que todos esperan que hagas.[BREAK]  Pero tú estás por encima de eso.[END]
 404-22:@"Hot Dog" is written on the sign.[END]
-404-22E:
+404-22E:@Pone "Perrito caliente".[END]
 404-23:@Beware of accidents![END]
-404-23E:
+404-23E:@¡Cuidado con los accidentes![END]
 404-24:@A marvelous backhoe.[END]
-404-24E:
+404-24E:@Una espléndida excavadora.[END]
 404-25:[END]
-404-25E:
+404-25E:[END]
 
 [Container 406]
 406-0:@Squeak... squeak... squeak...[WAIT]  ("[PAUSE 14 00]Th[PAUSE 14 00]ank[PAUSE 14 00] you[PAUSE 14 00] for[PAUSE 14 00] ta[PAUSE 14 00]king[PAUSE 14 00] the[PAUSE 14 00] time[PAUSE 14 00] to[PAUSE 14 00] read[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Whew. Reading stuff is so hard.)[END]
-406-0E:
+406-0E:@Chii... chii... chii...[WAIT]  ("[PAUSE 14 00]Gra[PAUSE 14 00]cias[PAUSE 14 00] por[PAUSE 14 00] pa[PAUSE 14 00]rar[PAUSE 14 00]te[PAUSE 14 00] a[PAUSE 14 00] le[PAUSE 14 00]er[PAUSE 14 00] este[PAUSE 14 00].[PAUSE 14 00].[PAUSE 14 00].[PAUSE 30 00]"[BREAK]  Fiuu. Esto de leer no es nada fácil.)[END]
 406-1:@Squeak squeak?[WAIT]  (What? My mom's calling for me?[WAIT]  Okay. I'll head back right now.)[END]
-406-1E:
+406-1E:@¿Chi-chi-chii?[WAIT]  (¿Qué? ¿Que mi mamá me está llamando?[WAIT]  Vale. Ahora mismo voy.)[END]
 406-2:@Thank you for taking the time to read this sign.[WAIT]  This sign loves you.[END]
-406-2E:
+406-2E:@Gracias por pararte a leer este cartel.[WAIT]  Este cartel te quiere.[END]
 406-3:[END]
-406-3E:
+406-3E:[END]
 
 [Container 413]
 413-0:[END]
-413-0E:
+413-0E:[END]
 413-1:[END]
-413-1E:
+413-1E:[END]
 
 [Container 420]
 420-0:[END]
-420-0E:
+420-0E:[END]
 420-1:[END]
-420-1E:
+420-1E:[END]
 
 [Container 421]
 421-0:@Some strange stuff you've never seen before[BREAK]  is lying here.[END]
-421-0E:
+421-0E:@En tu vida habías visto nada[BREAK]  parecido a esto.[END]
 421-1:@Got an [ITEM 63 00]![END]
-421-1E:
+421-1E:@¡Conseguiste un [ITEM 63 00]![END]
 
 [Container 428]
 428-0:@A garbage truck.[END]
-428-0E:
+428-0E:@Un camión de la basura.[END]
 428-1:@Pretty sweet piloting, if I do say so myself![WAIT]@Well, here we are! Thunder Tower![WAIT]@Please hurry to the generator room[BREAK]  post-haste![END]
-428-1E:
+428-1E:@¡Desde luego, soy un as del volante![WAIT]@¡Hemos llegado! ¡La Torre del trueno![WAIT]@¡Por favor, diríjase a la sala del generador[BREAK]  cuanto antes![END]
 428-2:@Don't get sidetracked![BREAK]  You need to hurry to the generator room![END]
-428-2E:
+428-2E:@¡No se entretenga![BREAK]  ¡Tiene que ir a la sala del generador![END]
 428-3:@This is the staff entrance to Thunder Tower.[WAIT]@Say, Commander.[WAIT]  Did you ever find that embarrassing item of[BREAK]  yours that you accidentally threw away?[END]
-428-3E:
+428-3E:@Bienvenido a la Torre del trueno.[WAIT]@Dígame, comandante...[WAIT]  ¿Ha encontrado ya eso tan embarazoso[BREAK]  que tiró por accidente?[END]
 428-4:@No one is allowed inside Thunder Tower at this[BREAK]  time.[WAIT]@And sneaking in is all the more unallowed.[WAIT]@As are peeking, leaking, and reeking![END]
-428-4E:
+428-4E:@No se permite el paso a la torre[BREAK]  en estos momentos.[WAIT]@Tampoco se permite fisgonear.[WAIT]@¡Y mucho menos intentar colarse![END]
 428-5:@Stop right there![WAIT]@I'm afraid I can't even let you go through here,[BREAK]  Commander.[WAIT]@But,[PAUSE 30 00] I'm sure you'll be able to go through here[BREAK]  eventually.[END]
-428-5E:
+428-5E:@¡Alto ahí![WAIT]@Nadie puede pasar por aquí.[BREAK]  Ni siquiera usted, comandante.[WAIT]@Aunque,[PAUSE 30 00] seguro que tarde o temprano[BREAK]  lo hará de todos modos...[END]
 428-6:@Looks like you're holding too many things.[WAIT]@I'll give it to you some other time.[END]
-428-6E:
+428-6E:@Lleva usted muchas cosas encima.[WAIT]@Se lo daré en otro momento.[END]
 428-7:[END]
-428-7E:
+428-7E:[END]
 
 [Container 429]
 429-0:@There's a large button here.[WAIT]@Press it and see what happens?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-429-0E:
+429-0E:@Un botón muy llamativo.[WAIT]@¿Quieres pulsarlo y ver qué pasa?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 429-1:[END]
-429-1E:
+429-1E:[END]
 
 [Container 430]
 430-0:@Are you TRYING to get caught?![END]
-430-0E:
+430-0E:@¡¿En serio QUIERES que te pillen?![END]
 430-1:@Nwehehehehe![WAIT]@You pathetic fools.[WAIT]@There's nowhere to run now![WAIT]@Nwehehehehe![END]
-430-1E:
+430-1E:@¡Ñiejejejeje![WAIT]@Pobres idiotas.[WAIT]@¡Estáis acorralados![WAIT]@¡Ñiejejejeje![END]
 430-2:@You've been a real thorn in our side, you know[BREAK]  that?[END]
-430-2E:
+430-2E:@Sois como una piedrecita en el zapato,[BREAK]  una especialmente molesta...[END]
 430-3:@What's funniest of all is that happiness[BREAK]  could've been yours[WAIT]  had you simply stayed in Tazmily and lived[BREAK]  quietly, without a care in the world.[END]
-430-3E:
+430-3E:@Y pensar que podríais haber conseguido[BREAK]  la verdadera felicidad...[WAIT]  si tan sólo os hubierais quedado en Tazmily,[BREAK]  ajenos a cualquier tipo de preocupación.[END]
 430-4:@Alright. It's all set, then?[WAIT]@I'll be done here soon, so leave the Mother[BREAK]  Porkship on standby up above.[END]
-430-4E:
+430-4E:@Bien. ¿Está todo listo?[WAIT]@Voy a acabar con esto en un segundo, así que[BREAK]  id preparando la Cerdinave nodriza.[END]
 430-5:@Thunder Tower is no longer usable.[WAIT]@But this is the perfect chance to eliminate the[BREAK]  whole lot of you in one fell swoop.[WAIT]@It's a bit much for three lousy rats, but our[BREAK]  king just loves being flashy.[WAIT]@So I've decided that you and Thunder Tower[BREAK]  can disappear flashily together.[END]
-430-5E:
+430-5E:@Esta torre ha quedado para el arrastre.[WAIT]@Pero es la ocasión perfecta para eliminaros,[BREAK]  panda de sabandijas.[WAIT]@Es más de lo que os merecéis, pero a nuestro[BREAK]  soberano le encanta lo ostentoso.[WAIT]@Y por eso he decidido haceros desaparecer[BREAK]  ostentosamente, junto con esta torre.[END]
 430-6:@Well, looks like my ride is here.[WAIT]@Later days, pals![END]
-430-6E:
+430-6E:@Bueno, parece que es hora de irse.[WAIT]@¡Hasta nunca, amigos míos![END]
 430-7:@Okay, all set![WAIT]@Destroy Thunder Tower![END]
-430-7E:
+430-7E:@¡Todo listo![WAIT]@¡Detonad la Torre del trueno![END]
 430-8:@Well, [LUCAS 23 02 00].[WAIT]@We haven't known each other long, but it's[BREAK]  been fun! I'll never forget about you guys![WAIT]@Nwehehehehe![BREAK]@Nweeeeeeehehehehe![END]
-430-8E:
+430-8E:@Bueno, [LUCAS 23 02 00].[WAIT]@¡Ha sido divertido mientras duró![BREAK]  ¡Nunca os olvidaré![WAIT]@¡Ñiejejejeje![BREAK]@¡Ñieeeeeeejejejeje![END]
 430-9:@...heh?![0C FF 5A 00][END]
-430-9E:
+430-9E:@¡¿...Eh?![0C FF 5A 00][END]
 430-10:@...Wha..?![0C FF 5A 00][END]
-430-10E:
+430-10E:@¡¿...Qu..?![0C FF 5A 00][END]
 430-11:@Alright! Let's grab onto it![END]
-430-11E:
+430-11E:@¡Deprisa! ¡Subamos![END]
 430-12:@Rope Snake! You're up![END]
-430-12E:
+430-12E:@¡Serpicuerda! ¡Ahora![END]
 430-13:[END]
-430-13E:
+430-13E:[END]
 
 [Container 431]
 431-0:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a little unstable.[WAIT]@Please be careful![END]
-431-0E:
+431-0E:@El nivel de energí ha disminuido últimamente,[BREAK]  así que la maquinaria está un poco inestable.[WAIT]@¡Tenga cuidado![END]
 431-1:@The door is firmly shut.[END]
 431-1E:@La puerta está firmemente cerrada.[END]
 // Repeats: 36-27, 96-27, 180-27, 181-27, 182-27, 182-33, 192-27, 327-27, 328-27, 329-27, 330-27, 331-27, 332-27, 373-27, 374-27, 375-27, 376-27, 377-27, 378-27, 379-27, 431-1
 431-2:@Power levels have been low lately, so some of[BREAK]  the machinery in the tower is a tad unstable.[WAIT]@I wish the guys in the generator room would[BREAK]  get their act together.[END]
-431-2E:
+431-2E:@El nivel de energía ha disminuido últimamente[BREAK]  así que la maquinaria está algo inestable.[WAIT]@Ya podrían espabilar un poco,[BREAK]  los de la sala del generador.[END]
 431-3:@Hey, you guys! You're suspicious![WAIT]@You're here to destroy Thunder Tower, aren't[BREAK]  you?![WAIT][PAUSE 2A 00]  ...That's what I'd say if any suspicious people[BREAK]  snuck inside.[WAIT]@So, as you can see, security here is airtight.[END]
-431-3E:
+431-3E:@¡Eh, vosotros! ¡Sois muy sospechosos![WAIT]@¡Estáis planeando destruir la Torre del trueno,[BREAK]  ¿verdad?![WAIT][PAUSE 2A 00]  ...Es lo que diría si apareciese un grupo[BREAK]  de gente sospechosa.[WAIT]@Como veis, la seguridad aquí es férrea.[END]
 431-4:@This is your common, everyday house plant.[END]
-431-4E:
+431-4E:@La típica planta de interior.[END]
 431-5:[END]
-431-5E:
+431-5E:[END]
 
 [Container 432]
 432-0:[END]
-432-0E:
+432-0E:[END]
 432-1:[END]
-432-1E:
+432-1E:[END]
 
 [Container 435]
 435-0:@If this catfish doesn't work hard, we'll run out[BREAK]  of power![WAIT]@And if that happens, our mean, scary boss will[BREAK]  get mad.[WAIT]@And if that happens, I'll get lumps on my head.[WAIT]@So please work hard, catfish![END]
-435-0E:
+435-0E:@Si este siluro no se esfuerza,[BREAK]  nos vamos a quedar sin energía.[WAIT]@Y si eso ocurre, nuestro malvado jefe[BREAK]  se va a poner hecho una fiera.[WAIT]@Y si eso ocurre, yo voy a acabar en el hospital.[WAIT]@Así que, ¡esfuérzate, siluro![END]
 435-1:@I hear rice with egg on top is all the rage lately.[WAIT]@Is that like "going back to basics" or[BREAK]  something?[WAIT]@I don't really get...[BREAK][PAUSE 5A 00]  Ahh! C- Commander![WAIT]@The "rice with egg on top" I just mentioned...[WAIT]  ...It's actually a technical term meaning that[BREAK]  the generator's danger...[PAUSE 4E 00] is in danger![END]
-435-1E:
+435-1E:@El arroz con huevos es lo más in del momento.[WAIT]@¿Podría ser que la gente añora[BREAK]  su encanto y sencillez?[WAIT]@Yo, personalmente...[BREAK][PAUSE 5A 00]  ¡Ah! ¡C-comandante![WAIT]@Eso del "arroz con huevos", estooo...[WAIT]  ...es un argot técnico... significa queee...[BREAK]  el generadooor...[PAUSE 4E 00] ¡está en peligro! ¡Eso![END]
 435-2:@Commander![WAIT]@"Rice with egg on top" equals "the generator is[BREAK]  in danger"...[WAIT]  Have you memorized that?[END]
-435-2E:
+435-2E:@¡Comandante![WAIT]@¡"Arroz con huevos" significa[BREAK]  "el generador está en peligro"...[WAIT]  ¡No lo olvide![END]
 435-3:@Oh, yes. Mr. Fassad is here at Thunder Tower.[WAIT][PAUSE 10 00]@He seems the same as ever.[END]
-435-3E:
+435-3E:@Oh, sí. El Sr. Falhaz también está aquí.[WAIT][PAUSE 10 00]@Parece el mismo de siempre.[END]
 435-4:@I wish they would make some new, angry[BREAK]  catfish at the Chimera Lab.[WAIT]@Huh?! You don't know about the Chimera Lab?![WAIT]@Surely you're joking again![END]
-435-4E:
+435-4E:@OjaIá que creen algún nuevo tipo de siluro[BREAK]  en el Laboratorio quimera.[WAIT]@¡¿Eh?! ¡¿Que qué es el Laboratorio quimera?![WAIT]@¡Muy bueno, comandante![END]
 435-5:@An electric catfish.[WAIT]@It's extremely weak now.[END]
-435-5E:
+435-5E:@Un siluro eléctrico.[WAIT]@Parece estar muy débil.[END]
 
 [Container 437]
 437-0:@Sir! No suspicious people have passed through[BREAK]  here, sir![END]
-437-0E:
+437-0E:@¡Señor! ¡No hemos visto a nadie sospechoso[BREAK]  por aquí, señor![END]
 437-1:@Oh, are you here to check the latest stats on[BREAK]  our lightning damage?[WAIT]  It's zap-kaboom perfect![END]
-437-1E:
+437-1E:@Oh, ¿habéis venido a comprobar[BREAK]  la instalación eléctrica?[WAIT]  ¡Chissssspeante![END]
 
 [Container 438]
 438-0:@Trust me. You definitely don't wanna get[BREAK]  zapped by these things.[END]
-438-0E:
+438-0E:@Hacedme caso. No os gustaría acabar[BREAK]  electrocutados por estas cosas.[END]
 438-1:[END]
-438-1E:
+438-1E:[END]
 
 [Container 439]
 439-0:@Today's weather forecast...[WAIT]@Tazmily region:[BREAK][PAUSE 30 00]  Sunny,[PAUSE 30 00] with occasional[PAUSE 30 00] lightning in places.[WAIT]@Mt. Oriander region, Cerulean Beach region:[BREAK]  Lightning, once preparations are complete.[END]
-439-0E:
+439-0E:@La previsión del tiempo...[WAIT]@Tazmily:[BREAK][PAUSE 30 00]  Soleado,[PAUSE 30 00] con posibilidad[PAUSE 30 00] de rayos.[WAIT]@Monte Oriander y Playa celeste:[BREAK]  Rayos, una vez acaben los preparativos.[END]
 439-1:@Tomorrow's lightning schedule has arrived,[BREAK]  so I'm trying my best to program it all in.[WAIT]  It's tough work, especially when dry-eye[BREAK]  starts to set in.[END]
-439-1E:
+439-1E:@Ya tenemos el planning de rayos de mañana,[BREAK]  así que estoy programándolo todo.[WAIT]  Es un trabajo muy duro, siempre acabo[BREAK]  con los ojos enrojecidos.[END]
 439-2:@Yeah, I went and visited that Tazmily place for[BREAK]  the first time the other day.[WAIT]@And then, well... I'm not quite sure how to put[BREAK]  it, but... charred?[WAIT]  People who disobeyed all had their houses[BREAK]  charred.[WAIT]@We're doing terrible things here, aren't we?[END]
-439-2E:
+439-2E:@El otro día fui a visitar Tazmily[BREAK]  por primera vez desde que estoy aquí.[WAIT]@Y, bueno... el panorama que me encontré...[BREAK]  me dejó sin palabras.[WAIT]  Las casas de quienes se resisten[BREAK]  han sido carbonizadas por completo.[WAIT]@Lo que estamos haciendo es terrible.[END]
 439-3:@No problem here.[PAUSE 60 00][BREAK]  ...is what I'd like to say,[WAIT]  but the generator defense system partway up[BREAK]  the tower is really buggy.[WAIT]@We'd be in such huge trouble if any bad guys[BREAK]  snuck in![WAIT]@Yeah, that generator defense system further[BREAK]  up the tower...[WAIT]  Things could get real ugly quick.[END]
-439-3E:
+439-3E:@Nada interesante.[PAUSE 60 00][BREAK]  ...o eso me gustaría a mí decir...[WAIT]  El sistema de defensa del generador[BREAK]  no está funcionando como debería.[WAIT]@¡Sería muy desastroso que el enemigo[BREAK]  se nos colase por allí![WAIT]@Sí, la sala del generador, en lo más alto[BREAK]  de esta torre...[WAIT]  Las consecuencias serían nefastas.[END]
 439-4:@The tower part of Thunder Tower is full of[BREAK]  areas that are always short-circuiting.[WAIT]@It's really dangerous, so please don't go up[BREAK]  there.[END]
-439-4E:
+439-4E:@La parte superior de la Torre del trueno[BREAK]  genera un montón de electricidad.[WAIT]@Es muy peligroso, así que no suba[BREAK]  ahí arriba bajo ningún concepto.[END]
 439-5:@Commander.[WAIT]@Have you changed your party members?[WAIT]@And that dog-like fellow in the very back...[WAIT][PAUSE 3C 00]  He certainly is dog-like. Like the way he walks,[BREAK]  for instance.[WAIT][PAUSE 1E 00]@That's so cute.[END]
-439-5E:
+439-5E:@Comandante.[WAIT]@¿Ha cambiado de escolta?[WAIT]@Y ese soldado con pinta de perro...[WAIT][PAUSE 3C 00]  Sí que parece un perro,[BREAK]  con esa forma de andar...[WAIT][PAUSE 1E 00]@Qué mono.[END]
 439-6:@If the generator is destroyed, Thunder Tower[BREAK]  will collapse![WAIT]@So a special type of trap's been installed in the[BREAK]  generator![WAIT]@I suppose in RPG terms, it would be your[BREAK]  so-called "mid-boss"![END]
-439-6E:
+439-6E:@¡Si el generador es destruido,[BREAK]  la torre se va a venir abajo![WAIT]@¡Pero este cuenta con una trampa[BREAK]  secreta muy especial![WAIT]@¡En jerga de RPG, esto es lo que se conoce[BREAK]  como "minijefe"![END]
 439-7:[END]
-439-7E:
+439-7E:[END]
 
 [Container 440]
 440-0:@Oh, apparently Mr. Fassad is on his way here.[WAIT]@Commander! Weren't you with him?[END]
-440-0E:
+440-0E:@Al parecer, el Sr. Falhaz se dirige hacia aquí.[WAIT]@¡Comandante! ¿No estaba usted con él?[END]
 440-1:@No problem here.[PAUSE 40 00][BREAK]  .[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]is what would be nice to say,[WAIT]  but there's way too much stuff plugged into[BREAK]  this one power outlet.[END]
-440-1E:
+440-1E:@Nada interesante.[PAUSE 40 00][BREAK]  .[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]o eso es lo que me gustaría decir...[WAIT]  Hay demasiados cables conectados[BREAK]  a este enchufe.[END]
 
 [Container 441]
 441-0:@BOO!![WAIT]@GWAAARGH!![WAIT]@BLAAAH!![WAIT]@...They seem to have grown used to our[BREAK]  scare tactics lately.[WAIT]  They never get surprised anymore.[END]
-441-0E:
+441-0E:@¡¡BU!![WAIT]@¡¡UAAAH!![WAIT]@¡¡BLAAAH!![WAIT]@...Parece que se han vuelto inmunes[BREAK]  a nuestros sustos.[WAIT]  Ya no les afectan en absoluto.[END]
 441-1:@BOO!![WAIT]@GWAAARGH!![WAIT]@BLAAAH!![END]
-441-1E:
+441-1E:@¡¡BU!![WAIT]@¡¡UAAAH!![WAIT]@¡¡BLAAAH!![END]
 441-2:@Present power output.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  Just a little over 10 kilozaps...[WAIT]@Yeah. Power output's really fallen.[END]
-441-2E:
+441-2E:@Balance de energía actual.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00][BREAK]  Algo más de 10 kilozapios...[WAIT]@Sí. Las cifras han caído en picado.[END]
 441-3:@You can do it, catfish![WAIT]@Give it all you got! Purr-severe![END]
-441-3E:
+441-3E:@¡Vamos, siluros![WAIT]@¡Podéis hacerlo![END]
 441-4:@We use the electric catfish in this room to[BREAK]  generate our electricity![END]
-441-4E:
+441-4E:@¡Toda la energía proviene de estos[BREAK]  siluros eléctricos![END]
 441-5:@The only person up above is our boss.[WAIT]@Our boss is incredibly scary... and frightening.[WAIT]@But he's a hardcore DCMC fan,[WAIT]  so giving him DCMC merchandise will put him[BREAK]  in a good mood just like that.[END]
-441-5E:
+441-5E:@Sólo el jefe puede subir al piso de arriba.[WAIT]@El jefe es increíblemente feroz... y aterrador.[WAIT]@Pero es fan a muerte de los DCMC.[WAIT]  Si le das un artículo de los DCMC se vuelve[BREAK]  manso como un corderillo.[END]
 441-6:@A DCMC poster that shouldn't be on sale yet.[WAIT]@It's in perfect, mint condition.[WAIT]  (Another one is being kept in storage.)[END]
-441-6E:
+441-6E:@Un póster no comercializado de los DCMC.[WAIT]@Está en perfectas condiciones.[WAIT]  (Tiene otro igual sin desprecintar.)[END]
 441-7:@Limited-edition fan club DCMC figurines.[WAIT]@They've been very delicately crafted.[WAIT]  (Another set is being kept in storage.)[END]
-441-7E:
+441-7E:@Set de figuras de los DCMC de edición limitada.[WAIT]@Su nivel de detalle es asombroso.[WAIT]  (Tiene otro set igual sin desprecintar.)[END]
 441-8:@A DCMC flag distributed to DCMC fan club[BREAK]  members.[WAIT]@The DCMC logo is boldly printed on it.[WAIT]  (Three more are being kept in storage.)[END]
-441-8E:
+441-8E:@Una bandera exclusiva del[BREAK]  club de fans de los DCMC.[WAIT]@Lleva el sello de autenticidad de los DCMC.[WAIT]  (Tiene otras tres sin desprecintar.)[END]
 441-9:@Electric catfish.[WAIT]@They seem to be lacking in spirit.[END]
-441-9E:
+441-9E:@Siluros eléctricos.[WAIT]@Se les ve un tanto desganados.[END]
 441-10:@Yo.[WAIT]@So you came all the way here to visit me,[BREAK]  kiddos?[WAIT]@You got the best of me last time only 'cause I[BREAK]  was in my ordinary clothes...[WAIT]@But now that I'm in my combat suit, it's[BREAK]  "Handle With Care" time![END]
-441-10E:
+441-10E:@Ey.[WAIT]@¿Habéis venido a verme, niñatos?[WAIT]@La otra vez tuvísteis suerte de haberme pillado[BREAK]  con mi ropa de calle...[WAIT]@¡Pero ahora que llevo mi traje de combate,[BREAK]  es la hora de los mamporros![END]
 441-11:@You're back, huh?[WAIT]@I'm irritated beyond belief 'cause I missed my[BREAK]  chance to buy a DCMC pamphlet.[WAIT]@Graahh! I'm gonna take my anger out on you![END]
-441-11E:
+441-11E:@¿Otra vez vosotros?[WAIT]@Estoy que muerdo, por no haberme podido[BREAK]  comprar esos panfletos de los DCMC.[WAIT]@¡Grrrr! ¡Voy a desquitarme con vosotros![END]
 441-12:@Nwehehehehe![WAIT]@You may think you're a good impersonator, but[BREAK]  you can't fool my eyes![END]
-441-12E:
+441-12E:@¡Ñiejejejeje![WAIT]@¡Esos disfraces podrán ser convincentes,[BREAK]  pero a mí no me la coláis![END]
 441-13:@You're the very definition of the phrase "like[BREAK]  a moron flying into a flame", [LUCAS 23 02 00]![END]
-441-13E:
+441-13E:@Sois como polillas volando hacia el fuego...[BREAK]  ¡hacia vuestra propia perdición![END]
 441-14:@The pain and woe I went through after that[BREAK]  Drago sent me flying...[WAIT]@I really must repay that favor in full.[WAIT]@Nwehehehehe!![END]
-441-14E:
+441-14E:@El dolor y el pesar que he sufrido cuando[BREAK]  ese Drago me mandó por los aires...[WAIT]@Estaré encantado de devolveros el favor.[WAIT]@¡¡Ñiejejejeje!![END]
 // note that this is similar to what he says in the volcano
 441-15:@Do you honestly think you can escape?![BREAK]  Nwehehehehe...![END]
-441-15E:
+441-15E:@¡¿En serio os creéis que podéis escapar?![BREAK]  ¡Ñiejejejeje...![END]
 
 [Container 442]
 442-0:@Fassad and the others have the area below[BREAK]  cut off.[END]
-442-0E:
+442-0E:@Falhaz y los suyos han cortado el acceso[BREAK]  al nivel inferior.[END]
 442-1:@...Whew.[WAIT]@That's better. Much easier to move around[BREAK]  now.[END]
-442-1E:
+442-1E:@...Fiuu.[WAIT]@Por fin. Ahora podremos movernos[BREAK]  con más facilidad.[END]
 442-2:@Oh, but it looked pretty good on you.[WAIT]@Ahahaha![END]
-442-2E:
+442-2E:@Oh, pero si te quedaba muy bien.[WAIT]@¡Jajaja![END]
 442-3:[END]
-442-3E:
+442-3E:[END]
 
 [Container 443]
 443-0:[HOTSPRING 00 00][END]
@@ -15367,594 +15367,594 @@
 443-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 443-27:@I AM LI'L MISS MARSHMALLOW.[WAIT]@THIS IS MASTER KING P'S ROOM.[END]
-443-27E:
+443-27E:@SOY LA SEÑORITA MALVAVISCO.[WAIT]@ESTE ES EL CUARTO DEL REY P.[END]
 443-28:@IF YOU TAKE MASTER KING P'S VERY[BREAK]  PRECIOUS "FRIEND'S YO-YO" I WILL BE MAD.[WAIT]  MAD! MAD![BREAK]  VERY MAD MAD MAD MAD!!!!!![END]
-443-28E:
+443-28E:@SI OSAS LLEVARTE EL PRECIADO[BREAK]  "YOYÓ DE AMIGO" DE MI AMO...[WAIT]  ¡ME PONDRÉ FURIOSA![BREAK]  ¡¡¡MUY, MUY, MUY FURIOSA!!![END]
 // have to manually write the name here so it will be all-caps
 443-29:@YOU REAP WHAT YOU SOW SO SEW SO-SO[WAIT]  GREETINGS CHEESE POPSICLE[WAIT]  THE NUMBER YOU HAVE DIALED[WAIT]  IS CURRENTLY OUT OF PORK CHOPS[WAIT]  FROM EAST TO WEST IT GOES GOES[WAIT]  BROKEN BROKEN[WAIT]  OH SO SOW SEW BROKEN[WAIT]  *whir* *clank* *clunk*[END][END]
-443-29E:
+443-29E:@COSECHA LO QUE COSES[WAIT]  BIENVENIDO POLO DE QUESO[WAIT]  EL NÚMERO QUE HA MARCADO[WAIT]  ESTÁ FUERA DE CHULETÓN DE CERDO[WAIT]  DEL ESTE AL ESTE Y OTRA VEZ[WAIT]  AVERÍA AVERÍA[WAIT]  OH COSECHA AVERÍAS[WAIT]  *clink* *clank* *clunk*[END][END]
 // had to alter a few things here to make more sense in translation, just try to keep the same general feel and such intact
 443-30:@Hello! How are you today, Your Highness?[WAIT]  I can select a nice song for you, if you'd like.[WAIT]@Would you like to listen to something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-443-30E:
+443-30E:@¡Hola! ¿Cómo se encuentra hoy, Su Majestad?[WAIT]  Si lo desea, puedo ponerle una canción.[WAIT]@¿Le apetecería escuchar algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 443-31:@Great! Then my selection will be...[END]
-443-31E:
+443-31E:@¡Genial! A ver qué le parece esto...[END]
 443-32:@Oh.[END]
-443-32E:
+443-32E:@Oh.[END]
 // Repeats: 443-32, 455-4
 443-33:@There are many still-unopened presents here.[END]
-443-33E:
+443-33E:@Todavía hay muchos regalos sin abrir.[END]
 443-34:@A type of car you've never seen before.[END]
-443-34E:
+443-34E:@Un tipo de coche que nunca habías visto.[END]
 443-35:@An unflying saucer.[END]
-443-35E:
+443-35E:@Un platillo no-volante.[END]
 443-36:@Tiny cars are speeding around.[END]
-443-36E:
+443-36E:@Varios coches en miniatura.[END]
 443-37:@A big, fluffy teddy bear.[WAIT][PAUSE 20 00]@It almost seems like it could take your place[BREAK]  for you...[END]
-443-37E:
+443-37E:@Un osito de peluche.[WAIT][PAUSE 20 00]@Sientes como si pudiera aguantar[BREAK]  una paliza en tu lugar...[END]
 443-38:@A guitar.[WAIT]  Strum, strum.[END]
-443-38E:
+443-38E:@Una guitarra.[WAIT]  Paung, paung, paung.[END]
 443-39:@What could this be?[END]
-443-39E:
+443-39E:@¿Qué será esto?[END]
 443-40:@A radio-controlled car.[END]
-443-40E:
+443-40E:@Un coche de radiocontrol.[END]
 443-41:@A bicycle.[WAIT]@Easy to ride if you take it gently.[END]
-443-41E:
+443-41E:@Una bicicleta.[WAIT]@No parece que puedas montarte.[END]
 443-42:@A rubber ducky bath toy.[END]
-443-42E:
+443-42E:@Un patito de goma.[END]
 443-43:@A robot and such.[END]
-443-43E:
+443-43E:@Robots y esas cosas.[END]
 443-44:@A soccer ball.[END]
-443-44E:
+443-44E:@Un balón de fútbol.[END]
 443-45:[END]
-443-45E:
+443-45E:[END]
 
 [Container 444]
 444-0:@...You hear an odd sound.[END]
-444-0E:
+444-0E:@...Has oído un extraño sonido.[END]
 444-1:@Touch the machine?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-444-1E:
+444-1E:@¿Quieres tocar la máquina?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 444-2:@H-hey, [LUCAS 22 03 00]! Are you alright?![END]
-444-2E:
+444-2E:@¡E-eh, [LUCAS 22 03 00]! ¡¿Estás bien?![END]
 444-3:@Something awoke inside [LUCAS 23 02 00]![EVENT][END]
 444-3E:@¡Algo despertó dentro de [LUCAS 23 02 00]![EVENT][END]
 // Repeats: 42-40, 203-40, 263-40, 444-3
 444-4:@[LUCAS 22 03 00] learned PK Flash![PAUSE 80 00][END]
-444-4E:
+444-4E:@¡[LUCAS 22 03 00] aprendió PK Flash![PAUSE 80 00][END]
 444-5:@Beware of electrical discharges![END]
-444-5E:
+444-5E:@¡Cuidado con las descargas![END]
 
 [Container 445]
 445-0:@Who the hey are you?![WAIT]@Actually, I guess it doesn't matter, huh?[WAIT]  Just the fact you were able to come this far[BREAK]  is awesome...[PAUSE 60 00] which makes YOU awesome![WAIT]@I think I might be in love![WAIT]@My name is Sheep.[WAIT]@Don't ask any more than that.[WAIT]@Trying to seem mysterious is my hobby.[END]
-445-0E:
+445-0E:@¡¿Y vosotros quién narices sois?![WAIT]@Bueno, supongo que no importa.[WAIT]  Que hayáis logrado llegar hasta aquí es algo[BREAK]  alucinante...[PAUSE 60 00] ¡lo cual os HACE alucinantes![WAIT]@¡Creo que me acabo de enamorar![WAIT]@Me llamo Ovejo.[WAIT]@No puedo deciros nada más.[WAIT]@Hacerme el misterioso es mi pasión.[END]
 445-1:@SUSPICIOUS INDIVIDUALS DETECTED INSIDE[BREAK]  GENERATOR ROOM![WAIT]@ACTIVATING DEFENSE SYSTEM![WAIT]@REPEAT![WAIT]@ACTIVATING DEFENSE SYSTEM![WAIT]@ALL PERSONNEL, IT WOULD BE NICE IF YOU'D[BREAK]  EVACUATE IMMEDIATELY![END]
-445-1E:
+445-1E:@¡INDIVIDUOS SOSPECHOSOS[BREAK]  EN LA SALA DEL GENERADOR![WAIT]@¡ACTIVANDO SISTEMA DE DEFENSA![WAIT]@¡REPITO![WAIT]@¡ACTIVANDO SISTEMA DE DEFENSA![WAIT]@¡A TODO EL PERSONAL, ESTARÍA BIEN[BREAK]  SI EVACUASEN INMEDIATAMENTE![END]
 445-2:@MORE SUSPICIOUS INDIVIDUALS DETECTED[BREAK]  INSIDE GENERATOR ROOM![WAIT]@ACTIVATING DEFENSE SYSTEM![WAIT]@REPEAT![WAIT]@ACTIVATING DEFENSE SYSTEM![WAIT]@ALL SECURITY PERSONNEL, IT WOULD BE NICE[BREAK]  IF YOU'D EVACUATE IMMEDIATELY![END]
-445-2E:
+445-2E:@¡MÁS INDIVIDUOS SOSPECHOSOS[BREAK]  EN LA SALA DEL GENERADOR![WAIT]@¡ACTIVANDO SISTEMA DE DEFENSA![WAIT]@¡REPITO![WAIT]@¡ACTIVANDO SISTEMA DE DEFENSA![WAIT]@¡A TODO EL PERSONAL, ESTARÍA BIEN[BREAK]  SI EVACUASEN INMEDIATAMENTE![END]
 445-3:[END]
-445-3E:
+445-3E:[END]
 
 [Container 453]
 453-0:@As I watch this Clayman assembly line...[WAIT]  ...time becomes like a blur to me.[WAIT]@Zzz...[END]
-453-0E:
+453-0E:@Estar mirando esta línea de montaje...[WAIT]  ...hace que me entre sueño.[WAIT]@Zzz...[END]
 453-1:@Zzz...[END]
-453-1E:
+453-1E:@Zzz...[END]
 453-2:@When Claymen break down or malfunction,[BREAK]  they take themselves to the garbage area.[WAIT]  Talk about convenient.[END]
-453-2E:
+453-2E:@Cuando los Arcillosos se estropean,[BREAK]  se van al vertedero ellos solitos.[WAIT]  Es muy práctico.[END]
 453-3:@This is an "Instant Revitalizing Machine".[WAIT]@If you're ever tired, just take a rest in it.[END]
-453-3E:
+453-3E:@Esto es un "Dispositivo de revitalización".[WAIT]@Es ideal para cuando uno está cansado.[END]
 453-4:@Oh, hello, Commander.[WAIT]@What's that? You're looking for a Clayman?[WAIT]@Huh? A Clayman that's gone haywire?[WAIT]@Come now, Commander.[WAIT]@I know there's no need for me to say this,[BREAK]  but our product development is flawless![WAIT]  We've never made anything that might go[BREAK]  berserk or malfunction! No-siree![END]
-453-4E:
+453-4E:@Oh, saludos, comandante.[WAIT]@¿Qué? ¿Que está buscando a un Arcilloso?[WAIT]@¿Cómo? ¿Un Arcilloso fuera de control?[WAIT]@Vamos, comandante.[WAIT]@¡Sé que no hace falta que se lo recuerde,[BREAK]  pero nuestros Arcillosos son intachables![WAIT]  ¡Jamás hemos fabricado herramientas[BREAK]  defectuosas! ¡Señor, no, señor![END]
 453-5:@I saw a broken-down Clayman rush out the[BREAK]  back door super-fast. Yup.[WAIT]@When Claymen break, they climb into garbage[BREAK]  trucks to get taken to the trash dump. Yup.[WAIT]@When I think about that... it makes me feel[BREAK]  kinda sad.[WAIT]  Yup.[END]
-453-5E:
+453-5E:@Vi a un Arcilloso averiado salir corriendo[BREAK]  por la puerta de atrás. Sip.[WAIT]@Cuando los Arcillosos se estropean, se suben[BREAK]  al primer camión que vaya al vertedero. Sip.[WAIT]@Si uno se para a pensar en ello...[BREAK]  es un poco triste.[WAIT]  Sip.[END]
 453-6:@I just saw an out-of-control Clayman run out[BREAK]  the back door.[WAIT]@If you're looking for it, you better hurry[WAIT]  before it gets stuffed inside a garbage truck[BREAK]  and taken to the dump.[WAIT]@Still, what in the world did you hide in it?[WAIT]  It must've been something crazy to get you in[BREAK]  such a tizzy.[WAIT]@Oh? You can't say?[WAIT]@It must be something embarrassing then, huh?[END]
-453-6E:
+453-6E:@Acabo de ver a un Arcilloso fuera de control[BREAK]  ahora mismo.[WAIT]@Si está yendo tras él, será mejor que[WAIT]  se apresure antes de que se suba a un camión[BREAK]  y se lo lleven al vertedero.[WAIT]@¿Qué escondió en su interior, exactamente?[WAIT]  Debe tratarse de algo importante,[BREAK]  si le tiene tan preocupado.[WAIT]@¿Oh? ¿Es un secreto?[WAIT]@Debe ser algo realmente embarazoso.[END]
 453-7:@A fire hydrant. Its hose is neatly wrapped up.[END]
-453-7E:
+453-7E:@Una boca de incendios.[END]
 // Repeats: 453-7, 454-20
 
 [Container 454]
 454-0:@Hey, do you take your mask off when you go[BREAK]  to the bathroom?[END]
-454-0E:
+454-0E:@Oye, ¿tú te quitas la máscara[BREAK]  cuando vas al baño?[END]
 454-1:@No, I leave it on.[WAIT]@Why? Do you take yours off?[WAIT]@You go through all that trouble?[BREAK]  In the bathroom?[WAIT]  And then you go through all the trouble of[BREAK]  putting it back on when you're done?[END]
-454-1E:
+454-1E:@No, ¿por?[WAIT]@¿Tú sí lo haces?[WAIT]@¿Te la quitas cada vez que vas al baño?[WAIT]  ¿Con el latazo que es tener que[BREAK]  volver a ponérsela después?[END]
 454-2:@Yeah, I go through the trouble.[WAIT]@I mean, there IS a place in there to hang your[BREAK]  mask and all.[END]
-454-2E:
+454-2E:@Sí, siempre me la quito.[WAIT]@¿Tan raro es? Si hasta HAY[BREAK]  una percha para colgarla.[END]
 454-3:@Man, you're dumb![WAIT]@That's not for you to hang your mask![WAIT]@That's where you hang bags and umbrellas[BREAK]  and stuff like that![END]
-454-3E:
+454-3E:@¡Tío, tú estás tonto![WAIT]@¡Eso no es para que cuelgues la máscara![WAIT]@¡Ahí es donde se cuelgan las bolsas,[BREAK]  los paragüas y esas cosas![END]
 454-4:@...Oh.[BREAK]  I always thought it was for masks.[WAIT]@So THAT'S why it's always been so hard to[BREAK]  hang my mask there...[END]
-454-4E:
+454-4E:@...Oh.[BREAK]  Yo creía que era para las máscaras.[WAIT]@Así que POR ESO siempre me[BREAK]  costaba tanto colgarla...[END]
 454-5:@Hey, you! What's your guys' problem?[BREAK]  What're you lookin' at?![END]
-454-5E:
+454-5E:@¡Ey, vosotros! ¿Cuál es vuestro problema?[BREAK]  ¡¿Qué estáis mirando?![END]
 454-6:@Ahh! He's...![END]
-454-6E:
+454-6E:@¡Aah! ¡Es...![END]
 454-7:@What's all the ruckus?![WAIT]@What in blazes are you...[END]
-454-7E:
+454-7E:@¡¿Qué es todo este jaleo?![WAIT]@¿Qué narices...?[END]
 454-8:@Sir![WAIT]@I wasn't aware you were here, sir![WAIT]  Please forgive my rudeness![END]
-454-8E:
+454-8E:@¡Señor![WAIT]@¡No le había visto, señor![WAIT]  ¡Disculpe mis modales![END]
 454-9:@Wearing such a shabby outfit will set a bad[BREAK]  example to the men, Commander.[WAIT]@Here, I'll prepare a change of clothes for you.[BREAK]  Please put them on right away, sir.[WAIT]@Likewise for the folks accompanying you, too.[END]
-454-9E:
+454-9E:@Comandante, ese atuendo tan raído[BREAK]  es un mal ejemplo para las tropas.[WAIT]@Aquí tiene una muda limpia, señor.[BREAK]  Cámbiese de inmediato, por favor.[WAIT]@Y su escolta también.[END]
 454-10:@All right. That's better.[WAIT]@Well, I had better return to my duties![END]
-454-10E:
+454-10E:@Bien. Mucho mejor.[WAIT]@¡Me vuelvo a mi puesto, señor![END]
 454-11:@Looks like there's been some sort of[BREAK]  misunderstanding, but it's perfect for us.[WAIT]@Now let's go find that thing before they figure[BREAK]  out who we are.[END]
-454-11E:
+454-11E:@Parece que ha habido algún tipo de[BREAK]  confusión, pero nos viene de perlas.[WAIT]@Encontremos a esa cosa antes[BREAK]  de que nos descubran.[END]
 454-12:@Eeep![BREAK]  I- I'm very sorry, sir![END]
-454-12E:
+454-12E:@¡Ups![BREAK]  ¡L-lo siento, señor![END]
 454-13:@F-frogive me, sir! I'm always making mistakes![END]
-454-13E:
+454-13E:@¡Pre-predómene, señor![BREAK]  ¡Siempre estoy cometiendo errores![END]
 // this is supposed to be incorrectly spelled. added that second sentence to make it more clear it's a mistake
 454-14:@U-umm...[WAIT]  H-h-here is a present from the bottom of my[BREAK]  heart, sir.[WAIT]@I... I had always wanted to do this for you![WAIT]@Not for any weird reason, though! It's strictly[BREAK]  in a friend sense![END]
-454-14E:
+454-14E:@M-mmm...[WAIT]  L-l-le hago este regalo[BREAK]  de todo corazón, señor.[WAIT]@¡LleI... llevaba tiempo queriendo dárselo![WAIT]@¡No, no se haga ideas raras![BREAK]  ¡Es un simple gesto amistoso![END]
 454-15:@Strictly in a friend sense![END]
-454-15E:
+454-15E:@¡Un gesto amistoso! ¡Sólo eso![END]
 // lucas says this sometimes, but I don't know why, I think it's a bug. Both he and the Pigmask say it
 454-16:@I think it's only natural to wonder how Claymen[BREAK]  work.[WAIT]@Basically, we mix this weird stuff in with clay,[WAIT]  and when an electric shock is applied to a lump[BREAK]  of it, it starts moving around.[WAIT]@...Does that help explain it any?[WAIT]  Well, to be honest, I don't really understand[BREAK]  how it works, either.[END]
-454-16E:
+454-16E:@Es normal preguntarse cómo[BREAK]  funcionan los Arcillosos.[WAIT]@Básicamente, ponemos esta cosa en la arcilla,[WAIT]  luego la sometemos a altos niveles de voltaje[BREAK]  y... ¡PUM! La arcilla cobra vida.[WAIT]@...¿Lo ha entendido?[WAIT]  Bueno, si he de serle totalmente sincero,[BREAK]  yo tampoco lo entiendo del todo.[END]
 454-17:@Claymen are made out of ordinary clay, so we[BREAK]  can recycle them over and over.[WAIT]@The guy who thought up this system sure is[BREAK]  smart![WAIT]@What was his name again...?[WAIT]@Ando?[PAUSE 30 00] Antoine?[PAUSE 30 00] Adamantium?[PAUSE 30 00] Androgyny?[WAIT]@...Oh, nuts. I forget.[END]
-454-17E:
+454-17E:@Los Arcillosos están hechos de arcilla común,[BREAK]  y por lo tanto, son reciclables.[WAIT]@¡El tipo que ha ideado este sistema[BREAK]  es todo un genio![WAIT]@¿Cómo se llamaba...?[WAIT]@¿Aldo?[PAUSE 30 00] ¿Antonio?[PAUSE 30 00] ¿Andante?[PAUSE 30 00] ¿Andrógino?[WAIT]@...Oh, porras. Se me ha olvidado.[END]
 454-18:@If left alone, that berserk Clayman'll probably[BREAK]  run into a tree and fall apart or something,[WAIT]  so I dunno, maybe you should just let it go?[END]
-454-18E:
+454-18E:@Si nadie lo detiene, ese Arcilloso demente[BREAK]  va a acabar estrellándose contra algo...[WAIT]  Igual lo mejor es dejarlo a su aire y todo.[END]
 454-19:@The clay here didn't wind up as Claymen.[BREAK]  In other words, it's just ordinary ol' clay.[END]
-454-19E:
+454-19E:@Esta arcilla no ha sido procesada todavía.[BREAK]  Vamos, que es arcilla corriente y moliente.[END]
 454-20:@A fire hydrant. Its hose is neatly wrapped up.[END]
-454-20E:
+454-20E:@Una boca de incendios.[END]
 // Repeats: 453-7, 454-20
 454-21:[END]
-454-21E:
+454-21E:[END]
 
 [Container 455]
 455-0:@There's no admission fee at this theater![WAIT]@We're showing a wonderful adventure movie[BREAK]  personally selected by Master Porky himself![WAIT]@But apparently a stinkbug has snuck inside and[BREAK]  stunk up the place.[WAIT]@I hate having to kill those things. Yuck![END]
-455-0E:
+455-0E:@¡En este cine las entradas son gratis![WAIT]@¡Hoy se emite una película de aventuras[BREAK]  elegida personalmente por el Amo Porky![WAIT]@Pero parece que se nos ha colado[BREAK]  una chinche en la sala.[WAIT]@Y ha dejado un pestazo que... ¡Puaj![END]
 455-1:@Are you the type of person that always has to[BREAK]  sneak behind everything?[END]
-455-1E:
+455-1E:@¿Eres de esa clase de gente que tiene[BREAK]  que estar fisgoneándolo todo o qué?[END]
 455-2:@Oh! Welcome![BREAK]  Can I help you find something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-455-2E:
+455-2E:@¡Oh! ¡Bienvenidos![BREAK]  ¿Puedo ayudarles en algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 455-3:@Please come again![END]
-455-3E:
+455-3E:@¡Vuelvan pronto![END]
 455-4:@Oh.[END]
-455-4E:
+455-4E:@Oh.[END]
 // Repeats: 443-32, 455-4
 455-5:@Please don't come in here through the[BREAK]  employee entrance.[END]
-455-5E:
+455-5E:@Disculpen, esta entrada es sólo[BREAK]  para los empleados.[END]
 455-6:@Apparently, there's some kind of stinky,[BREAK]  smelly bug in the theater...[WAIT]@Maybe I should just blow this popsicle stand.[END]
-455-6E:
+455-6E:@Al parecer, un bicho pestilente[BREAK]  se nos ha colado en el cine...[WAIT]@Espero que el olor no llegue hasta aquí.[END]
 455-7:@Well? How was it?[BREAK]  Was the theater filled with stink?[END]
-455-7E:
+455-7E:@¿Y bien? ¿Qué tal?[BREAK]  ¿Cómo olía el interior del cine?[END]
 455-8:@Oh, [LUCAS 23 02 00].[WAIT]@Are you looking for something?[WAIT]@Whenever you're not really sure what to do,[BREAK]  the theater's the best place to go! Yep![END]
-455-8E:
+455-8E:@Oh, [LUCAS 23 02 00].[WAIT]@¿Estás buscando algo?[WAIT]@¡Cuando uno no sabe muy bien qué hacer,[BREAK]  lo mejor es irse al cine! ¡Sí![END]
 455-9:@Oh![WAIT]@You're here too, [LUCAS 23 02 00]?[WAIT]@I guess everyone from Tazmily is here now.[WAIT]@Eeeeveryone.[END]
-455-9E:
+455-9E:@¡Oh![WAIT]@¿Tú también has venido, [LUCAS 23 02 00]?[WAIT]@Todos los del pueblo deben de estar aquí.[WAIT]@Toditos, todos.[END]
 455-10:@According to my research, stinkbugs appear to[BREAK]  possess a terrific capacity for memorization.[WAIT]@I'd love to study them to find out even more,[BREAK]  but... they're just so stinky![END]
-455-10E:
+455-10E:@Según mis investigaciones, las chinches[BREAK]  tienen una memoria a prueba de bombas.[WAIT]@Me gustaría poder examinarlas más de cerca,[BREAK]  ¡pero es que huelen fatal![END]
 455-11:@My granddaughter is always by my side...[WAIT]@I'm so thankful.[WAIT][PAUSE 3C 00]@I love her[PAUSE 30 00] more than my daughter.[END]
-455-11E:
+455-11E:@Mi nieta siempre está conmigo...[WAIT]@Soy muy afortunada.[WAIT][PAUSE 3C 00]@La quiero[PAUSE 30 00] incluso más que a mi hija.[END]
 455-12:@Grandma didn't really wanna leave Tazmily.[WAIT]@But everyone else left to come here, so...[END]
-455-12E:
+455-12E:@La abuela no quería irse de Tazmily.[WAIT]@Pero como todos pensaban irse, pues...[END]
 455-13:@*rabble* *zabble* *rabble*.[WAIT]@I'm trying to express in words this strange and[BREAK]  creepy feeling in the air.[WAIT]@Heheheh.[WAIT]@*rabble* *zabble* *rabble*.[END]
-455-13E:
+455-13E:@*tarará* *tururú* *tarará*.[WAIT]@Estoy intentando expresar con palabras[BREAK]  la siniestra sensación que me invade.[WAIT]@Jejeje.[WAIT]@*tarará* *tururú* *tarará*.[END]
 455-14:@Whew.[BREAK]@When I'm busy, I'm REALLY busy.[WAIT]@Saying it out loud like this is the only way for[BREAK]  me to relax.[END]
-455-14E:
+455-14E:@Fiuuu.[BREAK]@Cuando estoy ocupado, ESTOY ocupado.[WAIT]@Decirlo en voz alta es la única forma[BREAK]  que tengo de relajarme.[END]
 455-15:[END]
-455-15E:
+455-15E:[END]
 
 [Container 456]
 456-0:@Hey, you![END]
-456-0E:
+456-0E:@¡Eh, vosotros![END]
 // Repeats: 456-0, 476-0
 456-1:@The only ones allowed to run inside the theater[BREAK]  are the stars on the screen![END]
-456-1E:
+456-1E:@¡Los únicos que pueden correr dentro[BREAK]  del cine son los de la pantalla![END]
 // Repeats: 456-1, 476-1
 456-2:@Your guys' leader is locked up in an apartment[BREAK]  building underground.[WAIT]@Huh? You don't know nothin' about no leader?[WAIT]@But your leader wants to see you.[WAIT]@Here I am, puttin' myself at risk to tell you[BREAK]  this, and you honestly don't know the guy?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-456-2E:
+456-2E:@A vuestro líder lo tienen encerrado[BREAK]  en un edificio subterráneo.[WAIT]@¿Eh? ¿Cómo que de qué líder hablo?[WAIT]@Ya sabéis... el líder...[WAIT]@¿En serio estoy arriesgándome el pellejo por[BREAK]  vosotros y ni siquiera sabéis de quién hablo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 456-2, 476-2
 456-3:@I see. So you really don't know about him.[WAIT]@I dunno, maybe you're supposed to meet him[BREAK]  without knowin' who he is or somethin'.[WAIT]@He definitely wants to meet you guys, though.[END]
-456-3E:
+456-3E:@Ya veo. Así que no sabéis nada de nada.[WAIT]@Quién sabe, quizás se decidió que no tuviérais[BREAK]  que saber de su existencia... hasta ahora.[WAIT]@En cualquier caso, quiere hablar con vosotros.[END]
 // Repeats: 456-3, 476-3
 456-4:@I see. In that case, maybe you're supposed to[BREAK]  meet him without knowin' who he is.[WAIT]@Anyways, that's all I can tell ya.[END]
-456-4E:
+456-4E:@Ya veo. A lo mejor se decidió que no teníais[BREAK]  que saber de su existencia... hasta ahora.[WAIT]@En fin, no puedo contaros más.[END]
 // Repeats: 456-4, 476-4
 456-5:@Your leader's bein' held in the MT Apartments,[WAIT]  but you gotta go through the sewers to get[BREAK]  there.[WAIT]@As the name suggests, the place is empty.[BREAK]  No one lives there at all.[WAIT]@It's now a breeding ground for violent attack[BREAK]  roaches, stinkbugs, rats, and stuff.[WAIT]@So you could probably find your way there by[BREAK]  following a stinkbug or something.[WAIT]@Only problem is, they smell REALLY, really[BREAK]  nasty! I'm talkin' major stinkage here![END]
-456-5E:
+456-5E:@Lo tienen preso en los apartamentos NBNTA,[WAIT]  pero vais a tener que cruzar las alcantarillas[BREAK]  para llegar hasta allí.[WAIT]@Como su nombre indica, están en venta.[BREAK]  Ya nadie vive allí.[WAIT]@Ahora no es más que un hervidero de ratas,[BREAK]  chinches y cucarachas.[WAIT]@Quizás podéis encontrar el lugar[BREAK]  si seguís a una chinche hasta allí.[WAIT]@El problema es que... ¡APESTAN![BREAK]  ¡Y no un poco, sino un montonazo![END]
 // Repeats: 456-5, 476-5
 456-6:@Rumor has it whenever you guys do somethin',[BREAK]  earthquakes and tremors and stuff happen.[WAIT]@What in the world do you guys do?![END]
-456-6E:
+456-6E:@Dicen que, donde quiera que aparecéis,[BREAK]  ocurren terremotos y temblores.[WAIT]@¡¿Qué narices os traéis entre manos?![END]
 // Repeats: 456-6, 476-6
 456-7:@A stinkbug? Yeah, I saw one earlier.[BREAK]  Where could it have gone?[WAIT]@Some people say that if you take a big whiff of[BREAK]  a stinkbug's smell, your memory'll improve.[WAIT]@If that's true, I'd sniff one without a second[BREAK]  thought.[END]
-456-7E:
+456-7E:@¿Chinches? Sí, he visto una hace rato.[BREAK]  ¿A dónde se habrá ido?[WAIT]@Hay quien dice que, si inhalas el pestazo[BREAK]  de una chinche, tendrás mejor memoria.[WAIT]@De ser verdad, aspiraría gustoso ese tufillo.[END]
 // Repeats: 456-7, 476-7
 456-8:@Wow. That hole in the speaker leads directly[BREAK]  into the sewer system.[WAIT]@Absolutely unbelievable.[WAIT]@So THAT'S why this theater stinks to high[BREAK]  heaven.[WAIT]@It even looks like stinkbugs use it to come and[BREAK]  go as they please![END]
-456-8E:
+456-8E:@Hala. Ese agujero del altavoz comunica[BREAK]  con las alcantarillas.[WAIT]@Absolutamente increíble.[WAIT]@Así que es POR ESO que este cine[BREAK]  huele a rata muerta.[WAIT]@¡Seguro que las chinches lo usan[BREAK]  para ir y venir a su antojo![END]
 // Repeats: 456-8, 476-8
 456-9:@Stinkbugs stink up the place, wherever they[BREAK]  go.[WAIT]@[PAUSE 20 00]You know, like these seats.[PAUSE 30 00] Some of them[BREAK]  smell bad...[END]
-456-9E:
+456-9E:@Las chinches dejan su pestazo[BREAK]  por todas partes.[WAIT]@[PAUSE 20 00]Por ejemplo, en estos asientos.[PAUSE 30 00][BREAK]  Algunos huelen fatal...[END]
 // Repeats: 456-9, 476-9
 456-10:@You want to go into the sewers, don't you?[BREAK]  ...What weirdos.[WAIT]@Anyways, you can't get in through there.[WAIT]@Hmm, where was it again...?[WAIT]  I seem to recall there being an entrance[BREAK]  somewhere, but it was someplace stupid...[WAIT]  And that there was a ladder going down...[WAIT]  And that I used to work part-time there a long[BREAK]  time ago...[WAIT]@Gah, I can't remember![END]
-456-10E:
+456-10E:@¿Que queréis ir a las alcantarillas?[BREAK]  ...Sois unos raritos.[WAIT]@Pero no vais a poder entrar desde aquí.[WAIT]@Mmm, ¿dónde estaba...?[WAIT]  Recuerdo que cerca de aquí había una[BREAK]  entrada, en un sitio de lo más estúpido...[WAIT]  Sí, con una escalera para bajar y todo...[WAIT]  Y recuerdo haber trabajado en ese lugar,[BREAK]  hace tiempo...[WAIT]@¡Agh, no me acuerdo![END]
 // Repeats: 456-10, 476-10
 456-11:@Did you find the entrance to the sewers?[WAIT]@It was in a stupid place, wasn't it?[WAIT]@I don't remember anything about it, though.[END]
-456-11E:
+456-11E:@¿Has encontrado la entrada a las alcantarillas?[WAIT]@¿A que estaba en un lugar estúpido?[WAIT]@El caso es que sigo sin acordarme del sitio.[END]
 // Repeats: 456-11, 476-11
 456-12:@This area stinks.[END]
-456-12E:
+456-12E:@Este sitio apesta.[END]
 // Repeats: 456-12, 476-12
 456-13:@This area doesn't stink too much.[END]
-456-13E:
+456-13E:@Este sitio no apesta tanto.[END]
 // Repeats: 456-13, 476-13
 456-14:@This area doesn't stink at all.[END]
-456-14E:
+456-14E:@Este sitio no apesta en absoluto.[END]
 // Repeats: 456-14, 476-14
 456-15:@This area REALLY stinks![END]
-456-15E:
+456-15E:@¡Este sitio APESTA de verdad![END]
 // Repeats: 456-15, 476-15
 456-16:@The hole in this speaker seems to lead into the[BREAK]  sewers.[WAIT]@Go through it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-456-16E:
+456-16E:@Este agujero parece comunicar[BREAK]  con las alcantarillas.[WAIT]@¿Quieres meterte dentro?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 456-16, 476-16
 456-17:@It would be a bit difficult for people to fit[BREAK]  through this.[END]
-456-17E:
+456-17E:@Ninguna persona normal cabría por ahí.[END]
 // Repeats: 456-17, 476-17, 476-21
 456-18:@You're not supposed to watch movies from so[BREAK]  close up. It's bad for your eyes.[END]
-456-18E:
+456-18E:@No deberías ponerte tan cerca de la pantalla.[BREAK]  Es malo para tus ojos.[END]
 // Repeats: 456-18, 476-18
 456-19:[END]
-456-19E:
+456-19E:[END]
 
 [Container 457]
 457-0:@At first glance, the projectionist appears to be[BREAK]  an old man,[WAIT]  but he's actually a figure made out of clay and[BREAK]  dough.[WAIT]@It's well-crafted.[END]
-457-0E:
+457-0E:@A primera vista, el encargado del proyector[BREAK]  parece un anciano,[WAIT]  pero en realidad no es más que una figura[BREAK]  de masa y arcilla.[WAIT]@Está muy bien hecha.[END]
 457-1:@At first glance, it seems like this might be a[BREAK]  movie-loving boy named Toto or something,[WAIT]  but he's actually just a figure made out of clay[BREAK]  and dough, holding a bucket.[WAIT]@You get the feeling you've seen it somewhere[BREAK]  before.[END]
-457-1E:
+457-1E:@A primera vista, parece ser un joven[BREAK]  amante de las películas llamado Totó,[WAIT]  pero en realidad no es más que una figura[BREAK]  de masa y arcilla sujetando un cubo.[WAIT]@Tienes la extraña sensación[BREAK]  de haber visto esto antes.[END]
 // Nuovo cinema Paradiso reference
 
 [Container 458]
 458-0:@Man, this area stinks.[WAIT]@No, it's not me. It's this area.[END]
-458-0E:
+458-0E:@Tío, esto apesta.[WAIT]@No, yo no. Este lugar, digo.[END]
 458-1:@I've been hearing a dog whimpering for a while.[WAIT]@I think it's somewhere right below us.[WAIT]@I can't go check it out, though.[PAUSE 1E 00][WAIT]@The reason being that I'm afraid of dogs.[WAIT]@Seriously, their noses are wet, they wag their[BREAK]  tails, they lick people's faces...[WAIT]  Gwah, I TOTALLY can't handle that.[WAIT]@So could you go look for the dog instead?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-458-1E:
+458-1E:@Llevo un rato oyendo llorar a un perro.[WAIT]@Debe estar debajo de nosotros.[WAIT]@Pero no puedo ir a comprobarlo.[PAUSE 1E 00][WAIT]@Es que la tengo fobia a los perros.[WAIT]@Esas narices húmedas, esa forma de mover[BREAK]  la cola y lamerte la cara...[WAIT]  Ugh, de verdad, no puedo NI VERLOS.[WAIT]@Así que, ¿podrías ir a buscarlo en mi lugar?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 458-2:@Really?! You must like dogs, then.[WAIT]@So you'll go look for me?[WAIT]@Okay, I'll open this heavy cover.[WAIT]@I'm putting myself at major risk, though.[END]
-458-2E:
+458-2E:@¡¿Sí?! Deben de gustaros mucho los perros.[WAIT]@¿Vais a ir a buscarlo por mí?[WAIT]@Ok. Os voy a abrir la trampilla.[WAIT]@Aunque hacerlo me suponga un gran riesgo.[END]
 458-3:@C'mon, dudes! Humor me here! Go check it out![WAIT]  "It" referring to the sewers and the dog![END]
-458-3E:
+458-3E:@¡Venga, tíos, tenéis que hacer esto por mí![WAIT]  ¡Y con "esto" me refiero a ir buscar al perro![END]
 458-4:@Oh, you're game? You'll check it out?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-458-4E:
+458-4E:@Oh, ¿lo haréis? ¿Vais a ir a buscarlo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 458-5:@Man, you're no fun.[END]
-458-5E:
+458-5E:@Tíos, sois un rollo.[END]
 458-6:@The sewers are right down this ladder.[WAIT]@Check on the dog for me![WAIT]@...You don't think its nose is wet, do you?[END]
-458-6E:
+458-6E:@Esta escalera lleva a las alcantarillas.[WAIT]@¡Encontrad a ese perro![WAIT]@...No tendrá la nariz húmeda, ¿verdad?[END]
 458-7:@Okaaaay!![WAIT]@I'll open this sewer entrance for you.[WAIT]@Here goes nothin'![END]
-458-7E:
+458-7E:@¡Muy bien!![WAIT]@¡A abrir la trampilla se ha dicho![WAIT]@¡Vamos allá![END]
 458-8:@You found the dog?[WAIT]@Good for you.[END]
-458-8E:
+458-8E:@¿Habéis encontrado al perro?[WAIT]@Pues bien por vosotros.[END]
 458-9:@I'm totally owning at this game right now, so[BREAK]  don't talk to me! Gosh![WAIT]@And don't you dare try to ram into me![END]
-458-9E:
+458-9E:@¡Estoy petándolo ahora mismo![BREAK]  ¡No me distraigas! ¡Uf![WAIT]@¡Y ni se te ocurra empujarme![END]
 458-10:@Gaaaaaaaaah!![WAIT]@I TOLD you not to ram into me! Sheesh![END]
-458-10E:
+458-10E:@¡¡Aaaaaaaaaah!![WAIT]@¡TE HE DICHO que no me empujes! ¡Grrrr![END]
 458-11:@Ugh. Now I gotta start ALL over again...[WAIT]@*grumble* *grumble*...[END]
-458-11E:
+458-11E:@Jopetas. A empezar DESDE CERO otra vez...[WAIT]@*refunfuño* *refunfuño*...[END]
 458-12:@You know, like, when you eat a giant[BREAK]  hamburger, your hands get sticky and gooey?![WAIT]@And, like, even when you open your mouth[BREAK]  really wide, it still won't fit?[WAIT]@Avocado burgers are especially tough to eat.[WAIT]  'Cause, like, everything slides around and[BREAK]  everything.[WAIT]@Don't you agree?[WAIT]@Like, it makes me wonder why girls always[BREAK]  order avocado burgers and stuff.[END]
-458-12E:
+458-12E:@¡¿Sabes cuando te comes una hamburguesa[BREAK]  enorme y te deja las manos pringosas?![WAIT]@¿Y que, por mucho que abras la boca,[BREAK]  casi no la abarcas?[WAIT]@Y la hamburguesa de aguacate, ya ni te cuento.[WAIT]  Es en plan, que se escurre todo fuera[BREAK]  en cuanto le das un bocado.[WAIT]@¿A que sí?[WAIT]@Me pregunto por qué las hamburguesas[BREAK]  de aguacate les gustan tanto a las chicas.[END]
 458-13:@Hey, do you know the secret to girls?[PAUSE 5A 00][WAIT]@You don't know?![PAUSE 20 00] How old ARE you?![WAIT]@Geez, get your act together, you moron![WAIT]@Girls, you see, like guys they can count on.[WAIT]@Do you got what it takes to be like that?[WAIT]  You idiot![WAIT]  Think about it on your own![WAIT]@Think about if you have what it takes or not.[WAIT]@C'mon! Quit it! Stop asking me questions![WAIT]@I told you, think about it on your own![BREAK]  Inside your head![END]
-458-13E:
+458-13E:@¿Ey, conoces la clave para ligar?[PAUSE 5A 00][WAIT]@¡¿Que no?![PAUSE 20 00] ¡¿CUÁNTOS años tienes?![WAIT]@¡Pues vete espabilando, atolondrao![WAIT]@Las chicas quieren tíos responsables.[WAIT]@¿Que si tienes lo que hace falta para serlo?[WAIT]  ¡Mequetrefe![WAIT]  ¡Averígualo tú mismo![WAIT]@Piensa si realmente eres alguien responsable.[WAIT]@¡Corta el rollo y deja de preguntarme cosas![WAIT]@¡Te he dicho que lo averigües tú mismo![BREAK]  ¡Usa el coco![END]
 458-14:@It's 10 DP per game. Give it a try?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-458-14E:
+458-14E:@Son 10 PD por partida. ¿Quieres jugar?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 458-15:@In one sense, you feel completely satisfied.[END]
-458-15E:
+458-15E:@En cierto modo, te sientes muy satisfecho.[END]
 458-16:@You don't have enough DP.[END]
-458-16E:
+458-16E:@No tienes suficiente PD.[END]
 458-17:@There's a crane game here.[WAIT]@It looks like it's playable... but it's not.[END]
-458-17E:
+458-17E:@Una máquina de garra.[WAIT]@Parece que puedes jugar... pero no.[END]
 458-18:@A pinball game.[END]
-458-18E:
+458-18E:@Un pinball.[END]
 458-19:@"Baked Yam Game"[END]
-458-19E:
+458-19E:@"Boniato Quest"[END]
 458-20:@Great new arrival! You've been waiting for it![BREAK]  "Attack of the Terrifying Raw Oysters"[END]
-458-20E:
+458-20E:@¡La novedad que todos estábais esperando![BREAK]  "El ataque de las terribles Ostras Crudas"[END]
 458-21:@A mop.[END]
-458-21E:
+458-21E:@Una fregona.[END]
 458-22:@No problem here.[END]
 458-22E:@Nada interesante.[END]
 // Repeats: 0-51, 260-17, 458-22
 458-23:@"Dance Dance Business Kimono"[WAIT]  ...What kind of game IS this?![END]
-458-23E:
+458-23E:@"Dance Dance Kimono Party"[WAIT]  ...¡¿Qué clase de juego es este?![END]
 // had to change this slightly
 
 [Container 459]
 459-0:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@We mole crickets have finally started to make[BREAK]  forays into the big city.[WAIT]@The roots of our business are beginning to[BREAK]  take hold throughout all corners of the globe![WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-459-0E:
+459-0E:@Incluso nosotros, los grillos topo, nos[BREAK]  ganamos la vida como mejor podemos.[WAIT]@Finalmente, hemos iniciado nuestra[BREAK]  incursión en la gran ciudad.[WAIT]@¡Nuestra red de influencias está comenzando a[BREAK]  extenderse por todos los rincones del globo![WAIT]@Tenemos una amplia gama de objetos[BREAK]  que encontramos tirados... [PAUSE 0F 00]eeeh, de precio.[WAIT]@¿Quieres echar un ojo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 459-1:@Fulfilling the customer's needs is what[BREAK]  business is all about.[WAIT]@*twinkle*[END]
-459-1E:
+459-1E:@La clave está en satisfacer[BREAK]  las necesidades del cliente.[WAIT]@*guiño*[END]
 459-2:@Okay, then![WAIT]@Here on the cutting edge of business evolution,[BREAK]  things like that don't bother us anymore.[WAIT]@But if you ever need anything, just let me[BREAK]  know.[WAIT]@*twinkle*[END]
-459-2E:
+459-2E:@¡Sin problema![WAIT]@Ahora que estamos en la cima del mercado,[BREAK]  estas menudencias no son problema.[WAIT]@Pero si cambias de opinión, ya sabes[BREAK]  dónde encontrarnos.[WAIT]@*guiño*[END]
 459-3:@That's [BONEY 23 05 00] barking![WAIT]@He must be nearby![END]
-459-3E:
+459-3E:@¡Eso ha sido [BONEY 23 05 00]![WAIT]@¡Tiene que estar cerca![END]
 459-4:@"Nwehehehehehehehehe!!"[WAIT]@That's one "nwe" and eight "he"s.[END]
-459-4E:
+459-4E:@"¡¡Ñiejejejejejejejeje!!"[WAIT]@Un "ñie" y ocho "je"s.[END]
 459-5:@"Oh, what a pleasure it is to see you again."[BREAK]  [PAUSE 30 00]No, wait.[WAIT]  "Long time, no see," Fassad says.[WAIT]@"I say nwehehehehe to you,[PAUSE 30 00] for I will now give[BREAK]  you thoroughly destructive damage,"[WAIT]  he goes on to say.[WAIT]@"I have been remade into an incredible,[PAUSE 30 00] fiercely[BREAK]  powerful,[PAUSE 30 00] and dangerous[PAUSE 30 00] ultimate weapon.[WAIT]  [PAUSE 40 00]Therefore, I will absolutely, unquestionably be[BREAK]  victorious over you."[WAIT]  is what Fassad says.[END]
-459-5E:
+459-5E:@"Oh, cómo me place veros de nuevo."[BREAK]  [PAUSE 30 00]No, espera.[WAIT]  "Cuánto tiempo", dice Falhaz.[WAIT]@"Ese ñiejejejeje[PAUSE 30 00] ha sido en honor a la refinada[BREAK]  tortura física que estáis a punto de sufrir",[WAIT]  dice a continuación.[WAIT]@"He renacido como una increíble,[PAUSE 30 00] implacable,[PAUSE 30 00][BREAK]  poderosa[PAUSE 30 00] y letal[PAUSE 30 00] arma definitiva.[WAIT]  [PAUSE 40 00]Por lo tanto, mi victoria será absoluta[BREAK]  y totalmente incuestionable",[WAIT]  añade, para rematar.[END]
 459-6:@"What's more,[PAUSE 30 00] I will put an end[PAUSE 30 00] to your[PAUSE 20 00] tale.[WAIT]  [PAUSE 30 00]I will give you damage,[WAIT]  and then provide you with even more damage,[BREAK][PAUSE 30 00]  until you are soundly defeated."[WAIT]  is what Fassad says.[END]
-459-6E:
+459-6E:@"Pienso ponerle fin[PAUSE 30 00] a vuestra[PAUSE 30 00] triste[PAUSE 20 00] historia.[WAIT]  [PAUSE 30 00]Vuestro sufrimiento será inimaginable,[WAIT]  y se prolongará de manera indefinida[BREAK][PAUSE 30 00]  hasta que acabe con vosotros."[WAIT]  Es lo que acaba de decir.[END]
 459-7:@"Now, then.[PAUSE 30 00] Here I come.[BREAK]  Nwehehehe[PAUSE 20 00] nwehehehe[PAUSE 20 00] nwehehehehehe."[WAIT]@Fassad[PAUSE 30 00] is now ready to fight.[WAIT][PAUSE 10 00]@Here he comes.[END]
-459-7E:
+459-7E:@"Y ahora...[PAUSE 30 00] ¡Preparaos![BREAK]  Ñiejejeje,[PAUSE 20 00] ñiejejeje,[PAUSE 20 00] ñiejejejejeje."[WAIT]@Falhaz[PAUSE 30 00] está listo para el combate.[WAIT][PAUSE 10 00]@Preparaos...[END]
 459-8:@"Gah! Oww ow owww"...[BREAK]  Hmm, I will not translate this part.[WAIT]  The reason being that these are not words,[BREAK]  but simple sounds.[WAIT]@"You have bested me[PAUSE 30 00], kind sirs.[WAIT]  Actually, no, you did not best me. You are[BREAK]  merely detestable.[WAIT]  I am[PAUSE 30 00] sick of all this fighting.[WAIT]@Very, extremely[PAUSE 30 00] sick of it.[WAIT]  [PAUSE 40 00]This is all just a game.[WAIT][PAUSE 30 00]@You could call it[PAUSE 30 00] Master Porky's game."[EVENT][END]
-459-8E:
+459-8E:@"¡Agh! Auu, au, auuu"...[BREAK]  Mmm, no hace falta traducir esto.[WAIT]  Después de todo, no son palabras,[BREAK]  sino quejidos.[WAIT]@"He sido derrotado,[PAUSE 30 00] caballeros.[WAIT]  Bueno, realmente no.[BREAK]  Solamente es que sois detestables.[WAIT]  Yo...[PAUSE 30 00] estoy cansado de pelear.[WAIT]@Cansado[PAUSE 30 00] de todo este juego.[WAIT]  [PAUSE 40 00]Eso es, todo esto no es más que un juego...[WAIT][PAUSE 30 00]@El juego[PAUSE 30 00] del Amo Porky."[EVENT][END]
 459-9:  "You people are still stuck inside the game.[WAIT]  As for me,[PAUSE 20 00] I may have been removed from it.[WAIT]  [PAUSE 20 00]But,[PAUSE 30 00] I am still not sure.[WAIT]  The flames[PAUSE 20 00] of my life are in danger now.[WAIT]  I[PAUSE 20 00] do not think[PAUSE 20 00] we will ever meet again.[WAIT]  [PAUSE 30 00]And not just in battle,"[PAUSE 0C 00] is what Fassad states.[WAIT]@He also adds in a very faint voice, "Nwehehe!"[WAIT]@Fassad is now going to plummet.[END]
-459-9E:
+459-9E:  "Vosotros todavía seguís dentro del juego.[WAIT]  En cuanto a mí,[PAUSE 20 00] puede que ya haya perdido.[WAIT]  [PAUSE 20 00]Aunque,[PAUSE 30 00] no lo sé con certeza.[WAIT]  La llama de mi vida[PAUSE 20 00] se está desvaneciendo.[WAIT]  No creo[PAUSE 20 00] que volvamos[PAUSE 20 00] a vernos.[WAIT]  [PAUSE 30 00]Ni siquiera en combate",[PAUSE 0C 00] afirma Falhaz.[WAIT]@"¡Ñiejeje!", añade con un hilo de voz.[WAIT]@Falhaz procede a desplomarse.[END]
 459-10:@I am an interpreter,[WAIT]  but now that Fassad is gone, I am no longer[BREAK]  needed.[END]
-459-10E:
+459-10E:@Soy una intérprete,[WAIT]  pero ahora que Falhaz se ha ido,[BREAK]  mi trabajo aquí se ha terminado.[END]
 459-11:@Please do not chase after me.[WAIT]@Goodbye.[END]
-459-11E:
+459-11E:@Por favor, no me persigáis.[WAIT]@Hasta siempre.[END]
 
 [Container 460]
 460-0:@The door won't open, and there's no one[BREAK]  inside.[END]
-460-0E:
+460-0E:@La puerta no se abre, y no hay nadie dentro.[END]
 // Repeats: 460-0, 461-0
 460-1:[END]
-460-1E:
+460-1E:[END]
 
 [Container 461]
 461-0:@The door won't open, and there's no one[BREAK]  inside.[END]
-461-0E:
+461-0E:@La puerta no se abre, y no hay nadie dentro.[END]
 // Repeats: 460-0, 461-0
 461-1:@Woof woof.[WAIT]  (I chased after a strange-smelling bug and[BREAK]  somehow wound up here.)[END]
-461-1E:
+461-1E:@Guau, guau.[WAIT]  (Me puse a perseguir a un bicho[BREAK]  y he acabado en este lugar tan raro.)[END]
 461-2:@[BONEY 23 05 00] joined your party![PAUSE 68 01][END]
-461-2E:
+461-2E:@¡[BONEY 23 05 00] se unió al grupo![PAUSE 68 01][END]
 461-3:@Woof.[WAIT]  (But never mind that! L-l-look what's in this[BREAK]  next room...!)[END]
-461-3E:
+461-3E:@Guau.[WAIT]  (¡Pero eso es lo de menos![BREAK]  ¡M-m-mirad lo que hay aquí...!)[END]
 
 [Container 462]
 462-0:@Pulling this rope would probably be extremely[BREAK]  dangerous.[END]
-462-0E:
+462-0E:@Tirar de esta cuerda podría ser[BREAK]  extremadamente peligroso.[END]
 462-1:@This stinkbug thinks it's hiding.[END]
-462-1E:
+462-1E:@La chinche cree que se está escondiendo.[END]
 462-2:@Have you committed everything so far to[BREAK]  memory, Mr. Stinkbug?[END]
-462-2E:
+462-2E:@¿Ha registrado todo lo que he dicho[BREAK]  hasta ahora, Sra. Chinche?[END]
 462-3:@Then I'll say it again.[END]
-462-3E:
+462-3E:@Lo repetiré, entonces.[END]
 462-4:@Yes. It's me, Leder, the bell-ringer.[WAIT][PAUSE 3C 00]@It must be a real shock to hear me speaking[BREAK]  for once.[WAIT][PAUSE 1E 00]@It wasn't that I couldn't talk all this time.[BREAK]  I simply chose not to.[WAIT]@As I rang that Cross Road bell, deep inside my[BREAK]  heart I had decided I would speak to no one.[EVENT][END]
-462-4E:
+462-4E:@Sí. Soy yo, Leder, el campanero.[WAIT][PAUSE 3C 00]@Imagino lo sorprendente que debe[BREAK]  resultaros el oírme hablar.[WAIT][PAUSE 1E 00]@No es que no pudiera.[BREAK]  Es que decidí no hacerlo.[WAIT]@Desde que empecé a tocar la campana,[BREAK]  tomé la decisión de no hablar con nadie.[EVENT][END]
 462-5:@But the secrets I've been guarding are now[BREAK]  starting to leak out.[WAIT]@[LUCAS 23 02 00].[BREAK]  The time has come to tell you everything.[WAIT]@What I'm about to tell you, you might not want[BREAK]  to know.[WAIT]@Even so, you absolutely must hear it.[PAUSE 3C 00][END]
-462-5E:
+462-5E:@Pero los secretos que estaba guardando[BREAK]  han empezado a filtrarse.[WAIT]@[LUCAS 23 02 00].[BREAK]  Ha llegado la hora de que lo sepas todo.[WAIT]@Lo que estoy a punto de contarte[BREAK]  quizás no sea agradable.[WAIT]@Aun así, es algo que debes escuchar.[PAUSE 3C 00][END]
 462-6:@It will be a long story, but please listen to it all.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-6E:
+462-6E:@Va a ser una larga historia.[BREAK]  Escúchala, por favor.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-7:@I see...[WAIT]@Even if you refuse to listen, I still have no[BREAK]  choice but to talk.[WAIT]@You needn't listen. You can just stay there.[WAIT]@Even if it's just me talking to myself, I[BREAK]  absolutely must say what I have to say.[EVENT][END]
-462-7E:
+462-7E:@Ya veo...[WAIT]@De todos modos, ahora mismo no me queda[BREAK]  más opción que hablar.[WAIT]@No hace falta que me escuches, si no quieres.[WAIT]@Aun a riesgo de hacer esto un monólogo,[BREAK]  tengo que decir lo que tengo que decir.[EVENT][END]
 462-8:@Given who you are and how you've lived, what[BREAK]  I have to say will tear at your hearts,[WAIT]  and there is just so much to tell.[WAIT]@So I've decided to have the stinkbug trembling[BREAK]  behind me memorize everything I say.[WAIT][PAUSE 1E 00]@Ready, Mr. Stinkbug?[END]
-462-8E:
+462-8E:@Siendo quien eres y teniendo en cuenta tu[BREAK]  pasado, esto podría ser un duro golpe para ti,[WAIT]  y es mucho lo que debo contarte.[WAIT]@Así que le he pedido a esta temerosa chinche[BREAK]  que registre todo lo que diga.[WAIT][PAUSE 1E 00]@¿Lista, Sra. Chinche?[END]
 462-9:@Long ago, there existed a "world".[WAIT]@A world different from what the people on[BREAK]  these islands think of.[WAIT]  This "world" was incredibly big.[WAIT]@More people lived on this world than there are[BREAK]  grains of sand on these Nowhere Islands.[WAIT]@I know it may be hard to imagine, but such a[BREAK]  world once existed.[WAIT]@Understand?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-9E:
+462-9E:@Hace mucho, existía un "mundo".[WAIT]@Un mundo totalmente distinto,[BREAK]  inimaginable para la gente de estas islas.[WAIT]  Este "mundo" era inmenso.[WAIT]@Había más habitantes en él que granos[BREAK]  de arena en las islas Ningunaparte.[WAIT]@Sé que puede resultar difícil de creer,[BREAK]  pero tal mundo llegó a existir.[WAIT]@¿Entiendes?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-10:@At some point, the world wound up destroyed.[WAIT]@Naturally, it was humans who destroyed it.[WAIT]@In the back of their minds, everyone had an[BREAK]  inkling that it would happen at some point.[WAIT]@And then it really did happen.[WAIT]@...And so, the world is no more.[END]
-462-10E:
+462-10E:@Al final, ese mundo acabó siendo destruido.[WAIT]@Naturalmente, fue obra de los humanos.[WAIT]@En el fondo, todos tenían la certeza de que[BREAK]  algún día llegaría ese momento.[WAIT]@Y, en efecto, llegó.[WAIT]@El mundo dejó de existir...[END]
 462-11:@Everything so far has been about[BREAK]  "The End of the World".[WAIT]@Did you understand all of it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-11E:
+462-11E:@Eso ha sido todo lo concerniente a[BREAK]  "El fin del mundo".[WAIT]@¿Lo has entendido todo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-12:@Just before the end of the world, a[BREAK]  "White Ship" came to these islands.[WAIT]@On it were all the people of Tazmily Village.[WAIT]@Yes.[WAIT]@Aboard the White Ship were those few who[BREAK]  had managed to escape the "world".[WAIT]@The people on the ship still went by their[BREAK]  names from the previous world.[WAIT]@This "White Ship" plan had been set in place[BREAK]  before the world was destroyed.[WAIT]@And, although they're part of the world, these[BREAK]  Nowhere Islands are a special place.[WAIT]@They were the one place that would remain,[BREAK]  even if the world was lost.[WAIT]@The one and only place where people could[BREAK]  survive.[WAIT]@And so the White Ship arrived at these islands.[END]
-462-12E:
+462-12E:@Justo antes del fin del mundo, una[BREAK]  "Nave blanca" llegó a estas islas.[WAIT]@En ella viajaban los habitantes de Tazmily.[WAIT]@Sí.[WAIT]@A bordo de la Nave blanca, estaban aquellos[BREAK]  que lograron escapar del "mundo".[WAIT]@La gente de la nave todavía conservaba[BREAK]  los nombres de su antiguo mundo.[WAIT]@Todo este plan de la "Nave blanca"[BREAK]  había sido concebido antes del cataclismo.[WAIT]@Y, pese a ser parte de ese mundo, las islas[BREAK]  Ningunaparte son un lugar especial.[WAIT]@Incluso si el resto del mundo desapareciese,[BREAK]  estas perdurarían.[WAIT]@Sería el único lugar en el que la gente[BREAK]  podría sobrevivir.[WAIT]@Y así, la Nave blanca llegó a estas islas.[END]
 462-13:@Everything so far has been about[BREAK]  "The White Ship".[WAIT]@Did you understand all of it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-13E:
+462-13E:@Eso ha sido todo lo concerniente a[BREAK]  "La Nave blanca".[WAIT]@¿Lo has entendido todo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-14:@The reason these islands are special[WAIT]  is because they harbor a giant dragon nearly[BREAK]  as large as the islands themselves.[WAIT]@Long, long ago, people lived together with the[BREAK]  Dragon.[WAIT]@However, at some point in time, the people[BREAK]  and the Dragon could no longer coexist.[WAIT]@So, using the seven Needles, the Dragon was[BREAK]  placed into a long, long sleep[WAIT]  by the ancestors of the Magypsy people, who[BREAK]  have lived here since ancient times.[WAIT]@Ever since, the Magypsies have guarded the[BREAK]  Needles,[WAIT]  in an effort to prevent the Dragon from being[BREAK]  woken until its power is truly needed.[WAIT]@Thus, until the time of its awakening,[WAIT]  the Dragon continued to sleep, as the power of[BREAK]  the earth itself.[WAIT]@And so, because of the tremendous energy of[BREAK]  the Dragon hidden deep below,[WAIT]  these islands were protected from the end of[BREAK]  the world.[END]
-462-14E:
+462-14E:@Lo que hace tan especiales a estas[WAIT]  islas es que albergan a un dragón[BREAK]  tan grande como ellas mismas.[WAIT]@Hace mucho, mucho tiempo, la gente[BREAK]  vivía en paz con el Dragón.[WAIT]@Sin embargo, llegó un punto en el que[BREAK]  tal coexistencia dejó de ser viable.[WAIT]@Así pues, los antepasados de las Magipsis[BREAK]  lograron someter al Dragón,[WAIT]  haciéndolo caer en un profundo letargo,[BREAK]  gracias al poder de las Agujas.[WAIT]@Desde entonces, las Magipsis custodian[BREAK]  las Agujas,[WAIT]  intentando mantener dormido al Dragón[BREAK]  hasta que su poder sea realmente necesario.[WAIT]@Así, y hasta que llegue ese momento,[WAIT]  el Dragón y su inmenso poder[BREAK]  permanecerán dormidos.[WAIT]@De ese modo, gracias a la enorme energía[BREAK]  proveniente del Dragón,[WAIT]  estas islas fueron protegidas del fin[BREAK]  del mundo.[END]
 462-15:@Everything so far has been about[BREAK]  "The Dragon and the Magypsies".[WAIT]@Did you understand all of it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-15E:
+462-15E:@Eso ha sido todo lo concerniente a[BREAK]  "El Dragón y las Magipsis".[WAIT]@¿Lo has entendido todo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-16:@Those who came here aboard the White Ship[WAIT]  feared another "End of the World" more than[BREAK]  anything else.[WAIT]@They felt that the world's destruction was a[BREAK]  direct result of the way they had lived.[WAIT]@The people of the White Ship discussed things[BREAK]  at great length.[WAIT]@They shared their wisdom and spoke with[BREAK]  grave seriousness.[WAIT]@And then they arrived at their conclusion.[WAIT]@They decided to completely erase everyone's[BREAK]  memories of the previous "world"[WAIT]  and start their lives over with new rules and[BREAK]  new roles.[EVENT][END]
-462-16E:
+462-16E:@El mayor temor de aquellos a bordo de la[WAIT]  Nave blanca era la posibilidad de otro[BREAK]  "fin del mundo".[WAIT]@Sentían que la destrucción de su mundo[BREAK]  fue ocasionada por su forma de vida.[WAIT]@La gente de la Nave blanca discutió largo[BREAK]  y tendido sobre el tema.[WAIT]@Entre todos, compartieron su sabiduría[BREAK]  y hablaron con gran seriedad.[WAIT]@Entonces, se llegó a una conclusión.[WAIT]@Decidieron borrar todos sus recuerdos[BREAK]  acerca del anterior "mundo"[WAIT]  y volver a empezar desde cero,[BREAK]  con nuevas reglas y nuevos roles.[EVENT][END]
 462-17:@Yes.[WAIT]@In short, everyone would play out the ideal[BREAK]  "story" that they had come up with.[WAIT]@That is what happened.[WAIT]@The people would restart their lives in a[BREAK]  simple, peaceful village,[WAIT]  in the kind of place they wished they had[BREAK]  grown up in.[WAIT]@They would erase their memory of everything:[BREAK]  the world, their belongings, their rules...[WAIT]  ...and then they would begin their new lives.[WAIT]@Everyone's old memories would be reset and[BREAK]  replaced with their newly-created "story".[WAIT]@And thus the village of Tazmily came to be.[EVENT][END]
-462-17E:
+462-17E:@Sí.[WAIT]@En resumen, entre todos interpretarían[BREAK]  la "historia" ideal que habían concebido.[WAIT]@Ese era el plan.[WAIT]@La gente comenzaría sus nuevas vidas[BREAK]  en un pacífico pueblo,[WAIT]  la clase de lugar en el que todos[BREAK]  desearían haber crecido.[WAIT]@Borrarían sus recuerdos sobre todo:[BREAK]  su mundo, sus pertenencias, sus reglas...[WAIT]  ...y desempeñarían nuevos papeles.[WAIT]@Sus recuerdos serían sustituidos por otros,[BREAK]  artificiales y acordes a la nueva "historia".[WAIT]@Y así fue como nació el pueblo de Tazmily.[EVENT][END]
 462-18:@However, it was necessary to record the fact[BREAK]  that the memory replacement had taken place.[WAIT]@The Hummingbird Egg was the device used to[BREAK]  store the memories of the White Ship people.[WAIT]@Wess and his son [DUSTER 23 03 00], both playing[BREAK]  the roles of thieves,[WAIT]  were set to take action should a dangerous[BREAK]  situation occur.[WAIT]@Remember when they went to Osohe Castle?[WAIT]  They went there to retrieve the secret of the[BREAK]  "People of the White Ship".[EVENT][END]
-462-18E:
+462-18E:@Sin embargo, era necesario guardar registro[BREAK]  del proceso de sustitución de recuerdos.[WAIT]@Todos los recuerdos fueron almacenados en[BREAK]  un dispositivo llamado Huevo del colibrí.[WAIT]@Wess y su hijo [DUSTER 23 03 00], en su papel[BREAK]  de ladrones,[WAIT]  se asegurarían de velar por la seguridad[BREAK]  de estos datos.[WAIT]@¿Te acuerdas cuando fueron al castillo Osohe?[WAIT]  Su objetivo era poner a salvo el secreto de[BREAK]  "la gente de la Nave blanca".[EVENT][END]
 462-19:@And there's one other thing. Me.[WAIT]@It was essential that one person retain[BREAK]  memory of the previous world[WAIT]  to sort of "keep watch" over things.[WAIT]@I was the only one in the village of Tazmily[BREAK]  who wasn't given a role in the new "story".[WAIT]@The sound of my bell served as a "suggestion",[WAIT]  to keep everyone's fabricated memories from[BREAK]  reverting.[WAIT]@My name "Leder" comes from the word[BREAK]  "Leader".[WAIT]@No, no, that doesn't mean I was anyone[BREAK]  special.[WAIT]@It was just that I was particularly taller than[BREAK]  all the others.[WAIT]@So, upon discussion, I was selected because it[BREAK]  would be easier for me to stand out.[WAIT]@Being so tall, people would want to come see[BREAK]  me, you know?[WAIT]@And so I was given the role of revealing these[BREAK]  secrets when the time truly called for it.[END]
-462-19E:
+462-19E:@Y hay otro elemento clave. Yo.[WAIT]@Era esencial que una persona conservase[BREAK]  intactos todos sus recuerdos[WAIT]  para supervisar el desarrollo del plan.[WAIT]@Fui el único habitante de Tazmily aI que[BREAK]  no se le dio un papel en la nueva "historia".[WAIT]@El sonido de mi campana era "especial",[WAIT]  evitaba cualquier proceso de reversión[BREAK]  de recuerdos.[WAIT]@Mi nombre, "Leder", viene de la palabra[BREAK]  "líder".[WAIT]@No, eso no significa que yo fuese[BREAK]  alguien especial.[WAIT]@Tan sólo era considerablemente más alto[BREAK]  que los demás.[WAIT]@Fui designado para el puesto por mi inherente[BREAK]  capacidad de destacar.[WAIT]@Al ser tan alto, sería más fácil que la gente[BREAK]  se interesase por mí.[WAIT]@Así pues, se me ordenó guardar este secreto[BREAK]  hasta que fuese necesario revelarlo.[END]
 462-20:@Everything so far has been about[BREAK]  "Those Who Lost Everything".[WAIT]  Although Tazmily Village exists in reality, it[BREAK]  was originally created as part of a story.[WAIT]@I know this may be difficult to believe, but do[BREAK]  you understand so far?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-20E:
+462-20E:@Eso ha sido todo lo concerniente a[BREAK]  "Aquellos que lo perdieron todo".[WAIT]  Aunque el pueblo de Tazmily exista, fue[BREAK]  creado como parte de todo este montaje.[WAIT]@Sé que puede resultar difícil de creer...[BREAK]  Dime, ¿lo has entendido todo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-21:@Let me also talk about Osohe Castle.[WAIT]@Apparently, long ago, a kingdom existed on this[BREAK]  island, centered around the king of Osohe.[WAIT]@However, when we arrived on the White Ship,[BREAK]  the people of this kingdom were gone.[WAIT]@It seems they had left the islands, fearing the[BREAK]  Dragon's eventual awakening someday.[WAIT]@Before boarding the White Ship,[WAIT]  Princess [KUMATORA 23 04 00] was an infant who[BREAK]  had lost her mother and father.[WAIT]@Upon coming to these islands, she was given[BREAK]  to the Magypsies to raise,[WAIT]  and given the role of princess of Osohe Castle.[WAIT]@Wess and [DUSTER 23 03 00] being her retainers[BREAK]  was another part of the fabricated "story".[EVENT][END]
-462-21E:
+462-21E:@Hablemos también del castillo Osohe.[WAIT]@Aparentemente, hace mucho, existió un reino[BREAK]  en estas islas, gobernado por el rey Osohe.[WAIT]@Pero, cuando llegamos en la Nave blanca,[BREAK]  la gente del reino había desaparecido.[WAIT]@Probablemente habían abandonado las islas,[BREAK]  temiendo el despertar del Dragón.[WAIT]@Antes de subir a la Nave blanca,[WAIT]  la Princesa [KUMATORA 23 04 00] era una niña[BREAK]  que había perdido a sus padres.[WAIT]@Al llegar a estas islas, se le dejó[BREAK]  bajo la tutela de las Magipsis,[WAIT]  y le fue dado el papel de princesa de Osohe.[WAIT]@Wess y [DUSTER 23 03 00] se convirtieron[BREAK]  en sus sirvientes, como estaba planeado.[EVENT][END]
 462-22:@Osohe Castle is one of the few and precious[BREAK]  relics of this island's "past".[WAIT]@We crafted our story in haste, so the people[BREAK]  inside it have very little "past" or "history".[WAIT]@Have you noticed no one in Tazmily can talk[BREAK]  about things from 100 or 1000 years ago?[WAIT]@In truth, we HAD wanted to create an entire[BREAK]  plethora of myths and legends...[WAIT]  ...but our story was made in such a hurry that[BREAK]  we weren't able to. It's a real shame.[WAIT]@I'm sure that much of what I'm saying, you'd[BREAK]  rather not hear,[WAIT]  but it's the truth.[WAIT]  Have you listened to everything so far?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-22E:
+462-22E:@El castillo Osohe es un preciado vestigio[BREAK]  del "pasado" de estas islas.[WAIT]@Debido a las prisas, nos fue imposible crear[BREAK]  un transfondo histórico en condiciones.[WAIT]@¿No te has fijado que nadie en Tazmily puede[BREAK]  recordar cosas de hace 100 o 1000 años?[WAIT]@Lo cierto es que, QUERÍAMOS crear toda una[BREAK]  plétora de mitos y leyendas...[WAIT]  ...pero, por falta de tiempo, finalmente[BREAK]  no pudo ser. Una verdadera lástima.[WAIT]@Sé que preferirías no tener que[BREAK]  estar escuchando todo esto,[WAIT]  pero es la verdad.[WAIT]  ¿Has estado atento a mi relato?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-23:@Truthfully, we had no idea how Tazmily Village[BREAK]  would turn out.[WAIT]  But things actually went rather well.[WAIT]@The people who had arrived on the White Ship[BREAK]  had fully taken to their new identities.[WAIT]@They believed they had always lived together[BREAK]  peacefully.[EVENT][END]
-462-23E:
+462-23E:@Realmente, no sabíamos si todo este[BREAK]  montaje funcionaría.[WAIT]  Pero las cosas fueron bastante bien.[WAIT]@La gente de la Nave blanca se adaptó[BREAK]  sin problemas a sus nuevas identidades.[WAIT]@En su mente, siempre habían vivido[BREAK]  en Tazmily, juntos y en armonía.[EVENT][END]
 462-24:@It was when a person by the name of Porky[BREAK]  stumbled upon these islands[WAIT]  that everything started to go amok.[WAIT]@It seems he used a "Time Distorter" machine[BREAK]  to travel through time and space at will.[WAIT]@However, he was apparently shut out from all[BREAK]  other times and spaces[WAIT]  and tumbled into this era and these islands.[WAIT]@Even worse, he used his Time Distorter to[BREAK]  bring many people from other eras here.[WAIT]@The Pigmasks, as well as everyone in New[BREAK]  Pork City,[WAIT]  were all brought here and brainwashed by[BREAK]  Porky.[EVENT][END]
-462-24E:
+462-24E:@Pero todo cambió cuando un tal Porky[BREAK]  dio con estas islas...[WAIT]  Ahí, la cosa se torció por completo.[WAIT]@Porky utilizó un "Distorsionador temporal"[BREAK]  para viajar por el espacio y tiempo a su antojo.[WAIT]@Al parecer, había sido expulsado del resto[BREAK]  de espacios y tiempos,[WAIT]  acabando en esta era y en estas islas.[WAIT]@Y lo que es peor, hizo venir a gente de otras[BREAK]  épocas con su Distorsionador temporal.[WAIT]@Los Puercaretos, todos los habitantes[BREAK]  de Nueva Pork...[WAIT]  Porky se encargó de traerlos y lavarles[BREAK]  el cerebro.[EVENT][END]
 // yes, it should be Time Distorter, not Phase Distorter
 462-25:@This Porky fellow seems to view these islands[BREAK]  as his own personal "toy box",[WAIT]  with which he can do anything he wants.[WAIT]@He would take animals apart and recombine[BREAK]  them to make creepy, new "Chimeras".[WAIT]@As a child-like dictator, he began doing[BREAK]  whatever he pleased,[WAIT]  including building Thunder Tower and forming[BREAK]  his own army.[WAIT]@Porky eventually learned the White Ship secret[BREAK]  because of a traitor among the Magypsies.[END]
-462-25E:
+462-25E:@Porky parece ver estas islas como su[BREAK]  "caja de juguetes" propia y personal,[WAIT]  con la que puede hacer lo que le plazca.[WAIT]@Ya has visto su afán por transformar[BREAK]  a los animales en horribles "quimeras".[WAIT]@Este dictador en miniatura se dedicó[BREAK]  a satisfacer sus caprichos,[WAIT]  desde construir la Torre del trueno[BREAK]  hasta formar su propio ejército.[WAIT]@Tiempo después, una Magipsi traidora[BREAK]  le reveló a Porky el secreto de la Nave blanca.[END]
 462-26:@Do you understand about the intruder known[BREAK]  as Porky?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-26E:
+462-26E:@¿Has entendido todo acerca del intruso[BREAK]  conocido como Porky?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-27:@This traitor was Locria, the seventh Magypsy,[BREAK]  and the only one you haven't met yet.[WAIT]@After Locria joined forces with Porky,[WAIT]  Porky learned about the White Ship people and[BREAK]  the secret of the sleeping Dragon.[EVENT][END]
-462-27E:
+462-27E:@Aquella traidora era Locria, la séptima Magipsi,[BREAK]  y la única a la que aún no conoces.[WAIT]@Gracias a la ayuda de Locria,[WAIT]  Porky descubrió tanto lo de la Nave blanca[BREAK]  como lo del Dragón durmiente.[EVENT][END]
 462-28:@Porky decided to pull the Needles to wake the[BREAK]  Dragon, so he could use the power for himself.[WAIT]@The Dragon is the power of the very earth[BREAK]  itself, you see.[WAIT]@It's said that whoever pulls the sealing Needles[BREAK]  will become the Dragon's master.[WAIT]@However, only a very select few are capable[BREAK]  of pulling the Dragon's Needles.[WAIT]@Apparently, neither the Magypsies nor Porky[BREAK]  have that capability.[WAIT]@Yet, the Needles are being pulled now.[WAIT]@That means Porky is somehow controlling[BREAK]  someone who can control the Dragon's power![WAIT]@...We have to put a stop to Porky's antics.[WAIT]  If we don't, the world will be completely[BREAK]  destroyed again,[WAIT]  and it will spell the true end for everything.[EVENT][END]
-462-28E:
+462-28E:@Porky decidió extraer las Agujas y despertar[BREAK]  al Dragón para apropiarse de su poder.[WAIT]@El Dragón es la fuente de poder[BREAK]  del mismísimo planeta.[WAIT]@Se dice que aquel que extraiga las Agujas[BREAK]  se convertirá en el amo del Dragón.[WAIT]@Sin embargo, sólo unos pocos elegidos[BREAK]  son capaces de extraer las Agujas.[WAIT]@Aparentemente, ni las Magipsis ni Porky[BREAK]  tienen tal capacidad.[WAIT]@Y aun así, las Agujas están siendo extraídas.[WAIT]@¡Eso significa que Porky está controlando[BREAK]  a alguien capaz de dominar ese poder![WAIT]@...Hemos de detener a Porky como sea.[WAIT]  De lo contrario, el mundo será destruido[BREAK]  de nuevo,[WAIT]  y esta vez... para siempre.[EVENT][END]
 462-29:@For Porky, that might be the ultimate pleasure,[BREAK]  but we can't allow it to happen.[WAIT]@We, the last handful of people there are,[BREAK]  absolutely can't allow it to happen.[WAIT]@[LUCAS 23 02 00].[WAIT]@It seems you're a chosen one, with the ability[BREAK]  to pull the Needles sealing the Dragon away.[WAIT]@You MUST pull the Dark Dragon's Needle with[BREAK]  your own hands,[WAIT]  and pass your heart on to the Dragon.[WAIT]@Let this be my one and only order to you as[BREAK]  your "leader".[END]
-462-29E:
+462-29E:@Porky podría encontrarlo muy placentero,[BREAK]  pero no podemos dejar que ocurra.[WAIT]@Nosotros, última esperanza de este mundo,[BREAK]  de ningún modo podemos dejar que ocurra.[WAIT]@[LUCAS 23 02 00].[WAIT]@Sin duda eres uno de los elegidos, capaz de[BREAK]  extraer las Agujas que encierran al Dragón.[WAIT]@DEBES extraer la última de las Agujas[BREAK]  con tus propias manos,[WAIT]  y entregarle tu corazón al Dragón.[WAIT]@Esta será mi primera y única orden[BREAK]  como tu "líder".[END]
 462-30:@Do you understand everything about[BREAK]  "The Dragon's Awakening"?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-30E:
+462-30E:@¿Has entendido todo acerca de[BREAK]  "El despertar del Dragón"?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-31:@I hear that six of the Dragon's Needles have[BREAK]  already been pulled.[WAIT]@Deep in the earth, the Dragon is likely beginning[BREAK]  to stir from its sleep now.[WAIT]@Supposedly, the last Needle is somewhere here[BREAK]  in New Pork City.[WAIT]@Porky has been gathering everything that lives[BREAK]  on these islands into New Pork City[WAIT]  to prepare for the final Needle's pulling.[WAIT]@It's possible that he's planning to hold one final,[BREAK]  twisted party.[WAIT]@But now is our chance to change this looming[BREAK]  crisis into a golden opportunity.[WAIT]@All things may come to an end...[WAIT]  ...or new and bountiful things may begin.[WAIT]@Wouldn't you like to help that happen?[EVENT][END]
-462-31E:
+462-31E:@Sé que seis de las Agujas del Dragón[BREAK]  ya han sido extraídas.[WAIT]@Y debido a ello, este podría despertarse[BREAK]  con relativa facilidad.[WAIT]@Supuestamente, la última Aguja está aquí,[BREAK]  en algún lugar de Nueva Pork.[WAIT]@Porky ha ido reuniendo a todos los seres[BREAK]  vivos de estas islas en Nueva Pork[WAIT]  para preparar la extracción de la Aguja.[WAIT]@Es posible que esté planeando hacer de[BREAK]  todo esto una retorcida celebración.[WAIT]@Pero es nuestra oportunidad de oro[BREAK]  para evitar esta inminente crisis.[WAIT]@Esto puede suponer el fin de todo...[WAIT]  ...o el comienzo de muchas cosas nuevas.[WAIT]@¿No crees que vale la pena luchar por ello?[EVENT][END]
 462-32:@[LUCAS 23 02 00].[WAIT]  You were once a weak, fragile boy, but now[BREAK]  you've been given a tremendous role to fulfill.[WAIT]@Now that you know everything, including[BREAK]  everything I'm sure you'd rather not know,[WAIT]  the time has come for you to save the future[BREAK]  of all life as we know it.[WAIT]@...[WAIT]  "God won't make you bear more than you can[BREAK]  carry."[WAIT]  I'm sure you've heard that phrase before.[WAIT]@Know that you aren't fighting alone.[WAIT]  Everyone[PAUSE 30 00], and I do mean everyone,[PAUSE 30 00] will lend[BREAK]  you their support.[END]
-462-32E:
+462-32E:@[LUCAS 23 02 00].[WAIT]  Antes eras un niño débil y frágil, pero ahora[BREAK]  tienes un importantísimo papel que cumplir.[WAIT]@Ahora que lo sabes todo, incluidos aquellos[BREAK]  detalles que preferirías no saber,[WAIT]  ha llegado el momento de que luches[BREAK]  por el futuro de la vida misma.[WAIT]@...[WAIT]  "No es difícil llorar en soledad,[BREAK]  pero es casi imposible reír solo."[WAIT]  Seguro que lo has oído alguna vez.[WAIT]@Que sepas que no estás solo en esta lucha.[WAIT]  Todos,[PAUSE 30 00] e insisto, todos[PAUSE 30 00] te prestarán[BREAK]  su apoyo.[END]
 462-33:@That was a long story, but that is the end of[BREAK]  everything I have to tell you.[WAIT]  Did you understand it all?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-33E:
+462-33E:@Ha sido una larga historia, pero[BREAK]  ya he terminado de contarla.[WAIT]  ¿Lo has entendido todo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 462-34:@Only the Magypsies really know the Needles'[BREAK]  locations, so I don't know where to find them.[WAIT]  But, from the way Porky and the others have[BREAK]  been acting,[WAIT]  I would say they're now very close to reaching[BREAK]  the seventh Needle.[WAIT]@Please, [LUCAS 23 02 00].[BREAK]  Be the one who pulls the final Needle.[WAIT]@Porky issues his orders from the 100th floor[BREAK]  of the Empire Porky Building.[WAIT]@Start by jumping into the fray and storming[BREAK]  the building.[WAIT]@After that, you can start looking for clues.[END]
-462-34E:
+462-34E:@Sólo las Magipsis conocen la localización[BREAK]  de las Agujas, así que no sé gran cosa.[WAIT]  Pero, por la forma de proceder[BREAK]  de Porky y los suyos,[WAIT]  me temo que están a punto de alcanzar[BREAK]  la séptima Aguja.[WAIT]@Por favor, [LUCAS 23 02 00].[BREAK]  Tienes que extraer esa última Aguja.[WAIT]@Porky controla la ciudad desde el piso 100[BREAK]  del Empire Porky.[WAIT]@Deberías de irrumpir en dicho edificio[BREAK]  cuanto antes.[WAIT]@Una vez dentro, busca las pistas que puedas.[END]
 462-35:@It's been such a long time since I've spoken to[BREAK]  anyone. And now I'm exhausted.[WAIT]@This stinkbug should remember everything[BREAK]  I've just said.[WAIT]@Take him with you.[WAIT]  That way, if you happen to forget anything[BREAK]  I've said here, you can ask him to repeat it.[WAIT]@Will you go with them, Mr. Stinkbug?[END]
-462-35E:
+462-35E:@Llevar tanto tiempo sin hablar pasa factura.[BREAK]  Estoy completamente exhausto.[WAIT]@Esta chinche debería poder recordar[BREAK]  todo lo que he dicho.[WAIT]@Llévatela contigo.[WAIT]  Así, si olvidas algo de lo que te he contado,[BREAK]  podrás pedirle que te lo repita.[WAIT]@¿Le acompañará, Sra. Chinche?[END]
 462-36:@Porky issues his orders from the 100th floor[BREAK]  of the Empire Porky Building.[WAIT]@Start by jumping into the fray and storming[BREAK]  the place.[WAIT]@After that, you can start looking for clues.[WAIT]@Don't worry about me.[WAIT]@If your battle goes well, I'm sure I'll regain my[BREAK]  freedom, just as everyone else will.[WAIT]@Be confident in yourself, and go forth.[END]
-462-36E:
+462-36E:@Porky controla la ciudad desde el piso 100[BREAK]  del Empire Porky.[WAIT]@Deberías irrumpir en dicho edificio[BREAK]  cuanto antes.[WAIT]@Una vez dentro, busca las pistas que puedas.[WAIT]@No te preocupes por mí.[WAIT]@Si tu lucha tiene éxito, todos[BREAK]  recuperaremos nuestra libertad.[WAIT]@Ten fe en ti mismo y no te rindas.[END]
 462-37:@For some strange reason, [LUCAS 23 02 00] is[BREAK]  unable to leave the room.[END]
-462-37E:
+462-37E:@Por alguna razón, [LUCAS 23 02 00][BREAK]  no puede abandonar la habitación.[END]
 462-38:[END]
-462-38E:
+462-38E:[END]
 462-39:[END]
-462-39E:
+462-39E:[END]
 462-40:[END]
-462-40E:
+462-40E:[END]
 462-41:[END]
-462-41E:
+462-41E:[END]
 462-42:@Thick books filled with miniscule writing.[END]
-462-42E:
+462-42E:@Libros gordos y de letra minúscula.[END]
 462-43:[END]
-462-43E:
+462-43E:[END]
 
 [Container 463]
 463-0:@[FLINT 23 01 00].[END]
-463-0E:
+463-0E:@[FLINT 23 01 00].[END]
 463-1:@It's pitch dark in here, but never fear.[WAIT]@I've been through here many a time.[BREAK]  Just leave it to me.[WAIT]@But more importantly, that super-serious look[BREAK]  on your face will only bring us trouble.[WAIT]@You gotta relax![PAUSE 30 00] Understand?[END]
-463-1E:
+463-1E:@Esto está muy oscuro,[BREAK]  pero no hay nada que temer.[WAIT]@He pasado por aquí miles de veces.[BREAK]  Déjamelo a mí.[WAIT]@Me preocupa mucho más esa cara[BREAK]  tan seria que siempre pones...[WAIT]@¡Tienes que relajarte![PAUSE 30 00] ¿Vale?[END]
 463-2:@Keep going west at this fork in the road.[END]
-463-2E:
+463-2E:@Ve al oeste en esta bifurcación.[END]
 463-3:@We go north here.[END]
-463-3E:
+463-3E:@Ahora, al norte.[END]
 463-4:@Stop for a second.[END]
-463-4E:
+463-4E:@Para un momento.[END]
 463-5:@There should be a hole around here.[WAIT]@Find it, and then jump right down it![END]
-463-5E:
+463-5E:@Aquí debería haber un agujero.[WAIT]@¡Encuéntralo y rodéalo![END]
 463-6:@This is the long way around.[WAIT]@If it were up to me, we'd jump down that hole,[BREAK]  but whatever works.[END]
-463-6E:
+463-6E:@Estamos dando un rodeo.[WAIT]@Tendríamos que haber saltado por el agujero,[BREAK]  pero ya nada.[END]
 463-7:@If you're wanting to go back, head south.[END]
-463-7E:
+463-7E:@Si quieres volver, dirígete hacia el sur.[END]
 463-8:@East.[WAIT]@Head straight east and turn south at the end.[BREAK]  That should take us outside.[END]
-463-8E:
+463-8E:@Este.[WAIT]@Sigue al este hasta el final y luego gira al sur.[BREAK]  Eso debería llevarnos fuera.[END]
 463-9:[END]
-463-9E:
+463-9E:[END]
 
 [Container 464]
 464-0:@[FLINT 23 01 00]y-pie. [HEART][END]
-464-0E:
+464-0E:@[FLINT 23 01 00]sito. [HEART][END]
 // i know this won't work so great with certain names, but I'd rather risk that than change this a lot
 464-1:@...Don't be so embarrassed.[BREAK]  Heheheh.[END]
-464-1E:
+464-1E:@...No seas tan vergonzoso.[BREAK]  Heheheh.[END]
 464-2:@North here. Head north.[END]
-464-2E:
+464-2E:@Ve hacia el norte.[END]
 464-3:@We're as good as there, now that we've made[BREAK]  it this far.[WAIT]@Now we just need to head upward and climb[BREAK]  up some vines.[WAIT]@Da vines go up because they're[PAUSE 40 00] divine.[WAIT]@Oh, c'mon, it's just a pun.[END]
-464-3E:
+464-3E:@No te agobies, ya estamos cerca[BREAK]  de la salida.[WAIT]@Ahora hay que ir hacia arriba[BREAK]  y trepar por unas parras.[WAIT]@En otras palabras,[PAUSE 40 00] nos vamos de "parranda".[WAIT]@Vale... ya me callo.[END]
 464-4:@What's going on? You wanna turn back?[WAIT]@If you're going back out, go down the vine.[END]
-464-4E:
+464-4E:@¿Qué pasa? ¿Te has olvidado algo?[WAIT]@Si quieres volver, baja por la parra.[END]
 464-5:@At the bottom of this vine, head east and then[BREAK]  turn toush at the end.[PAUSE 5A 00][WAIT]@I mean south, not toush![END]
-464-5E:
+464-5E:@Una vez abajo, ve al este y luego sigue[BREAK]  al tour hasta la salida.[PAUSE 5A 00][WAIT]@¡Digooo, "al sur"![END]
 464-6:@Go west here.[END]
-464-6E:
+464-6E:@Aquí al oeste.[END]
 464-7:[END]
-464-7E:
+464-7E:[END]
 464-8:[END]
-464-8E:
+464-8E:[END]
 464-9:[END]
-464-9E:
+464-9E:[END]
 464-10:[END]
-464-10E:
+464-10E:[END]
 464-11:[END]
-464-11E:
+464-11E:[END]
 464-12:[END]
-464-12E:
+464-12E:[END]
 464-13:[END]
-464-13E:
+464-13E:[END]
 464-14:[END]
-464-14E:
+464-14E:[END]
 464-15:[END]
-464-15E:
+464-15E:[END]
 464-16:[END]
-464-16E:
+464-16E:[END]
 464-17:[END]
-464-17E:
+464-17E:[END]
 464-18:[END]
-464-18E:
+464-18E:[END]
 464-19:[END]
-464-19E:
+464-19E:[END]
 464-20:[END]
-464-20E:
+464-20E:[END]
 464-21:[END]
-464-21E:
+464-21E:[END]
 464-22:[END]
-464-22E:
+464-22E:[END]
 464-23:[END]
-464-23E:
+464-23E:[END]
 464-24:[END]
-464-24E:
+464-24E:[END]
 464-25:[END]
-464-25E:
+464-25E:[END]
 464-26:[END]
-464-26E:
+464-26E:[END]
 464-27:[END]
-464-27E:
+464-27E:[END]
 
 [Container 465]
 465-0:@[FLINT 23 01 00].[WAIT]@Follow the southeast passage.[END]
-465-0E:
+465-0E:@[FLINT 23 01 00].[WAIT]@Sigue el túnel que va al sureste.[END]
 465-1:@Ooh, [FLINT 23 01 00]y-poo! [HEART][PAUSE 3C 00][WAIT]@That was my Magypsy impression.[PAUSE 30 00][BREAK]  Did you like it?[WAIT]@Relax, relax.[END]
-465-1E:
+465-1E:@¡Yujuuu, [FLINT 23 01 00]sitooo! [HEART][PAUSE 3C 00][WAIT]@Imitar a las Magipsis es muy divertido.[PAUSE 30 00][BREAK]  ¿A que me sale bien?[WAIT]@Vaaale, vaaale.[END]
 465-2:@I'll tell you this one early in advance.[WAIT]  Head south at the next fork in the path.[END]
-465-2E:
+465-2E:@Te lo voy diciendo ya para ahorrar tiempo.[WAIT]  En la próxima bifurcación, ve al sur.[END]
 465-3:@Head south at this forky fork.[END]
-465-3E:
+465-3E:@En esta bifurcación, al sur.[END]
 465-4:@Hold on a sec.[END]
-465-4E:
+465-4E:@Un segundo.[END]
 465-5:@Head west from here![END]
-465-5E:
+465-5E:@¡Hay que ir hacia el oeste![END]
 465-6:@I've been so forgetful lately.[WAIT]  Which way was it again.[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 30 00][WAIT]@Was it north?[WAIT]@I'm pretty sure there's a vine to the north.[WAIT]@We need to "vined" it and climb up it.[END]
-465-6E:
+465-6E:@Mi memoria ya no es lo que era.[WAIT]  ¿Hacia dónde hay que ir ahora.[PAUSE 20 00].[PAUSE 20 00].?[PAUSE 30 00][WAIT]@¿Hacia el norte?[WAIT]@Sí, debería haber unas parras al norte.[WAIT]@Tenemos que ir "parriba".[END]
 465-7:@[FLINT 23 01 00].[WAIT]@You're allowed to laugh at that pun just now.[WAIT]@...Did you not notice it?[BREAK]  I said we have to "vined the vine".[WAIT]  You know, instead of "find"?[WAIT]@Was that not funny?[END]
-465-7E:
+465-7E:@[FLINT 23 01 00].[WAIT]@Se supone que te tienes que reír.[WAIT]@...¿No lo has pillado?[BREAK]  He dicho "Tenemos que ir parriba".[WAIT]  "Parriba" en vez de "para arriba"...[WAIT]@¿No te parece gracioso?[END]
 465-8:@A dead-end...[WAIT]@Sorry, [FLINT 23 01 00].[WAIT]@Looks like we should've gone west at that last[BREAK]  fork in the path.[END]
-465-8E:
+465-8E:@No hay salida...[WAIT]@Lo siento, [FLINT 23 01 00].[WAIT]@Se ve que teníamos que haber ido al oeste[BREAK]  en esa última bifurcación.[END]
 465-9:@Wait...![END]
-465-9E:
+465-9E:@¡Un momento...![END]
 465-10:@Was that you?[PAUSE 5A 00][BREAK]@Just kidding, it was me. Heheheh.[END]
-465-10E:
+465-10E:@¿Has sido tú?[PAUSE 5A 00][BREAK]@Es broma, he sido yo. Jejeje.[END]
 465-11:@Now we go straight west.[WAIT]@When you see a vine, go up it.[END]
-465-11E:
+465-11E:@Ahora hacia el oeste.[WAIT]@Cuando veas unas parras, trepa por ellas.[END]
 465-12:@The fact there's a vine here means...[WAIT]  ...that my directions just now were wrong.[WAIT]@Sorry. Want me to say a pun or something?[END]
-465-12E:
+465-12E:@Si hay una parra aquí, eso significa...[WAIT]  ...que mis indicaciones eran erróneas.[WAIT]@Lo siento. ¿Podría arreglar algo con un chiste?[END]
 465-13:@If you're headed back, then go east here.[END]
-465-13E:
+465-13E:@Si quieres volver, dirígete hacia el este.[END]
 465-14:@Go north here.[END]
-465-14E:
+465-14E:@Aquí, al norte.[END]
 465-15:@Go east here.[END]
-465-15E:
+465-15E:@Ahora, al este.[END]
 
 [Container 466]
 466-0:@Whoa! We really did stumble![WAIT]@[PAUSE 40 00]...Huh?[END]
-466-0E:
+466-0E:@¡Auch! ¡Menudo porrazo![WAIT]@[PAUSE 40 00]...¿Eh?[END]
 466-1:@Where'd the [ITEM C5 00] go?[END]
-466-1E:
+466-1E:@¿Dónde están los [ITEM C5 00]?[END]
 466-2:@Did we drop it?![WAIT]@Though I guess that's what happens when it's[BREAK]  easy to drop and easy to roll around...[END]
-466-2E:
+466-2E:@¡¿Se nos han caído?![WAIT]@No sería raro, estando en un frasco con[BREAK]  tal tendencia a caerse y salir rodando...[END]
 466-3:@It shouldn't be hard to find.[WAIT]@Let's split up and look for it.[EVENT][END]
-466-3E:
+466-3E:@Tienen que estar por aquí.[WAIT]@Vamos, todos a buscar.[EVENT][END]
 466-4:@[BONEY 23 05 00]. You help, too.[END]
-466-4E:
+466-4E:@[BONEY 23 05 00]. Ayúdanos tú también.[END]
 466-5:@I thought we'd find it pretty quick, but...[END]
-466-5E:
+466-5E:@Pensaba que sería fácil encontrarlos, pero...[END]
 466-6:@Think you can find it, [BONEY 23 05 00]?[WAIT]@If you find anything, take it to [LUCAS 23 02 00].[END]
-466-6E:
+466-6E:@¿Algún rastro de ellos, [BONEY 23 05 00]?[WAIT]@Si encuentras algo, dáselo a [LUCAS 23 02 00].[END]
 466-7:@You found something that seems sour![END]
-466-7E:
+466-7E:@¡Has encontrado algo de aspecto agrio![END]
 466-8:[END]
-466-8E:
+466-8E:[END]
 466-9:@You found something that looks delicious![END]
-466-9E:
+466-9E:@¡Has encontrado algo de aspecto delicioso![END]
 466-10:@You found something soft![END]
-466-10E:
+466-10E:@¡Has encontrado algo blando![END]
 466-11:@You found something hard![END]
-466-11E:
+466-11E:@¡Has encontrado algo duro![END]
 466-12:@You found something small![END]
-466-12E:
+466-12E:@¡Has encontrado algo pequeño![END]
 466-13:@The sour-looking thing was the[BREAK]  [ITEM C5 00]![END]
-466-13E:
+466-13E:@¡Encontraste los [ITEM C5 00]![END]
 466-14:[END]
-466-14E:
+466-14E:[END]
 466-15:@The delicious-looking thing was[BREAK]  [EF 91][ITEM F0 FF]![END]
-466-15E:
+466-15E:@¡Ha resultado ser[BREAK]  [EF 91][ITEM F0 FF]![END]
 466-16:@The soft thing was[BREAK]  [EF 91][ITEM F0 FF]![END]
-466-16E:
+466-16E:@¡Ha resultado ser[BREAK]  [EF 91][ITEM F0 FF]![END]
 466-17:@The hard thing was[BREAK]  [EF 91][ITEM F0 FF]![END]
-466-17E:
+466-17E:@¡Ha resultado ser[BREAK]  [EF 91][ITEM F0 FF]![END]
 466-18:@The small thing was[BREAK]  [EF 91][ITEM F0 FF]![END]
-466-18E:
+466-18E:@¡Ha resultado ser[BREAK]  [EF 91][ITEM F0 FF]![END]
 466-19:@You need to look for the pickles right now.[END]
-466-19E:
+466-19E:@Es importante que busques los pepinillos.[END]
 466-20:@But your inventory was already full.[END]
-466-20E:
+466-20E:@Pero tu inventario está lleno.[END]
 466-21:@[BONEY 23 05 00] can't hold two things in his[BREAK]  mouth at once.[END]
-466-21E:
+466-21E:@La boca de [BONEY 23 05 00] también tiene[BREAK]  sus límites...[END]
 466-22:@You find it?![END]
-466-22E:
+466-22E:@¡¿Los has encontrado?![END]
 466-23:@It's a little dirty, but that's the[BREAK]  [ITEM C5 00] alright.[END]
-466-23E:
+466-23E:@Están un poco sucios, pero sí,[BREAK]  son los [ITEM C5 00].[END]
 
 [Container 467]
 467-0:[HOTSPRING 00 00][END]
@@ -16042,7 +16042,7 @@
 467-27E:@Incluso nosotros, los grillos topo, nos[BREAK]  ganamos la vida como mejor podemos.[WAIT]@¡Nuestro negocio va viento en popa![WAIT]@¡Hemos descubierto la clave[BREAK]  del éxito empresarial![WAIT]@Tenemos una amplia gama de objetos[BREAK]  que encontramos tirados... [PAUSE 0F 00]eeeh, de precio.[WAIT]@¡Nadie puede competir con ESTOS precios![WAIT]@¿Qué? ¿Quieres echar un ojo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 99-0, 467-27
 467-28:@Oh, okay![WAIT]@I thought you might say that, but I'm sure we'll[BREAK]  meet again sometime.[END]
-467-28E:
+467-28E:@¡Oh, vale![WAIT]@Sabía que ibas a decir eso, pero también sé[BREAK]  que nos volveremos a ver.[END]
 467-29:@If you run into any of my fellow mole crickets[BREAK]  out there, give them my regards.[WAIT][PAUSE 0F 00]@*twinkle*[END]
 467-29E:@Si coincides con alguno de mis colegas,[BREAK]  dales un saludo de mi parte.[WAIT][PAUSE 0F 00]@*guiño*[END]
 // Repeats: 36-30, 43-9, 96-30, 99-2, 180-30, 181-30, 182-30, 192-30, 327-30, 328-30, 329-30, 330-30, 331-30, 332-30, 373-30, 374-30, 375-30, 376-30, 377-30, 378-30, 379-30, 467-29
@@ -16130,7 +16130,7 @@
 468-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 468-27:[END]
-468-27E:
+468-27E:[END]
 
 [Container 469]
 469-0:[HOTSPRING 00 00][END]
@@ -16215,13 +16215,13 @@
 469-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 469-27:[END]
-469-27E:
+469-27E:[END]
 
 [Container 470]
 470-0:@"Emergency!" is written here.[END]
-470-0E:
+470-0E:@Pone "¡Emergencia!".[END]
 470-1:[END]
-470-1E:
+470-1E:[END]
 
 [Container 471]
 471-0:[HOTSPRING 00 00][END]
@@ -16306,7 +16306,7 @@
 471-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 471-27:[END]
-471-27E:
+471-27E:[END]
 
 [Container 472]
 472-0:[HOTSPRING 00 00][END]
@@ -16391,105 +16391,105 @@
 472-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 472-27:@A shower so strong that it actually hurts.[END]
-472-27E:
+472-27E:@El chorro de esta ducha intimida lo suyo.[END]
 
 [Container 473]
 473-0:@A SERIOUS ERROR HAS OCCURRED IN THE[BREAK]  GENERATOR![WAIT]@A SERIOUS ERROR HAS OCCURRED IN THE[BREAK]  GENERATOR![WAIT]@ALL PERSONNEL, EVACUATE IMMEDIATELY![WAIT]@REPEAT![WAIT]@IT WOULD BE NICE IF YOU'D EVACUATE[BREAK]  IMMEDIATELY![END]
-473-0E:
+473-0E:@¡SE HA DETECTADO UNA GRAVE ANOMALÍA[BREAK]  EN EL GENERADOR![WAIT]@¡SE HA DETECTADO UNA GRAVE ANOMALÍA[BREAK]  EN EL GENERADOR![WAIT]@¡A TODO EL PERSONAL, EVACUACIÓN![WAIT]@¡REPITO![WAIT]@¡A TODO EL PERSONAL, ESTARÍA BIEN[BREAK]  SI EVACUASEN INMEDIATAMENTE![END]
 473-1:@You![WAIT]@How dare you destroy this vital system of[BREAK]  ours![END]
-473-1E:
+473-1E:@¡Vosotros![WAIT]@¡¿Cómo osáis destruir un elemento vital[BREAK]  de nuestros planes?![END]
 473-2:@Hmm, I guess this is a case of "Fools, like[BREAK]  smoke, enjoy heights."[WAIT]@Nwehehehehe![END]
-473-2E:
+473-2E:@Qué ilusos... "Cuanto más alto subes,[BREAK]  más dura es la caída."[WAIT]@¡Ñiejejejeje![END]
 473-3:[END]
-473-3E:
+473-3E:[END]
 
 [Container 474]
 474-0:@Welcome to the parking area![END]
-474-0E:
+474-0E:@¡Bienvenidos al parking![END]
 474-1:@East: Garbage Dump[END]
-474-1E:
+474-1E:@Este: Vertedero[END]
 474-2:@This may seem persistent, but...[WAIT]  East: Garbage Dump[END]
-474-2E:
+474-2E:@A riesgo de ser pesado...[WAIT]  Este: Vertedero[END]
 474-3:@Pork Bean Recharge Station[END]
 474-3E:@Estación de recarga de Vainas[END]
 // Repeats: 61-23, 371-10, 474-3
 474-4:@This line is so long! The wait is killing me![END]
-474-4E:
+474-4E:@¡Qué cola más larga! ¡Estoy harta de esperar![END]
 474-5:@I've been waiting so long that I'm excited for[BREAK]  my turn now.[END]
-474-5E:
+474-5E:@Llevo horas esperando, pero pronto por fin[BREAK]  será mi turno. ¡Qué emoción![END]
 474-6:@Moo.[WAIT]  (I wish this line would moooove already.)[END]
-474-6E:
+474-6E:@Muu.[WAIT]  (Esta cola va muuuuuuuy lenta.)[END]
 474-7:@I heard there's a ramen shop in this area that's[BREAK]  so good it always has a huge line in front of it.[EVENT][END]
-474-7E:
+474-7E:@Dicen que por aquí hay un puesto de ramen[BREAK]  tan bueno que siempre hay cola para entrar.[EVENT][END]
 474-8:  Or at least that's the rumor, anyway.[EVENT][END]
-474-8E:
+474-8E:  O eso se rumorea, al menos.[EVENT][END]
 474-9:@This line HAS to be the one![END]
-474-9E:
+474-9E:@¡ESTA debe ser la cola![END]
 474-10:@Well, it turned out this wasn't a ramen shop.[WAIT]@I even stood in line all that time without going[BREAK]  to the bathroom...[WAIT]@That's what I mutter to myself as I now stare[BREAK]  blankly at this door.[END]
-474-10E:
+474-10E:@Al final, no era un puesto de ramen.[WAIT]@Y yo que no había abandonado la cola[BREAK]  ni para ir al servicio...[WAIT]@Ahora me dedico a refunfuñar[BREAK]  frente a esta puerta.[END]
 474-11:@I'm trying to read.[WAIT]@Keep it down, will ya?![END]
-474-11E:
+474-11E:@Estoy intentando leer.[WAIT]@¡Cállate un mes, ¿quieres?![END]
 474-12:@Zzz...[END]
-474-12E:
+474-12E:@Zzz...[END]
 474-13:@Get to the back of the line like everyone else![END]
-474-13E:
+474-13E:@¡Ponte al final de la cola, como los demás![END]
 474-14:@Moo.[WAIT]  (Someone's in heeere!)[END]
-474-14E:
+474-14E:@Muu.[WAIT]  (¡Ocupaaaado!)[END]
 474-15:@It appears to be unoccupied.[END]
-474-15E:
+474-15E:@No parece haber nadie dentro.[END]
 474-16:@Welcome![WAIT]  I got souvenirs! I got food! I got stuff![BREAK]  You want somethin'?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-474-16E:
+474-16E:@¡Buenas![WAIT]  ¡Recuerdos! ¡Comida! ¡Baratijas![BREAK]  ¿Quieres algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 474-17:@Thank you![END]
-474-17E:
+474-17E:@¡Gracias![END]
 474-18:@Hmm. That wasn't very thank you-ful.[END]
-474-18E:
+474-18E:@Muy bien, gracias por nada...[END]
 474-19:@A red light.[END]
 474-19E:@Una luz roja.[END]
 // Repeats: 61-9, 371-11, 474-19
 474-20:@This seems like a fast car.[END]
-474-20E:
+474-20E:@Este coche parece veloz.[END]
 474-21:@This seems like a fancy car.[END]
-474-21E:
+474-21E:@Un coche muy extravagante.[END]
 474-22:@Hmm, just an average ol' car.[END]
-474-22E:
+474-22E:@Bah, un coche del montón.[END]
 474-23:@HEY! HEY![PAUSE 24 00] COME TALK[PAUSE 24 00] TO ME.[END]
-474-23E:
+474-23E:@¡EY! ¡EY![PAUSE 24 00] ACÉRCATE,[PAUSE 24 00] POR FAVOR.[END]
 474-24:@I WAS[PAUSE 24 00] ONE STEP AWAY[PAUSE 24 00] FROM THE SWITCH[PAUSE 24 00][BREAK]  WHEN I RAN[PAUSE 24 00] OUT OF POWER.[WAIT]@COULD YOU[PAUSE 24 00] PRESS THE[PAUSE 24 00] SWITCH FOR ME AND[BREAK]  HELP ME[PAUSE 24 00] RECHARGE?[PAUSE 24 00][WAIT]  I'M SORRY TO ASK.[PAUSE 24 00][WAIT]  BUT COULD YOU DO THAT[PAUSE 24 00] FOR ME?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-474-24E:
+474-24E:@ESTABA[PAUSE 24 00] A UN PASO[PAUSE 24 00] DEL BOTÓN[PAUSE 24 00][BREAK]  CUANDO ME QUEDÉ[PAUSE 24 00] SIN ENERGÍA.[WAIT]@¿PODRÍAS[PAUSE 24 00] PULSARLO[PAUSE 24 00] PARA QUE[BREAK]  PUEDA[PAUSE 24 00] RECARGARME?[PAUSE 24 00][WAIT]  SIENTO LAS MOLESTIAS.[PAUSE 24 00][WAIT]  PERO, ¿ME HARÍAS[PAUSE 24 00] ESE FAVOR?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 474-25:@OH,[PAUSE 24 00] THANK YOU,[PAUSE 24 00] THANK YOU.[PAUSE 24 00][WAIT]@AS THANKS,[PAUSE 24 00] I WILL GIVE[PAUSE 24 00]...[BREAK]  I WILL GIVE YOU MONEY.[PAUSE 24 00][WAIT]@BUT[PAUSE 24 00] PLEASE KEEP[PAUSE 24 00] THE RECHARGE[PAUSE 24 00] UNDER[BREAK]  15 SECONDS.[PAUSE 24 00][WAIT]@OR ELSE[PAUSE 24 00] I MIGHT EXPLODE.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 24 00][WAIT]@AS CLOSE[PAUSE 24 00] TO 15 SECONDS[PAUSE 24 00] AS POSSIBLE IS[PAUSE 24 00][BREAK]  THE BEST.[PAUSE 24 00][WAIT]@I WILL GIVE...[PAUSE 24 00][BREAK]  I WILL GIVE LOTS OF MONEY.[PAUSE 24 00][WAIT]@IF THE RECHARGE[PAUSE 24 00] IS TOO SHORT,[PAUSE 24 00] THE MONEY[BREAK]  I GIVE[PAUSE 24 00] WILL BE LESS.[PAUSE 24 00][WAIT]@TURN THE POWER ON[PAUSE 24 00] AND OFF[PAUSE 24 00] USING THE[BREAK]  [COLOR 03 00]A[COLOR 00 00] BUTTON.[PAUSE 24 00][WAIT]@I'M COUNTING ON YOU, DUDE![END]
-474-25E:
+474-25E:@OH,[PAUSE 24 00] GRACIAS,[PAUSE 24 00] GRACIAS.[PAUSE 24 00][WAIT]@COMO[PAUSE 24 00] RECOMPENSA[PAUSE 24 00]...[BREAK]  TE DARÉ DINERO.[PAUSE 24 00][WAIT]@NO ME[PAUSE 24 00] RECARGUES[PAUSE 24 00] DURANTE[PAUSE 24 00][BREAK]  MÁS DE 15 SEGUNDOS.[PAUSE 24 00][WAIT]@O SI NO,[PAUSE 24 00] PODRÍA EXPLOTAR.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 24 00][WAIT]@CUANTO MÁS[PAUSE 24 00] CERCA[PAUSE 24 00][BREAK]  DE 15 SEGUNDOS,[PAUSE 24 00] MEJOR.[PAUSE 24 00][WAIT]@SI LO LOGRAS...[PAUSE 24 00][BREAK]  TE DARÉ MUCHO DINERO.[PAUSE 24 00][WAIT]@SI LA RECARGA[PAUSE 24 00] ES INSUFICIENTE,[PAUSE 24 00][BREAK]  RECIBIRÁS[PAUSE 24 00] MENOS DINERO.[PAUSE 24 00][WAIT]@ENCIENDE[PAUSE 24 00] Y APAGA[PAUSE 24 00][BREAK]  CON EL BOTÓN [COLOR 03 00]A[COLOR 00 00].[PAUSE 24 00][WAIT]@¡CUENTO CONTIGO, COLEGA![END]
 474-26:@HURRY[PAUSE 24 00] IT UP![END]
-474-26E:
+474-26E:@¡DATE[PAUSE 24 00] PRISA![END]
 474-27:@O...[PAUSE 24 00] OHhh.[END]
-474-27E:
+474-27E:@O...[PAUSE 24 00] OHhh.[END]
 474-28:@UNDER 10 SECONDS.[WAIT]@THAT'S LAME, DUDE.[WAIT]@BUT I GIVE... I GIVE MONEY.[END]
-474-28E:
+474-28E:@MENOS DE 10 SEGUNDOS.[WAIT]@MUY MAL, COLEGA.[WAIT]@TOMA... TU DINERO.[END]
 474-29:@10 SECONDS.[WAIT]@COULDN'T YOU WAIT 5 MORE SECONDS?[WAIT]@OH WELL...[WAIT]@BUT I GIVE... I GIVE MONEY.[END]
-474-29E:
+474-29E:@10 SEGUNDOS.[WAIT]@¿NO PODÍAS ESPERAR CINCO MÁS?[WAIT]@EN FIN...[WAIT]@TOMA... TU DINERO.[END]
 474-30:@11 SECONDS...[WAIT]@TOO SHORT.[WAIT]@HEHEH. SHORT...[WAIT]@BUT I GIVE... I GIVE MONEY.[END]
-474-30E:
+474-30E:@11 SEGUNDOS...[WAIT]@MUY POCO.[WAIT]@JEJE. POCO...[WAIT]@TOMA... TU DINERO.[END]
 474-31:@HMM... 12 SECONDS.[WAIT]@I GIVE... I GIVE MONEY.[END]
-474-31E:
+474-31E:@MMM... 12 SEGUNDOS.[WAIT]@TOMA... TU DINERO.[END]
 474-32:@13 SECONDS?[WAIT]@THAT'S BOGUS, DUDE![WAIT]@BUT OH WELL. I GIVE... I GIVE MONEY.[END]
-474-32E:
+474-32E:@¿13 SEGUNDOS?[WAIT]@¡ESE NÚMERO DA MALA SUERTE, COLEGA![WAIT]@EN FIN. TOMA... TU DINERO.[END]
 474-33:@14 SECONDS! SO CLOSE![WAIT]@BUT CLOSE ISN'T GOOD ENOUGH.[WAIT]@14 ISN'T THE RIGHT NUMBER.[WAIT]@YOU'RE NO GOOD AT THIS.[WAIT]@YOU SHOULDN'T ACT SO COCKY, DUDE.[WAIT]@BUT OKAY.[WAIT]@I GIVE... I GIVE MONEY.[END]
-474-33E:
+474-33E:@¡14 SEGUNDOS! ¡CASI![WAIT]@PERO NO BASTA CON UN "CASI".[WAIT]@14 NO ES LA CIFRA CORRECTA.[WAIT]@ESTO SE TE DA FATAL.[WAIT]@NO TE LAS DES DE CHULO, COLEGA.[WAIT]@EN FIN.[WAIT]@TOMA... TU DINERO.[END]
 474-34:@AWESOME.[BREAK]@15 SECONDS EXACTLY.[WAIT]@YOU DID IT, DUDE.[WAIT]@USE THIS EXPERIENCE TO KEEP PUSHING[BREAK]  YOURSELF TO BE BETTER.[WAIT]@'KAY?[WAIT]@MONEY? OH, I GIVE MONEY.[WAIT]@HERE.[END]
-474-34E:
+474-34E:@INCREÍBLE.[BREAK]@15 SEGUNDOS EXACTOS.[WAIT]@MUY BIEN, COLEGA.[WAIT]@SIGUE PRACTICANDO HASTA[BREAK]  ALCANZAR LA PERFECCIÓN.[WAIT]@¿OK?[WAIT]@¿DINERO? OH, SÍ, DINERO.[WAIT]@TOMA.[END]
 474-35:@I FEEL BETTER NOW.[WAIT]@WELL, SEE YA.[END]
-474-35E:
+474-35E:@YA ME SIENTO MEJOR.[WAIT]@NOS VEMOS.[END]
 474-36:@YOU SUCK, DUDE![END]
-474-36E:
+474-36E:@¡DAS PENA, COLEGA![END]
 474-37:@I WAS[PAUSE 24 00] GOING TO RECHARGE[PAUSE 24 00] MYSELF,[PAUSE 24 00][WAIT]  BUT[PAUSE 24 00] SOMEONE'S PORK BEAN[PAUSE 24 00] WAS IN THE[BREAK]  WAY,[PAUSE 24 00][WAIT]  SO I WASN'T ABLE TO RE[PAUSE 24 00]C[PAUSE 27 00]H[PAUSE 28 00].[PAUSE 2A 00].[PAUSE 2C 00].A[PAUSE 2E 00].r[PAUSE 30 00].r[PAUSE 32 00].r.[PAUSE 34 00].[PAUSE 36 00].[PAUSE 3C 00][END]
-474-37E:
+474-37E:@IBA A[PAUSE 24 00] RECARGARME,[PAUSE 24 00] PERO ALGUIEN[PAUSE 24 00][WAIT]  HA DEJADO UNA[PAUSE 24 00] VAINA PORCINA[PAUSE 24 00][BREAK]  AHÍ EN MEDIO,[PAUSE 24 00][WAIT]  ASÍ QUE NO HE PODI[PAUSE 24 00]D[PAUSE 27 00]D[PAUSE 28 00].[PAUSE 2A 00].[PAUSE 2C 00].O[PAUSE 2E 00].o[PAUSE 30 00].o[PAUSE 32 00].o.[PAUSE 34 00].[PAUSE 36 00].[PAUSE 3C 00][END]
 474-38:@It appears to have completely shut down.[END]
-474-38E:
+474-38E:@Se ha quedado sin energía.[END]
 474-39:@I WAS[PAUSE 24 00] GOING TO RECHARGE[PAUSE 24 00] MYSELF,[PAUSE 24 00][WAIT]  BUT[PAUSE 24 00] SOMEONE'S COFFEE TABLE[PAUSE 24 00] WAS IN THE[BREAK]  WAY,[PAUSE 24 00][WAIT]  SO I WASN'T ABLE TO RE[PAUSE 24 00]C[PAUSE 27 00]H[PAUSE 28 00].[PAUSE 2A 00].[PAUSE 2C 00].A[PAUSE 2E 00].r[PAUSE 30 00].r[PAUSE 32 00].r.[PAUSE 34 00].[PAUSE 36 00].[PAUSE 3C 00][END]
-474-39E:
+474-39E:@IBA A[PAUSE 24 00] RECARGARME,[PAUSE 24 00] PERO ALGUIEN[PAUSE 24 00][WAIT]  HA DEJADO UNA[PAUSE 24 00] EXTRAÑA MESA[PAUSE 24 00][BREAK]  AHÍ EN MEDIO,[PAUSE 24 00][WAIT]  ASÍ QUE NO HE PODI[PAUSE 24 00]D[PAUSE 27 00]D[PAUSE 28 00].[PAUSE 2A 00].[PAUSE 2C 00].O[PAUSE 2E 00].o[PAUSE 30 00].o[PAUSE 32 00].o.[PAUSE 34 00].[PAUSE 36 00].[PAUSE 3C 00][END]
 474-40:@Switch the power on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-474-40E:
+474-40E:@¿Iniciar proceso?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 474-41:@The panel on the recharge device is blinking.[BREAK]  It doesn't seem to work anymore.[END]
-474-41E:
+474-41E:@El panel del dispositivo de recarga está[BREAK]  parpadeando. Ya no funciona.[END]
 474-42:@It seems to have plenty of energy.[END]
 474-42E:@Parece estar a tope de energía.[END]
 // Repeats: 61-24, 474-42
@@ -16497,132 +16497,132 @@
 474-43E:@No hay ninguna vaina sobre el panel.[END]
 // Repeats: 61-4, 474-43
 474-44:@Received 1 DP.[END]
-474-44E:
+474-44E:@Recibiste 1 PD.[END]
 474-45:@Received 5 DP.[END]
-474-45E:
+474-45E:@Recibiste 5 PD.[END]
 474-46:@Received 10 DP.[END]
-474-46E:
+474-46E:@Recibiste 10 PD.[END]
 474-47:@Received 15 DP.[END]
-474-47E:
+474-47E:@Recibiste 15 PD.[END]
 474-48:@Received 30 DP.[END]
-474-48E:
+474-48E:@Recibiste 30 PD.[END]
 474-49:@Received 50 DP.[END]
-474-49E:
+474-49E:@Recibiste 50 PD.[END]
 474-50:@Received 100 DP.[END]
-474-50E:
+474-50E:@Recibiste 100 PD.[END]
 474-51:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![END]
-474-51E:
+474-51E:@¡[42 FF F1 FF] consiguió [EF 91][ITEM F0 FF]![END]
 
 [Container 475]
 475-0:@Please don't come back here.[WAIT]@You'll kick up the mold spores.[END]
-475-0E:
+475-0E:@Por favor, no pasen por aquí.[WAIT]@Van a levantar todo el polvo.[END]
 475-1:@Oh, welcome![WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00][BREAK]  Make yourselves at home...[END]
-475-1E:
+475-1E:@¡Oh, bienvenidos![WAIT]@*cof*[PAUSE 20 00] *cof*[PAUSE 20 00] *cof*[PAUSE 20 00][BREAK]  Sentíos como en casa...[END]
 475-2:@Sir![END]
-475-2E:
+475-2E:@¡Señor![END]
 475-3:@Please don't run inside![WAIT]  You'll kick up the mold spores![END]
-475-3E:
+475-3E:@¡No corran por aquí![WAIT]  ¡Van a levantar todo el polvo![END]
 475-4:@Let's see...[WAIT]@This restaurant is unpopular.[WAIT]@And I'm cute.[WAIT]@...I'm definitely not working here for long.[END]
-475-4E:
+475-4E:@Veamos...[WAIT]@Este restaurante es muy impopular.[WAIT]@Y yo soy una monada.[WAIT]@...Creo que no voy a estar aquí mucho tiempo.[END]
 475-5:@I could really get used to this place's uniquely[BREAK]  disgusting feeling.[WAIT]@In fact, I love it even more than Club Titiboo![END]
-475-5E:
+475-5E:@Creo que podría acostumbrarme[BREAK]  a este desagradable ambiente.[WAIT]@¡De hecho, lo prefiero al del club Titibú![END]
 475-6:@As of today, WE'RE the bouncers for this joint.[WAIT]@Gahaha![END]
-475-6E:
+475-6E:@Ahora SOMOS los gorilas de este antro.[WAIT]@¡Juajaja![END]
 475-7:@We don't really need bouncers, though...[END]
-475-7E:
+475-7E:@Aquí no hacen falta gorilas...[END]
 475-8:@One of the new bouncers slugged me![WAIT]@There must've been some sort of[BREAK]  misunderstanding here![END]
-475-8E:
+475-8E:@¡Uno de los gorilas me ha[BREAK]  metido una buena tunda![WAIT]@¡Tiene que haber algún tipo de malentendido![END]
 475-9:@Hey, man. I know the truth.[WAIT]@I know you're not really the commander.[BREAK]  You're an impostor.[WAIT]@Don't worry, though. I won't tell no one.[WAIT]@It'd be too much of a hassle anyways.[END]
-475-9E:
+475-9E:@Ey, tío. Lo sé todo.[WAIT]@Tú no eres el comandante.[BREAK]  Eres un impostor.[WAIT]@No te preocupes. No se lo voy a decir a nadie.[WAIT]@Sería un peñazo para ambos.[END]
 475-10:@Hey, man. I know the truth.[WAIT]@I know you're not really the commander.[BREAK]  You're an impostor.[WAIT]@Don't worry, though. I won't tell no one.[WAIT]@It'd be too much of a hassle anyways.[END]
-475-10E:
+475-10E:@Ey, tío. Lo sé todo.[WAIT]@Tú no eres el comandante.[BREAK]  Eres un impostor.[WAIT]@No te preocupes. No se lo voy a decir a nadie.[WAIT]@Sería un peñazo para ambos.[END]
 475-11:@Gum's so great, dontcha think?![WAIT]@You can chew it all day long and never run out![WAIT]@It's such an incredible deal![WAIT]  In a way, it's infinite![END]
-475-11E:
+475-11E:@¡¿El chicle es la repera, ¿a que sí?![WAIT]@¡Por mucho que lo masques, nunca se acaba!![WAIT]@¡Menudo chollazo![WAIT]  ¡Es como si fuese infinito![END]
 475-12:@It's true, gum never runs out![WAIT]@It's so great! It's such a bargain![END]
-475-12E:
+475-12E:@¡Es cierto, nunca se acaba![WAIT]@¡Es la repera! ¡Menudo chollazo![END]
 475-13:@This appears to be a menu, but you can't even[BREAK]  tell what's written on it.[END]
-475-13E:
+475-13E:@Parece ser un menú, pero ni siquiera[BREAK]  se puede leer.[END]
 475-14:@This appears to be a poster of some sort, but[BREAK]  you can't even tell what's written on it.[END]
-475-14E:
+475-14E:@Parece ser un póster, pero ni siquiera[BREAK]  se puede leer.[END]
 475-15:@A very dirty pool table.[END]
-475-15E:
+475-15E:@Un billar mugriento.[END]
 475-16:@An extremely filthy table.[END]
-475-16E:
+475-16E:@Una mesa sucísima.[END]
 475-17:@Lots of chewed gum has been stuck to this[BREAK]  table.[END]
-475-17E:
+475-17E:@Esta mesa tiene un montón de chicles[BREAK]  pegados en la parte de abajo.[END]
 475-18:@It's dirty, but it's a jukebox.[WAIT]@It's a jukebox, but it's dirty.[WAIT]@It's covered with cigarette stains and old[BREAK]  ketchup.[WAIT]@Try inserting 1 DP?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-475-18E:
+475-18E:@Está sucia, pero es una sinfonola.[WAIT]@Es una sinfonola, pero está sucia.[WAIT]@Está cubierta de ceniza[BREAK]  y kétchup reseco.[WAIT]@¿Quieres insertar 1 PD?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 475-19:@Withered, old anchovies and the like are stuck[BREAK]  to the record,[WAIT]  but even so, it actually started to spin.[END]
-475-19E:
+475-19E:@El vinilo tiene pegado lo que parecen ser[BREAK]  restos de anchoas,[WAIT]  pero aun así, ha empezado a girar.[END]
 475-20:@"Get yer butt outta my sight, you broke bum!"[WAIT]@The jukebox spat bitter words at you inside[BREAK]  your mind.[END]
-475-20E:
+475-20E:@"¡Lárgate de aquí, tontolpijo!"[WAIT]@Las duras palabras de la sinfonola[BREAK]  resuenan en tu mente.[END]
 475-21:@"You damn freakin' cheapskatey jerk!"[WAIT]@The jukebox spat bitter words at you inside[BREAK]  your mind.[END]
-475-21E:
+475-21E:@"¡Me cago en tu padre, pesetero malparido!"[WAIT]@Las duras palabras de la sinfonola[BREAK]  resuenan en tu mente.[END]
 
 [Container 476]
 476-0:@Hey, you![END]
-476-0E:
+476-0E:@¡Eh, vosotros![END]
 // Repeats: 456-0, 476-0
 476-1:@The only ones allowed to run inside the theater[BREAK]  are the stars on the screen![END]
-476-1E:
+476-1E:@¡Los únicos que pueden correr dentro[BREAK]  del cine son los de la pantalla![END]
 // Repeats: 456-1, 476-1
 476-2:@Your guys' leader is locked up in an apartment[BREAK]  building underground.[WAIT]@Huh? You don't know nothin' about no leader?[WAIT]@But your leader wants to see you.[WAIT]@Here I am, puttin' myself at risk to tell you[BREAK]  this, and you honestly don't know the guy?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-476-2E:
+476-2E:@A vuestro líder lo tienen encerrado[BREAK]  en un edificio subterráneo.[WAIT]@¿Eh? ¿Cómo que de qué líder hablo?[WAIT]@Ya sabéis... el líder...[WAIT]@¿En serio estoy arriesgándome el pellejo por[BREAK]  vosotros y ni siquiera sabéis de quién hablo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 456-2, 476-2
 476-3:@I see. So you really don't know about him.[WAIT]@I dunno, maybe you're supposed to meet him[BREAK]  without knowin' who he is or somethin'.[WAIT]@He definitely wants to meet you guys, though.[END]
-476-3E:
+476-3E:@Ya veo. Así que no sabéis nada de nada.[WAIT]@Quién sabe, quizás se decidió que no tuviérais[BREAK]  que saber de su existencia... hasta ahora.[WAIT]@En cualquier caso, quiere hablar con vosotros.[END]
 // Repeats: 456-3, 476-3
 476-4:@I see. In that case, maybe you're supposed to[BREAK]  meet him without knowin' who he is.[WAIT]@Anyways, that's all I can tell ya.[END]
-476-4E:
+476-4E:@Ya veo. A lo mejor se decidió que no teníais[BREAK]  que saber de su existencia... hasta ahora.[WAIT]@En fin, no puedo contaros más.[END]
 // Repeats: 456-4, 476-4
 476-5:@Your leader's bein' held in the MT Apartments,[WAIT]  but you gotta go through the sewers to get[BREAK]  there.[WAIT]@As the name suggests, the place is empty.[BREAK]  No one lives there at all.[WAIT]@It's now a breeding ground for violent attack[BREAK]  roaches, stinkbugs, rats, and stuff.[WAIT]@So you could probably find your way there by[BREAK]  following a stinkbug or something.[WAIT]@Only problem is, they smell REALLY, really[BREAK]  nasty! I'm talkin' major stinkage here![END]
-476-5E:
+476-5E:@Lo tienen preso en los apartamentos NBNTA,[WAIT]  pero vais a tener que cruzar las alcantarillas[BREAK]  para llegar hasta allí.[WAIT]@Como su nombre indica, están en venta.[BREAK]  Ya nadie vive allí.[WAIT]@Ahora no es más que un hervidero de ratas,[BREAK]  chinches y cucarachas.[WAIT]@Quizás podéis encontrar el lugar[BREAK]  si seguís a una chinche hasta allí.[WAIT]@El problema es que... ¡APESTAN![BREAK]  ¡Y no un poco, sino un montonazo![END]
 // Repeats: 456-5, 476-5
 476-6:@Rumor has it whenever you guys do somethin',[BREAK]  earthquakes and tremors and stuff happen.[WAIT]@What in the world do you guys do?![END]
-476-6E:
+476-6E:@Dicen que, donde quiera que aparecéis,[BREAK]  ocurren terremotos y temblores.[WAIT]@¡¿Qué narices os traéis entre manos?![END]
 // Repeats: 456-6, 476-6
 476-7:@A stinkbug? Yeah, I saw one earlier.[BREAK]  Where could it have gone?[WAIT]@Some people say that if you take a big whiff of[BREAK]  a stinkbug's smell, your memory'll improve.[WAIT]@If that's true, I'd sniff one without a second[BREAK]  thought.[END]
-476-7E:
+476-7E:@¿Chinches? Sí, he visto una hace rato.[BREAK]  ¿A dónde se habrá ido?[WAIT]@Hay quien dice que, si inhalas el pestazo[BREAK]  de una chinche, tendrás mejor memoria.[WAIT]@De ser verdad, aspiraría gustoso ese tufillo.[END]
 // Repeats: 456-7, 476-7
 476-8:@Wow. That hole in the speaker leads directly[BREAK]  into the sewer system.[WAIT]@Absolutely unbelievable.[WAIT]@So THAT'S why this theater stinks to high[BREAK]  heaven.[WAIT]@It even looks like stinkbugs use it to come and[BREAK]  go as they please![END]
-476-8E:
+476-8E:@Hala. Ese agujero del altavoz comunica[BREAK]  con las alcantarillas.[WAIT]@Absolutamente increíble.[WAIT]@Así que es POR ESO que este cine[BREAK]  huele a rata muerta.[WAIT]@¡Seguro que las chinches lo usan[BREAK]  para ir y venir a su antojo![END]
 // Repeats: 456-8, 476-8
 476-9:@Stinkbugs stink up the place, wherever they[BREAK]  go.[WAIT]@[PAUSE 20 00]You know, like these seats.[PAUSE 30 00] Some of them[BREAK]  smell bad...[END]
-476-9E:
+476-9E:@Las chinches dejan su pestazo[BREAK]  por todas partes.[WAIT]@[PAUSE 20 00]Por ejemplo, en estos asientos.[PAUSE 30 00][BREAK]  Algunos huelen fatal...[END]
 // Repeats: 456-9, 476-9
 476-10:@You want to go into the sewers, don't you?[BREAK]  ...What weirdos.[WAIT]@Anyways, you can't get in through there.[WAIT]@Hmm, where was it again...?[WAIT]  I seem to recall there being an entrance[BREAK]  somewhere, but it was someplace stupid...[WAIT]  And that there was a ladder going down...[WAIT]  And that I used to work part-time there a long[BREAK]  time ago...[WAIT]@Gah, I can't remember![END]
-476-10E:
+476-10E:@¿Que queréis ir a las alcantarillas?[BREAK]  ...Sois unos raritos.[WAIT]@Pero no vais a poder entrar desde aquí.[WAIT]@Mmm, ¿dónde estaba...?[WAIT]  Recuerdo que cerca de aquí había una[BREAK]  entrada, en un sitio de lo más estúpido...[WAIT]  Sí, con una escalera para bajar y todo...[WAIT]  Y recuerdo haber trabajado en ese lugar,[BREAK]  hace tiempo...[WAIT]@¡Agh, no me acuerdo![END]
 // Repeats: 456-10, 476-10
 476-11:@Did you find the entrance to the sewers?[WAIT]@It was in a stupid place, wasn't it?[WAIT]@I don't remember anything about it, though.[END]
-476-11E:
+476-11E:@¿Has encontrado la entrada a las alcantarillas?[WAIT]@¿A que estaba en un lugar estúpido?[WAIT]@El caso es que sigo sin acordarme del sitio.[END]
 // Repeats: 456-11, 476-11
 476-12:@This area stinks.[END]
-476-12E:
+476-12E:@Este sitio apesta.[END]
 // Repeats: 456-12, 476-12
 476-13:@This area doesn't stink too much.[END]
-476-13E:
+476-13E:@Este sitio no apesta tanto.[END]
 // Repeats: 456-13, 476-13
 476-14:@This area doesn't stink at all.[END]
-476-14E:
+476-14E:@Este sitio no apesta en absoluto.[END]
 // Repeats: 456-14, 476-14
 476-15:@This area REALLY stinks![END]
-476-15E:
+476-15E:@¡Este sitio APESTA de verdad![END]
 // Repeats: 456-15, 476-15
 476-16:@The hole in this speaker seems to lead into the[BREAK]  sewers.[WAIT]@Go through it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-476-16E:
+476-16E:@Este agujero parece comunicar[BREAK]  con las alcantarillas.[WAIT]@¿Quieres meterte dentro?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 456-16, 476-16
 476-17:@It would be a bit difficult for people to fit[BREAK]  through this.[END]
-476-17E:
+476-17E:@Ninguna persona normal cabría por ahí.[END]
 // Repeats: 456-17, 476-17, 476-21
 476-18:@You're not supposed to watch movies from so[BREAK]  close up. It's bad for your eyes.[END]
-476-18E:
+476-18E:@No deberías ponerte tan cerca de la pantalla.[BREAK]  Es malo para tus ojos.[END]
 // Repeats: 456-18, 476-18
 476-19:[END]
-476-19E:
+476-19E:[END]
 476-20:@This narrow, dark hole appears to lead into the[BREAK]  movie theater.[WAIT]@Try going through it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-476-20E:
+476-20E:@Este agujero oscuro y estrecho[BREAK]  parece llevar al cine.[WAIT]@¿Quieres meterte dentro?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 476-21:@It would be a bit difficult for people to fit[BREAK]  through this.[END]
-476-21E:
+476-21E:@Ninguna persona normal cabría por ahí.[END]
 // Repeats: 456-17, 476-17, 476-21
 
 [Container 477]
@@ -16708,24 +16708,24 @@
 477-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 477-27:[END]
-477-27E:
+477-27E:[END]
 
 [Container 478]
 478-0:@[42 FF 00 00] opened the garbage can.[EVENT][END]
-478-0E:
+478-0E:@[42 FF 00 00] abrió la papelera.[EVENT][END]
 478-1:@Got [EF 91][ITEM F0 FF]![END]
 478-1E:@¡Conseguiste [EF 91][ITEM F0 FF]![END]
 // Repeats: 39-2, 478-1, 509-2
 478-2:@There was [EF 91][ITEM F0 FF] inside.[WAIT]@But you couldn't hold any more stuff.[END]
-478-2E:
+478-2E:@Dentro había [EF 91][ITEM F0 FF].[WAIT]@Pero no puedes cargar con más cosas.[END]
 478-3:[END]
-478-3E:
+478-3E:[END]
 
 [Container 501]
 501-0:@It doesn't appear to be turned on.[END]
-501-0E:
+501-0E:@No parece estar en funcionamiento.[END]
 501-1:[END]
-501-1E:
+501-1E:[END]
 
 [Container 502]
 502-0:@This is a wonderful device called an Instant[BREAK]  Revitalizing Machine.[WAIT]@In only a few seconds, it'll fully revitalize you,[BREAK]  just like a good night's sleep.[WAIT]@Under normal circumstances, it'd be wasted[BREAK]  on a stupid monkey like you,[WAIT]  but I'll give you special permission to use it for[BREAK]  now.[END]
@@ -19381,7 +19381,7 @@
 863-5:@These are Master Porky's favorite[BREAK]  double-chocolate fried pork chips.[END]
 863-5E:
 863-6:@Hey, you![END]
-863-6E:
+863-6E:@¡Eh, vosotros![END]
 863-7:@What's with that cheeky attitude?![WAIT]@Don't you think you're acting a little too[BREAK]  friendly with Master Porky's snacks?![END]
 863-7E:
 863-8:@Tons of sweets and presents are lying here.[END]

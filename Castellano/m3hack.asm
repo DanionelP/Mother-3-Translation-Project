@@ -1243,7 +1243,7 @@ org $9B90140; incbin gfx_offdef_[c].bin
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256B20
-org $9F92000; incbin gfx_monotoli_[c].bin
+org $9F92200; incbin gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
 define star_sprite_address $9F86120
