@@ -1246,10 +1246,10 @@
 10-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 10-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-10-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
+10-13E:@*snif*[WAIT]@*snif*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 10-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-10-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
+10-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan con tanta pasión que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 10-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
 10-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo no beber en momentos así...[END]
@@ -1314,11 +1314,11 @@
 10-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 10-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-10-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
+10-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que voy a tener[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
 // I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 10-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-10-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
+10-36E:@No tienes escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 10-37:@It's locked.[END]
 10-37E:@Cerrado.[END]
@@ -1328,7 +1328,7 @@
 // This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 10-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-10-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos la noche allí.[WAIT]@Venga, andando.[END]
+10-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Vamos a pasar la noche allí.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 10-40:@Got a Happy Box![PAUSE A0 00][END]
 10-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
@@ -3246,10 +3246,10 @@
 35-9E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 35-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-35-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+35-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 35-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-35-11E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+35-11E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 35-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 35-12E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -3394,10 +3394,10 @@
 36-40E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 36-41:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-36-41E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+36-41E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 36-42:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-36-42E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+36-42E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 36-43:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 36-43E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -3649,10 +3649,10 @@
 38-9E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 38-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-38-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+38-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 38-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-38-11E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+38-11E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 38-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 38-12E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -4300,10 +4300,10 @@
 48-9E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 48-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-48-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+48-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 48-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-48-11E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+48-11E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 48-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 48-12E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -4375,10 +4375,10 @@
 49-9E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 49-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-49-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+49-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 49-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-49-11E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+49-11E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 49-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 49-12E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -10165,10 +10165,10 @@
 222-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 222-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-222-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
+222-13E:@*snif*[WAIT]@*snif*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 222-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-222-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
+222-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan con tanta pasión que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 222-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
 222-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo no beber en momentos así...[END]
@@ -10233,11 +10233,11 @@
 222-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 222-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-222-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
+222-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que voy a tener[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
 // I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 222-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-222-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
+222-36E:@No tienes escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 222-37:@It's locked.[END]
 222-37E:@Cerrado.[END]
@@ -10247,7 +10247,7 @@
 // This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 222-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-222-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos la noche allí.[WAIT]@Venga, andando.[END]
+222-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Vamos a pasar la noche allí.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 222-40:@Got a Happy Box![PAUSE A0 00][END]
 222-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
@@ -10325,10 +10325,10 @@
 222-64E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 222-65:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-222-65E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+222-65E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 222-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-222-66E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+222-66E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 222-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 222-67E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -10364,7 +10364,7 @@
 222-77E:@Tromba.[BREAK]  (Algún gamberro ha modificado el texto...)[END]
 // Repeats: 222-77, 506-77
 222-78:@As a young boy, Scamp loved to scamper[BREAK]  about, to-and-fro.[WAIT]  This is how he earned the nickname "Scamp",[BREAK]  the name he went by until the age of 99.[WAIT]  May he rest here in peace.[END]
-222-78E:@Desde niño, a Golfo le encantaba[BREAK]  hacerse el golfo día y noche.[WAIT]  Así fue como se ganó el mote de "Golfo",[BREAK]  y así se le conoció hasta sus 99 años.[WAIT]  Que descanse en paz.[END]
+222-78E:@Desde niño, a Golfo le encantaba[BREAK]  hacerse el golfo día y noche.[WAIT]  Así fue como se ganó el mote de "Golfo",[BREAK]  con el que se le conoció hasta sus 99 años.[WAIT]  Que en paz descanse.[END]
 // Repeats: 222-78, 506-78
 222-79:@Poor Mr. Nippolyte.[WAIT]@Apparently, lightning struck his house 14[BREAK]  times over the course of three years.[END]
 222-79E:@Pobre Sr. Nippolyte.[WAIT]@Parece ser que durante los últimos tres[BREAK]  años han caído 14 rayos sobre su casa.[END]
@@ -10431,10 +10431,10 @@
 223-9E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 223-10:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-223-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+223-10E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 223-11:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-223-11E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+223-11E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 223-12:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 223-12E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -16729,21 +16729,21 @@
 
 [Container 502]
 502-0:@This is a wonderful device called an Instant[BREAK]  Revitalizing Machine.[WAIT]@In only a few seconds, it'll fully revitalize you,[BREAK]  just like a good night's sleep.[WAIT]@Under normal circumstances, it'd be wasted[BREAK]  on a stupid monkey like you,[WAIT]  but I'll give you special permission to use it for[BREAK]  now.[END]
-502-0E:
+502-0E:@Este portento tecnológico es un[BREAK]  Dispositivo de revitalización.[WAIT]@Después de usarlo, te sentirás como si[BREAK]  hubieses dormido una noche entera.[WAIT]@Normalmente no malgastaría su energía[BREAK]  en un mono estúpido como tú,[WAIT]  pero en este caso, voy a hacer una excepción[BREAK]  y dejaré que lo utilices.[END]
 502-1:@Hey, stupid monkey. Look here.[END]
-502-1E:
+502-1E:@Ey, mono estúpido. Atiende.[END]
 502-2:@This is a high-tech vehicle known as a Pork[BREAK]  Bean.[WAIT]@We're going to take it to an unbelievably[BREAK]  uncivilized village called Tazmily.[WAIT]@It'd take an incredibly long time to get there on[BREAK]  foot,[WAIT]  but with this Pork Bean, we'll get there in the[BREAK]  blink of a "Nwehe!"[END]
-502-2E:
+502-2E:@Este moderno vehículo se llama[BREAK]  Vaina porcina.[WAIT]@La vamos a usar para viajar a un lugar de lo[BREAK]  más incivilizado llamado Tazmily.[WAIT]@Llegar hasta allí a pie nos llevaría[BREAK]  una eternidad,[WAIT]  pero con esto, estaremos allí antes[BREAK]  de que podamos decir "¡Ñiejeje!"[END]
 502-3:@...You get all that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-502-3E:
+502-3E:@...¿Te ha quedado claro?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 502-4:@Use that ladder to get down there![END]
-502-4E:
+502-4E:@¡Baja por esa escalera![END]
 502-5:@Hey! Don't get in yet![BREAK]@You stupid monkey![END]
-502-5E:
+502-5E:@¡Ey! ¡No te montes todavía![BREAK]@¡Mono estúpido![END]
 502-6:@Alright, listen up.[WAIT]@When you want to stop the Pork Bean while[BREAK]  it's moving, press the [COLOR 03 00]B[COLOR 00 00] Button.[WAIT]@While it's stopped, press the [COLOR 03 00]B[COLOR 00 00] Button again to[BREAK]  get out.[END]
-502-6E:
+502-6E:@Vale, escucha.[WAIT]@Cuando quieras parar la Vaina porcina[BREAK]  pulsa el botón [COLOR 03 00]B[COLOR 00 00].[WAIT]@Mientras está parada, pulsa el botón [COLOR 03 00]B[COLOR 00 00][BREAK]  de nuevo para bajarte.[END]
 502-7:@Then get in![END]
-502-7E:
+502-7E:@¡Pues súbete![END]
 
 [Container 506]
 506-0:[END]
@@ -16785,10 +16785,10 @@
 506-12E:@Pero si me dijo que no nos veríamos[BREAK]  en un tiempo...[WAIT]@¿Cuándo es "un tiempo"?[WAIT]@¿Mañana?[END]
 // Repeats: 10-12, 222-12, 506-12
 506-13:@*sob*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] Waaaah...![END]
-506-13E:@*snif*[WAIT]@*sniff*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
+506-13E:@*snif*[WAIT]@*snif*[WAIT]@[HINAWA 22 08 00]...[PAUSE 30 00] ¡Buaaah..![END]
 // Repeats: 10-13, 222-13, 506-13
 506-14:@[FLINT 23 01 00]...[WAIT]  You and [HINAWA 22 08 00]...[WAIT]  You two loved each other so much that even[BREAK]  the little birds in the forest were jealous.[WAIT]@And that'll never change, even after this.[END]
-506-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan apasionadamente que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
+506-14E:@[FLINT 23 01 00]...[WAIT]  [HINAWA 22 08 00] y tú...[WAIT]  Os amábais tan con tanta pasión que hasta[BREAK]  los pajarillos del bosque estaban celosos.[WAIT]@Eso no va a cambiar nunca, ni tras esto.[END]
 // Repeats: 10-14, 222-14, 506-14
 506-15:@*hic*[PAUSE 20 00] *sob*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@She barely even got to live life![WAIT]@Wouldn't you agree?[WAIT]@I can't not drink at a time like this...[END]
 506-15E:@*hip*[PAUSE 20 00] *snif*...[PAUSE 20 00][BREAK]  [HINAWA 22 08 00]...[WAIT]@¡Apenas había vivido la vida![WAIT]@¿No opinas igual?[WAIT]@No puedo no beber en momentos así...[END]
@@ -16853,11 +16853,11 @@
 506-34E:@Más...[PAUSE 30 00][BREAK]  Máaaas...[PAUSE 30 00] Ggggg...[PAUSE 30 00][WAIT]@¡Quiero vivir m[PAUSE 20 00]á[PAUSE 18 00]a[PAUSE 10 00]a[PAUSE 08 00]a[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 08 00]A[PAUSE 04 00]AS![END]
 // Repeats: 10-34, 222-34, 506-34
 506-35:@Oh, my! Gggg...[PAUSE 30 00][BREAK]  Is that you, [DUSTER 23 03 00]?![WAIT]@My, how you've g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]g[PAUSE 10 00]grown![WAIT]@Why, there's so much of you that I could eat[BREAK]  for three days and three nights[WAIT]  and still have leftovers![WAIT]@Gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] ggeh![END]
-506-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que tendré[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
+506-35E:@¡Oh! Gggg...[PAUSE 30 00][BREAK]  ¡¿Eres tú, [DUSTER 23 03 00]?![WAIT]@¡Cómo has c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]c[PAUSE 10 00]crecido![WAIT]@Con semejante tamaño creo que voy a tener[BREAK]  comida para tres días y tres noches[WAIT]  ¡y aún quedarían sobras![WAIT]@¡Gggu[PAUSE 20 00] ggua[PAUSE 20 00] jajaa![END]
 // I think that last part is zombie laughter
 // Repeats: 10-35, 222-35, 506-35
 506-36:@There's no escape...[WAIT]@Ggeh[PAUSE 20 00] gggeh[PAUSE 20 00] ggeh[PAUSE 20 00] gggeh![END]
-506-36E:@No hay escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
+506-36E:@No tienes escapatoria...[WAIT]@¡Gge[PAUSE 20 00] ggge[PAUSE 20 00] gge[PAUSE 20 00] jejeje![END]
 // Repeats: 10-36, 222-36, 506-36
 506-37:@It's locked.[END]
 506-37E:@Cerrado.[END]
@@ -16867,7 +16867,7 @@
 // This Nippolyte guy, I really imagine him always talking like some British guy.
 // Repeats: 10-38, 222-38, 506-38
 506-39:@To the south of this cemetery is a village.[WAIT]@There's a place there called the Yado Inn,[BREAK]  where we can stay the night.[WAIT]@That's where we're headed now.[END]
-506-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Pasaremos la noche allí.[WAIT]@Venga, andando.[END]
+506-39E:@Tazmily está al sur de este cementerio.[WAIT]@En él se encuentra una posada llamada Yado.[BREAK]  Vamos a pasar la noche allí.[WAIT]@Venga, andando.[END]
 // Repeats: 10-39, 222-39, 506-39
 506-40:@Got a Happy Box![PAUSE A0 00][END]
 506-40E:@¡Conseguiste una Caja feliz![PAUSE A0 00][END]
@@ -16945,10 +16945,10 @@
 506-64E:@Oh, [LUCAS 23 02 00].[WAIT]@La gente de Tazmily se ha ido marchando[BREAK]  lenta pero constantemente.[WAIT]@No sabía que vosotros aún seguíais aquí.[EVENT][END]
 // Repeats: 35-9, 36-40, 38-9, 48-9, 49-9, 222-64, 223-9, 506-64
 506-65:@What's that?[WAIT]@You're looking for Ionia's house?[WAIT]@It's certainly not nearby, I can tell you that.[WAIT]@Do you remember my little cabin in the[BREAK]  mountains where you used to come visit?[WAIT]@To the west of that old cabin is Argilla Pass.[BREAK]  You can get to Ionia's place from there.[WAIT]@Whatever the case, it'd probably be a good[BREAK]  idea to take a map...[END]
-506-65E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Recuerdas mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
+506-65E:@¿Cómo dices?[WAIT]@¿Que buscas la casa de Ionia?[WAIT]@Cerca no está, eso te lo aseguro.[WAIT]@¿Te acuerdas de mi cabaña en las montañas,[BREAK]  a donde solías venir de visita?[WAIT]@Pues al oeste está el paso de Argilla.[BREAK]  Puedes llegar a casa de Ionia desde allí.[WAIT]@En cualquier caso, convendría[BREAK]  que te llevases un mapa...[END]
 // Repeats: 35-10, 36-41, 38-10, 48-10, 49-10, 222-65, 223-10, 506-65
 506-66:@I ran into Mapson just a minute ago.[WAIT]@He might still be around here somewhere.[WAIT]@You should get him to mark your map for you.[END]
-506-66E:@Me topé con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
+506-66E:@Me he topado con Mapson hace nada.[WAIT]@Seguramente siga por ahí.[WAIT]@Deberías pedirle que te marque el mapa.[END]
 // Repeats: 35-11, 36-42, 38-11, 48-11, 49-11, 222-66, 223-11, 506-66
 506-67:@Ionia's house is due north of Argilla Pass,[BREAK]  which is near my house.[WAIT]@If you have trouble finding the place, just have[BREAK]  Mapson mark your map for you.[END]
 506-67E:@La casa de Ionia está al norte del paso[BREAK]  de Argilla, junto a mi casa.[WAIT]@Si tienes problemas para encontrar el lugar,[BREAK]  ve a hablar con Mapson.[END]
@@ -16984,7 +16984,7 @@
 506-77E:@Tromba.[BREAK]  (Algún gamberro ha modificado el texto...)[END]
 // Repeats: 222-77, 506-77
 506-78:@As a young boy, Scamp loved to scamper[BREAK]  about, to-and-fro.[WAIT]  This is how he earned the nickname "Scamp",[BREAK]  the name he went by until the age of 99.[WAIT]  May he rest here in peace.[END]
-506-78E:@Desde niño, a Golfo le encantaba[BREAK]  hacerse el golfo día y noche.[WAIT]  Así fue como se ganó el mote de "Golfo",[BREAK]  y así se le conoció hasta sus 99 años.[WAIT]  Que descanse en paz.[END]
+506-78E:@Desde niño, a Golfo le encantaba[BREAK]  hacerse el golfo día y noche.[WAIT]  Así fue como se ganó el mote de "Golfo",[BREAK]  con el que se le conoció hasta sus 99 años.[WAIT]  Que en paz descanse.[END]
 // Repeats: 222-78, 506-78
 506-79:@Poor Mr. Nippolyte.[WAIT]@Apparently, lightning struck his house 14[BREAK]  times over the course of three years.[END]
 506-79E:@Pobre Sr. Nippolyte.[WAIT]@Parece ser que durante los últimos tres[BREAK]  años han caído 14 rayos sobre su casa.[END]
@@ -17017,11 +17017,11 @@
 506-88E:@Los restos de mi humilde morada.[BREAK]  TURISTAS FUERA[END]
 // Repeats: 222-88, 506-88
 506-89:@This is one of the pigs' vehicles.[WAIT]@It's probably best to not touch it.[END]
-506-89E:
+506-89E:@Uno de esos vehículos porcinos.[WAIT]@Será mejor no tocarlo.[END]
 506-90:[ALTERNATEFONT]@attacked.[WAIT]@very bad.[WAIT]@come to thunder[BREAK]  area.[WAIT]@thanks thanks.[END]
-506-90E:
+506-90E:[ALTERNATEFONT]@atacado.[WAIT]@muy malo.[WAIT]@venido zona[BREAK]  rayos.[WAIT]@gracias gracias.[END]
 506-91:[ALTERNATEFONT]@this is[BREAK]  "this vehicle".[WAIT]@made pig one better.[WAIT]@use as you please.[BREAK]  bathroom.[END]
-506-91E:
+506-91E:[ALTERNATEFONT]@esto es[BREAK]  "ese vehiculo".[WAIT]@mejorado el otro.[WAIT]@usar si querer.[BREAK]  lavabo.[END]
 
 [Container 507]
 507-0:@Please refrain from throwing Running Bombs[BREAK]  while indoors.[WAIT]  It makes things all smoky.[END]
@@ -17040,7 +17040,7 @@
 507-4E:@El Transceptor parece reaccionar[BREAK]  ante la puerta.[WAIT]@¿Quieres pulsar el botón del Transceptor?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 222-76, 506-76, 507-4
 507-5:[END]
-507-5E:
+507-5E:[END]
 
 [Container 509]
 509-0:@[42 FF 00 00] opened the present.[EVENT][END]
@@ -17062,232 +17062,232 @@
 509-5E:@No parece que puedas atravesar[BREAK]  esta verja metálica.[END]
 // Repeats: 39-5, 509-5
 509-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But [81 FF] can't carry any more stuff.[END]
-509-6E:
+509-6E:@Dentro del regalo había[BREAK]  [EF 91][ITEM F0 FF].[WAIT]@Pero [81 FF] no puede cargar con más cosas.[END]
 // Repeats: 39-6, 509-6
 509-7:[END]
-509-7E:
+509-7E:[END]
 
 [Container 551]
 551-0:@Oh, hey there, [LUCAS 23 02 00].[WAIT]@Are you here at the factory for something?[WAIT]@If you feel like working, I'm sure they'll hire[BREAK]  you.[END]
-551-0E:
+551-0E:@Oh, hola, [LUCAS 23 02 00].[WAIT]@¿Qué te trae por la fábrica?[WAIT]@Si es que estás buscando un trabajo,[BREAK]  aquí lo vas a encontrar.[END]
 551-1:@It's actually those clay figures that do all the[BREAK]  work here.[WAIT]@We just hafta keep watch.[WAIT]@Talk about an easy job.[END]
-551-1E:
+551-1E:@En verdad, los que se pringan son[BREAK]  esos tíos de arcilla.[WAIT]@Nosotros solamente los supervisamos.[WAIT]@Es un trabajo facilísimo...[END]
 551-2:@Can't say it's very fun, though.[END]
-551-2E:
+551-2E:@...facilísimo y aburridísimo.[END]
 551-3:@[LUCAS 23 02 00]...[PAUSE 10 00][WAIT]@So you've finally decided to live in these new[BREAK]  times, huh?[WAIT]@Well, good luck with your part-time job.[WAIT]@While you're walking around here all lazy-like,[WAIT]  I'm gonna shoot straight to the top and[BREAK]  become someone important.[WAIT]@I might even get to be a Pigmask soon![WAIT]  ...[PAUSE 20 00]They've invited me to join them![END]
-551-3E:
+551-3E:@[LUCAS 23 02 00]...[PAUSE 10 00][WAIT]@Por fin has decidido adaptarte[BREAK]  a los nuevos tiempos, ¿eh?[WAIT]@Bueno, pues suerte con tu trabajo.[WAIT]@Mientras tú te partes la espalda aquí,[WAIT]  yo me voy a abrir camino hasta lo más alto[BREAK]  y me convertiré en alguien importante.[WAIT]@¡A lo mejor pronto me hago Puercareto y todo![WAIT]  ...[PAUSE 20 00]¡Me han invitado a enrolarme![END]
 551-4:@Muooon.[END]
-551-4E:
+551-4E:@Muooon.[END]
 551-5:@Muooooooon.[END]
-551-5E:
+551-5E:@Muooooooon.[END]
 551-6:@Hey! You suspicious fellow![WAIT]@What're you doing here?![END]
-551-6E:
+551-6E:@¡Eh! ¡Tú, niño raro![WAIT]@¡¿Qué estás haciendo aquí?![END]
 551-7:@What's that? You wanna go to Club Titiboo?![WAIT]@That's a special place for workers here to go[BREAK]  and relieve their daily exhaustion.[WAIT]@It's not for people who don't work here.[END]
-551-7E:
+551-7E:@¿Cómo? ¡¿Que quieres ir al club Titibú?![WAIT]@Es un lugar de relax exclusivo[BREAK]  para nuestros trabajadores.[WAIT]@No dejan pasar a cualquiera.[END]
 551-8:@If you absolutely HAVE to go there, then it's[BREAK]  simple. Just do some part-time work here.[WAIT]@Whadya say?[WAIT]@Are you up for some part-time work?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-551-8E:
+551-8E:@Pero si TANTO necesitas ir allí, es muy fácil.[BREAK]  Sólo tienes que trabajar para nosotros.[WAIT]@¿Qué me dices?[WAIT]@¿Te interesaría un curro a tiempo parcial?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 551-9:@Have you come back to sweat some more[BREAK]  beautiful sweat?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-551-9E:
+551-9E:@Qué, ¿dispuesto a sudar la gota gorda[BREAK]  de nuevo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 551-10:@Oh. That's too bad, then.[WAIT]@There's absolutely no other way to get to Club[BREAK]  Titiboo, though, you know.[END]
-551-10E:
+551-10E:@Oh. Pues entonces nada.[WAIT]@Pero que sepas que no tienes ninguna otra[BREAK]  forma de entrar en el club Titibú.[END]
 551-11:@Well, I won't force you to.[WAIT]@See ya later, I guess.[WAIT]@Come back if you change your mind.[END]
-551-11E:
+551-11E:@Vale, no voy a ser yo quien te obligue.[WAIT]@Nos vemos, pues.[WAIT]@Vuelve por aquí, si es que cambias de parecer.[END]
 551-12:@Yeah?[WAIT]@Then that makes things easy.[END]
-551-12E:
+551-12E:@¿Sí?[WAIT]@Esto va a ser rápido, entonces.[END]
 551-13:@The job is to transport Claymen.[WAIT]@First, go alllll the way inside.[WAIT]@You'll find a ladder there. Go down it. You'll[BREAK]  find a bunch of Claymen in the area below.[WAIT]@Some of them'll be almost out of energy, so[BREAK]  you gotta bring them back up here.[WAIT]@Bring them one at a time.[WAIT]  After you've brought three up, you're done.[WAIT]@Just to be safe, I'll give you this sketch of[BREAK]  how the factory is laid out.[END]
-551-13E:
+551-13E:@Tu trabajo será transportar Arcillosos.[WAIT]@Primero, ve ahí al fondo.[WAIT]@Allí verás una escalera. Baja por ella.[BREAK]  Los Arcillosos están en el nivel inferior.[WAIT]@Verás que algunos casi no tienen energía.[BREAK]  Esos son los que tienes que traernos.[WAIT]@Tráelos de uno en uno.[WAIT]  Cuando hayas traído tres, habrás acabado.[WAIT]@Llévate este esbozo de las instalaciones[BREAK]  de la fábrica, por si las moscas.[END]
 551-14:@Oh, and sign your name on this document.[WAIT]@No, no, not your name.[WAIT]@I mean... you know.[BREAK]@The name of...[BREAK]  Of the person in the background...[WAIT]  The person pulling the strings, I guess you[BREAK]  could say?[PAUSE 20 00][WAIT]  What I mean to say is...![WAIT][PAUSE 30 00]  Th-th-th-th-the player's name.[WAIT]@I just need it for verification purposes, it's[BREAK]  nothing too important. You know how it is.[WAIT]@Anyway, if you could do that, that'd help out[BREAK]  a lot.[END]
-551-14E:
+551-14E:@Oh, y pont u nombre en este documento.[WAIT]@No, no, tu nombre no.[WAIT]@El de... ya sabes.[BREAK]@El nombre de...[BREAK]  La persona en las sombras...[WAIT]  La que mueve los hilos...[BREAK]  Ya sabes...[PAUSE 20 00][WAIT]  ¡Me refiero a...![WAIT][PAUSE 30 00]  E-e-e-el nombre del jugador.[WAIT]@Es una simple verificación de datos,[BREAK]  nada importante. Ya sabes cómo va esto.[WAIT]@Si no te importa...[BREAK]  Me harías un gran favor.[END]
 551-15:@Great! [PLAYERNAME]![WAIT]@Is that your correct name?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-551-15E:
+551-15E:@¡Genial! ¡[PLAYERNAME]![WAIT]@¿Lo he dicho bien?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 551-16:@[PLAYERNAME]...[WAIT]@Alright, got it.[BREAK]@I'll add it to our records.[WAIT]@Now listen.[WAIT]@Don't do anything bad, because that'll only[BREAK]  inconvenience [PLAYERNAME]![WAIT]@So don't forget that![WAIT]@Alright, then. Work hard.[END]
-551-16E:
+551-16E:@[PLAYERNAME]...[WAIT]@Muy bien.[BREAK]@Lo voy a añadir al registro.[WAIT]@Ahora, escucha.[WAIT]@¡No hagas nada malo o le causarás[BREAK]  problemas a [PLAYERNAME]![WAIT]@¡Tenlo presente![WAIT]@Y ahora, a trabajar.[END]
 551-17:@...[WAIT]@This is no place for your lies![WAIT]@I know I'm a Pigmask, but I'm honestly doing[BREAK]  this for YOUR sake.[WAIT]@...So write your name right![END]
-551-17E:
+551-17E:@...[WAIT]@¡Ni se te ocurra mentirme![WAIT]@Sé que soy un Puercareto, pero te juro[BREAK]  que esto es por TU bien.[WAIT]@...¡Escribe bien tu nombre![END]
 551-18:@Gwah, I can't use this document anymore.[WAIT]@But it's all right. This is for your sake.[WAIT]@Who cares if some paper gets wasted?[END]
-551-18E:
+551-18E:@Argh, este impreso ya no sirve.[WAIT]@Pero no pasa nada. Esto es por tu bien.[WAIT]@¿Qué más da que se malgaste papel?[END]
 551-19:@Okay, write it again on this piece of paper.[WAIT]@You know. Th-th-th-the player's name...[END]
-551-19E:
+551-19E:@Vale, escríbelo de nuevo en este papel.[WAIT]@Ya sabes. E-e-e-el nombre del jugador...[END]
 551-20:@Hold on, dog![WAIT]@Dogs have dog things to keep them busy![WAIT]@Dog![WAIT]@Go on ahead and do what the boss dog says.[END]
-551-20E:
+551-20E:@¡Espera, perrito![WAIT]@¡Tú también tienes trabajo que hacer![WAIT]@¡Chucho![WAIT]@Ve al fondo y haz lo que te diga el perro jefe.[END]
 551-21:@Oh, you're that dog that worked here earlier.[WAIT]@You were quite a hard worker, as I recall.[WAIT]@How've you been?[WAIT]@If you wanna do some more part-time work,[BREAK]  just go to the usual place.[END]
-551-21E:
+551-21E:@Oh, tú estuviste trabajando aquí hace poco.[WAIT]@Un perro de lo más trabajador, he de decir.[WAIT]@¿Qué tal te va?[WAIT]@Si vienes a trabajar un poco más,[BREAK]  ya sabes dónde está tu puesto.[END]
 551-22:@Oh, you brought company with you?[WAIT]@You're free to look around, but be sure not to[BREAK]  get in [LUCAS 23 02 00]'s way, okay?[END]
-551-22E:
+551-22E:@Oh, ¿vienes acompañado?[WAIT]@Vale, pero procura que eso no te distraiga[BREAK]  de tu trabajo. ¿Eh, [LUCAS 23 02 00]?[END]
 551-23:@Are you[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. one of [LUCAS 23 02 00]'s friends,[BREAK]  too?[WAIT]@Shake![WAIT][PAUSE 30 00]@Ahh![PAUSE 0C 00] Sorry! Sorry![WAIT]  You just had that air about you, so I did that[BREAK]  without thinking.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][WAIT]@Not many people have that air about them,[BREAK]  wouldn't you agree?[END]
-551-23E:
+551-23E:@Tú[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00]. ¿eres amigo de [LUCAS 23 02 00]?[WAIT]@¡La patita![WAIT][PAUSE 30 00]@¡Ah![PAUSE 0C 00] ¡Perdón! ¡Perdón![WAIT]  Hay un "algo" en ti que me ha hecho[BREAK]  decir eso sin pensar.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 18 00][WAIT]@No hay mucha gente con ese "algo",[BREAK]  ¿verdad que no?[END]
 551-24:@Woof![WAIT]  (Well, I'm off to continue my work!)[END]
-551-24E:
+551-24E:@¡Guau![WAIT]  (¡Bueno, a trabajar se ha dicho!)[END]
 551-25:@*whimper*...[WAIT]  (Oh yeah. I had to "go" while I was working...[WAIT]  Why did I have to remember something like[BREAK]  that?)[END]
-551-25E:
+551-25E:@*gemido*...[WAIT]  (Oh, sí. Me tuve que "ir" en mitad del trabajo...[WAIT]  ¿Por qué me acuerdo ahora de algo así?)[END]
 551-26:@The job is to transport Claymen.[WAIT]@First, go alllll the way inside.[WAIT]@You'll find a ladder there. Go down it. You'll[BREAK]  find a bunch of Claymen in the area below.[WAIT]@Some of them'll be almost out of energy, so[BREAK]  you gotta bring them back up here.[WAIT]@Haul three of them back to complete one set.[WAIT]@Got that?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-551-26E:
+551-26E:@Tu trabajo será transportar Arcillosos.[WAIT]@Primero, ve ahí al fondo.[WAIT]@Allí verás una escalera. Baja por ella.[BREAK]  Los Arcillosos están en el nivel inferior.[WAIT]@Verás que algunos casi no tienen energía.[BREAK]  Esos son los que tienes que traernos.[WAIT]@Cuando hayas traído tres, habrás acabado.[WAIT]@¿Lo has entendido?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 551-27:@Only one or two isn't enough.[WAIT]@You need to bring three to complete one set.[WAIT]@That's the system we go by here.[END]
-551-27E:
+551-27E:@Uno o dos no bastan.[WAIT]@Tres Arcillosos por lote. Siempre.[WAIT]@Así es nuestro sistema.[END]
 551-28:@The Claymen low on energy are very weak, so[BREAK]  you'll know which ones they are right away.[END]
-551-28E:
+551-28E:@Los Arcillosos sin energía apenas se mantienen[BREAK]  en pie. Es fácil diferenciarlos del resto.[END]
 551-29:@Alright.[WAIT]@Hop to it.[END]
-551-29E:
+551-29E:@Muy bien.[WAIT]@Manos a la obra.[END]
 551-30:@What's wrong?[WAIT]@Have you forgotten what to do?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-551-30E:
+551-30E:@¿Qué pasa?[WAIT]@¿Has olvidado lo que tienes que hacer?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 551-31:@Yeesh. You're such a lost cause...[END]
-551-31E:
+551-31E:@Tsk. Eres un caso perdido...[END]
 551-32:@You're all done?[WAIT]@Then here's your pay for today.[END]
-551-32E:
+551-32E:@¿Ya has acabado?[WAIT]@Muy bien, aquí tienes tu paga.[END]
 551-33:@Received [80 FF F0 FF] DP![END]
-551-33E:
+551-33E:@¡Recibiste [80 FF F0 FF] PD![END]
 551-34:@Also, each time you finish part-time work from[BREAK]  now on, I'll stamp this card for you.[WAIT]@If you collect lots of stamps,[WAIT]  nothing special will happen, but I guarantee[BREAK]  you'll feel a little nicer.[END]
-551-34E:
+551-34E:@Por cierto, por cada jornada laboral que[BREAK]  finalices, te sellaré esta tarjeta.[WAIT]@Si acumulas muchos sellos...[WAIT]  no ocurrirá nada en especial,[BREAK]  pero te vas a sentir muy bien.[END]
 551-35:@Oh, good job today.[WAIT]@Here's your reward for a hard day of work.[END]
-551-35E:
+551-35E:@Oh, buen trabajo.[WAIT]@Aquí tienes, el fruto del sudor de tu frente.[END]
 551-36:@And here's your pay for today.[END]
-551-36E:
+551-36E:@Y aquí tienes tu paga.[END]
 551-37:@Work every day and you can make even more[BREAK]  money![WAIT]@Work up a good sweat as you strive for your[BREAK]  dreams![WAIT]  [PAUSE 20 00]You're still young, after all![END]
-551-37E:
+551-37E:@¡Trabaja duro cada día y conseguirás[BREAK]  aún más dinero![WAIT]@¡Suda la gota gorda y haz realidad[BREAK]  todos tus sueños![WAIT]  [PAUSE 20 00]¡Después de todo, todavía eres joven![END]
 551-38:@It's gotten really late.[WAIT]@Go relax at Club Titiboo and have a good time.[WAIT]@Good job today![END]
-551-38E:
+551-38E:@Ya se ha hecho tarde.[WAIT]@Deberías ir al club Titibú a divertirte un poco.[WAIT]@¡Has trabajado muy bien![END]
 551-39:@Oh, good work.[WAIT]@Here's your pay for today.[END]
-551-39E:
+551-39E:@Oh, buen trabajo.[WAIT]@Aquí tienes tu paga.[END]
 551-40:@You've worked here [80 FF F0 FF] times now.[WAIT]@What do you say?[BREAK]@Wanna keep working here?[WAIT]@Work every day and you can make even more[BREAK]  money![WAIT]@Work up a good sweat as you strive for your[BREAK]  dreams![WAIT]  [PAUSE 20 00]You're still young, after all![END]
-551-40E:
+551-40E:@Ya has trabajado [80 FF F0 FF] veces aquí.[WAIT]@¿Qué me dices?[BREAK]@¿Quieres seguir trabajando aquí?[WAIT]@¡Trabaja duro cada día y conseguirás[BREAK]  aún más dinero![WAIT]@¡Suda la gota gorda y haz realidad[BREAK]  todos tus sueños![WAIT]  [PAUSE 20 00]¡Después de todo, aún eres joven![END]
 551-41:@Hello there, Commander. It's an honor to have[BREAK]  you here.[WAIT]@A boy who looked just like you came to do[BREAK]  some part-time work not so long ago.[WAIT]@His name was, uhh...[WAIT]  What was it again?[END]
-551-41E:
+551-41E:@Saludos, comandante.[BREAK]  Su presencia aquí nos honra.[WAIT]@Hace poco tuvimos a un niño clavado[BREAK]  a usted trabajando con nosotros.[WAIT]@Se llamaba, eeeh...[WAIT]  No me acuerdo...[END]
 551-42:@You seem way more mature than before.[WAIT]@I've grown more than you have, though.[WAIT]@Understand?[END]
-551-42E:
+551-42E:@Pareces mucho más maduro que antes.[WAIT]@Pero yo he madurado más que tú.[WAIT]@¿Lo entiendes?[END]
 551-43:@Oh, hey there, [LUCAS 23 02 00].[BREAK]@The factory's going to be shut down soon.[WAIT][PAUSE 10 00]@They say they don't need Claymen anymore.[WAIT]@Or the clay, or the factory...[WAIT]@It seems no one needs me anymore, either.[BREAK]  That makes me sad.[WAIT][PAUSE 2E 00]  Hahaha.[END]
-551-43E:
+551-43E:@Oh, hola, [LUCAS 23 02 00].[BREAK]@Parece ser que van a cerrar la fábrica.[WAIT][PAUSE 10 00]@Dicen que no son necesarios más Arcillosos.[WAIT]@Ni la arcilla, ni la fábrica...[WAIT]@Supongo que yo tampoco soy necesario.[BREAK]  Eso me pone triste.[WAIT][PAUSE 2E 00]  Jajaja.[END]
 551-44:@I'm being sent to New Pork City when this[BREAK]  place shuts down, too.[WAIT][PAUSE 30 00]@Thanks for everything.[END]
-551-44E:
+551-44E:@Una vez terminen de cerrar la fábrica,[BREAK]  me van a trasladar a Nueva Pork.[WAIT][PAUSE 30 00]@Gracias por todo.[END]
 551-45:@It's stopped moving.[END]
 551-45E:@Ha dejado de moverse.[END]
 // Repeats: 0-98, 551-45
 551-46:@A BR2 model 4-stroke 4-cylinder engine.[WAIT]  It appears to be repeating this process:[BREAK]  intake[RIGHT]compression[RIGHT]combustion[RIGHT]exhaust.[WAIT]  It appears to be repeating this process:[BREAK]  intake[RIGHT]compression[RIGHT]combustion[RIGHT]exhaust.[WAIT]  It appears to be repeating this process:[BREAK]  intake[RIGHT]compression[RIGHT]combustion[RIGHT]...[PAUSE 25 00][WAIT]  Was that a little too repetitive, do you think?[END]
-551-46E:
+551-46E:@Un modelo BR2 con motor de 4 cilindros.[WAIT]  Parece estar repitiendo este proceso:[BREAK]  toma[RIGHT]compresión[RIGHT]combustión[RIGHT]expulsión.[WAIT]  Parece estar repitiendo este proceso:[BREAK]  toma[RIGHT]compresión[RIGHT]combustión[RIGHT]expulsión.[WAIT]  Parece estar repitiendo este proceso:[BREAK]  toma[RIGHT]compresión[RIGHT]combustión[RIGHT]...[PAUSE 25 00][WAIT]  Demasiado repetitivo...[END]
 551-47:@Some kickbacks were being received here.[END]
-551-47E:
+551-47E:@¿Guardarían aquí el dinero de los sobornos?[END]
 // this makes absolutely no sense, and it appears to be an unused line
 
 [Container 552]
 552-0:@When we zap Claymen low on energy here,[BREAK]  they start moving again.[END]
-552-0E:
+552-0E:@Cuando los Arcillosos se quedan sin energía,[BREAK]  los reanimamos con una descarga.[END]
 552-1:@These machines almost seem to invite you to[BREAK]  use them.[WAIT]@But you can't touch 'em.[WAIT]@People can't touch 'em, or else they'll get[BREAK]  zapped somethin' fierce![WAIT]@I've never touched them, of course![WAIT]@...But I really want to.[WAIT]@Ignore the urges. Ignore the urges.[END]
-552-1E:
+552-1E:@Estas máquinas te están pidiendo a gritos[BREAK]  que trastees con ellas.[WAIT]@Pero no puedes ni tocarlas.[WAIT]@¡Te vas a llevar una tremenda[BREAK]  descarga eléctrica si lo haces![WAIT]@¡Por supuesto, yo nunca las he tocado![WAIT]@Aunque me muero por hacerlo...[WAIT]@Sé fuerte, sé fuerte.[END]
 552-2:@Everyone's working down below.[WAIT]@They're digging up clay to make Claymen out[BREAK]  of.[END]
-552-2E:
+552-2E:@Todos se están partiendo el lomo abajo.[WAIT]@Se dedican a extraer la arcilla con la que[BREAK]  se fabrican los Arcillosos.[END]
 552-3:@This device is used for energizing Claymen.[WAIT]@You're human, but will you try turning it[BREAK]  on anyway? *giggle*[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-552-3E:
+552-3E:@Esto se usa para reanimar a los Arcillosos.[WAIT]@Eres un humano, pero...[BREAK]  ¿quieres probarlo? *risita*[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 552-4:@Oh. Well, I guess that's okay, too.[END]
-552-4E:
+552-4E:@Oh. Supongo que no pasa nada.[END]
 552-5:@Oh.[BREAK]@Good work, [LUCAS 23 02 00].[END]
-552-5E:
+552-5E:@Oh.[BREAK]@Buen trabajo, [LUCAS 23 02 00].[END]
 552-6:@Oh.[BREAK]@Good work, [LUCAS 23 02 00].[WAIT]@You can just leave it right there.[END]
-552-6E:
+552-6E:@Oh.[BREAK]@Buen trabajo, [LUCAS 23 02 00].[WAIT]@Puedes dejarlo ahí mismo.[END]
 552-7:@There should be some more.[BREAK]@Just bring 'em on up here.[END]
-552-7E:
+552-7E:@Todavía deberían quedar más.[BREAK]@Ve y tráelos aquí.[END]
 552-8:@Alright. Good work.[WAIT]@You can just leave it there. We'll handle it[BREAK]  from here.[WAIT]@Go and get the next one.[END]
-552-8E:
+552-8E:@Bien. Buen trabajo.[WAIT]@Déjalo por ahí.[BREAK]  Nosotros nos encargamos del resto.[WAIT]@Ahora ve a por el siguiente.[END]
 552-9:@Whew. Good work.[BREAK]@That's enough for today.[WAIT]@Don't forget to get your pay from Mr. Brown![BREAK]  He's the guy at the entrance.[END]
-552-9E:
+552-9E:@Fiuuu. Buen trabajo.[BREAK]@Ya es suficiente por hoy.[WAIT]@¡No te olvides de pedirle tu paga al Sr. Brown![BREAK]  Ya sabes, el tío de la entrada.[END]
 552-10:@[NOTE] It's payday, yeah, it's time to play! [NOTE][WAIT]  [NOTE] Let's hit up Titiboo from the ropeway [NOTE][WAIT]  [NOTE] Violet really knows how to make me sway [NOTE][WAIT]  [NOTE] I hope she doesn't notice my toupee [NOTE][WAIT]@...I'm thinking of writing a song about Club[BREAK]  Titiboo.[END]
-552-10E:
+552-10E:@[NOTE] ¡Día de paga, es hora de gozar! [NOTE][WAIT]  [NOTE] En el Titibú, bien lo voy a pasar [NOTE][WAIT]  [NOTE] Veo a Violet, siento un palpitar [NOTE][WAIT]  [NOTE] Llevo un peluquín, no se puede enterar [NOTE][WAIT]@...Estoy componiendo una canción[BREAK]  sobre el club Titibú.[END]
 552-11:@[NOTE] It's payday, yeah, it's time to play! [NOTE][WAIT]  [NOTE] Let's hit up Titiboo from the ropeway [NOTE][WAIT]  [NOTE] Kumatora really knows how to make me[BREAK]     sway [NOTE][WAIT]  [NOTE] I hope she doesn't notice my toupee [NOTE][WAIT]@...I'm thinking of writing a song about Club[BREAK]  Titiboo.[END]
-552-11E:
+552-11E:@[NOTE] ¡Día de paga, es hora de gozar! [NOTE][WAIT]  [NOTE] En el Titibú, bien lo voy a pasar [NOTE][WAIT]  [NOTE] Veo a Kumatora, siento un palpitar [NOTE][WAIT]  [NOTE] Llevo un peluquín, no se puede enterar [NOTE][WAIT]@...Estoy componiendo una canción[BREAK]  sobre el club Titibú.[END]
 552-12:@Huh?[WAIT]@Me and Lou's comedy routines?[WAIT]@Oh, yeah. I forgot there was a time when we[BREAK]  used to do that.[END]
-552-12E:
+552-12E:@¿Eh?[WAIT]@¿Mi número cómico con Lou?[WAIT]@Ah, ya. Hace tiempo nos dedicábamos a eso.[BREAK]  Lo había olvidado.[END]
 552-13:@You finished your part-time job![PAUSE 2C 01][END]
-552-13E:
+552-13E:@¡Has terminado tu trabajo![PAUSE 2C 01][END]
 552-14:@Only [80 FF F0 FF] more to go![PAUSE 80 00][END]
-552-14E:
+552-14E:@¡Sólo [80 FF F0 FF] más![PAUSE 80 00][END]
 552-15:@Doofus![WAIT]  I turn around every time someone says that.[WAIT]@It's an old habit from our comedy days.[END]
-552-15E:
+552-15E:@¡Negado![WAIT]  Siempre me doy la vuelta al oír esa palabra.[WAIT]@Era parte de uno de nuestros números.[END]
 552-16:@[NOTE] Doofus! [NOTE][WAIT]  [NOTE] Doo fus I say and go go go to Club Titiboo! [NOTE] [WAIT]@Yeah, the song I wrote about Club Titiboo a[BREAK]  while back was pretty bad,[WAIT]  so I'm trying to come up with a new one.[WAIT]@[NOTE] Doofus! [NOTE][WAIT]  [NOTE] Doo fus I say! [NOTE][WAIT][PAUSE 2E 00]@...This one's much more cutting-edge, don't[BREAK]  you think?[END]
-552-16E:
+552-16E:@[NOTE] ¡Negado! [NOTE][WAIT]  [NOTE] ¡Ve al club Titibú, ne-ne-negadoooo! [NOTE] [WAIT]@La otra canción que compuse sobre[BREAK]  el club Titibú era bastante mala,[WAIT]  así que estoy trabajando en una nueva.[WAIT]@[NOTE] ¡Negado! [NOTE][WAIT]  [NOTE] ¡Negado, baby! [NOTE][WAIT][PAUSE 2E 00]@...Esta suena mucho más moderna,[BREAK]  ¿no crees?[END]
 552-17:[END]
-552-17E:
+552-17E:[END]
 
 [Container 553]
 553-0:@Oh![WAIT]@Hey there, [LUCAS 23 02 00]![WAIT]@Did you come to see me?[PAUSE 28 00][BREAK]  ...Oh, you didn't? I see.[WAIT]@How's [FLINT 23 01 00]? Same as always?[PAUSE 28 00][BREAK]  I see.[END]
-553-0E:
+553-0E:@¡Oh![WAIT]@¡Hola, [LUCAS 23 02 00]![WAIT]@¿Has venido a verme?[PAUSE 28 00][BREAK]  ¿No? Ya veo...[WAIT]@¿Cómo anda [FLINT 23 01 00]? ¿Como siempre?[PAUSE 28 00][BREAK]  Ya veo...[END]
 553-1:@How's [FLINT 23 01 00]? Same as always?[BREAK]  I see.[END]
-553-1E:
+553-1E:@¿Cómo anda [FLINT 23 01 00]? ¿Como siempre?[BREAK]  Ya veo.[END]
 553-2:@Woof woof![WAIT]@*huff* *huff*[WAIT]@Woof woof![WAIT]@*huff* *huff*[BREAK]  (It's nice to exercise once in a while.)[END]
-553-2E:
+553-2E:@¡Guau, guau![WAIT]@*uf* *uf*[WAIT]@¡Guau, guau![WAIT]@*uf* *uf*[BREAK]  (Es bueno hacer ejercicio de vez en cuando.)[END]
 553-3:@Bow-wow![WAIT]  (The new guy with the dark fur's so annoying.[WAIT]  It's like, just shut up and work, will ya?!)[END]
-553-3E:
+553-3E:@¡Gua-guau![WAIT]  (El novatillo ese del pelo oscuro es un pesado.[WAIT]  ¡¿Por qué no se calla y se limita a trabajar?!)[END]
 553-4:@Bow![WAIT]  (Leaving already?! You part-timers have it so[BREAK]  good.[WAIT]  I'm a regular employee, you see.[WAIT]  So I'm stuck doing tons of overtime work.)[END]
-553-4E:
+553-4E:@¡Guau![WAIT]  (¡¿Ya os vais?! Ventajas de ser trabajadores[BREAK]  a tiempo parcial, supongo...[WAIT]  Yo estoy a jornada completa.[WAIT]  Lo que implica tener que hacer horas extras.)[END]
 553-5:@Oink oink.[WAIT]  (Oink oink.)[END]
-553-5E:
+553-5E:@Oink oink.[WAIT]  (Oink oink.)[END]
 553-6:@[LUCAS 23 02 00].[BREAK]@You have mud on the side of your nose.[WAIT]@No, not that side.[WAIT]@Yeah. That side.[END]
-553-6E:
+553-6E:@[LUCAS 23 02 00].[BREAK]@Tienes la nariz manchada de barro.[WAIT]@No, el otro lado.[WAIT]@Sí. Justo ahí.[END]
 553-7:@Oiiinnk![WAIT]  (Good oink, I mean, work, today!)[END]
-553-7E:
+553-7E:@¡Oiiinnk![WAIT]  (Buen oink... ¡digooo, trabajo!)[END]
 553-8:@Bow-wow![WAIT]  (Good work today![WAIT]  I think I'm gonna do a little more work.)[END]
-553-8E:
+553-8E:@¡Gua-guau![WAIT]  (¡Buen trabajo![WAIT]  Yo creo que voy a seguir un rato más.)[END]
 553-9:@Oink oink.[WAIT]  (The stray dog behind me has become such an[BREAK]  ambitious guy since he started running here.)[END]
-553-9E:
+553-9E:@Oink oink.[WAIT]  (El perro que trabaja justo detrás de mí tiene[BREAK]  un montón de ideas locas metidas en el coco.)[END]
 553-10:@Bow-wow![WAIT]  (I have absolutely no intention of spending the[BREAK]  rest of my life here.[WAIT][PAUSE 20 00]  Ultimately, I want to go into the big city[WAIT]  and build a doghouse so gigantic that it'll make[BREAK]  everyone jump in shock.[WAIT][PAUSE 40 00]  No,[PAUSE 20 00] "house" isn't the right word for it at all.[WAIT]  That'd be a[PAUSE 20 00] palace.[PAUSE 30 00] Yeah, a dogpalace.)[END]
-553-10E:
+553-10E:@¡Gua-guau![WAIT]  (No pienso pasarme el resto de mi vida[BREAK]  en este tugurio.[WAIT][PAUSE 20 00]  Quiero irme a la gran ciudad,[WAIT]  y construirme una caseta tan enorme[BREAK]  que deje a todos boquiabiertos.[WAIT][PAUSE 40 00]  No,[PAUSE 20 00] una "caseta" no.[WAIT]  Más bien,[PAUSE 20 00] un palacio.[PAUSE 30 00] Sí, un palacio perruno.)[END]
 553-11:@If only I could run the factory how I want, it'd[BREAK]  be so much more like how I want it to be.[WAIT]@But no one besides me will listen to me.[END]
-553-11E:
+553-11E:@Si yo estuviese a cargo de esta fábrica...[BREAK]  las cosas serían muy diferentes.[WAIT]@Soy un visionario incomprendido.[END]
 
 [Container 554]
 554-0:@Claymen can't climb ladders, so we use this[BREAK]  lift to haul them up.[END]
-554-0E:
+554-0E:@Los Arcillosos no pueden subir escaleras.[BREAK]  Por eso usamos el montacargas.[END]
 554-1:@Hey, part-timer.[WAIT]@I use this lift to send low-energy Claymen up[BREAK]  to the ground floor.[WAIT]@So just bring one here and talk to me.[END]
-554-1E:
+554-1E:@Eh, novatillo.[WAIT]@Yo me encargo de subir a los Arcillosos[BREAK]  al nivel superior.[WAIT]@Habla conmigo cuando traigas uno.[END]
 554-2:@Hey, part-timer.[WAIT]@I can't lower the lift with the Clayman standing[BREAK]  there.[END]
-554-2E:
+554-2E:@Eh, novatillo.[WAIT]@Si no quitas al Arcilloso del montacargas[BREAK]  no puedo hacerlo bajar.[END]
 554-3:@Oh, brought one already, have you?[WAIT]@Okay, hold on a sec.[END]
-554-3E:
+554-3E:@Oh, ¿ya has traído uno?[WAIT]@Vale, espera.[END]
 554-4:@Just a sec.[END]
-554-4E:
+554-4E:@Un segundo.[END]
 554-5:@I sent it up to the ground floor.[WAIT]@There are too many of you to send up on the[BREAK]  lift, so take the ladder up instead.[WAIT]@I leave the rest to you now.[END]
-554-5E:
+554-5E:@Lo he mandado aI nivel superior.[WAIT]@El montacargas tiene un límite de peso,[BREAK]  así que tienes que subir por las escaleras.[WAIT]@Del resto te encargas tú.[END]
 554-6:@I sent it up to the ground floor.[WAIT]@I leave the rest to you now.[END]
-554-6E:
+554-6E:@Lo he mandado al nivel superior.[WAIT]@Del resto te encargas tú.[END]
 554-7:@You've got a real knack for this.[WAIT]@Come back sometime.[END]
-554-7E:
+554-7E:@Has nacido para esto, chaval.[WAIT]@Vuelve cuando quieras.[END]
 
 [Container 555]
 555-0:@Say, did I ever tell you about how I love[BREAK]  peaches?[WAIT]@Did I?[WAIT]  Did I not?[WAIT]@I guess it doesn't matter either way, because I[BREAK]  love peaches.[END]
-555-0E:
+555-0E:@Oye, ¿alguna vez te he contado lo mucho[BREAK]  que me encantan los melocotones?[WAIT]@¿Sí?[WAIT]  ¿No?[WAIT]@Supongo que en el fondo da igual,[BREAK]  porque me encantan los melocotones.[END]
 555-1:[END]
-555-1E:
+555-1E:[END]
 
 [Container 556]
 556-0:@Ah, crap.[WAIT]@I screwed up big-time and broke this Clayman.[END]
-556-0E:
+556-0E:@Ah, puñetas.[WAIT]@Menuda pifia, me he cargado este Arcilloso.[END]
 556-1:@I'm gonna have to haul this to the lift and[BREAK]  carry it to the entrance...[WAIT]@Yep. Looks like I'm stuck doing overtime today.[END]
-556-1E:
+556-1E:@Ahora voy a tener que arrastrarlo hasta[BREAK]  el montacargas y luego hasta la entrada...[WAIT]@Me da a mí que me toca hacer horas extras.[END]
 556-2:@Yep, I'm completely down in the dumps now...[END]
-556-2E:
+556-2E:@Sí, creo que me va a dar una depresión...[END]
 556-3:@Huh? Is that you, [LUCAS 23 02 00]?[WAIT]@Or are you someone else?[WAIT]@I never imagined that you, of all people, would[BREAK]  ever take the ropeway up to visit Club Titiboo.[WAIT]@[PAUSE 20 00]You ARE [LUCAS 23 02 00], right?[END]
-556-3E:
+556-3E:@¿Eh? ¿Eres tú, [LUCAS 23 02 00]?[WAIT]@No puede ser...[WAIT]@De entre todas las personas que conozco,[BREAK]  eres la última a la que esperaba ver aquí.[WAIT]@[PAUSE 20 00]¿SEGURO que eres [LUCAS 23 02 00]?[END]
 556-4:@This factory is for digging up clay, but I hear it[BREAK]  has one other, secret purpose.[WAIT]@I don't know if it's true or not,[WAIT]  but they say there's an insanely huge dragon[BREAK]  buried underground.[WAIT]@Supposedly, it's bigger than this whole island...[WAIT]  Yeah, right. You gotta be kidding me.[END]
-556-4E:
+556-4E:@En esta fábrica se extraer arcilla del subsuelo,[BREAK]  pero he oído que su razón de ser es otra.[WAIT]@No sé si será cierto o no,[WAIT]  pero dicen que hay un dragón gigante[BREAK]  enterrado bajo tierra.[WAIT]@En teoría, es más grande que esta isla...[WAIT]  Como si eso fuera posible, ¿eh?[END]
 556-5:@You wanna go to Club Titiboo?[WAIT]@That's what the ropeway behind the factory is[BREAK]  for.[WAIT]@You can go straight there by going up the[BREAK]  ropeway.[WAIT]@If you're thinking about climbing up the cliff[BREAK]  instead, just forget about it.[END]
-556-5E:
+556-5E:@¿Quieres ir al club Titibú?[WAIT]@Pues para eso está el teleférico[BREAK]  del bosque.[WAIT]@Es comodísimo, y te lleva hasta allí[BREAK]  en un pispás.[WAIT]@La alternativa es subir trepando el risco,[BREAK]  pero no te lo recomiendo.[END]
 556-6:@Once a day, I just HAVE to finish work...[WAIT]  So I can go to Club Titiboo...[WAIT]  So I can see Violet in all her hotness.[WAIT]@Heheheh.[END]
-556-6E:
+556-6E:@Qué ganas de salir del trabajo...[WAIT]  Ir al club Titibú...[WAIT]  Ver a Violet en todo su esplendor...[WAIT]@Jejeje.[END]
 556-7:@Once a day, I just HAVE to finish work...[WAIT]  So I can go to Club Titiboo...[WAIT]  So I can see Kumatora in all her hotness.[WAIT]@Heheheh.[END]
-556-7E:
+556-7E:@Qué ganas de salir del trabajo...[WAIT]  Ir al club Titibú...[WAIT]  Ver a Kumatora en todo su esplendor...[WAIT]@Jejeje.[END]
 556-8:@The world is full of giggles, but Violet's giggles[BREAK]  at Club Titiboo are second to none![END]
-556-8E:
+556-8E:@Hay risitas y risitas, pero las de Violet...[BREAK]  ¡son como una melodía celestial![END]
 556-9:@The world is full of giggles, but Kumatora's[BREAK]  giggles at Club Titiboo are second to none![END]
-556-9E:
+556-9E:@Hay risitas y risitas, pero las de Kumatora...[BREAK]  ¡son como una melodía celestial![END]
 556-10:@Apparently, Violet quit her job.[WAIT]@It almost feels like there's a gaping hole in my[BREAK]  heart now...[END]
-556-10E:
+556-10E:@Violet se ha ido...[WAIT]@Siento un enorme vacío en mi corazón...[END]
 556-11:@Apparently, Kumatora quit her job.[WAIT]@It almost feels like there's a gaping hole in my[BREAK]  heart now...[END]
-556-11E:
+556-11E:@Kumatora se ha ido...[WAIT]@Siento un enorme vacío en mi corazón...[END]
 556-12:@That girl with you sure looks a lot like Violet.[END]
-556-12E:
+556-12E:@Por cierto, tu amiga es clavadita a Violet.[END]
 556-13:@That girl with you sure looks a lot like[BREAK]  Kumatora.[END]
-556-13E:
+556-13E:@Por cierto, tu amiga es clavadita a Kumatora.[END]
 556-14:@You're not gonna put in any overtime before[BREAK]  you leave?[WAIT]@You have no ambition.[END]
-556-14E:
+556-14E:@¿Que te vas a casa?[BREAK]  ¿En lugar de hacer horas extras?[WAIT]@Qué poca ambición tienes.[END]
 556-15:@Oh, how are you? Are you well?[WAIT]@I'm my usual[PAUSE 2E 00] not well self.[END]
-556-15E:
+556-15E:@Oh, ¿qué tal? ¿Todo bien?[WAIT]@¿Yo? Pues como siempre,[PAUSE 2E 00] fatal.[END]
 
 [Container 621]
 621-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
