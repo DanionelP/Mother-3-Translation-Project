@@ -177,7 +177,7 @@
 0-70:@For some reason, [42 FF F0 FF] started to[BREAK]  feel feverish.[END]
 0-70E:@Por alguna razón, [42 FF F0 FF] comenzó[BREAK]  a sentirse febril.[END]
 0-71:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@It appears that one of your friends is not[BREAK]  feeling very well.[WAIT]@They aren't poisoned, nor are they sleepy, yet[BREAK]  they just can't shake that ill feeling.[WAIT]@They lack the energy to run, and using items[BREAK]  or hot springs doesn't appear to help, either.[WAIT]@It would seem this is because something is[BREAK]  beginning to awaken inside them.[WAIT]@But I'm sure they'll get over it before long, so[BREAK]  don't be too worried.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whoosh*[END]
-0-71E:@*fiuuuu* *fiuuuu*[WAIT]  ¡Hola![WAIT]@Siento interrumpir, pero, ¿conoces el dicho:[BREAK]  "Los rumores se los lleva el viento"?[WAIT]@Sí, yo soy ese viento. Servidor es[BREAK]  quien extiende los rumores.[WAIT]@Veo que uno de tus amigos[BREAK]  no se siente muy bien.[WAIT]@No se trata de veneno ni nada parecido,[BREAK]  pero está claro que algo le pasa.[WAIT]@No tiene fuerzas para correr, y los objetos[BREAK]  y las aguas termales no parecen ser de ayuda.[WAIT]@Es posible que esto se deba a que algo[BREAK]  está despertando en su interior.[WAIT]@Pero no te preocupes, estoy seguro[BREAK]  de que pronto se le pasará.[WAIT]@Bueno, eso es todo por ahora.[WAIT]@Ahora, debo irme. ¡Adiós![WAIT]@*fiuuuu*[END]
+0-71E:@*fiuuuu* *fiuuuu*[WAIT]  ¡Hola![WAIT]@Siento interrumpir, pero, ¿conoces el dicho:[BREAK]  "Los rumores se los lleva el viento"?[WAIT]@Sí, yo soy ese viento. Servidor es[BREAK]  quien extiende los rumores.[WAIT]@Veo que uno de tus amigos[BREAK]  no se siente muy bien.[WAIT]@No se trata de veneno ni nada parecido,[BREAK]  pero está claro que algo le pasa.[WAIT]@No tiene fuerzas para correr, y los objetos[BREAK]  y las aguas termales no parecen ser de ayuda.[WAIT]@Es posible que esto se deba a que algo[BREAK]  está despertando en su interior.[WAIT]@Pero no te preocupes, estoy seguro[BREAK]  de que pronto se le pasará.[WAIT]@Bueno, eso es todo por ahora.[WAIT]@Ahora tengo que irme. ¡Adiós![WAIT]@*fiuuuu*[END]
 // if you kill Kumatora off in Chapter 2, this text can appear in Chapter 4. Lucas isn't a "she", so this needs to use the vague "them" and "they"
 0-72:@Now isn't the time for that.[END]
 0-72E:@Ahora no es momento para eso.[END]
@@ -220,7 +220,7 @@
 0-89:@Inside the trash can, there [EF 17][BREAK]  [EF 11][81 FF].[WAIT]@But you can't carry any more stuff.[END]
 0-89E:@Dentro de la papelera había[BREAK]  [EF 11][81 FF].[WAIT]@Pero no puedes cargar con más cosas.[END]
 0-90:@You felt something warm inside your heart.[END]
-0-90E:@Sentiste algo cálido en tu corazón.[END]
+0-90E:@Has sentido algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 0-91:@Ride the elevator?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 0-91E:@¿Subir el ascensor?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
@@ -2681,14 +2681,14 @@
 28-12:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 0A 00] experience points![PAUSE 40 00][END]
 28-12E:@¡[42 FF 00 00] y compañía recibieron[BREAK]  [80 FF 0A 00] puntos de experiencia![PAUSE 40 00][END]
 28-13:@You felt something warm inside your heart.[END]
-28-13E:@Sentiste algo cálido en tu corazón.[END]
+28-13E:@Has sentido algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-14:@I want to roll dung!![BREAK]  I don't even care what kind it is!!![WAIT]@...*sigh*[WAIT]@Now I'm all upset and confused![WAIT]@Wait, you brought me some dung?![WAIT][PAUSE 20 00]@And you're giving it to me? For free?[WAIT]@Oh, my![WAIT]@This is the Legendary Dung, which is said to be[BREAK]  dung but also NOT dung![WAIT]@Oh, thank you, thank you, thank you![WAIT]@Yeaaaaaaaah![PAUSE 10 00] Let's roll!!![BREAK]  Let's roll to the ends of the desert! Yeah![END]
 28-14E:@¡¡Quiero rodar boñigas!![BREAK]  ¡¡¡No importa de qué tipo sean!!![WAIT]@...*suspiro*[WAIT]@¡Estoy triste y confuso![WAIT]@Espera, ¡¿me has traído una boñiga?![WAIT][PAUSE 20 00]@¿Y dices que me la vas a dar? ¿Gratis?[WAIT]@¡Dios mío![WAIT]@¡Esta es la Boñiga legendaria, la cual[BREAK]  es boñiga SIN serlo realmente![WAIT]@¡Oh, gracias, gracias, gracias![WAIT]@¡Yupiiiiiii![PAUSE 10 00] ¡¡¡A rodar!!![BREAK]  ¡Hasta los confines del desierto! ¡Sí![END]
 28-15:@Everyone in [42 FF 00 00]'s party gained[BREAK]  [80 FF 32 00] experience points![PAUSE 40 00][END]
 28-15E:@¡[42 FF 00 00] y compañía recibieron[BREAK]  [80 FF 32 00] puntos de experiencia![PAUSE 40 00][END]
 28-16:@You felt something warm inside your heart.[END]
-28-16E:@Sentiste algo cálido en tu corazón.[END]
+28-16E:@Has sentido algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 28-17:@Frogs in a desert?[WAIT]@It's actually not as crazy as you might think.[WAIT]@Some species of frogs, such as "sand frogs",[BREAK]  do exist in arid, desert regions like Africa.[WAIT]@During seasons with little to no precipitation,[WAIT]  these frogs burrow into the ground to protect[BREAK]  themselves from the harsh, dry climate.[END]
 28-17E:@¿Ranas en el desierto?[WAIT]@No es tan descabellado como piensas.[WAIT]@Algunas especies, como la "rana de la arena",[BREAK]  existen en zonas desérticas como África.[WAIT]@En épocas de escasas precipitaciones,[WAIT]  estas ranas se entierran bajo el suelo para[BREAK]  protegerse del duro y árido clima.[END]
@@ -15217,7 +15217,7 @@
 
 [Container 439]
 439-0:@Today's weather forecast...[WAIT]@Tazmily region:[BREAK][PAUSE 30 00]  Sunny,[PAUSE 30 00] with occasional[PAUSE 30 00] lightning in places.[WAIT]@Mt. Oriander region, Cerulean Beach region:[BREAK]  Lightning, once preparations are complete.[END]
-439-0E:@La previsión del tiempo...[WAIT]@Tazmily:[BREAK][PAUSE 30 00]  Soleado,[PAUSE 30 00] con posibilidad[PAUSE 30 00] de rayos.[WAIT]@Monte Oriander y Playa celeste:[BREAK]  Rayos, una vez acaben los preparativos.[END]
+439-0E:@La previsión del tiempo...[WAIT]@Tazmily:[BREAK][PAUSE 30 00]  Soleado,[PAUSE 30 00] con posibilidad[PAUSE 30 00] de rayos.[WAIT]@Monte Oriander y playa Celeste:[BREAK]  Rayos, una vez acaben los preparativos.[END]
 439-1:@Tomorrow's lightning schedule has arrived,[BREAK]  so I'm trying my best to program it all in.[WAIT]  It's tough work, especially when dry-eye[BREAK]  starts to set in.[END]
 439-1E:@Ya tenemos el planning de rayos de mañana,[BREAK]  así que estoy programándolo todo.[WAIT]  Es un trabajo muy duro, siempre acabo[BREAK]  con los ojos enrojecidos.[END]
 439-2:@Yeah, I went and visited that Tazmily place for[BREAK]  the first time the other day.[WAIT]@And then, well... I'm not quite sure how to put[BREAK]  it, but... charred?[WAIT]  People who disobeyed all had their houses[BREAK]  charred.[WAIT]@We're doing terrible things here, aren't we?[END]
@@ -17291,44 +17291,44 @@
 
 [Container 621]
 621-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-621-0E:
+621-0E:@¿Quieres saltar abajo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 // Repeats: 621-0, 665-0
 621-1:@This statue's title is written on the plate.[WAIT]          Title: "Heavy Metal"[END]
-621-1E:
+621-1E:@En la placa figura el título de la escultura.[WAIT]                 "Kuan Topesa"[END]
 // Repeats: 621-1, 665-1
 621-2:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Shall I save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-621-2E:
+621-2E:@*hop*[BREAK]  No, no soy una rana fantasma.[WAIT]@¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 621-2, 665-2
 621-3:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-621-3E:
+621-3E:@*hop*[BREAK]  No, no soy una rana fantasma.[WAIT]@¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 621-3, 665-3
 621-4:@A decorative suit of armor.[END]
-621-4E:
+621-4E:@Una armadura de adorno.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 621-5:@You get the odd feeling that the woman in the[BREAK]  painting is staring at you.[END]
-621-5E:
+621-5E:@Sientes como si la mujer del cuadro[BREAK]  te estuviese mirando.[END]
 // Repeats: 621-5, 665-5
 621-6:@I swear, the lady in this painting keeps staring[BREAK]  at me.[WAIT]@So I've decided to stare right back at her.[WAIT]@I'm staring back with all my might.[END]
-621-6E:
+621-6E:@Te juro que la mujer de este cuadro[BREAK]  me está mirando...[WAIT]@Por eso, he decidido devolverle la mirada.[WAIT]@Se va a enterar de lo que es mirar fijamente.[END]
 // Repeats: 621-6, 665-6
 621-7:@Mr. Fassad, sir![WAIT]@I'm currently thinking about how to dispose of[BREAK]  this bronze statue![WAIT]@I'm putting my life on the line to get it done![END]
-621-7E:
+621-7E:@¡Sr. Falhaz![WAIT]@¡Estoy pensando en cómo deshacerme[BREAK]  de esta estatua de bronce![WAIT]@¡Lo lograré, aunque me vaya la vida en ello![END]
 // Repeats: 621-7, 665-7
 621-8:@It doesn't move...[BREAK]  It appears to be an ordinary decoration.[END]
-621-8E:
+621-8E:@No se mueve...[BREAK]  Parece ser un simple objeto decorativo.[END]
 // Repeats: 621-8, 665-8
 621-9:[END]
-621-9E:
+621-9E:[END]
 
 [Container 622]
 622-0:@You know that feeling when you're just kind of[BREAK]  bleh and can't eat anything at all?[WAIT]@When that happens, a Fresh Mint will freshen[BREAK]  you right up![END]
-622-0E:
+622-0E:@¿Sabes esa sensación de estar así como[BREAK]  "meh"y no querer comer nada?[WAIT]@¡Cuando estás así, la Menta fresca[BREAK]  viene de perlas![END]
 622-1:[END]
-622-1E:
+622-1E:[END]
 
 [Container 623]
 623-0:@You felt sick.[END]
-623-0E:
+623-0E:@Te sientes revuelto.[END]
 // Repeats: 623-0, 634-1
 623-1:@This wall seems scalable.[WAIT]  Climb up it?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 623-1E:@Este muro parece escalable.[WAIT]  ¿Quieres trepar por él?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
@@ -17339,275 +17339,275 @@
 624-0E:@Este muro parece escalable.[WAIT]  ¿Quieres trepar por él?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 624-1:@Life as a ghost is the greatest![WAIT]@I want to stay a ghost for as long as I live![END]
-624-1E:
+624-1E:@¡Ser un fantasma es de lo mejorcito![WAIT]@¡Quiero ser un fantasma el resto de mi vida![END]
 // Repeats: 624-1, 633-1
 624-2:@Some people think ghosts are scary,[WAIT]  but I don't think so![END]
-624-2E:
+624-2E:@Dicen que los fantasmas dan miedo,[WAIT]  ¡pero a mí no me lo parece![END]
 // Repeats: 624-2, 633-2
 624-3:@YOU![WAIT]@You're an ordinary person, aren't you?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-3E:
+624-3E:@¡TÚ![WAIT]@¿Tú... eres una persona ordinaria?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-3, 633-3
 624-4:@No, you're not normal.[WAIT]@You appear to be a thief-person![END]
-624-4E:
+624-4E:@A mí no me pareces ordinario.[WAIT]@¡Pareces un ladrón![END]
 // Repeats: 624-4, 633-4
 624-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-624-5E:
+624-5E:@Sí, sí...[BREAK]  ¡Eso es lo que diría una persona ordinaria![END]
 // Repeats: 624-5, 633-5
 624-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-624-6E:
+624-6E:@Vino...[PAUSE 5A 00][BREAK]  El agua de la vida.[WAIT]@Soy el fantasma más culto[BREAK]  de todo este castillo.[END]
 // Repeats: 624-6, 633-6
 624-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
-624-7E:
+624-7E:@¡Como iba diciendo...![WAIT]@El vino...[PAUSE 5A 00][BREAK]  es mi ardiente pasión.[WAIT]@¡Intenta comprenderme un poco![END]
 // Repeats: 624-7, 633-7
 624-8:@You must really know the score to be able to[BREAK]  talk with me for so long.[END]
-624-8E:
+624-8E:@Tú también debes de ser muy culto, pudiendo[BREAK]  entablar una charla de tanto nivel.[END]
 // Repeats: 624-8, 633-8
 624-9:@I said earlier that you really know the score,[BREAK]  but I take that back now.[WAIT]@Why? Because...[PAUSE 5A 00] you haven't said even a[BREAK]  single word.[END]
-624-9E:
+624-9E:@Antes te dije que me parecías muy culto,[BREAK]  pero ahora lo retiro.[WAIT]@¿Que por qué? Pues porque...[PAUSE 5A 00][BREAK]  Hasta ahora no has dicho ni pío.[END]
 // Repeats: 624-9, 633-9
 624-10:@We ghosts enjoy having food pass through our[BREAK]  spirits at mealtime.[END]
-624-10E:
+624-10E:@Nos encanta sentir cómo la comida[BREAK]  atraviesa nuestro espíritu.[END]
 // Repeats: 624-10, 633-10
 624-11:@We're not wasting any food. Honest.[END]
-624-11E:
+624-11E:@Esto no es tirar la comida. En serio.[END]
 // Repeats: 624-11, 633-11
 624-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-12E:
+624-12E:@¿Tú también quieres comer algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 624-13:@Here you go.[END]
-624-13E:
+624-13E:@Aquí tienes.[END]
 // Repeats: 624-13, 633-13
 624-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-624-14E:
+624-14E:@Estos Pastelillos podridos saben igual[BREAK]  que los que hacía mi mamá.[WAIT]@¡Pruébalos![END]
 // Repeats: 624-14, 633-14
 624-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-15E:
+624-15E:@¿Quieres más?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 624-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
-624-16E:
+624-16E:@¡¿No te ha enseñado tu madre[BREAK]  a tener modales?![END]
 // Repeats: 624-16, 633-16
 624-17:@Hey, now. You don't hafta hold back to be[BREAK]  polite.[WAIT]@You and me are buddies.[WAIT]@Take one as a gift for your mom.[END]
-624-17E:
+624-17E:@Ey. No hace falta que lo rechaces[BREAK]  por educación.[WAIT]@Que aquí hay confianza, hombre.[WAIT]@Toma, llévate uno para tu madre.[END]
 // Repeats: 624-17, 633-17
 624-18:@Whoa, you can't hold any more stuff.[WAIT]@If you want to eat some that badly, go throw[BREAK]  something out first.[END]
-624-18E:
+624-18E:@Hala, pero si no tienes sitio para esto.[WAIT]@Si tanta hambre tienes, antes vas a tener[BREAK]  que tirar algo.[END]
 // Repeats: 624-18, 633-18
 624-19:@Oh, you can't hold any more stuff.[WAIT]@Guess I'll eat it, then![END]
-624-19E:
+624-19E:@Oh, no te queda espacio libre.[WAIT]@¡Tranqui, me lo comeré yo por ti![END]
 // Repeats: 624-19, 633-19
 624-20:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
-624-20E:
+624-20E:@[NOTE] Incluso si te olvidas de los topos[BREAK]     que tengo yo detrás [NOTE][WAIT]  [NOTE] Yo nunca te olvidaré [NOTE][WAIT]  [NOTE] Tu peluca posa en mi soledad [NOTE][WAIT]  [NOTE] Nena, ya sabes que yo nunca clavaría nada[BREAK]     de nada en este lugar [NOTE][WAIT]  [NOTE] Ni topos, ni pelucas [NOTE][WAIT]  [NOTE] Ni siquiera los claa[PAUSE 28 00]aavos de pared [NOTE][END]
 // Repeats: 624-20, 633-20
 624-21:@The ghosts here party every single day.[WAIT]@I can't fit in with that. It's just not my thing...[END]
-624-21E:
+624-21E:@Estos fantasmas se pasan el día de fiesta.[WAIT]@Yo no encajo aquí. No sé, no es mi estilo...[END]
 // Repeats: 624-21, 633-21
 624-22:@Thanks for talking to me.[WAIT]@I'll try harder to fit in with the others.[END]
-624-22E:
+624-22E:@Gracias por hablar conmigo.[WAIT]@Me voy a esforzar por intentar encajar.[END]
 // Repeats: 624-22, 633-22
 624-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-624-23E:
+624-23E:@¡Escucha la canción de mi amigo![WAIT]@¡Es la caña![WAIT]  ¡Es conmovedora! ¡Y también instructiva![END]
 // Repeats: 624-23, 633-23
 624-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
-624-24E:
+624-24E:@Esos fantasmas sinvergüenzas estaban[BREAK]  celebrando un fiestorro.[WAIT]@Hemos usado el poder de la ciencia para[BREAK]  encerrarlos en la sala de al lado.[END]
 // Repeats: 624-24, 633-24
 624-25:@We're currently using every resource available[BREAK]  to us to locate it...[WAIT]  ...but it still hasn't turned up![WAIT]@...Hold on, pipsqueak monkey. I'm not talking[BREAK]  to you.[END]
-624-25E:
+624-25E:@Estamos usando todos los medios[BREAK]  disponibles para localizarlo...[WAIT]  ...¡pero sigue sin aparecer![WAIT]@...Silencio, monicaco.[BREAK]  No estaba hablando contigo.[END]
 // Repeats: 624-25, 633-25
 624-26:@That bum-looking guy and his cohort headed[BREAK]  upstairs after they beat the snot out of us![WAIT]@Only now do I realize that thieves are truly[PAUSE 2E 00][BREAK]  a force to be reckoned with![END]
-624-26E:
+624-26E:@¡Ese tipo con pinta de idiota y sus amiguitos[BREAK]  se fueron por las escaleras tras zurrarnos![WAIT]@¡Está claro que los ladrones son enemigos[PAUSE 2E 00][BREAK]  muy a tener en cuenta![END]
 // Repeats: 624-26, 633-26
 624-27:@Yeah?[END]
-624-27E:
+624-27E:@¿Sí?[END]
 // Repeats: 624-27, 633-27
 624-28:@What?! They fled into the basement?![WAIT]@They have it with them?![BREAK]  Alright! Got it![END]
-624-28E:
+624-28E:@¡¿Qué?! ¡¿Han huido al sótano?![WAIT]@¡¿Y todavía lo llevan consigo?![BREAK]  ¡Vale! ¡De acuerdo![END]
 // Repeats: 624-28, 633-28
 624-29:@Hey, monkey![BREAK]  We're heading into the basement now![WAIT]@There should be an entrance to the basement[BREAK]  somewhere inside this castle.[WAIT]@Find it![END]
-624-29E:
+624-29E:@¡Escucha, mono![BREAK]  ¡Tenemos que ir al sótano ahora mismo![WAIT]@Debería haber una entrada secreta[BREAK]  en algún lugar de este castillo.[WAIT]@¡Encuéntrala![END]
 // Repeats: 624-29, 633-29
 624-30:@Whew.[PAUSE 5A 00] Boy, it's stuffy in this thing...[END]
-624-30E:
+624-30E:@Fiuuu.[PAUSE 5A 00] Qué ambiente tan sofocante...[END]
 // Repeats: 624-30, 633-30
 // same guy shows up in the farm area saying similar stuff
 624-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
-624-31E:
+624-31E:@¡Sr. Falhaz![WAIT]@¡Somos invencibles![WAIT]@¡Seguro que, entre todos,[WAIT]  podríamos incluso sacar[BREAK]  nabos gigantes del suelo![END]
 // Repeats: 624-31, 633-31
 624-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-624-32E:
+624-32E:@¡Señor! ¡Todo en orden, señor![WAIT]@Aunque hay uno de los nuestros[BREAK]  que no para de hacerse el tonto...[END]
 // Repeats: 624-32, 633-32
 624-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
-624-33E:
+624-33E:@Pensaba estar de fiesta toda la eternidad,[BREAK]  pero al final me he cansado.[WAIT]@Poco a poco, todos nos fuimos cansando[BREAK]  de ese estilo de vida.[END]
 // Repeats: 624-33, 633-33
 624-34:@Wow, I'm surprised you came here. This[BREAK]  castle's so boring now I could just die.[WAIT]@It WAS the setting for an adventure three[BREAK]  years ago, though.[WAIT]@But there's been nothing at all since then.[BREAK]  Nothing.[WAIT]@In fact, if you hadn't come and talked to me[BREAK]  just now,[WAIT]  today would've been yet another empty day[BREAK]  leading into another empty tomorrow.[WAIT]@So, how about a leisurely chat?[WAIT]@No?![WAIT]@Oh, but I want to talk.[WAIT]@No?[WAIT]@I see.[WAIT]@Okay. Whatever.[END]
-624-34E:
+624-34E:@Oh, no esperaba ver a nadie por aquí.[BREAK]  Este castillo se ha vuelto aburridísimo.[WAIT]@Y pensar que hace tres años fue[BREAK]  escenario de una aventura...[WAIT]@Desde entonces, aquí no ha pasado nada.[BREAK]  Nada de nada.[WAIT]@Es más, si no te hubieras parado[BREAK]  a hablar conmigo,[WAIT]  este habría sido otro día vacío, preludio[BREAK]  de un mañana igualmente vacío.[WAIT]@¿Te apetece charlar de algo?[WAIT]@¡¿No?![WAIT]@Oh, pero yo quiero charlar.[WAIT]@¡¿No?[WAIT]@Ya veo.[WAIT]@Muy bien. Pues nada.[END]
 // Repeats: 624-34, 633-34
 624-35:@I've been playing this one song for three years[BREAK]  straight.[WAIT]@It's like it's my fate to keep singing this song.[WAIT]@I know it's a bit old at this point, but would you[BREAK]  like to hear it again anyway?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-35E:
+624-35E:@Llevo tres años tocando[BREAK]  esta canción sin parar.[WAIT]@Como si mi destino fuese seguir haciéndolo.[WAIT]@Seguro que ya no te sorprenderá tanto, pero,[BREAK]  ¿quieres escucharla de nuevo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-35, 633-35
 624-36:@No?[WAIT]@You don't want to hear it?[WAIT]@Your loss.[END]
-624-36E:
+624-36E:@¿No?[WAIT]@¿No quieres oírla?[WAIT]@Tú te lo pierdes.[END]
 // Repeats: 624-36, 633-36
 624-37:@Oh, I'm so very happy you talked to me.[WAIT]@Unless we're especially lucky, characters like[BREAK]  me without notable personalities[WAIT]  often wind up overlooked and ignored.[WAIT]@But I'm happy.[WAIT]@You talked to me.[WAIT]@You've acknowledged me, in other words.[WAIT]@Oh, I'm so happy! Here, this is for you![END]
-624-37E:
+624-37E:@Oh, muchas gracias por hablar conmigo.[WAIT]@Salvo que tengan mucha suerte,[BREAK]  a los personajes genéricos como yo[WAIT]  se les olvida muy rápidamente.[WAIT]@Pero soy feliz.[WAIT]@Has hablado conmigo.[WAIT]@Has reconocido mi existencia.[WAIT]@¡Oh, soy tan feliz! ¡Ten, para ti![END]
 // Repeats: 624-37, 633-37
 624-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-624-38E:
+624-38E:@Has sido muy amable conmigo, pero creo[BREAK]  que no le caigo bien a tu cuerpo.[WAIT]@Está fingiendo que tu inventario está lleno...[END]
 // Repeats: 624-38, 633-38
 624-39:@Hiya, friend![END]
-624-39E:
+624-39E:@¡Hola, amigo mío![END]
 // Repeats: 624-39, 633-39
 624-40:@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![WAIT]@Did you find it interesting?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-40E:
+624-40E:@A veces el mar trae a la costa[BREAK]  unas piedras muy extrañas.[WAIT]@Todas del mismo tamaño.[WAIT]@Hace tiempo, se solía comparar su forma[BREAK]  con la de un Buda panzón,[WAIT]  así que las llamaron "Piedras panzonas".[WAIT]@En realidad, son osículos de delfín.[WAIT]  Por si no lo sabías, un osículo[BREAK]  es un hueso del oído.[WAIT]@Son extremadamente duros.[WAIT]@Supuestamente, acaban en las costas[BREAK]  porque el océano no los disuelve.[WAIT]@Si buscas bien en la playa Celeste,[BREAK]  seguro que encuentras alguno.[WAIT]@¡Aquí termina "Curiosidades fantasmales"![WAIT]@¿Te ha gustado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-40, 633-40
 624-41:@Here, I'll give you an actual dolphin ossicle![END]
-624-41E:
+624-41E:@¡Toma, te doy un osículo de delfín![END]
 // Repeats: 624-41, 633-41
 624-42:@I was going to give you a dolphin ossicle, but it[BREAK]  looks like you can't hold any more stuff.[END]
-624-42E:
+624-42E:@Iba a darte un osículo de delfín, pero parece[BREAK]  que no tienes dónde guardarlo.[END]
 // Repeats: 624-42, 633-42
 624-43:@What's that? You want to hear that story[BREAK]  again?[WAIT]@Sure thing! Here goes![WAIT]@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![END]
-624-43E:
+624-43E:@¿Cómo? ¿Quieres volver a oír[BREAK]  la historia entera?[WAIT]@¡Faltaría más! ¡Vamos allá![WAIT]@A veces el mar trae a la costa[BREAK]  unas piedras muy extrañas.[WAIT]@Todas del mismo tamaño.[WAIT]@Hace tiempo, se solía comparar su forma[BREAK]  con la de un Buda panzón,[WAIT]  así que las llamaron "Piedras panzonas".[WAIT]@En realidad, son osículos de delfín.[WAIT]  Por si no lo sabías, un osículo[BREAK]  es un hueso del oído.[WAIT]@Son extremadamente duros.[WAIT]@Supuestamente, acaban en las costas[BREAK]  porque el océano no los disuelve.[WAIT]@Si buscas bien en la playa Celeste,[BREAK]  seguro que encuentras alguno.[WAIT]@¡Aquí termina "Curiosidades fantasmales"![END]
 // Repeats: 624-43, 633-43
 624-44:@...[END]
 624-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 624-45:@An awkward feeling hung in the air.[END]
-624-45E:
+624-45E:@Por algún motivo, te sientes inquieto.[END]
 // Repeats: 624-45, 633-45
 624-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
-624-46E:
+624-46E:@Por extraño que parezca, las teclas de este[BREAK]  piano están impolutas y relucientes.[END]
 // Repeats: 624-46, 633-46
 624-47:@Moldy, putrid apples.[WAIT]  "Putrapples" for short.[END]
-624-47E:
+624-47E:@Manzanas mohosas.[WAIT]  "Mohozanas", para abreviar.[END]
 // Repeats: 624-47, 633-47
 624-48:@Open the castle gate?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-624-48E:
+624-48E:@¿Quieres abrir la puerta del castillo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 624-49:@Opened the castle gate![END]
-624-49E:
+624-49E:@¡Has abierto la puerta del castillo![END]
 624-50:@Hey![BREAK]@Geezer's son![WAIT]@We gotta find "it" first![END]
-624-50E:
+624-50E:@¡Eh![BREAK]@¡Hijo del viejales![WAIT]@¡Primero tenemos que encontrar "eso"![END]
 624-51:@What's going on?[WAIT]@Did you find it?![END]
-624-51E:
+624-51E:@¿Qué pasa?[WAIT]@¡¿Lo habéis encontrado?![END]
 624-52:@What? You STILL haven't found it?![WAIT]@Just who are these other intruders?[END]
-624-52E:
+624-52E:@¿Cómo? ¡¿Que TODAVÍA no?![WAIT]@¿Quiénes son esos otros intrusos?[END]
 624-53:@An old man and a guy with a gloomy feel[BREAK]  about him?![WAIT]@Wait, you mean HIM?![WAIT]@The guy with brown hair, a gloomy feel, slightly[BREAK]  bad breath, and looks kind of like a bum?![WAIT]@So, where are they now?[END]
-624-53E:
+624-53E:@¡¿Un viejo y un tipo que camina cojeando?![WAIT]@Espera, ¡¿te estás refiriendo a ESE?![WAIT]@¡¿De pelo castaño, aire sombrío,[BREAK]  mal aliento y pinta de idiota?![WAIT]@¿Dónde están ahora?[END]
 // this uses the same description of Duster as earlier in the script
 624-54:@What?! They're headed for the top floor?![END]
-624-54E:
+624-54E:@¡¿Qué?! ¡¿Se dirigen a la planta superior?![END]
 624-55:@YOU FOOLS!!!![END]
-624-55E:
+624-55E:@¡¡¡¡MENTECATOS!!!![END]
 624-56:@Whatever you do, do NOT let them get there[BREAK]  first![END]
-624-56E:
+624-56E:@Pase lo que pase, ¡NO dejéis que lleguen[BREAK]  allí primero![END]
 624-57:[END]
-624-57E:
+624-57E:[END]
 
 [Container 626]
 626-0:@This book's covers and binding are top-notch,[BREAK]  but there's nothing noteworthy written inside.[END]
-626-0E:
+626-0E:@Las tapas y el lomo de este libro son de lujo,[BREAK]  pero su contenido no es nada del otro mundo.[END]
 626-1:@This book's covers and binding are top-notch,[BREAK]  but there's nothing written inside.[END]
-626-1E:
+626-1E:@Las tapas y el lomo de este libro son de lujo,[BREAK]  pero el interior está en blanco.[END]
 // Repeats: 626-1, 642-11
 626-2:@This book's covers and binding are top-notch,[BREAK]  but there's almost nothing written inside.[END]
-626-2E:
+626-2E:@Las tapas y el lomo de este libro son de lujo,[BREAK]  pero solamente contiene garabatos.[END]
 626-3:@![END]
-626-3E:
+626-3E:@![END]
 626-4:@Heavy-looking books are lined up here.[WAIT]  They don't look very fancy whatsoever.[END]
-626-4E:
+626-4E:@Un montón de libros de aspecto plomizo.[WAIT]  No parecen muy interesantes.[END]
 626-5:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@You've surely fought and won - or lost - many[BREAK]  battles by now. Right?[WAIT]@I've caught wind of an incredible rumor[WAIT]  that you can actually relive your memories of[BREAK]  these battles any time you want.[WAIT]@If you don't believe me, go to the "Goods"[BREAK]  menu and then go to the key icon.[WAIT]@There, you should find a "Battle Memory" item.[WAIT]@If you select this "Battle Memory" and press[BREAK]  the [COLOR 03 00]A[COLOR 00 00] Button,[WAIT]  you could probably find out things you didn't[BREAK]  even know before.[WAIT]@Not only that, you can even use it to practice[BREAK]  "Sound Battles", whatever that means.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whoosh*[END]
-626-5E:
+626-5E:@*fiuuuu* *fiuuuu*[WAIT]  ¡Hola![WAIT]@Siento interrumpir, pero, ¿conoces el dicho:[BREAK]  "Los rumores se los lleva el viento"?[WAIT]@Sí, yo soy ese viento. Servidor es quien[BREAK]  extiende los rumores.[WAIT]@A estas alturas, ya habrás ganado o perdido[BREAK]  varias batallas, ¿no?[WAIT]@Pues me han "soplado" que puedes[WAIT]  revivir cualquier batalla que hayas librado[BREAK]  hasta la fecha.[WAIT]@Si no me crees, ve al menú "Objetos"[BREAK]  y luego, a la sección de objetos clave.[WAIT]@Allí, debería haber un "Bestiario".[WAIT]@Si seleccionas dicho "Bestiario"[BREAK]  y pulsas el botón [COLOR 03 00]A[COLOR 00 00],[WAIT]  seguro que descubres muchas cosas[BREAK]  que antes no conocías.[WAIT]@Y no sólo eso, también podrás practicar[BREAK]  "Batallas sonoras", sea lo que sea eso.[WAIT]@Bueno, eso es todo por ahora.[WAIT]@Ahora tengo que irme. ¡Adiós![WAIT]@*fiuuuu*[END]
 
 [Container 627]
 627-0:@Hey there, person![WAIT]@How about a [ITEM E4 00]?[BREAK]  He's incredibly popular these days![WAIT]@He makes for a good pet,[WAIT]  and he can even change into a jump-rope or a[BREAK]  clothesline at the drop of a hat![WAIT]@He's a very handy and hard-working snake![BREAK]  Yessiree![END]
-627-0E:
+627-0E:@¡Muy buenas![WAIT]@¿Te interesaría una [ITEM E4 00]?[BREAK]  ¡Todo el mundo quiere una![WAIT]@Es ideal como mascota,[WAIT]  también puede hacer las veces de comba,[BREAK]  ¡e incluso puede servir como tendedero![WAIT]@¡Trabajadora a la par que servicial![BREAK]  ¡Así es esta serpiente![END]
 627-1:@That's the [ITEM E4 00].[BREAK]  He's incredibly popular these days![WAIT]@I'll trade him for one [ITEM 67 00]![WAIT]@What do you say? Do we have a deal?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-1E:
+627-1E:@Esa es la [ITEM E4 00].[BREAK]  ¡Todo el mundo quiere una![WAIT]@¡Te la cambio por un [ITEM 67 00]![WAIT]@¿Qué te parece? ¿Hay trato?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 627-2:@That's [EF 91][ITEM F0 FF].[WAIT]@If you have any [ITEM 67 00]s, I'll trade this[BREAK]  for [80 FF F1 FF] of them![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-2E:
+627-2E:@Eso es [EF 91][ITEM F0 FF].[WAIT]@¡Si tienes algún [ITEM 67 00],[BREAK]  te la cambio por [80 FF F1 FF] de ellos![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 627-3:@That's a not-very-tasty [ITEM F0 FF].[WAIT]@I'll trade it for [80 FF F1 FF] [ITEM 67 00]![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-627-3E:
+627-3E:@Eso es una [ITEM F0 FF] sucia.[WAIT]@¡Por sólo [80 FF F1 FF] Pastelillos podridos![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 // I think this is a Nut Cookie, but I'm not sure
 627-4:@Thanks a bunch![WAIT]@Things like this last a lifetime,[WAIT]  so even if they seem expensive, it's smart to[BREAK]  buy as many as you can.[END]
-627-4E:
+627-4E:@¡Gracias mil![WAIT]@Estas cosas duran toda la vida,[WAIT]  así que, aunque te salga caro, conviene[BREAK]  comprar tantas como sea posible.[END]
 627-5:@Oh, I'm sorry to hear that.[WAIT]@Things like this last a lifetime,[WAIT]  so even if they seem expensive, it's smart to[BREAK]  buy as many as you can.[END]
-627-5E:
+627-5E:@Oh, pues una lástima.[WAIT]@Estas cosas duran toda la vida,[WAIT]  así que, aunque te salga caro, conviene[BREAK]  comprar tantas como sea posible.[END]
 627-6:@Hold on, now![BREAK]  You don't have enough [ITEM 67 00]s![WAIT]@It's not wise to tease ghosts, you know![END]
-627-6E:
+627-6E:@¡Eh, un momento![BREAK]  ¡No tienes suficientes Pastelillos podridos![WAIT]@¡Yo que tú no intentaría timar a un fantasma![END]
 627-7:@Hold on, now![BREAK]  You don't have any [ITEM 68 00]![WAIT]@It's not wise to tease ghosts, you know![END]
-627-7E:
+627-7E:@¡Eh, un momento![BREAK]  ¡No tienes ni un mísero [ITEM 68 00]![WAIT]@¡Yo que tú no intentaría timar a un fantasma![END]
 627-8:@It looks like you can't carry any more items.[END]
-627-8E:
+627-8E:@Parece que vas demasiado cargado.[END]
 627-9:@Ahh!![END]
-627-9E:
+627-9E:@¡¡Aah!![END]
 627-10:@Excuse me![BREAK]@That's a nice item you have there![WAIT]@I'm referring to that [ITEM 68 00][BREAK]  in your inventory.[WAIT]@If you let me have it, I'll give you the rare item[BREAK]  I'm hiding behind me in return.[WAIT]@What do you say?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-627-10E:
+627-10E:@¡Oye![BREAK]@¡Ese objeto es una pasada![WAIT]@Me estoy refiriendo a ese [ITEM 68 00][BREAK]  que tienes ahí.[WAIT]@Si quieres, te lo puedo cambiar[BREAK]  por un objeto rarísimo.[WAIT]@¿Qué me dices?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 627-11:@I know it's not my place to say this, but that[BREAK]  [ITEM 68 00] isn't good for you.[WAIT]@It's rotten, you know![EVENT][END]
-627-11E:
+627-11E:@Sé que no soy quién para decirlo, pero ese[BREAK]  [ITEM 68 00] no te conviene.[WAIT]@¡O sea, está podrido![EVENT][END]
 627-12:[SOUND 03 00]@Keeheehee![END]
-627-12E:
+627-12E:[SOUND 03 00]@¡Jiiiijiijiijii![END]
 627-13:@Thanks![WAIT]@It looks like we both profited![WAIT]@Treasure it for the rest of your life![END]
-627-13E:
+627-13E:@¡Gracias![WAIT]@¿Ves? ¡Los dos salimos ganando![WAIT]@¡Guárdala como un tesoro![END]
 627-14:@Hmm, what to choose, what to choose...[WAIT]@I just can't decide...[END]
-627-14E:
+627-14E:@Mmm, ¿qué debería elegir...?[WAIT]@No acabo de decidirme...[END]
 627-15:@I really like the Rope Snake.[WAIT]@There's something charming about him.[WAIT]  Like his length. And his jaw.[END]
-627-15E:
+627-15E:@La Serpicuerda me gusta mucho.[WAIT]@Su longitud... su mandíbula...[WAIT]  Tiene un gran encanto.[END]
 
 [Container 628]
 628-0:@There's nothing in there.[WAIT]@Let's head to the top floor![END]
-628-0E:
+628-0E:@Aquí no hay nada.[WAIT]@¡Vayamos al piso superior![END]
 628-1:@Sir! Mr. Fassad, sir![WAIT]@The item does not appear to be in this room![END]
-628-1E:
+628-1E:@¡Sr. Falhaz![WAIT]@¡El artefacto no está en esta sala![END]
 628-2:@Beep boop beep-beep![END]
-628-2E:
+628-2E:@¡Bip, bup, biip-biip![END]
 628-3:@I WILL make sure I lose sight of them, sir![WAIT]@No, wait![WAIT]  I won't take care NOT to lose sight of them![WAIT]@What I mean to say is that I'm kind of naughty,[BREAK]  but I'm not proud of it.[WAIT]@Help! I don't know what I'm saying anymore![END]
-628-3E:
+628-3E:@¡Me aseguraré de perderlos de vista, señor![WAIT]@Qu...quiero decir...[WAIT]  ¡NO me ocuparé de NO perderlos de vista![WAIT]@Qu... quiero decir... ¡Soy un poco travieso,[BREAK]  pero no estoy orgulloso de ello![WAIT]@¡Jolines! ¡Ya no sé ni lo que estoy diciendo![END]
 628-4:@This is now a castle of its own... for spiders.[END]
-628-4E:
+628-4E:@Este lugar es genial... para las arañas.[END]
 628-5:@An old stove. It wouldn't be surprising if it's a[BREAK]  bug's house now.[END]
-628-5E:
+628-5E:@Una vieja estufa. Ahora sirve de hogar[BREAK]  para las cucarachas.[END]
 
 [Container 630]
 630-0:@Through this door is the Ghost Bazaar.[BREAK]  We trade items for [ITEM 67 00]s.[END]
-630-0E:
+630-0E:@Bienvenidos al Bazar fantasmal.[BREAK]  ¡Tráenos tus Pastelillos podridos![END]
 630-1:@The Ghost Bazaar has closed up shop.[WAIT]@Thank you for your patronage over the years.[END]
-630-1E:
+630-1E:@El Bazar fantasmal ha cerrado sus puertas.[WAIT]@Gracias por su fidelidad hacia nosotros.[END]
 630-2:@This castle used to be filled with ghosts,[WAIT]  but we kicked 'em all out using the power of[BREAK]  science![END]
-630-2E:
+630-2E:@Este castillo estaba lleno de fantasmas,[WAIT]  ¡pero los hemos expulsado usando el poder[BREAK]  de la ciencia![END]
 630-3:@Other groups are presently in pursuit of the[BREAK]  bum-looking guy and his cohorts.[WAIT]@We will now continue our search for the item[BREAK]  here.[END]
-630-3E:
+630-3E:@El otro equipo está persiguiendo al tío[BREAK]  con pinta de idiota y a sus compinches.[WAIT]@Mientras, nosotros seguimos[BREAK]  buscando el artefacto.[END]
 630-4:@In this castle is an increeeeeedibly huge.[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00][WAIT]  [PAUSE 20 00]What was it again...?[WAIT]@Well, I forget. But I hear there's something[BREAK]  here.[WAIT]@Scary, huh?[END]
-630-4E:
+630-4E:@En este castillo hay una enoooormeee.[PAUSE 08 00].[PAUSE 0C 00].[PAUSE 10 00][WAIT]  [PAUSE 20 00]Mmmm, ¿qué era...?[WAIT]@No me acuerdo. El caso es que[BREAK]  hay algo enorme...[WAIT]@¿Qué miedo, eh?[END]
 630-5:@Sir! Fassad, sir![WAIT]@They don't appear to be inside the castle[BREAK]  anymore![END]
-630-5E:
+630-5E:@¡Sr. Falhaz![WAIT]@¡No parecen seguir dentro del castillo![END]
 
 [Container 631]
 631-0:@A decorative suit of armor.[END]
-631-0E:
+631-0E:@Una armadura de adorno.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 631-1:@This suit of armor has been mercilessly[BREAK]  destroyed.[END]
-631-1E:
+631-1E:@Esta armadura ha sido destruida[BREAK]  sin misericordia alguna.[END]
 631-2:@Three suits of armor suddenly attacked me[BREAK]  out of nowhere![WAIT]@Even though I'm super-skilled, they clearly had[BREAK]  the upper hand,[WAIT]  but I managed to destroy 'em when I unleashed[BREAK]  my special Spicy Knuckle Attack.[WAIT]@......[WAIT]@That bum-looking guy and his cohort beat me[BREAK]  senseless, though...[END]
-631-2E:
+631-2E:@¡Tres armaduras se pusieron a atacarme[BREAK]  por la cara![WAIT]@Aún con mi gran destreza, estaba[BREAK]  en clara desventaja,[WAIT]  pero al final, conseguí imponerme[BREAK]  gracias a mi Puñetazo especiado.[WAIT]@......[WAIT]@Pero ese tío con pinta de idiota y sus[BREAK]  compañeros me metieron una buena tunda...[END]
 631-3:@Next time![WAIT]@Next time, I WILL make mincemeat out of 'em![END]
-631-3E:
+631-3E:@La próxima vez...[WAIT]@¡La próxima vez van a probar mis especias![END]
 631-4:@No one will stand me back up, so I've been[BREAK]  stuck down here for three years now...[WAIT]@Three whole years like this...[WAIT]@I mean, come on! Seriously! Three years like[BREAK]  this! Argh![END]
-631-4E:
+631-4E:@Como a nadie se le ha ocurrido levantarme,[BREAK]  llevo tres años aquí tirado...[WAIT]@Tres laaargos años...[WAIT]@¡Si es que sólo de pensarlo me pongo malo![BREAK]  ¡Grrr![END]
 631-5:@Hello, I'm a suit of armor.[WAIT]@I've fallen and I can't get up.[WAIT]@I'm so beat up now...[END]
-631-5E:
+631-5E:@Hola, soy una armadura.[WAIT]@Me he caído y no puedo levantarme.[WAIT]@Es deprimente...[END]
 631-6:@What a dilemma.[WAIT]@Honestly, what should I do?[WAIT]@Given my situation...[PAUSE 30 00] what should I do?[END]
-631-6E:
+631-6E:@Qué dilema.[WAIT]@¿Qué debería hacer?[WAIT]@Dada mi situación...[PAUSE 30 00] ¿qué debería hacer?[END]
 631-7:[END]
-631-7E:
+631-7E:[END]
 
 [Container 632]
 632-0:@A torn-up painting is lying on the ground.[END]
-632-0E:
+632-0E:@Hay un cuadro destrozado en el suelo.[END]
 632-1:@Squeek-squeek-squeeek.[WAIT]  (All the fireplaces in this castle are connected[BREAK]  via a squeekret passageway.[WAIT]  You can use them to go straight to the hot[BREAK]  spring in the basement in no time flat.)[END]
-632-1E:
+632-1E:@Chii-chii-chiiiiiii.[WAIT]  (Todas las chiiiiiimeneas del castillo[BREAK]  están conectadas entre sí.[WAIT]  Puedes usar esta para ir directamente[BREAK]  a las aguas termales del sótano.)[END]
 632-2:@All the fireplaces in this castle are connected[BREAK]  via a squeekret passageway.[WAIT]  Keep it a squeekret from the ghosts, though.[END]
-632-2E:
+632-2E:@Todas las chiiiiiimeneas del castillo[BREAK]  están conectadas entre sí.[WAIT]  Procura que no se enteren los fantasmas.[END]
 632-3:@This grandfather clock no longer works.[END]
-632-3E:
+632-3E:@Este reloj ha dejado de funcionar.[END]
 // Repeats: 632-3, 642-17
 
 [Container 633]
@@ -17615,795 +17615,795 @@
 633-0E:@Este muro parece escalable.[WAIT]  ¿Quieres trepar por él?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 11-9, 212-9, 213-9, 623-1, 624-0, 633-0
 633-1:@Life as a ghost is the greatest![WAIT]@I want to stay a ghost for as long as I live![END]
-633-1E:
+633-1E:@¡Ser un fantasma es de lo mejorcito![WAIT]@¡Quiero ser un fantasma el resto de mi vida![END]
 // Repeats: 624-1, 633-1
 633-2:@Some people think ghosts are scary,[WAIT]  but I don't think so![END]
-633-2E:
+633-2E:@Dicen que los fantasmas dan miedo,[WAIT]  ¡pero a mí no me lo parece![END]
 // Repeats: 624-2, 633-2
 633-3:@YOU![WAIT]@You're an ordinary person, aren't you?![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-633-3E:
+633-3E:@¡TÚ![WAIT]@¿Tú... eres una persona ordinaria?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-3, 633-3
 633-4:@No, you're not normal.[WAIT]@You appear to be a thief-person![END]
-633-4E:
+633-4E:@A mí no me pareces ordinario.[WAIT]@¡Pareces un ladrón![END]
 // Repeats: 624-4, 633-4
 633-5:@Yeah, right![BREAK]  You are SUCH an ordinary person![END]
-633-5E:
+633-5E:@Sí, sí...[BREAK]  ¡Eso es lo que diría una persona ordinaria![END]
 // Repeats: 624-5, 633-5
 633-6:@Wine...[PAUSE 5A 00][BREAK]  It's the water of life.[WAIT]@In this castle, I'm the ghost who knows the[BREAK]  most.[END]
-633-6E:
+633-6E:@Vino...[PAUSE 5A 00][BREAK]  El agua de la vida.[WAIT]@Soy el fantasma más culto[BREAK]  de todo este castillo.[END]
 // Repeats: 624-6, 633-6
 633-7:@As I was saying...![WAIT]@Wine...[PAUSE 5A 00][BREAK]  It's my burning passion.[WAIT]@Try to understand me more here![END]
-633-7E:
+633-7E:@¡Como iba diciendo...![WAIT]@El vino...[PAUSE 5A 00][BREAK]  es mi ardiente pasión.[WAIT]@¡Intenta comprenderme un poco![END]
 // Repeats: 624-7, 633-7
 633-8:@You must really know the score to be able to[BREAK]  talk with me for so long.[END]
-633-8E:
+633-8E:@Tú también debes de ser muy culto, pudiendo[BREAK]  entablar una charla de tanto nivel.[END]
 // Repeats: 624-8, 633-8
 633-9:@I said earlier that you really know the score,[BREAK]  but I take that back now.[WAIT]@Why? Because...[PAUSE 5A 00] you haven't said even a[BREAK]  single word.[END]
-633-9E:
+633-9E:@Antes te dije que me parecías muy culto,[BREAK]  pero ahora lo retiro.[WAIT]@¿Que por qué? Pues porque...[PAUSE 5A 00][BREAK]  Hasta ahora no has dicho ni pío.[END]
 // Repeats: 624-9, 633-9
 633-10:@We ghosts enjoy having food pass through our[BREAK]  spirits at mealtime.[END]
-633-10E:
+633-10E:@Nos encanta sentir cómo la comida[BREAK]  atraviesa nuestro espíritu.[END]
 // Repeats: 624-10, 633-10
 633-11:@We're not wasting any food. Honest.[END]
-633-11E:
+633-11E:@Esto no es tirar la comida. En serio.[END]
 // Repeats: 624-11, 633-11
 633-12:@Do you want something to eat, too?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-633-12E:
+633-12E:@¿Tú también quieres comer algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-12, 633-12
 633-13:@Here you go.[END]
-633-13E:
+633-13E:@Aquí tienes.[END]
 // Repeats: 624-13, 633-13
 633-14:@These [ITEM 67 00]s taste just like how my[BREAK]  mother used to make them.[WAIT]@Taste them![END]
-633-14E:
+633-14E:@Estos Pastelillos podridos saben igual[BREAK]  que los que hacía mi mamá.[WAIT]@¡Pruébalos![END]
 // Repeats: 624-14, 633-14
 633-15:@Do you still want more?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-633-15E:
+633-15E:@¿Quieres más?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-15, 633-15
 633-16:@Didn't your mother ever teach you to say no[BREAK]  sometimes?![END]
-633-16E:
+633-16E:@¡¿No te ha enseñado tu madre[BREAK]  a tener modales?![END]
 // Repeats: 624-16, 633-16
 633-17:@Hey, now. You don't hafta hold back to be[BREAK]  polite.[WAIT]@You and me are buddies.[WAIT]@Take one as a gift for your mom.[END]
-633-17E:
+633-17E:@Ey. No hace falta que lo rechaces[BREAK]  por educación.[WAIT]@Que aquí hay confianza, hombre.[WAIT]@Toma, llévate uno para tu madre.[END]
 // Repeats: 624-17, 633-17
 633-18:@Whoa, you can't hold any more stuff.[WAIT]@If you want to eat some that badly, go throw[BREAK]  something out first.[END]
-633-18E:
+633-18E:@Hala, pero si no tienes sitio para esto.[WAIT]@Si tanta hambre tienes, antes vas a tener[BREAK]  que tirar algo.[END]
 // Repeats: 624-18, 633-18
 633-19:@Oh, you can't hold any more stuff.[WAIT]@Guess I'll eat it, then![END]
-633-19E:
+633-19E:@Oh, no te queda espacio libre.[WAIT]@¡Tranqui, me lo comeré yo por ti![END]
 // Repeats: 624-19, 633-19
 633-20:@[NOTE] Even if you forget the small moles on my[BREAK]     back and inner thigh [NOTE][WAIT]  [NOTE] I'll never forget you [NOTE][WAIT]  [NOTE] In my lonely room, your wig weeps [NOTE][WAIT]  [NOTE] Baby, believe me when I say don't attach[BREAK]     anything to the walls of this room [NOTE][WAIT]  [NOTE] Like moles or wigs or wall staples [NOTE][WAIT]  [NOTE] Ooh~ ooh~ oooooh~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ wall~ staples~ [NOTE][END]
-633-20E:
+633-20E:@[NOTE] Incluso si te olvidas de los topos[BREAK]     que tengo yo detrás [NOTE][WAIT]  [NOTE] Yo nunca te olvidaré [NOTE][WAIT]  [NOTE] Tu peluca posa en mi soledad [NOTE][WAIT]  [NOTE] Nena, ya sabes que yo nunca clavaría nada[BREAK]     de nada en este lugar [NOTE][WAIT]  [NOTE] Ni topos, ni pelucas [NOTE][WAIT]  [NOTE] Ni siquiera los claa[PAUSE 28 00]aavos de pared [NOTE][END]
 // Repeats: 624-20, 633-20
 633-21:@The ghosts here party every single day.[WAIT]@I can't fit in with that. It's just not my thing...[END]
-633-21E:
+633-21E:@Estos fantasmas se pasan el día de fiesta.[WAIT]@Yo no encajo aquí. No sé, no es mi estilo...[END]
 // Repeats: 624-21, 633-21
 633-22:@Thanks for talking to me.[WAIT]@I'll try harder to fit in with the others.[END]
-633-22E:
+633-22E:@Gracias por hablar conmigo.[WAIT]@Me voy a esforzar por intentar encajar.[END]
 // Repeats: 624-22, 633-22
 633-23:@Give that fellow's piano song a listen![WAIT]@It's great![WAIT]  It's moving! It's tearjerking! It's hinting![END]
-633-23E:
+633-23E:@¡Escucha la canción de mi amigo![WAIT]@¡Es la caña![WAIT]  ¡Es conmovedora! ¡Y también instructiva![END]
 // Repeats: 624-23, 633-23
 633-24:@There were some sassy ghosts here earlier,[BREAK]  holding a lively party.[WAIT]@We've used the power of science to stick[BREAK]  'em all in the back room for now.[END]
-633-24E:
+633-24E:@Esos fantasmas sinvergüenzas estaban[BREAK]  celebrando un fiestorro.[WAIT]@Hemos usado el poder de la ciencia para[BREAK]  encerrarlos en la sala de al lado.[END]
 // Repeats: 624-24, 633-24
 633-25:@We're currently using every resource available[BREAK]  to us to locate it...[WAIT]  ...but it still hasn't turned up![WAIT]@...Hold on, pipsqueak monkey. I'm not talking[BREAK]  to you.[END]
-633-25E:
+633-25E:@Estamos usando todos los medios[BREAK]  disponibles para localizarlo...[WAIT]  ...¡pero sigue sin aparecer![WAIT]@...Silencio, monicaco.[BREAK]  No estaba hablando contigo.[END]
 // Repeats: 624-25, 633-25
 633-26:@That bum-looking guy and his cohort headed[BREAK]  upstairs after they beat the snot out of us![WAIT]@Only now do I realize that thieves are truly[PAUSE 2E 00][BREAK]  a force to be reckoned with![END]
-633-26E:
+633-26E:@¡Ese tipo con pinta de idiota y sus amiguitos[BREAK]  se fueron por las escaleras tras zurrarnos![WAIT]@¡Está claro que los ladrones son enemigos[PAUSE 2E 00][BREAK]  muy a tener en cuenta![END]
 // Repeats: 624-26, 633-26
 633-27:@Yeah?[END]
-633-27E:
+633-27E:@¿Sí?[END]
 // Repeats: 624-27, 633-27
 633-28:@What?! They fled into the basement?![WAIT]@They have it with them?![BREAK]  Alright! Got it![END]
-633-28E:
+633-28E:@¡¿Qué?! ¡¿Han huido al sótano?![WAIT]@¡¿Y todavía lo llevan consigo?![BREAK]  ¡Vale! ¡De acuerdo![END]
 // Repeats: 624-28, 633-28
 633-29:@Hey, monkey![BREAK]  We're heading into the basement now![WAIT]@There should be an entrance to the basement[BREAK]  somewhere inside this castle.[WAIT]@Find it![END]
-633-29E:
+633-29E:@¡Escucha, mono![BREAK]  ¡Tenemos que ir al sótano ahora mismo![WAIT]@Debería haber una entrada secreta[BREAK]  en algún lugar de este castillo.[WAIT]@¡Encuéntrala![END]
 // Repeats: 624-29, 633-29
 633-30:@Whew.[PAUSE 5A 00]  Boy, it's stuffy in this thing...[END]
-633-30E:
+633-30E:@Fiuuu.[PAUSE 5A 00] Qué ambiente tan sofocante...[END]
 // Repeats: 624-30, 633-30
 633-31:@Mr. Fassad![WAIT]@We are invincible![WAIT]@If we all put our minds to it,[WAIT]  I bet we could even pull giant turnips out of[BREAK]  the ground![END]
-633-31E:
+633-31E:@¡Sr. Falhaz![WAIT]@¡Somos invencibles![WAIT]@¡Seguro que, entre todos,[WAIT]  podríamos incluso sacar[BREAK]  nabos gigantes del suelo![END]
 // Repeats: 624-31, 633-31
 633-32:@Sir! All is normal here, sir![WAIT]@There IS a slightly-naughty member in our[BREAK]  group, though.[END]
-633-32E:
+633-32E:@¡Señor! ¡Todo en orden, señor![WAIT]@Aunque hay uno de los nuestros[BREAK]  que no para de hacerse el tonto...[END]
 // Repeats: 624-32, 633-32
 633-33:@We partied and partied for so long, but it finally[BREAK]  got old.[WAIT]@So more and more of us gave up the party life[BREAK]  as time went on.[END]
-633-33E:
+633-33E:@Pensaba estar de fiesta toda la eternidad,[BREAK]  pero al final me he cansado.[WAIT]@Poco a poco, todos nos fuimos cansando[BREAK]  de ese estilo de vida.[END]
 // Repeats: 624-33, 633-33
 633-34:@Wow, I'm surprised you came here. This[BREAK]  castle's so boring now I could just die.[WAIT]@It WAS the setting for an adventure three[BREAK]  years ago, though.[WAIT]@But there's been nothing at all since then.[BREAK]  Nothing.[WAIT]@In fact, if you hadn't come and talked to me[BREAK]  just now,[WAIT]  today would've been yet another empty day[BREAK]  leading into another empty tomorrow.[WAIT]@So, how about a leisurely chat?[WAIT]@No?![WAIT]@Oh, but I want to talk.[WAIT]@No?[WAIT]@I see.[WAIT]@Okay. Whatever.[END]
-633-34E:
+633-34E:@Oh, no esperaba ver a nadie por aquí.[BREAK]  Este castillo se ha vuelto aburridísimo.[WAIT]@Y pensar que hace tres años fue[BREAK]  escenario de una aventura...[WAIT]@Desde entonces, aquí no ha pasado nada.[BREAK]  Nada de nada.[WAIT]@Es más, si no te hubieras parado[BREAK]  a hablar conmigo,[WAIT]  este habría sido otro día vacío, preludio[BREAK]  de un mañana igualmente vacío.[WAIT]@¿Te apetece charlar de algo?[WAIT]@¡¿No?![WAIT]@Oh, pero yo quiero charlar.[WAIT]@¡¿No?[WAIT]@Ya veo.[WAIT]@Muy bien. Pues nada.[END]
 // Repeats: 624-34, 633-34
 633-35:@I've been playing this one song for three years[BREAK]  straight.[WAIT]@It's like it's my fate to keep singing this song.[WAIT]@I know it's a bit old at this point, but would you[BREAK]  like to hear it again anyway?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-633-35E:
+633-35E:@Llevo tres años tocando[BREAK]  esta canción sin parar.[WAIT]@Como si mi destino fuese seguir haciéndolo.[WAIT]@Seguro que ya no te sorprenderá tanto, pero,[BREAK]  ¿quieres escucharla de nuevo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-35, 633-35
 633-36:@No?[WAIT]@You don't want to hear it?[WAIT]@Your loss.[END]
-633-36E:
+633-36E:@¿No?[WAIT]@¿No quieres oírla?[WAIT]@Tú te lo pierdes.[END]
 // Repeats: 624-36, 633-36
 633-37:@Oh, I'm so very happy you talked to me.[WAIT]@Unless we're especially lucky, characters like[BREAK]  me without notable personalities[WAIT]  often wind up overlooked and ignored.[WAIT]@But I'm happy.[WAIT]@You talked to me.[WAIT]@You've acknowledged me, in other words.[WAIT]@Oh, I'm so happy! Here, this is for you![END]
-633-37E:
+633-37E:@Oh, muchas gracias por hablar conmigo.[WAIT]@Salvo que tengan mucha suerte,[BREAK]  a los personajes genéricos como yo[WAIT]  se les olvida muy rápidamente.[WAIT]@Pero soy feliz.[WAIT]@Has hablado conmigo.[WAIT]@Has reconocido mi existencia.[WAIT]@¡Oh, soy tan feliz! ¡Ten, para ti![END]
 // Repeats: 624-37, 633-37
 633-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-633-38E:
+633-38E:@Has sido muy amable conmigo, pero creo[BREAK]  que no le caigo bien a tu cuerpo.[WAIT]@Está fingiendo que tu inventario está lleno...[END]
 // Repeats: 624-38, 633-38
 633-39:@Hiya, friend![END]
-633-39E:
+633-39E:@¡Hola, amigo mío![END]
 // Repeats: 624-39, 633-39
 633-40:@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![WAIT]@Did you find it interesting?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-633-40E:
+633-40E:@A veces el mar trae a la costa[BREAK]  unas piedras muy extrañas.[WAIT]@Todas del mismo tamaño.[WAIT]@Hace tiempo, se solía comparar su forma[BREAK]  con la de un Buda panzón,[WAIT]  así que las llamaron "Piedras panzonas".[WAIT]@En realidad, son osículos de delfín.[WAIT]  Por si no lo sabías, un osículo[BREAK]  es un hueso del oído.[WAIT]@Son extremadamente duros.[WAIT]@Supuestamente, acaban en las costas[BREAK]  porque el océano no los disuelve.[WAIT]@Si buscas bien en la playa Celeste,[BREAK]  seguro que encuentras alguno.[WAIT]@¡Aquí termina "Curiosidades fantasmales"![WAIT]@¿Te ha gustado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 624-40, 633-40
 633-41:@Here, I'll give you an actual dolphin ossicle![END]
-633-41E:
+633-41E:@¡Toma, te doy un osículo de delfín![END]
 // Repeats: 624-41, 633-41
 633-42:@I was going to give you a dolphin ossicle, but it[BREAK]  looks like you can't hold any more stuff.[END]
-633-42E:
+633-42E:@Iba a darte un osículo de delfín, pero parece[BREAK]  que no tienes dónde guardarlo.[END]
 // Repeats: 624-42, 633-42
 633-43:@What's that? You want to hear that story[BREAK]  again?[WAIT]@Sure thing! Here goes![WAIT]@There are certain strangely-shaped rocks that[BREAK]  wash up on shores often.[WAIT]@All with the same size.[WAIT]@People long ago used to think they looked like a[BREAK]  potbellied Buddha,[WAIT]  so they called them "Potbelly Stones".[WAIT]@In actuality, they're dolphin ossicles.[WAIT]  An ossicle is an ear bone, just in case you[BREAK]  didn't know.[WAIT]@They're extremely hard.[WAIT]@Apparently, they wash up on shores because[BREAK]  they don't dissolve in the ocean.[WAIT]@I bet you could find some in the Cerulean Beach[BREAK]  area if you looked.[WAIT]@This has been Li'l Ghosty's Mini-Trivia Corner![END]
-633-43E:
+633-43E:@¿Cómo? ¿Quieres volver a oír[BREAK]  la historia entera?[WAIT]@¡Faltaría más! ¡Vamos allá![WAIT]@A veces el mar trae a la costa[BREAK]  unas piedras muy extrañas.[WAIT]@Todas del mismo tamaño.[WAIT]@Hace tiempo, se solía comparar su forma[BREAK]  con la de un Buda panzón,[WAIT]  así que las llamaron "Piedras panzonas".[WAIT]@En realidad, son osículos de delfín.[WAIT]  Por si no lo sabías, un osículo[BREAK]  es un hueso del oído.[WAIT]@Son extremadamente duros.[WAIT]@Supuestamente, acaban en las costas[BREAK]  porque el océano no los disuelve.[WAIT]@Si buscas bien en la playa Celeste,[BREAK]  seguro que encuentras alguno.[WAIT]@¡Aquí termina "Curiosidades fantasmales"![END]
 // Repeats: 624-43, 633-43
 633-44:@...[END]
 633-44E:@...[END]
 // Repeats: 6-7, 19-4, 19-17, 21-4, 21-17, 47-46, 53-5, 54-5, 92-0, 194-16, 211-90, 228-4, 233-49, 624-44, 633-44
 633-45:@An awkward feeling hung in the air.[END]
-633-45E:
+633-45E:@Por algún motivo, te sientes inquieto.[END]
 // Repeats: 624-45, 633-45
 633-46:@For some reason, only the keyboard of this[BREAK]  grand piano is bright and shiny.[END]
-633-46E:
+633-46E:@Por extraño que parezca, las teclas de este[BREAK]  piano están impolutas y relucientes.[END]
 // Repeats: 624-46, 633-46
 633-47:@Moldy, putrid apples.[WAIT]  "Putrapples" for short.[END]
-633-47E:
+633-47E:@Manzanas mohosas.[WAIT]  "Mohozanas", para abreviar.[END]
 // Repeats: 624-47, 633-47
 
 [Container 634]
 634-0:@Squeaky-squeak.[WAIT]  (Many of the ghosts here are actually pretty[BREAK]  friendly, huh?[WAIT]  That's not something you'd normally expect.)[END]
-634-0E:
+634-0E:@Chichiiii-chiiii.[WAIT]  (En este castillo hay fantasmas[BREAK]  la mar de majos, ¿verdad?[WAIT]  Quién me lo iba a decir...)[END]
 634-1:@You felt sick.[END]
-634-1E:
+634-1E:@Te sientes revuelto.[END]
 // Repeats: 623-0, 634-1
 634-2:@There's nothing you can do here,[WAIT]  nor is there anything that CAN be done.[END]
-634-2E:
+634-2E:@No pintas nada en este lugar...[WAIT]  bueno, ni tú, ni yo, ni NADIE.[END]
 // Repeats: 634-2, 636-1
 634-3:[END]
-634-3E:
+634-3E:[END]
 
 [Container 635]
 635-0:@[NOTE] Even if you forget the small poles on my[BREAK]     vacuum dinner pie~ [NOTE][WAIT]  [NOTE] Hmm~ hmmm~ hmm-hmmmm~ [NOTE][WAIT]  [NOTE] Like coals or pigs or tall maples [NOTE][WAIT]  [NOTE] Boo~ boo~ booooo~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ tall~ maples~ [NOTE][WAIT]@...I still haven't learned the lyrics 100% yet,[BREAK]  but it's such a nice song![END]
-635-0E:
+635-0E:@[NOTE] Incluso si te olvidas de los tipos[BREAK]     que tengo yo que dar~ [NOTE][WAIT]  [NOTE] Mmm~ mmmm~ mmm-mmmmm~ [NOTE][WAIT]  [NOTE] Ni pitos, ni flautas~ [NOTE][BREAK]  [NOTE] Ni siquiera los baa[PAUSE 28 00]aarcos de papel~ [NOTE][PAUSE 28 00][WAIT]@...Aún no me sé la letra al 100%,[BREAK]  ¡pero me encanta la canción![END]
 // Repeats: 635-0, 664-0
 635-1:@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[END]
-635-1E:
+635-1E:@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[END]
 // Repeats: 635-1, 664-1
 635-2:@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[WAIT]@Y'know, I've been saying this same thing for[BREAK]  over three years now![END]
-635-2E:
+635-2E:@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[WAIT]@Por cierto, me acabo de dar cuenta de que[BREAK]  llevo tres años repitiendo lo mismo...[END]
 // Repeats: 635-2, 664-2
 635-3:@I want to cook...[WAIT]@I want to cook...[WAIT]@Aaaaahhh! I want to cook![WAIT]@It's gonna haunt me forever![END]
-635-3E:
+635-3E:@Quiero cocinar...[WAIT]@Quiero cocinar...[WAIT]@¡Aaaaah! ¡Quiero cocinar![WAIT]@¡Es el sueño de mi no-vida![END]
 // Repeats: 635-3, 664-3
 // I changed this line slightly to fit the pun better
 635-4:@Bitter, glum, sour, unsavory...[WAIT]  Those are the only kinds of seasonings here.[END]
-635-4E:
+635-4E:@Amarga, triste, agria, sin sabor...[WAIT]  Así es la comida por estos lares.[END]
 // Repeats: 635-4, 664-4, 664-31
 635-5:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-635-5E:
+635-5E:@Aquí hay "algo" cocinándose a fuego lento.[WAIT]  Su aspecto y aroma... mejor no describirlos.[END]
 // Repeats: 635-5, 664-5, 664-32
 
 [Container 636]
 636-0:@A ghost burped on me just now...[WAIT]@For some reason, it smelled like rotten[BREAK]  [FAVFOOD]...[WAIT]@I don't care about finding this stupid item[BREAK]  anymore...![END]
-636-0E:
+636-0E:@Un fantasma me ha eructado en la cara...[WAIT]@Por el olor, diría que ha comido[BREAK]  [FAVFOOD]...[WAIT]@¡Aaah! ¡Ya estoy harto de buscar[BREAK]  lo que quiera que sea esa cosa...![END]
 636-1:@There's nothing you can do here,[WAIT]  nor is there anything that CAN be done.[END]
-636-1E:
+636-1E:@No pintas nada en este lugar...[WAIT]  bueno, ni tú, ni yo, ni NADIE.[END]
 // Repeats: 634-2, 636-1
 
 [Container 637]
 637-0:@You could probably get over there if you had a[BREAK]  Rope Snake with you.[WAIT]@Don't ask where "over there" is.[WAIT]@There's only one "over there" here.[END]
-637-0E:
+637-0E:@Seguramente podrías pasar por ahí[BREAK]  si tuvieses una Serpicuerda.[WAIT]@No me preguntes dónde es "por ahí".[WAIT]@Aquí sólo hay un "por ahí".[END]
 637-1:@Hey! That's a [ITEM F0 FF] you have[BREAK]  there![WAIT]@Please! Trade it to me for this[BREAK]  [ITEM F1 FF]![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-637-1E:
+637-1E:@¡Ey! Eso que tienes ahí...[BREAK]  ¡¿es un [ITEM F0 FF]?![WAIT]@¡Te lo ruego! ¡Cámbiamelo por mi[BREAK]  [ITEM F1 FF]![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 637-2:@If you find any more nice [ITEM F0 FF]s,[BREAK]  just bring them here anytime.[WAIT]@I look forward to having some more![END]
-637-2E:
+637-2E:@Si encuentras algún [ITEM F0 FF],[BREAK]  no dudes en traérmelo.[WAIT]@¡Nunca se tienen suficientes![END]
 637-3:@Oh. You like [ITEM F0 FF]s too, huh?[END]
-637-3E:
+637-3E:@Ya veo. Deben de gustarte mucho...[END]
 637-4:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-637-4E:
+637-4E:@¿Quieres saltar abajo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 637-5:@It looks like you could latch on to this[BREAK]  candlestick with something long.[END]
-637-5E:
+637-5E:@Si tuvieses algo alargado, podrías[BREAK]  engancharte a este candelabro.[END]
 637-6:@Looks like this is a job for me![END]
-637-6E:
+637-6E:@¡Parece que ha llegado mi turno![END]
 637-7:@Hook me right onto that candlestick.[WAIT]@Go ahead! Don't worry about me![END]
-637-7E:
+637-7E:@Engánchame a ese candelabro.[WAIT]@¡Adelante! ¡No te preocupes por mí![END]
 637-8:@I know you're rather strong.[WAIT]@But the suit of armor inside here is definitely[BREAK]  no pushover, either.[WAIT]@I'm talking INCREDIBLY strong, here.[WAIT]@If you think you're up to the challenge, I'll[BREAK]  move out of the way.[WAIT]@Regular ol' items, Mystical Thief Tools...[WAIT]  Use whatever you can to cling-clang[BREAK]  boom-bang that guy into submission![END]
-637-8E:
+637-8E:@Veo que eres fuerte.[WAIT]@Pero la armadura de ahí dentro[BREAK]  tampoco es moco de pavo.[WAIT]@Te aviso, es INCREÍBLEMENTE fuerte.[WAIT]@Si crees que tienes alguna posibilidad,[BREAK]  eres libre de pasar.[WAIT]@Objetos, Útiles del ladrón...[WAIT]  ¡Usa lo que creas conveniente para[BREAK]  darle matarile a esa mala bestia![END]
 637-9:@To be honest, we all hated that Ghost Knight.[WAIT]@He was a real hard-headed jerk.[WAIT]@So much so that I'd like to thank you for[BREAK]  beating him.[WAIT]@Thanks![WAIT]@Let that word of appreciation express my[BREAK]  gratitude.[END]
-637-9E:
+637-9E:@A nadie le caía bien ese Caballero espectral.[WAIT]@Era un necio y un cabezota.[WAIT]@Tanto, que quiero agradecerte[BREAK]  que le hayas dado su merecido.[WAIT]@¡Gracias![WAIT]@No hay mayor recompensa que[BREAK]  unas palabras de gratitud.[END]
 637-10:@...You seem quite strong.[WAIT]@The suit of armor inside here is so stubborn,[BREAK]  arrogant, and impossible to get along with, [WAIT]  but if anyone can beat him, it's you![WAIT]@Please, defeat him! I know you can do it![WAIT]@It'll be the ultimate match of all time![WAIT]@My "onlooker spirit" is all fired up now![END]
-637-10E:
+637-10E:@...Pareces bastante fuerte.[WAIT]@La armadura que hay ahí dentro es muy[BREAK]  arrogante, cabezota e intratable,[WAIT]  ¡pero seguro que tú puedes con ella![WAIT]@¡Por favor, tienes que derrotarla![WAIT]@¡Sería el combate del siglo![WAIT]@¡Siento hervir mi "espíritu de espectador"![END]
 637-11:@Wow! Way to go![WAIT]@It's probably not my place to say this, seeing[BREAK]  as you were the ones battling desperately,[WAIT]  but that was an incredible fight![WAIT]@What a bout![END]
-637-11E:
+637-11E:@¡Guau! ¡Muy bien![WAIT]@No está bien que yo lo diga, puesto que[BREAK]  vosotros habéis hecho todo el trabajo,[WAIT]  ¡pero ha sido increíble![WAIT]@¡Qué combatazo![END]
 637-12:@Oh![WAIT]@Greetings, Mr. Fassad! Good work today![WAIT]@Hey, monkey! You better be helpful to Mr.[BREAK]  Fassad! Got it?![END]
-637-12E:
+637-12E:@¡Oh![WAIT]@¡Saludos, Sr. Falhaz! ¡Buen trabajo![WAIT]@¡Tú, mono! ¡Más te vale ayudarle al Sr. Falhaz![BREAK]  ¡¿Lo has entendido?![END]
 637-13:@Bah, a dead-end.[WAIT]@Alright, monkey![BREAK]@Let's look elsewhere![END]
-637-13E:
+637-13E:@Bah, no hay salida.[WAIT]@¡Escúchame, mono![BREAK]@¡Busquemos en otro sitio![END]
 637-14:@Alright, monkey![BREAK]@Let's head back to the Yado Inn for now![END]
-637-14E:
+637-14E:@¡Vale, mono![BREAK]@¡Por ahora, nos volvemos a la posada Yado![END]
 637-15:[END]
-637-15E:
+637-15E:[END]
 
 [Container 638]
 638-0:@Picked up a pendant![PAUSE 40 00][END]
-638-0E:
+638-0E:@¡Has encontrado un Colgante![PAUSE 40 00][END]
 638-1:[END]
-638-1E:
+638-1E:[END]
 
 [Container 641]
 641-0:@A decorative suit of armor.[END]
-641-0E:
+641-0E:@Una armadura de adorno.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 641-1:[END]
-641-1E:
+641-1E:[END]
 
 [Container 642]
 642-0:@This furniture is shaking violently.[END]
-642-0E:
+642-0E:@Los muebles se están agitando violentamente.[END]
 642-1:@This book is shaking all by itself.[END]
-642-1E:
+642-1E:@Este libro se está moviendo solo.[END]
 642-2:@I am Mr. Passion.[WAIT]@The music I am playing is[BREAK]  "Family Matters, 2nd Movement".[WAIT]@Listen thoroughly.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-642-2E:
+642-2E:@Soy Don Pasión.[WAIT]@Esta pieza se titula[BREAK]  "Asuntos familiares, Segundo movimiento".[WAIT]@Escucha atentamente.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 642-3:@Listen and marvel to your heart's content.[END]
-642-3E:
+642-3E:@Maravíllate con la magia de estas notas.[END]
 642-4:@This is what artistic know-nothings like you[BREAK]  get![END]
-642-4E:
+642-4E:@¡Los ignorantes como tú no saben[BREAK]  apreciar mi arte![END]
 642-5:@Have you learned to comprehend my art?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-642-5E:
+642-5E:@¿Has aprendido a apreciar mi arte?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 642-6:@Now I'm angry![BREAK]  Gwaaaaaarg![END]
-642-6E:
+642-6E:@¡Serás...![BREAK]  ¡Grrrrrrrrrr![END]
 642-7:@Squeak.[WAIT]  (Whew! You're a life-saver! Thank you![WAIT]  By the way, you can rest on that sofa if you[BREAK]  want.)[END]
-642-7E:
+642-7E:@Chiiii.[WAIT]  (¡Fiuuu! ¡Me has salvado! ¡Gracias![WAIT]  Por cierto, si quieres, puedes[BREAK]  descansar en ese sofá.)[END]
 642-8:@You felt something warm inside your heart.[END]
-642-8E:@Sentiste algo cálido en tu corazón.[END]
+642-8E:@Has sentido algo cálido en tu corazón.[END]
 // Repeats: 0-90, 28-13, 28-16, 642-8
 642-9:@Things are calm once again.[END]
-642-9E:
+642-9E:@Todo ha vuelto a la normalidad.[END]
 642-10:@You can take a nap on this sofa.[WAIT]  Take a quick rest?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-642-10E:
+642-10E:@Puedes echarte en este sofá.[WAIT]  ¿Una siesta rápida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 642-11:@The cover and binding on this book are[BREAK]  top-notch, but there's nothing written inside.[END]
-642-11E:
+642-11E:@Las tapas y el lomo de este libro son de lujo,[BREAK]  pero el interior está en blanco.[END]
 // Repeats: 626-1, 642-11
 642-12:@I am Lord Passion.[WAIT]@The music I am playing is[BREAK]  "Ode to Ancestors, 8th Movement".[WAIT]@Listen thoroughly.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-642-12E:
+642-12E:@Soy Lord Pasión.[WAIT]@Esta pieza se titula[BREAK]  "Oda a los ancestros, Octavo movimiento".[WAIT]@Escucha atentamente.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 642-13:@Yes. I thought you would like it.[WAIT]@Actually, my music isn't the only thing that's[BREAK]  splendid.[WAIT]@I've added two new curls to my hairstyle.[WAIT]@What do you think? Isn't it wonderful?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-642-13E:
+642-13E:@Sí. Sabía que te gustaría.[WAIT]@Por cierto, mi música no es lo único[BREAK]  que rebosa arte.[WAIT]@He añadido dos rizos a mi peinado.[WAIT]@¿Qué opinas? ¿No es maravilloso?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 642-14:@Is too![END]
-642-14E:
+642-14E:@¡Sí que lo es![END]
 642-15:@Heh heh heh.[WAIT]@You can copy this hairstyle, if you'd like.[END]
-642-15E:
+642-15E:@Jo, jo, jo.[WAIT]@Si tanto te gusta, te dejo que me lo copies.[END]
 642-16:@An old clock that runs too fast.[END]
-642-16E:
+642-16E:@Este reloj va demasiado rápido.[END]
 642-17:@This grandfather clock no longer works.[END]
-642-17E:
+642-17E:@Este reloj ha dejado de funcionar.[END]
 // Repeats: 632-3, 642-17
 
 [Container 643]
 643-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
-643-0E:
+643-0E:@Puedes escuchar el débil ulular del viento[BREAK]  al otro lado de esta pared.[END]
 // Repeats: 643-0, 660-0
 643-1:@An odd dance is depicted on the wall.[END]
-643-1E:
+643-1E:@Un mural con unos extraños pasos de baile.[END]
 // Repeats: 643-1, 660-1
 643-2:@There's a very delicately-crafted vase here.[END]
-643-2E:
+643-2E:@Una vasija artesanal de lo más exquisita.[END]
 // Repeats: 643-2, 660-2
 643-3:@Got the [ITEM DD 00]![END]
-643-3E:
+643-3E:@¡Has conseguido la [ITEM DD 00]![END]
 // Repeats: 643-3, 660-3
 643-4:@The real treasure is further inside.[END]
-643-4E:
+643-4E:@El verdadero tesoro está más allá.[END]
 // Repeats: 643-4, 660-4
 643-5:@It appears someone has opened this door...[WAIT]@Very recently, too.[WAIT]@I believe only the princess has the ability to[BREAK]  open this secret door...[END]
-643-5E:
+643-5E:@Parece que esta puerta ya ha sido abierta...[WAIT]@Y hace poco, además.[WAIT]@Sólo la princesa y yo conocemos[BREAK]  el sistema de apertura...[END]
 // Repeats: 643-5, 660-5
 643-6:@...[DUSTER 23 03 00].[WAIT]@This is embarrassing. Turn the other way.[END]
-643-6E:
+643-6E:@...[DUSTER 23 03 00].[WAIT]@Esto no va a ser agradable. Date la vuelta.[END]
 // Repeats: 643-6, 660-6
 643-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-643-7E:
+643-7E:@¡No mires![WAIT]@No es como si estuviese meneando el trasero[BREAK]  ni nada por el estilo.[END]
 // Repeats: 643-7, 660-7
 643-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
-643-8E:
+643-8E:@Recuerdo que te había enseñado este baile[BREAK]  cuando eras pequeño.[END]
 // Repeats: 643-8, 660-8
 643-9:@I even told you a million times to do it[BREAK]  whenever you find yourself stuck...[END]
-643-9E:
+643-9E:@Y que te dije mil veces que lo bailases[BREAK]  cuando no supieses qué hacer...[END]
 // Repeats: 643-9, 660-9
 643-10:@The princess most likely went through here.[WAIT]@And those pig fellows are probably still inside[BREAK]  the castle as well.[WAIT]@So we need to be careful![PAUSE 40 00] You moron![END]
-643-10E:
+643-10E:@La princesa ha pasado por aquí. Seguro.[WAIT]@Tan seguro como que esos puercos[BREAK]  siguen en el castillo.[WAIT]@¡Tenemos que estar atentos![PAUSE 40 00] ¡Zoquete![END]
 // Repeats: 643-10, 660-10
 643-11:[END]
-643-11E:
+643-11E:[END]
 
 [Container 645]
 645-0:@There's a large garbage can here.[WAIT]  ...What's it used for?[END]
-645-0E:
+645-0E:@Una papelera muy grande.[WAIT]  ...¿Qué pinta aquí?[END]
 645-1:@A needle-like object protrudes from the ground[BREAK]  in the courtyard.[END]
-645-1E:
+645-1E:@Hay una especie de objeto puntiagudo clavado[BREAK]  en el suelo del patio.[END]
 645-2:@Oh, is that the thing that's been passed down[BREAK]  in Osohe Castle since ancient times?[WAIT]@I remember way back when, when I asked King[BREAK]  Osohe what it is.[WAIT]  His normally gentle expression suddenly turned[BREAK]  stern, and he said, "Forget about it."[WAIT]  .[PAUSE 18 00].[PAUSE 18 00].[PAUSE 28 00]I think.[PAUSE 20 00] I can't remember.[WAIT]@I decided to mind my own business and forget[BREAK]  about it ever since then.[WAIT]  Or so I recall.[END]
-645-2E:
+645-2E:@Oh, ¿no era esa la reliquia que ha estado en[BREAK]  el castillo desde tiempos inmemoriales?[WAIT]@Recuerdo que hace años le pregunté[BREAK]  al Rey Osohe qué era.[WAIT]  Su expresión, normalmente gentil,[BREAK]  se ensombreció y dijo, "No es nada."[WAIT]  .[PAUSE 18 00].[PAUSE 18 00].[PAUSE 28 00]O eso creo.[PAUSE 20 00] No me acuerdo.[WAIT]@Desde aquello, decidí olvidarme del tema[BREAK]  y no volver a preguntar.[WAIT]  O eso creo.[END]
 645-3:@That isn't the "certain important item" I speak[BREAK]  of.[END]
-645-3E:
+645-3E:@En cualquier caso, ese no es el[BREAK]  "algo importante" del que te hablé.[END]
 645-4:@In the courtyard is a hole where a Needle used[BREAK]  to be.[END]
-645-4E:
+645-4E:@Donde antes estaba la Aguja,[BREAK]  ahora sólo queda un agujero.[END]
 645-5:[END]
-645-5E:
+645-5E:[END]
 
 [Container 646]
 646-0:@...![BREAK]  Wess?![WAIT]@Is that you, you old geezer?![END]
-646-0E:
+646-0E:@¡...![BREAK]  ¡¿Wess?![WAIT]@¡¿Eres tú, viejales?![END]
 646-1:@Oh, Princess![WAIT]@So it WAS you![WAIT]@My, how this brings back memories![WAIT]@Sometimes... I wouldn't remember you for not[BREAK]  but a little bit.[WAIT]@No, no, no! Wait! I'm so giddy that I've mixed[BREAK]  up my words![WAIT]@I haven't forgotten about you for but a bit![WAIT]@No, no, wait...[WAIT]@[DUSTER 23 03 00]! You moron! Get your act[BREAK]  together![END]
-646-1E:
+646-1E:@¡Oh, Princesa![WAIT]@¡Se trataba de VOS![WAIT]@¡Oh, esto me trae muchos recuerdos![WAIT]@Sabed que... ya os había olvidado[BREAK]  casi por completo.[WAIT]@¡No, no es eso! ¡Estoy aturdido[BREAK]  y no sé ni lo que estoy diciendo![WAIT]@¡Sólo os había olvidado un poco![WAIT]@No, tampoco es eso...[WAIT]@¡[DUSTER 23 03 00]! ¡Zoquete![BREAK]  ¡Espabila![END]
 646-2:@Whatever.[WAIT]@I got my leg caught in this stupid-ass trap.[END]
-646-2E:
+646-2E:@Olvídalo.[WAIT]@Esta estúpida trampa me ha pillado la pierna.[END]
 646-3:@I can't afford to die here, so I was just thinkin'[BREAK]  about cuttin' my foot off.[END]
-646-3E:
+646-3E:@No puedo permitirme morir aquí, así que[BREAK]  había pensado en cortarme el pie.[END]
 646-4:@Oh-ho-ho! I see you're as reckless as ever![WAIT]  But you needn't resort to removing your foot,[BREAK]  Princess.[WAIT]@For me and my Thief Arts, a trap of this sort[BREAK]  is absolutely nothing to never worry about![WAIT]@No, wait, wait![PAUSE 40 00] Just leave it to me![WAIT]  I'll have this off faster than you can say[BREAK]  "piece of cake"![END]
-646-4E:
+646-4E:@¡Jojojo! ¡Tan temeraria como siempre![WAIT]  Pero no es necesario que se ampute el pie,[BREAK]  Princess.[WAIT]@¡Para mí, maestro de las Artes del ladrón,[BREAK]  forzar esta trampa será un juego de niños![WAIT]@¡No, no, espere![PAUSE 40 00] ¡Déjeme a mí![WAIT]  ¡Le quitaré esto antes de que[BREAK]  pueda usted decir "pan comido"![END]
 646-5:@Princess...[BREAK]  I'm so pleased to know you're all right...[END]
-646-5E:
+646-5E:@Princesa...[BREAK]  Me alegra tanto que estéis a salvo...[END]
 646-6:@Hey! My pendant![WAIT]@So YOU stole it, huh?![END]
-646-6E:
+646-6E:@¡Eh! ¡Mi colgante![WAIT]@¡¿Así que me lo has robado TÚ?![END]
 646-7:@Damn. Can't let my guard down for even a[BREAK]  second.[END]
-646-7E:
+646-7E:@Cuernos. No puedo bajar la guardia[BREAK]  ni por un segundo.[END]
 646-8:@He your son, geezer?[END]
-646-8E:
+646-8E:@¿Es hijo tuyo, viejales?[END]
 646-9:@Hmmmm...[END]
-646-9E:
+646-9E:@Mmmmm...[END]
 646-10:@His breath kinda stinks.[END]
-646-10E:
+646-10E:@Le canta el aliento.[END]
 646-11:@Your name's [DUSTER 23 03 00], huh.[BREAK]@My name's...[END]
-646-11E:
+646-11E:@Te llamas [DUSTER 23 03 00], ¿no?[BREAK]@Mi nombre es...[END]
 646-12:@...[KUMATORA 23 04 00]. Good to meetcha![END]
-646-12E:
+646-12E:@...[KUMATORA 23 04 00]. ¡Encantada![END]
 646-13:@...?[BREAK]  What're you doin'?[WAIT]@Let's go![END]
-646-13E:
+646-13E:@¿...?[BREAK]  ¿Qué estáis haciendo?[WAIT]@¡Vamos![END]
 646-14:@Wherever are you headed, Princess?[END]
-646-14E:
+646-14E:@¿A dónde os dirigís, Princesa?[END]
 646-15:@Isn't it obvious?[WAIT]@You guys're here for it too, aintcha?[END]
-646-15E:
+646-15E:@¿A ti qué te parece?[WAIT]@Todos venimos a buscar lo mismo, ¿no?[END]
 646-16:@...But, your leg is injured...[END]
-646-16E:
+646-16E:@...Pero, su pierna...[END]
 646-17:@Just a little spit on it and it'll be as good as[BREAK]  new![WAIT]@Let's move![END]
-646-17E:
+646-17E:@¡Bah! ¡Un escupitajo en la herida[BREAK]  y estará como nueva![WAIT]@¡Andando![END]
 646-18:@Hey! Geezer's son![WAIT]@Escort me, will ya?! Geez![END]
-646-18E:
+646-18E:@¡Eh! ¡Hijo del viejales![WAIT]@¡¿Vas a escoltarme o qué?![END]
 646-19:@[KUMATORA 23 04 00] joined your party![PAUSE 68 01][END]
 646-19E:@¡[KUMATORA 23 04 00] se unió al grupo![PAUSE 68 01][END]
 // Repeats: 175-27, 322-6, 646-19
 646-20:@*whoosh* *whoosh*[WAIT]  Greetings![WAIT]@I apologize for being so sudden, but you know[BREAK]  the phrase, "The word on the wind is..."?[WAIT]@Yeah, I'm that wind. I'm where rumors come[BREAK]  from.[WAIT]@Rumor has it that [KUMATORA 23 04 00], the[BREAK]  mysterious, strong girl who just joined you,[WAIT]  is able to use psychic powers, or PSI.[WAIT]@If it's true, then you'll definitely have the[BREAK]  upper hand in battles from now on.[WAIT]@Well, that's all for this "Word on the Wind".[WAIT]@I should be going now. Bye![WAIT]@*whooosh*[END]
-646-20E:
+646-20E:@*fiuuuu* *fiuuuu*[WAIT]  ¡Hola![WAIT]@Siento interrumpir, pero, ¿conoces el dicho:[BREAK]  "Los rumores se los lleva el viento"?[WAIT]@Sí, yo soy ese viento. Servidor es[BREAK]  quien extiende los rumores.[WAIT]@Se dice que [KUMATORA 23 04 00], esa misteriosa[BREAK]  chica que os acompaña,[WAIT]  tiene poderes psíquicos, o PSI.[WAIT]@Si es cierto, os va a resultar de gran ayuda[BREAK]  en las batallas que están por venir.[WAIT]@Bueno, eso es todo por ahora.[WAIT]@Ahora me tengo que ir. ¡Adiós![WAIT]@*fiuuuu*[END]
 646-21:@What's the hold-up?[WAIT]@Let's get goin' already![END]
-646-21E:
+646-21E:@¿A qué estáis esperando?[WAIT]@¡Moved el culo![END]
 
 [Container 647]
 647-0:@Closed today for cleaning.[END]
-647-0E:
+647-0E:@Cerrado por limpieza.[END]
 647-1:[END]
-647-1E:
+647-1E:[END]
 
 [Container 649]
 649-0:@[END]
 649-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 649-1:[END]
-649-1E:
+649-1E:[END]
 
 [Container 651]
 651-0:@Danger![BREAK]  Brooms ahead![END]
-651-0E:
+651-0E:@¡Peligro![BREAK]  ¡Escobas patrullando![END]
 651-1:[END]
-651-1E:
+651-1E:[END]
 
 [Container 653]
 653-0:@You unlocked the door.[END]
 653-0E:@Abriste la cerradura.[END]
 // Repeats: 323-0, 653-0
 653-1:[END]
-653-1E:
+653-1E:[END]
 
 [Container 655]
 655-0:[END]
-655-0E:
+655-0E:[END]
 655-1:[END]
-655-1E:
+655-1E:[END]
 
 [Container 656]
 656-0:@Yes, here we are.[END]
-656-0E:
+656-0E:@Hemos llegado.[END]
 656-1:@This is where I hid it.[END]
-656-1E:
+656-1E:@Aquí es donde lo oculté.[END]
 656-2:@[DUSTER 23 03 00].[WAIT]@This[PAUSE 40 00] is the "certain important item" I had[BREAK]  instructed you to bring back.[END]
-656-2E:
+656-2E:@[DUSTER 23 03 00].[WAIT]@He aquí[PAUSE 40 00] ese "algo importante"[BREAK]  del que te hablaba.[END]
 // Repeats: 656-2, 656-19
 656-3:@It seems to be known as the "Egg of Light",[BREAK]  or the "Hummingbird Egg".[END]
-656-3E:
+656-3E:@El "Huevo de la luz", también llamado[BREAK]  "Huevo del colibrí".[END]
 656-4:@Truth be told, not even I know anything about[BREAK]  this egg.[WAIT]@The Hummingbird Egg is a ball of secrets inside[BREAK]  secrets that are inside even more secrets...[WAIT]  Or something like that, supposedly, apparently.[END]
-656-4E:
+656-4E:@A decir verdad, ni siquiera yo sé mucho[BREAK]  sobre este huevo.[WAIT]@El Huevo del colibrí es un cúmulo de secretos[BREAK]  que contiene aún más secretos dentro...[WAIT]  O algo así... supuestamente... en teoría...[END]
 656-5:@And now that ball of secrets is needed.[END]
-656-5E:
+656-5E:@Pues ahora, alguien está intentando[BREAK]  adueñarse de ese cúmulo de secretos.[END]
 656-6:@If this wound up in the wrong hands,[WAIT]  the lid on the secrets would come undone,[BREAK]  and[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][EVENT][END]
-656-6E:
+656-6E:@Si esto cae en las manos equivocadas,[WAIT]  sus secretos se quedarán al descubierto,[BREAK]  y entonces[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][EVENT][END]
 656-7:@...Bad things would happen.[END]
-656-7E:
+656-7E:@...ocurrirían cosas muy malas.[END]
 656-8:@Just what sort of hope - or calamity - is[BREAK]  hidden away in this egg?[WAIT]@Not even I know...[END]
-656-8E:
+656-8E:@¿Qué esperanzas o calamidades[BREAK]  se esconden en este huevo?[WAIT]@Ni yo mismo lo sé...[END]
 656-9:@In any case, this Hummingbird Egg is our[BREAK]  secret.[END]
-656-9E:
+656-9E:@En cualquier caso, este huevo[BREAK]  es responsabilidad nuestra.[END]
 656-10:@But doesn't it seem kinda ridiculous that the[BREAK]  egg of a tiny li'l hummingbird[WAIT]  holds all of the world's secrets?[END]
-656-10E:
+656-10E:@Pero, ¿no es un poco ridículo que[BREAK]  todos los secretos de este mundo[WAIT]  estén dentro de este huevaco?[END]
 656-11:@Indeed, it is quite ridiculous.[PAUSE 30 00] But what's most[BREAK]  ridiculous of all[WAIT]  is this moron standing right here.[WAIT]@[DUSTER 23 03 00].[WAIT]@This egg gives off such a thick scent of[BREAK]  secrets that's so concentrated[WAIT]  it almost reminds me of condensed milk.[WAIT]@Yet, you couldn't even catch a single whiff of[BREAK]  it![WAIT]@That's how much of a moron you are![WAIT]  You're a failure as a thief![END]
-656-11E:
+656-11E:@Sí, es ciertamente ridículo.[PAUSE 30 00] Pero lo más[BREAK]  ridículo de todo esto es este zoquete.[WAIT]@[DUSTER 23 03 00].[WAIT]@De este huevo sale un aroma[BREAK]  a secretos tan concentrado,[WAIT]  que casi parece leche condensada.[WAIT]@¡Y aun así no has sido capaz de percibirlo![WAIT]@¡Eso demuestra lo zoquete que eres![WAIT]  ¡Eres un ladrón de pacotilla![END]
 656-12:@You shouldn't keep callin' your own kid a[BREAK]  moron like that.[WAIT]@'Cause if he really is a moron, he wouldn't[BREAK]  understand anyways.[END]
-656-12E:
+656-12E:@No deberías decirle esa clase de cosas[BREAK]  a tu hijo.[WAIT]@Porque, si de verdad es tan zoquete,[BREAK]  no va a entenderlas.[END]
 656-13:@Anyways, we can't let the bad guys get their[BREAK]  hands on this egg.[END]
-656-13E:
+656-13E:@En fin, no podemos dejar que esos cenutrios[BREAK]  se hagan con el huevo.[END]
 656-14:@Speak of the devil![END]
-656-14E:
+656-14E:@¡Hablando del rey de Roma![END]
 656-15:@Geezer! [DUSTER 23 03 00]![WAIT]@Let's get outta here![END]
-656-15E:
+656-15E:@¡Viejales! ¡[DUSTER 23 03 00]![WAIT]@¡Tenemos que salir por patas![END]
 656-16:@Princess! Please wait![WAIT]@I know it appears to be sitting there[BREAK]  nonchalantly...[WAIT]  But I placed traps around the egg![END]
-656-16E:
+656-16E:@¡Princesa, no![WAIT]@Sé que el huevo parece estar desprotegido...[WAIT]  ¡Pero está rodeado de trampas![END]
 656-17:@You mustn't touch it recklessly...[WAIT]@...?[END]
-656-17E:
+656-17E:@No debe tocarlo bajo ningún concep...[WAIT]@¿...?[END]
 656-18:@Huh?[PAUSE 30 00][BREAK]  .[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00]Traps[PAUSE 18 00]?[END]
-656-18E:
+656-18E:@¿Eh?[PAUSE 30 00][BREAK]  .[PAUSE 18 00].[PAUSE 18 00].[PAUSE 20 00]¿Trampas[PAUSE 18 00]?[END]
 656-19:@[DUSTER 23 03 00].[WAIT]@This[PAUSE 40 00] is the "certain important item" I had[BREAK]  instructed you to bring back.[END]
-656-19E:
+656-19E:@[DUSTER 23 03 00].[WAIT]@He aquí[PAUSE 40 00] ese "algo importante"[BREAK]  del que te hablaba.[END]
 // Repeats: 656-2, 656-19
 656-20:@Princess! Please wait![WAIT]@You mustn't touch it recklessly[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[WAIT]@[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[END]
-656-20E:
+656-20E:@¡Princesa, no![WAIT]@No debe tocarlo bajo ningún concep[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[WAIT]@¿[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[END]
 656-21:@The pedestal for the Egg of Light.[WAIT]@Upon closer look, roundabout traps have been[BREAK]  set here.[END]
-656-21E:
+656-21E:@El pedestal del Huevo de la luz.[WAIT]@Si te fijas bien, puedes ver que[BREAK]  está rodeado de trampas.[END]
 
 [Container 657]
 657-0:@PRINCESSSSSSS!!![END]
-657-0E:
+657-0E:@¡¡¡PRINCESAAAA!!![END]
 657-1:@My bad.[END]
-657-1E:
+657-1E:@Mala mía.[END]
 
 [Container 658]
 658-0:@Princess![WAIT]@Are you all right?![END]
-658-0E:
+658-0E:@¡Princesa![WAIT]@¡¿Se encuentra bien?![END]
 658-1:@Yeah, I'm just fine, but...[WAIT]@...Huh?[END]
-658-1E:
+658-1E:@Sí, de maravilla, pero...[WAIT]@...¿Eh?[END]
 658-2:@Whatever's the matter?[WAIT]@If you're worried about that moron, don't be.[WAIT]@He's been trained for just this sort of thing.[END]
-658-2E:
+658-2E:@¿Ocurre algo?[WAIT]@Si es por ese zoquete, no se preocupe.[WAIT]@Lo he entrenado para situaciones como esta.[END]
 658-3:@No, it's not [DUSTER 23 03 00]...[WAIT]  The egg is gone![END]
-658-3E:
+658-3E:@No, no es por [DUSTER 23 03 00]...[WAIT]  ¡El huevo... no está![END]
 658-4:@Come again?![WAIT]@That moron isn't gone... but the egg is?![END]
-658-4E:
+658-4E:@¡¿Cómo dice?![WAIT]@¡¿Que el huevo ha desaparecido?![END]
 658-5:@Oh, the egg![WAIT]@Oh, and [DUSTER 23 03 00].[WAIT]@Yes, all right! Well done![WAIT]  I've called you a moron 11 times so far, but I[BREAK]  take it all back now![WAIT]@You're no longer a moron.[WAIT]@Hurray![END]
-658-5E:
+658-5E:@¡Oh, el huevo![WAIT]@Oh, y [DUSTER 23 03 00].[WAIT]@¡Muy bien! ¡Así se hace![WAIT]  ¡Te he llamado zoquete 11 veces,[BREAK]  pero lo retiro todo![WAIT]@Ya no eres un zoquete.[WAIT]@¡Bravo![END]
 658-6:@I dunno if I'd say "hurray" just yet...[END]
-658-6E:
+658-6E:@A lo mejor todavía es pronto para alegrarse...[END]
 658-7:@Now what?![END]
-658-7E:
+658-7E:@¡¿Qué ocurre?![END]
 658-8:@Waaaaaaaaaaaaah!![END]
-658-8E:
+658-8E:@¡¡Aaaaaaaaaaaaaah!![END]
 // Repeats: 658-8, 663-0
 658-9:[END]
-658-9E:
+658-9E:[END]
 
 [Container 660]
 660-0:@The sound of blowing wind can be faintly heard[BREAK]  coming from behind this wall.[END]
-660-0E:
+660-0E:@Puedes escuchar el débil ulular del viento[BREAK]  al otro lado de esta pared.[END]
 // Repeats: 643-0, 660-0
 660-1:@An odd dance is depicted on the wall.[END]
-660-1E:
+660-1E:@Un mural con unos extraños pasos de baile.[END]
 // Repeats: 643-1, 660-1
 660-2:@There's a very delicately-crafted vase here.[END]
-660-2E:
+660-2E:@Una vasija artesanal de lo más exquisita.[END]
 // Repeats: 643-2, 660-2
 660-3:@Got the [ITEM DD 00]![END]
-660-3E:
+660-3E:@¡Has conseguido la [ITEM DD 00]![END]
 // Repeats: 643-3, 660-3
 660-4:@The real treasure is further inside.[END]
-660-4E:
+660-4E:@El verdadero tesoro está más allá.[END]
 // Repeats: 643-4, 660-4
 660-5:@It appears someone has opened this door...[WAIT]@Very recently, too.[WAIT]@I believe only the princess has the ability to[BREAK]  open this secret door...[END]
-660-5E:
+660-5E:@Parece que esta puerta ya ha sido abierta...[WAIT]@Y hace poco, además.[WAIT]@Sólo la princesa y yo conocemos[BREAK]  el sistema de apertura...[END]
 // Repeats: 643-5, 660-5
 660-6:@...[DUSTER 23 03 00].[WAIT]@This is embarrassing. Turn the other way.[END]
-660-6E:
+660-6E:@...[DUSTER 23 03 00].[WAIT]@Esto no va a ser agradable. Date la vuelta.[END]
 // Repeats: 643-6, 660-6
 660-7:@Don't look, now![WAIT]@I'm not going to stick my butt out or anything[BREAK]  like that, though.[END]
-660-7E:
+660-7E:@¡No mires![WAIT]@No es como si estuviese meneando el trasero[BREAK]  ni nada por el estilo.[END]
 // Repeats: 643-7, 660-7
 660-8:@I believe I taught you this dance when you[BREAK]  were still very young.[END]
-660-8E:
+660-8E:@Recuerdo que te había enseñado este baile[BREAK]  cuando eras pequeño.[END]
 // Repeats: 643-8, 660-8
 660-9:@I even told you a million times to do it[BREAK]  whenever you find yourself stuck...[END]
-660-9E:
+660-9E:@Y que te dije mil veces que lo bailases[BREAK]  cuando no supieses qué hacer...[END]
 // Repeats: 643-9, 660-9
 660-10:@The princess most likely went through here.[WAIT]@And those pig fellows are probably still inside[BREAK]  the castle as well.[WAIT]@So we need to be careful![PAUSE 40 00] You moron![END]
-660-10E:
+660-10E:@La princesa ha pasado por aquí. Seguro.[WAIT]@Tan seguro como que esos puercos[BREAK]  siguen en el castillo.[WAIT]@¡Tenemos que estar atentos![PAUSE 40 00] ¡Zoquete![END]
 // Repeats: 643-10, 660-10
 660-11:@An odd dance is depicted here.[END]
-660-11E:
+660-11E:@Un mural con extraños pasos de baile.[END]
 660-12:@Learned the Osohe Dance, Part A![END]
-660-12E:
+660-12E:@¡Has aprendido el Baile de Osohe, parte A![END]
 660-13:@Learned the Osohe Dance, Part B![END]
-660-13E:
+660-13E:@¡Has aprendido el Baile de Osohe, parte B![END]
 660-14:@Learned the Osohe Dance, Part C![END]
-660-14E:
+660-14E:@¡Has aprendido el Baile de Osohe, parte C![END]
 660-15:@The door doesn't budge at all.[END]
 660-15E:@No parece que vaya a abrirse.[END]
 // Repeats: 53-0, 54-0, 222-75, 506-75, 507-3, 660-15
 660-16:@Alright. We go through here.[END]
-660-16E:
+660-16E:@Bien. Hay que seguir por aquí.[END]
 660-17:@Hey![WAIT]@Stupid monkey![WAIT]@Do something to open it![END]
-660-17E:
+660-17E:@¡Eh![WAIT]@¡Mono estúpido![WAIT]@¡Haz algo para abrir esto![END]
 660-18:@What's so funny?![WAIT]@Is there rice on my face or something?![END]
-660-18E:
+660-18E:@¡¿Qué te parece tan gracioso?![WAIT]@¡¿Es que tengo monos en la cara?![END]
 660-19:@Don't be an eyesore![END]
-660-19E:
+660-19E:@¡No seas patético![END]
 660-20:@You sure you're doing the dance right?[END]
-660-20E:
+660-20E:@¿Seguro que ese es el baile adecuado?[END]
 660-21:@Quit spacing out![END]
-660-21E:
+660-21E:@¡Deja de hacer el tonto![END]
 660-22:@Oh! Well done![WAIT]@Alright! Here's your reward![END]
-660-22E:
+660-22E:@¡Oh! ¡Muy bien![WAIT]@¡Aquí tienes tu recompensa![END]
 660-23:@Nwehehehe![END]
-660-23E:
+660-23E:@¡Ñiejejeje![END]
 660-24:@C'mon![WAIT]@Let's get going![END]
-660-24E:
+660-24E:@¡Vamos![WAIT]@¡Apresúrate![END]
 660-25:[END]
-660-25E:
+660-25E:[END]
 
 [Container 661]
 661-0:@*hop*.[WAIT]@I'm not a ghost. I'm a frog.[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-661-0E:
+661-0E:@*hop*.[WAIT]@No soy un fantasma. Soy una rana.[BREAK]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 661-1:@*hop*.[WAIT]@I'm not a ghost. I'm a frog.[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-661-1E:
+661-1E:@*hop*.[WAIT]@No soy un fantasma. Soy una rana.[BREAK]  ¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 
 [Container 662]
 662-0:@Huh?[WAIT]@What's this lever for?[END]
-662-0E:
+662-0E:@¿Eh?[WAIT]@¿Para qué sirve esta palanca?[END]
 662-1:@Hey![WAIT]@Pull this lever![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-662-1E:
+662-1E:@¡Eh![WAIT]@¡Tira de la palanca![WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 662-2:@Still haven't had enough punishment, eh?![WAIT]@Monkey see as monkey do![WAIT]@Monkey do as monkey told![PAUSE 40 00][BREAK]  ...Or monkey zap![END]
-662-2E:
+662-2E:@¡Todavía no has tenido suficiente, ¿eh?![WAIT]@¡Mono ve, mono hace![WAIT]@¡Mono escucha, mono obedece![PAUSE 40 00][BREAK]  ...¡O mono sufre![END]
 662-3:@I'll say it again.[WAIT]@Pull this lever.[WAIT]@Have I made myself clear?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-662-3E:
+662-3E:@Te lo diré una vez más.[WAIT]@Tira de la palanca.[WAIT]@¿Me he expresado con claridad?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 662-4:@This lever won't budge anymore.[END]
-662-4E:
+662-4E:@Se ha quedado atascada.[END]
 // Repeats: 662-4, 663-7
 662-5:@It appears to be locked from the other side.[END]
-662-5E:
+662-5E:@Parece estar cerrada por el otro lado.[END]
 // Repeats: 662-5, 663-8
 662-6:@Do what you're supposed to do![BREAK]  You stupid monkey![END]
-662-6E:
+662-6E:@¡Haz lo que tienes que hacer![BREAK]  ¡Mono estúpido![END]
 662-7:@It doesn't appear to move.[END]
-662-7E:
+662-7E:@No parece que vaya a moverse.[END]
 
 [Container 663]
 663-0:@Waaaaaaaaaaaaah!![END]
-663-0E:
+663-0E:@¡¡Aaaaaaaaaaaaaah!![END]
 // Repeats: 658-8, 663-0
 663-1:@![WAIT]@It's them![WAIT]@They fled into the waterway![END]
-663-1E:
+663-1E:@![WAIT]@¡Son ellos![WAIT]@¡Están intentando huir por el canal![END]
 663-2:@What?![END]
-663-2E:
+663-2E:@¡¿Qué?![END]
 663-3:@They escaped with the item?![END]
-663-3E:
+663-3E:@¡¿Se han llevado el artefacto?![END]
 663-4:@After them![WAIT]@After them![PAUSE 1E 00] After them![PAUSE 1E 00] After them![PAUSE 1E 00][BREAK]  GO AFTER THEM!![WAIT][PAUSE 3C 00]@No, wait. They're inside.[WAIT]@Corner them[PAUSE 1E 00], is what I said![WAIT]@Contact me the instant you find them![END]
-663-4E:
+663-4E:@¡A por ellos![WAIT]@¡A por ellos![PAUSE 1E 00] ¡A por ellos![PAUSE 1E 00] ¡A por ellos![PAUSE 1E 00][BREAK]  ¡¡ID A POR ELLOS!![WAIT][PAUSE 3C 00]@No, espera. Si están dentro.[WAIT]@¡Acorraladlos,[PAUSE 1E 00] he dicho![WAIT]@¡Llamadme en cuanto los encontréis![END]
 663-5:@Bah![WAIT]@There's not a single useful person here![END]
-663-5E:
+663-5E:@¡Bah![WAIT]@¡Estoy rodeado de inútiles![END]
 663-6:@Let's return to the Yado Inn for now![END]
-663-6E:
+663-6E:@¡Nos volvemos a la posada Yado![END]
 663-7:@This lever won't budge anymore.[END]
-663-7E:
+663-7E:@Se ha quedado atascada.[END]
 // Repeats: 662-4, 663-7
 663-8:@It appears to be locked from the other side.[END]
-663-8E:
+663-8E:@Parece estar cerrada por el otro lado.[END]
 // Repeats: 662-5, 663-8
 663-9:[END]
-663-9E:
+663-9E:[END]
 
 [Container 664]
 664-0:@[NOTE] Even if you forget the small poles on my[BREAK]     vacuum dinner pie~ [NOTE][WAIT]  [NOTE] Hmm~ hmmm~ hmm-hmmmm~ [NOTE][WAIT]  [NOTE] Like coals or pigs or tall maples [NOTE][WAIT]  [NOTE] Boo~ boo~ booooo~ [NOTE][PAUSE 28 00][BREAK]  [NOTE] No~ tall~ maples~ [NOTE][WAIT]@...I still haven't learned the lyrics 100% yet,[BREAK]  but it's such a nice song![END]
-664-0E:
+664-0E:@[NOTE] Incluso si te olvidas de los tipos[BREAK]     que tengo yo que dar~ [NOTE][WAIT]  [NOTE] Mmm~ mmmm~ mmm-mmmmm~ [NOTE][WAIT]  [NOTE] Ni pitos, ni flautas~ [NOTE][BREAK]  [NOTE] Ni siquiera los baa[PAUSE 28 00]aarcos de papel~ [NOTE][PAUSE 28 00][WAIT]@...Aún no me sé la letra al 100%,[BREAK]  ¡pero me encanta la canción![END]
 // Repeats: 635-0, 664-0
 664-1:@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[END]
-664-1E:
+664-1E:@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[END]
 // Repeats: 635-1, 664-1
 664-2:@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[WAIT]@Y'know, I've been saying this same thing for[BREAK]  over three years now![END]
-664-2E:
+664-2E:@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[WAIT]@Por cierto, me acabo de dar cuenta de que[BREAK]  llevo tres años repitiendo lo mismo...[END]
 // Repeats: 635-2, 664-2
 664-3:@I want to cook...[WAIT]@I want to cook...[WAIT]@Aaaaahhh! I want to cook![WAIT]@It's gonna haunt me forever![END]
-664-3E:
+664-3E:@Quiero cocinar...[WAIT]@Quiero cocinar...[WAIT]@¡Aaaaah! ¡Quiero cocinar![WAIT]@¡Es el sueño de mi no-vida![END]
 // Repeats: 635-3, 664-3
 664-4:@Bitter, glum, sour, unsavory...[WAIT]  Those are the only kinds of seasonings here.[END]
-664-4E:
+664-4E:@Amarga, triste, agria, sin sabor...[WAIT]  Así es la comida por estos lares.[END]
 // Repeats: 635-4, 664-4, 664-31
 664-5:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-664-5E:
+664-5E:@Aquí hay "algo" cocinándose a fuego lento.[WAIT]  Su aspecto y aroma... mejor no describirlos.[END]
 // Repeats: 635-5, 664-5, 664-32
 664-6:@In life, I was a brilliant chef.[WAIT]@Honest.[WAIT]@In death, I don't lie.[END]
-664-6E:
+664-6E:@En vida, era un gran chef.[WAIT]@Palabra.[WAIT]@Que me muera si miento.[END]
 664-7:@A bunch of weird guys showed up and started[BREAK]  wrecking the place,[WAIT]  so we all fled into this room.[END]
-664-7E:
+664-7E:@Unos tipos muy raros han aparecido[BREAK]  y lo han puesto todo patas arriba,[WAIT]  así que por eso nos hemos escondido aquí.[END]
 664-8:@Today's party is over.[WAIT]@But I'm getting sick of partying, anyway.[END]
-664-8E:
+664-8E:@Adiós a nuestra fiesta.[WAIT]@Aunque bueno, ya estaba durando demasiado.[END]
 664-9:@I was just about to get started on the main[BREAK]  course, too.[WAIT]@Just my luck![END]
-664-9E:
+664-9E:@Justo cuando estaba terminando[BREAK]  de preparar el plato principal...[WAIT]@¡Perra suerte la mía![END]
 664-10:@I know this room's packed with ghosts, but I'll[BREAK]  say it anyway.[WAIT]@Here's my secret hint.[WAIT]@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[END]
-664-10E:
+664-10E:@Sé que estamos rodeados de fantasmas,[BREAK]  pero escúchame.[WAIT]@Te voy a contar un secreto.[WAIT]@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[END]
 664-11:@It's so stuffy in here![WAIT]@Even with ghosts, when you get this many all[BREAK]  in one place, it gets stuffy![END]
-664-11E:
+664-11E:@¡Qué calor![WAIT]@¡Esto está tan lleno de fantasmas[BREAK]  que casi no corre el aire![END]
 664-12:@Try counting the number of ghosts in here out[BREAK]  loud.[WAIT]@Counting things is actually a great form of[BREAK]  brain-training. Yep.[END]
-664-12E:
+664-12E:@Intenta contar cuántos fantasmas hay aquí.[WAIT]@Contar ayuda a ejercitar el cerebro.[BREAK]  Está demostrado.[END]
 // the brain training line here is a reference to the DS "Brain Training" game
 664-13:@Oh, me so hungy![END]
-664-13E:
+664-13E:@¡Oh, yo hambre![END]
 // purposely misspelled
 664-14:@Wow! Real-life live people![WAIT]@What do you do for a living?[END]
-664-14E:
+664-14E:@¡Guau! ¡Humanos de verdad![WAIT]@¿A qué os dedicáis?[END]
 664-15:@What does "boo" mean?[END]
-664-15E:
+664-15E:@¿Qué significa "buu"?[END]
 664-16:@Hey, that's a [ITEM F0 FF] you got[BREAK]  there.[WAIT]@Please! Trade it to me for this[BREAK]  [ITEM F1 FF]![WAIT]@I can't wait long enough for it to rot.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-664-16E:
+664-16E:@¿Eso que tienes ahí[BREAK]  no será un [ITEM F0 FF]?[WAIT]@¡Te lo cambio por mi[BREAK]  [ITEM F1 FF]![WAIT]@No veo la hora de que se pudra.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Rotten Bavarois for Luxury Banana or Rotten Eclair for Nut Bread
 664-17:@Thanks. Now I can stave off starvation for a[BREAK]  while.[END]
-664-17E:
+664-17E:@Gracias. Esto me ayudará a matar[BREAK]  el gusanillo un rato.[END]
 664-18:@Are you sure you're not mistaking "cold" for[BREAK]  "cool"?[END]
-664-18E:
+664-18E:@Parecías "enrollado", pero creo que[BREAK]  en realidad eres "un rollo"...[END]
 664-19:@First a bum-looking man, and now a monkey.[WAIT]@First a bum-looking man, and now a monkey.[END]
-664-19E:
+664-19E:@Primero un tío con pinta de idiota,[BREAK]  y ahora un mono.[WAIT]@Primero un tío con pinta de idiota,[BREAK]  y ahora un mono.[END]
 664-20:@Where'd you rent your monkey suit?[WAIT]@Did you know I'm not wearing a suit, though?[END]
-664-20E:
+664-20E:@¿De dónde has sacado ese disfraz de mono?[WAIT]@Lo mío no es un disfraz, por cierto.[END]
 664-21:@Just enough to be burnt is good.[WAIT]@Rare is good, too.[WAIT]@Just-before-rotten is the best.[END]
-664-21E:
+664-21E:@Me gusta la carne quemada.[WAIT]@La cruda también.[WAIT]@Pero la mejor es la agusanada.[END]
 664-22:@Even if it's to a monkey, I'll say it anyway.[WAIT]@Here's my secret hint.[WAIT]@Gift boxes with blue ribbons have great things[BREAK]  in them...[PAUSE 28 00] maps![WAIT]@It'd be useful to remember that.[END]
-664-22E:
+664-22E:@Sé que eres un mono, pero escúchame.[WAIT]@Te voy a contar un secreto.[WAIT]@Las cajas de regalo con lazo azul guardan[BREAK]  cosas muy chulas...[PAUSE 28 00] ¡mapas![WAIT]@Asegúrate de no olvidarlo.[END]
 664-23:@I'm a piano-playing ghost.[WAIT]@I'm absolutely tone-deaf without a piano, so[BREAK]  I've decided to stop singing.[END]
-664-23E:
+664-23E:@Soy un pianista fantasma.[WAIT]@No soy nada sin mi piano, así que[BREAK]  he decidido dejar de cantar.[END]
 664-24:@Do you remember the number of ghosts in[BREAK]  here?[WAIT]@Memorizing things is a great form of[BREAK]  brain-training. Yep.[END]
-664-24E:
+664-24E:@Intenta memorizar cuántos fantasmas[BREAK]  hay aquí.[WAIT]@Memorizar ayuda a ejercitar el cerebro[BREAK]  Está demostrado.[END]
 664-25:@Oh, me so tirsty![END]
-664-25E:
+664-25E:@¡Oh, yo sed![END]
 664-26:@Oh! A real-life live monkey![WAIT]@Is the person behind you one of those spirits[BREAK]  that follow you wherever you go?[END]
-664-26E:
+664-26E:@¡Oh! ¡Un mono de verdad![WAIT]@¿Y qué es eso que te acompaña?[BREAK]  ¿Un espíritu?[END]
 664-27:@I've found a new interest in the power of[BREAK]  science.[WAIT]@Never mind that I'm a ghost.[END]
-664-27E:
+664-27E:@He desarrollado un gran interés por la ciencia.[WAIT]@Cosa irónica, para un fantasma.[END]
 664-28:@Stop![PAUSE 30 00] You, nice fellow![END]
-664-28E:
+664-28E:@¡Quieto parao![PAUSE 30 00] ¡Sí, tú![END]
 664-29:@Stop![PAUSE 30 00] Monkey![END]
-664-29E:
+664-29E:@¡Quieto parao![PAUSE 30 00] ¡Sí, tú, monito![END]
 664-30:@Please don't run in here. It's cramped.[WAIT]@Besides, Osohe Castle is so small. Where could[BREAK]  you be going in such a hurry?[END]
-664-30E:
+664-30E:@No te pongas a correr aquí.[WAIT]@Además, el castillo Osohe no es tan grande.[BREAK]  ¿Por qué tienes tanta prisa?[END]
 664-31:@Bitter, glum, sour, unsavory...[WAIT]  Those are the only kinds of seasonings here.[END]
-664-31E:
+664-31E:@Amarga, triste, agria, sin sabor...[WAIT]  Así es la comida por estos lares.[END]
 // Repeats: 635-4, 664-4, 664-31
 664-32:@Whatever's in here is simmering noisily.[WAIT]  Its color and smell are best left undescribed.[END]
-664-32E:
+664-32E:@Aquí hay "algo" cocinándose a fuego lento.[WAIT]  Su aspecto y aroma... mejor no describirlos.[END]
 // Repeats: 635-5, 664-5, 664-32
 664-33:[END]
-664-33E:
+664-33E:[END]
 
 [Container 665]
 665-0:@Jump down?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[BREAK][ENDCHOICES][END]
-665-0E:
+665-0E:@¿Quieres saltar abajo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[BREAK][ENDCHOICES][END]
 // Repeats: 621-0, 665-0
 665-1:@This statue's title is written on the plate.[WAIT]          Title: "Heavy Metal"[END]
-665-1E:
+665-1E:@En la placa figura el título de la escultura.[WAIT]                 "Kuan Topesa"[END]
 // Repeats: 621-1, 665-1
 665-2:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Shall I save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-665-2E:
+665-2E:@*hop*[BREAK]  No, no soy una rana fantasma.[WAIT]@¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 621-2, 665-2
 665-3:@*hop*[BREAK]  No, I'm not a ghost frog.[WAIT]@Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-665-3E:
+665-3E:@*hop*[BREAK]  No, no soy una rana fantasma.[WAIT]@¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 621-3, 665-3
 665-4:@A decorative suit of armor.[END]
-665-4E:
+665-4E:@Una armadura de adorno.[END]
 // Repeats: 621-4, 631-0, 641-0, 665-4
 665-5:@You get the odd feeling that the woman in the[BREAK]  painting is staring at you.[END]
-665-5E:
+665-5E:@Sientes como si la mujer del cuadro[BREAK]  te estuviese mirando.[END]
 // Repeats: 621-5, 665-5
 665-6:@I swear, the lady in that painting keeps staring[BREAK]  at me.[WAIT]@So I've decided to stare right back at her.[WAIT]@I'm staring as hard as I can.[END]
-665-6E:
+665-6E:@Te juro que la mujer de este cuadro[BREAK]  me está mirando...[WAIT]@Por eso, he decidido devolverle la mirada.[WAIT]@Se va a enterar de lo que es mirar fijamente.[END]
 // Repeats: 621-6, 665-6
 665-7:@Mr. Fassad, sir![WAIT]@I'm currently thinking about how to dispose of[BREAK]  this bronze statue![WAIT]@I'm putting my life on the line to get it done![END]
-665-7E:
+665-7E:@¡Sr. Falhaz![WAIT]@¡Estoy pensando en cómo deshacerme[BREAK]  de esta estatua de bronce![WAIT]@¡Lo lograré, aunque me vaya la vida en ello![END]
 // Repeats: 621-7, 665-7
 665-8:@It doesn't move...[BREAK]  It appears to be an ordinary decoration.[END]
-665-8E:
+665-8E:@No se mueve...[BREAK]  Parece ser un simple objeto decorativo.[END]
 // Repeats: 621-8, 665-8
 665-9:[END]
-665-9E:
+665-9E:[END]
 
 [Container 666]
 666-0:@[END]
 666-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 666-1:[END]
-666-1E:
+666-1E:[END]
 
 [Container 683]
 683-0:[END]
-683-0E:
+683-0E:[END]
 683-1:[END]
-683-1E:
+683-1E:[END]
 
 [Container 685]
 685-0:[END]
-685-0E:
+685-0E:[END]
 685-1:[END]
-685-1E:
+685-1E:[END]
 
 [Container 687]
 687-0:[END]
-687-0E:
+687-0E:[END]
 687-1:[END]
-687-1E:
+687-1E:[END]
 
 [Container 688]
 688-0:@You know that really tall guy who was always[BREAK]  ringing the bell for the people in Tazmily?[WAIT]  For some reason, I haven't seen him anywhere[BREAK]  at all.[WAIT]@I wonder if they managed to brainwash him.[END]
-688-0E:
+688-0E:@¿Conoces al gigantón ese que siempre[BREAK]  andaba tocando la campana en Tazmily?[WAIT]  Hace ya mucho tiempo que[BREAK]  no se le ve el pelo.[WAIT]@Me pregunto si le habrán lavado el cerebro.[END]
 688-1:[END]
-688-1E:
+688-1E:[END]
 
 [Container 689]
 689-0:[END]
-689-0E:
+689-0E:[END]
 689-1:[END]
-689-1E:
+689-1E:[END]
 
 [Container 690]
 690-0:[ALTERNATEFONT]@i come to floor 50.[WAIT]  satisfied.[END]
-690-0E:
+690-0E:[ALTERNATEFONT]@yo llego piso 50.[WAIT]  satisfecho.[END]
 690-1:@[ALTERNATEFONT]not 1, not 100.[WAIT]  i like 50.[END]
-690-1E:
+690-1E:@[ALTERNATEFONT]no 1, no 100.[WAIT]  gusta 50.[END]
 
 [Container 691]
 691-0:[END]
-691-0E:
+691-0E:[END]
 691-1:[END]
-691-1E:
+691-1E:[END]
 
 [Container 693]
 693-0:[END]
-693-0E:
+693-0E:[END]
 693-1:[END]
-693-1E:
+693-1E:[END]
 
 [Container 694]
 694-0:@I made it to the 30th floor today! Yes![WAIT]  ...Though I made it to the 30th floor[BREAK]  yesterday, too.[END]
-694-0E:
+694-0E:@¡Hoy he conseguido llegar al piso 30! ¡Sí![WAIT]  ...Aunque, ayer también llegué hasta aquí...[END]
 694-1:@Gaah...[BREAK] ...My legs are killing me...[END]
-694-1E:
+694-1E:@Aaah...[BREAK] ...No siento las piernas...[END]
 
 [Container 695]
 695-0:[END]
-695-0E:
+695-0E:[END]
 695-1:[END]
-695-1E:
+695-1E:[END]
 
 [Container 696]
 696-0:@*gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]  I've climbed for so long, but I'm still only at the[BREAK]  20th floor...[END]
-696-0E:
+696-0E:@*jadeo*[PAUSE 20 00] *jadeo*[PAUSE 20 00] *jadeo*[WAIT]  Llevo horas subiendo y todavía estoy en el[BREAK]  piso 20...[END]
 696-1:@W-with our i-intellect...[WAIT]  ...reaching th-the 100th floor...[WAIT]  ...was supposed to be so easy...[END]
-696-1E:
+696-1E:@C-con nuestro intelecto...[WAIT]  ...llegar hasta el piso 100...[WAIT]  ...debería ser fácil para nosotros...[END]
 
 [Container 697]
 697-0:[END]
-697-0E:
+697-0E:[END]
 697-1:[END]
-697-1E:
+697-1E:[END]
 
 [Container 698]
 698-0:[END]
-698-0E:
+698-0E:[END]
 698-1:[END]
-698-1E:
+698-1E:[END]
 
 [Container 701]
 701-0:@This appears to be a whack-a-mole hole.[END]
