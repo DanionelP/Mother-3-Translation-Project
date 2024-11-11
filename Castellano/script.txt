@@ -18407,148 +18407,148 @@
 
 [Container 701]
 701-0:@This appears to be a whack-a-mole hole.[END]
-701-0E:
+701-0E:@Parece un agujero del machaca-topos.[END]
 701-1:@Master Porky just loves to play fun games.[WAIT]@So I will use this "Super Whack-a-Mole" game[WAIT]  to judge whether or not you're fit to be a[BREAK]  wonderful playmate of his.[END]
-701-1E:
+701-1E:@Al Amo Porky le encanta jugar.[WAIT]@Así que usaré este "Súper Machaca-topos"[WAIT]  para determinar si es usted digno[BREAK]  de ser su compañero de juegos.[END]
 701-2:@First, allow me to explain the wonderful rules.[EVENT][END]
-701-2E:
+701-2E:@Permítame explicarle las maravillosas reglas.[EVENT][END]
 701-3:@Whoever hits the most moles with their mental[BREAK]  "[COLOR 03 00]A[COLOR 00 00] Button" hammers will win the game.[PAUSE 3C 00][WAIT]@Master Porky absolutely adores that word:[BREAK]  "win".[WAIT]@If the words "indulge" and "humor" mean[BREAK]  anything to you...[PAUSE 30 00] you'll know what to do.[WAIT]@But,[PAUSE 0F 00] if you try to throw the match, Master[BREAK]  Porky will be very displeased indeed.[PAUSE 1E 00][WAIT]@Okay. Do you understand the rules now?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-701-3E:
+701-3E:@Quien golpee más topos con su martillo[BREAK]  mental "Botón [COLOR 03 00]A[COLOR 00 00]" será el ganador.[PAUSE 3C 00][WAIT]@Al Amo Porky le encanta esta palabra:[BREAK]  "ganar".[WAIT]@Si la palabra "satisfacer" significa algo[BREAK]  para usted...[PAUSE 30 00] sabrá lo que tiene que hacer.[WAIT]@Pero,[PAUSE 0F 00] si tira usted la toalla, el Amo[BREAK]  Porky se quedará muy disgustado.[PAUSE 1E 00][WAIT]@Bien. ¿Le han quedado claras las reglas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 701-4:@Hit the old guy in the helmet and you'll be[BREAK]  zapped.[WAIT]@Do try to be careful.[END]
-701-4E:
+701-4E:@Si golpea al señor del casco,[BREAK]  se llevará un calambrazo.[WAIT]@Tenga cuidado.[END]
 701-5:@Now then![WAIT]  Let's bring out Master [LUCAS 23 02 00]'s[BREAK]  competitor...[WAIT]  ...Master Mini-Porky![END]
-701-5E:
+701-5E:@¡Muy bien![WAIT]  He aquí el adversario del señorito[BREAK]  [LUCAS 23 02 00]...[WAIT]  ...¡El Amo Mini-Porky![END]
 701-6:@Ready, Master Mini-Porky?[PAUSE 28 00] Begin![END]
-701-6E:
+701-6E:@¿Listo, Amo Mini-Porky?[PAUSE 28 00] ¡YA![END]
 701-7:@Wow! Simply amazing![WAIT]@You hit a grand total of 10 moles![WAIT]@All right![PAUSE 1E 00] You're up, Master [LUCAS 23 02 00]![END]
-701-7E:
+701-7E:@¡Guau! ¡Increíble![WAIT]@¡Ha golpeado un total de 10 topos![WAIT]@¡Bien![PAUSE 1E 00] ¡Su turno, señorito [LUCAS 23 02 00]![END]
 701-8:@Time![END]
-701-8E:
+701-8E:@¡Tiempo![END]
 701-9:@Now for the results![END]
-701-9E:
+701-9E:@¡Veamos los resultados![END]
 701-10:@Master [LUCAS 23 02 00]'s record![WAIT]@Tadah![WAIT]@Total moles hit: [80 FF F0 FF]![END]
-701-10E:
+701-10E:@¡La puntuación del señorito [LUCAS 23 02 00]![WAIT]@¡Tachán![WAIT]@Topos golpeados: ¡[80 FF F0 FF]![END]
 701-11:@Uhh, Master [LUCAS 23 02 00]...[WAIT]@You really should be more serious about this.[WAIT]@I'm afraid I can't introduce you to Master[BREAK]  Porky if that's how you're going to act.[END]
-701-11E:
+701-11E:@Eeeh, señorito [LUCAS 23 02 00]...[WAIT]@Debería tomarse esto con más seriedad.[WAIT]@No puedo llevarle ante el Amo Porky,[BREAK]  si es así como va a comportarse.[END]
 701-12:@Uhh, Master [LUCAS 23 02 00]...[WAIT]@What are you trying to pull here?[WAIT]  You got all worked up, and then...[WAIT]  BANG[PAUSE 12 00] BANG[PAUSE 12 00] BANG[PAUSE 12 00] BANG...![WAIT]  I thought your hammer was going to break![WAIT]@Here, let me see your eyes.[PAUSE 1E 00][WAIT]@Whoa! They're bloodshot![WAIT]@I'm afraid I can't introduce someone as[BREAK]  frightening as you to Master Porky.[END]
-701-12E:
+701-12E:@Eeeh, señorito [LUCAS 23 02 00]...[WAIT]@¿Se puede saber qué pretende?[WAIT]  Estaba usted fuera de control...[WAIT]  ¡PIM,[PAUSE 12 00] PAM,[PAUSE 12 00] PUM,[PAUSE 12 00] PAM...![WAIT]  ¡Creía que se le iba a romper el martillo![WAIT]@Déjeme ver sus ojos...[PAUSE 1E 00] ¡Ah![WAIT]@¡Los tiene usted rojos![WAIT]@Me temo que no puedo llevar a alguien[BREAK]  tan espantoso ante el Amo Porky.[END]
 701-13:@Try again, but this time with a fresh outlook[BREAK]  on things.[END]
-701-13E:
+701-13E:@Inténtelo de nuevo.[BREAK]  E intente no ser demasiado... competitivo.[END]
 701-14:@Oh, my![WAIT]@Master Mini-Porky![WAIT]@You've won the intense match by the[BREAK]  razor-thin margin of[PAUSE 40 00] one mole![END]
-701-14E:
+701-14E:@¡Santo cielo![WAIT]@¡Amo Mini-Porky![WAIT]@¡Ha ganado esta intensa partida[BREAK]  por el ínfimo margen de[PAUSE 40 00] un topo![END]
 701-15:@What a wonderful game![WAIT]@Truly heart-stopping![WAIT]@Now, then! Let's move on to the next fun and[BREAK]  exciting game![END]
-701-15E:
+701-15E:@¡Una partida reñidísima![WAIT]@¡Estoy sin palabras![WAIT]@¡Y ahora, pasemos a otro divertido[BREAK]  y emocionante juego![END]
 701-16:@This is written on the cue card:[WAIT]  "Laugh! Laugh!"[END]
-701-16E:
+701-16E:@En la tarjeta del apuntador pone:[WAIT]  "¡Ríete! ¡Ríete!"[END]
 701-17:@This is written on the cue card:[WAIT]  "Hit 9 to lose just barely!"[END]
-701-17E:
+701-17E:@En la tarjeta del apuntador pone:[WAIT]  "¡Golpea 9 topos para perder a lo justo!"[END]
 701-18:@Game underway.[BREAK]  Please refrain from opening this door.[END]
-701-18E:
+701-18E:@Juego en curso.[BREAK]  Por favor, no abran esta puerta.[END]
 // Repeats: 701-18, 702-14, 703-2
 701-19:@What does this "indulge" thing mean?[END]
-701-19E:
+701-19E:@¿A qué se refiere con "satisfacer"?[END]
 701-20:@Does "indulge" mean we're not allowed to[BREAK]  win.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[END]
-701-20E:
+701-20E:@"Satisfacer"...[BREAK]  ¿Eso significa que no podemos ganar.[PAUSE 10 00].[PAUSE 10 00].[PAUSE 10 00]?[END]
 701-21:[END]
-701-21E:
+701-21E:[END]
 
 [Container 702]
 702-0:@This is written on the cue card:[WAIT]  "Your fly's open! XYZ!"[END]
-702-0E:
+702-0E:@En la tarjeta del apuntador pone:[WAIT]  "¡Tienes la bragueta abierta!"[END]
 702-1:@You're much manlier now![END]
-702-1E:
+702-1E:@¡Ahora eres mucho más varonil![END]
 702-2:@This is written on the cue card:[WAIT]  "Smile! Smile!"[END]
-702-2E:
+702-2E:@En la tarjeta del apuntador pone:[WAIT]  "¡Sonríe! ¡Sonríe!"[END]
 702-3:@This is written on the cue card:[WAIT]  "Lose by only one step or so!"[END]
-702-3E:
+702-3E:@En la tarjeta del apuntador pone:[WAIT]  "¡Pierde por un centímetro!"[END]
 702-4:@Next is...[PAUSE 18 00][WAIT]  ...the Purple Bridge Race Game![EVENT][END]
-702-4E:
+702-4E:@A continuación...[PAUSE 18 00][WAIT]  ...¡Carrera en el puente violeta![EVENT][END]
 702-5:@You'll both start from a Purple Bridge at the[BREAK]  same time,[WAIT]  and the first to reach the other side wins.[WAIT]@You understand the rules, yes?[WAIT]@Also, if you have the two words "indulge" and[BREAK]  "divulge"...[WAIT]  Perhaps the former would be the one to focus[BREAK]  on, if you catch my drift...[WAIT]@Do you understand?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-702-5E:
+702-5E:@Ambos tendrán que cruzar hasta[BREAK]  el otro lado del puente,[WAIT]  y quien lo haga primero, ganará.[WAIT]@¿Le han quedado claras las reglas?[WAIT]@Si tiene en mente las palabras[BREAK]  "satisfacer" y "displacer"...[WAIT]  Le aconsejaría concentrarse en la primera,[BREAK]  no sé si me explico...[WAIT]@¿Me sigue?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 702-6:@Okay![WAIT]  When you're ready, go to your starting[BREAK]  position![END]
-702-6E:
+702-6E:@¡Bien![WAIT]  ¡Diríjanse a sus posiciones[BREAK]  cuando estén listos![END]
 702-7:@All right! On your mark,[PAUSE 1E 00] get set,[PAUSE 2F 00] go![WAIT]  ...is when you start, okay?[WAIT]@All right![BREAK]@On your mark,[PAUSE 1E 00] get set,[PAUSE 2F 00] go![WAIT]  Go![WAIT]  Go![END]
-702-7E:
+702-7E:@¡Vamos! En sus marcas,[PAUSE 1E 00] listos,[PAUSE 2F 00] ¡ya![WAIT]  ...así anunciaré la salida.[WAIT]@¡Vamos![BREAK]@En sus marcas,[PAUSE 1E 00] listos,[PAUSE 2F 00] ¡ya![WAIT]  ¡Ya![WAIT]  ¡Ya![END]
 702-8:@Uhh, Master [LUCAS 23 02 00]...[WAIT]@What are you trying to pull here?[WAIT]  You got all worked up, and then...[WAIT]  RUSH RUSH![PAUSE 18 00] RUSH RUSH![PAUSE 18 00] RUSH RUSH...![WAIT]@Here, let me feel your heart.[PAUSE 1E 00][WAIT]@Whoa! What an intense pulse![WAIT]  Your heart is throbbing![WAIT]  It's pounding![WAIT]  How frightening![WAIT]@I'm afraid I can't let someone so easily[BREAK]  excitable meet with Master Porky.[END]
-702-8E:
+702-8E:@Eeeh, señorito [LUCAS 23 02 00]...[WAIT]@¿Se puede saber qué pretende?[WAIT]  Estaba usted fuera de control...[WAIT]  ¡CORRE, CORRE![PAUSE 18 00] ¡CORRE![PAUSE 18 00] ¡CORRE...![WAIT]@Déjeme tomarle el pulso.[PAUSE 1E 00][WAIT]@¡Aaah! ¡Cómo palpita![WAIT]  ¡Menudo ritmo![WAIT]  ¡Parece una traca![WAIT]  ¡Qué miedo![WAIT]@Me temo que no puedo llevar a alguien[BREAK]  con tantos nervios ante el Amo Porky.[END]
 702-9:@Uhh, Master [LUCAS 23 02 00]...![WAIT]@What are you, a turtle?![BREAK]  A tortoise?! A terrapin?![WAIT]@You really should be more serious about this.[WAIT]@I'm afraid I can't introduce you to Master[BREAK]  Porky if that's how you're going to act.[END]
-702-9E:
+702-9E:@Eeeh, señorito [LUCAS 23 02 00]...[WAIT]@¡¿Es usted una tortuga?![BREAK]  ¡¿Una babosa?! ¡¿Un caracol?![WAIT]@Debería tomarse esto con más seriedad.[WAIT]@No puedo llevarle ante el Amo Porky,[BREAK]  si es así como va a comportarse.[END]
 702-10:@Oh, my![WAIT]@Master Mini-Porky![WAIT]@You win the intense match by a nose![WAIT]@What a truly fantastic race![WAIT]@That was a match for the ages![WAIT]@Now, then! Let us move on to the third and[BREAK]  final game![END]
-702-10E:
+702-10E:@¡Santo cielo![WAIT]@¡Amo Mini-Porky![WAIT]@¡Ha ganado por un palmo![WAIT]@¡Qué trepidante carrera![WAIT]@¡Pasará a la eternidad![WAIT]@¡Muy bien! ¡Pasemos, pues,[BREAK]  al tercer y último juego![END]
 702-11:@Master [LUCAS 23 02 00]![BREAK]  Please use the second Purple Bridge![END]
-702-11E:
+702-11E:@¡Señorito [LUCAS 23 02 00]![BREAK]  ¡Ese no es su puente![END]
 702-12:@Is this really what we should be doing...?[END]
-702-12E:
+702-12E:@¿Todo esto es obligatorio...?[END]
 702-13:@I dunno why, but this seems really stupid...[END]
-702-13E:
+702-13E:@Por alguna razón, todo esto me parece[BREAK]  muy... estúpido.[END]
 702-14:@Game underway.[BREAK]  Please refrain from opening this door.[END]
-702-14E:
+702-14E:@Juego en curso.[BREAK]  Por favor, no abran esta puerta.[END]
 // Repeats: 701-18, 702-14, 703-2
 702-15:[END]
-702-15E:
+702-15E:[END]
 
 [Container 703]
 703-0:@This is written on the cue card:[WAIT]  "Your fly isn't open! Don't worry about it!"[END]
-703-0E:
+703-0E:@En la tarjeta del apuntador pone:[WAIT]  "¡Tranquilo, no tienes la bragueta abierta!"[END]
 703-1:@This is written on the cue card:[WAIT]  "Let him win just before yours pops!"[END]
-703-1E:
+703-1E:@En la tarjeta del apuntador pone:[WAIT]  "¡Déjale ganar por los pelos!"[END]
 703-2:@Game underway.[BREAK]  Please refrain from opening this door.[END]
-703-2E:
+703-2E:@Juego en curso.[BREAK]  Por favor, no abran esta puerta.[END]
 // Repeats: 701-18, 702-14, 703-2
 703-3:@So this is the final "indulgence", huh?[END]
-703-3E:
+703-3E:@Espero que esta "satisfacción" sea la última.[END]
 703-4:@The fact this Porky guy is forcing us to do all[BREAK]  this stuff[WAIT]  makes me feel like he's a lot stupider and[BREAK]  pettier than we thought.[END]
-703-4E:
+703-4E:@El hecho de que ese Porky nos esté[BREAK]  haciendo pasar por todo esto...[WAIT]  Va a resultar ser más tonto y lamentable[BREAK]  de lo que pensábamos...[END]
 703-5:@Woof![BREAK]  (Pee!)[END]
-703-5E:
+703-5E:@¡Guau![BREAK]  (¡Pis!)[END]
 703-6:@The final game is...[PAUSE 28 00][BREAK]  "To Whom Goes the Boom?!"[END]
-703-6E:
+703-6E:@Y el último juego es...[PAUSE 28 00][BREAK]  "Bombea y ¡Bum!"[END]
 703-7:@All right. Here is a quick explanation of the[BREAK]  rules.[EVENT][END]
-703-7E:
+703-7E:@Permítanme que les explique brevemente[BREAK]  las reglas.[EVENT][END]
 703-8:@Use your mental "[COLOR 03 00]A[COLOR 00 00] Button" air pump to[BREAK]  quickly inflate your balloon until... BOOM![PAUSE 18 00][WAIT]  The first to pop his balloon wins.[WAIT]@You understand the rules now, right?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-703-8E:
+703-8E:@Usen su bomba de aire mental "Botón [COLOR 03 00]A[COLOR 00 00]"[BREAK]  para inflar el globo hasta que... ¡BUM![PAUSE 18 00][WAIT]  Ganará el primero que haga explotar su globo.[WAIT]@¿Le han quedado claras las reglas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 703-9:@Then please go to your position.[END]
-703-9E:
+703-9E:@Sitúese en su posición, pues.[END]
 703-10:@Now, then. I'm tripling the points for this final[BREAK]  game.[PAUSE 1E 00][WAIT]@This means that you have a very good chance[WAIT]  of coming from behind to win it all, Master[BREAK]  [LUCAS 23 02 00]![WAIT]@Please try your very best![END]
-703-10E:
+703-10E:@Sepan que los puntos de este juego[BREAK]  valen el triple.[PAUSE 1E 00][WAIT]@¡Eso quiere decir que todavía tiene oportunidad[BREAK]  de remontar, señorito [LUCAS 23 02 00]![WAIT]@¡Empléese al 100%![END]
 703-11:@All right. Here we go![WAIT]@Ready,[PAUSE 2E 00] set[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 30 00] go![END]
-703-11E:
+703-11E:@Muy bien. ¡Allá vamos![WAIT]@Preparados,[PAUSE 2E 00] listos[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 0C 00].[PAUSE 30 00] ¡YA![END]
 703-12:@Uhh, Master [LUCAS 23 02 00]...[WAIT]@What are you trying to pull here?[WAIT]  You got all worked up, and then...[WAIT]  WOOSH WOOSH![PAUSE 20 00] WOOSH WOOSH...![WAIT]@You're supposed to be inflating your balloon,[PAUSE 0F 00][BREAK]  not your ego![WAIT]@I half-expected the air in this room to freeze[BREAK]  from your coldheartedness![PAUSE 1E 00][WAIT]@Here, let me feel your arms.[PAUSE 1E 00][WAIT]@Your arm muscles are so tough and hard![BREAK]  How shocking![WAIT]@I'm afraid I can't let someone so tough and[BREAK]  hard meet with Master Porky.[END]
-703-12E:
+703-12E:@Eeeh, señorito [LUCAS 23 02 00]...[WAIT]@¿Se puede saber qué pretende?[WAIT]  Estaba usted fuera de control...[WAIT]  ¡FUUU, FUUU![PAUSE 20 00] ¡FUUU, FUUU...![WAIT]@¡Se supone que tenía que inflar el globo,[PAUSE 0F 00][BREAK]  no su ego![WAIT]@¡Pensaba que esta sala se iba a congelar[BREAK]  con su frialdad![PAUSE 1E 00][WAIT]@Déjeme ver sus brazos...[PAUSE 1E 00][WAIT]@¡Sus músculos están tensos y rígidos![BREAK]  ¡Qué perturbador![WAIT]@Me temo que no puedo llevar a alguien[BREAK]  tan bestia ante el Amo Porky.[END]
 703-13:@Master [LUCAS 23 02 00]...![WAIT]@Surely you can inflate it more than that.[WAIT]@You're killing the mood in the air before you[BREAK]  can even fill the balloon with it![WAIT]@This is the final game, so please take it[BREAK]  seriously.[END]
-703-13E:
+703-13E:@¡Señorito [LUCAS 23 02 00]...![WAIT]@No me parece que se esté esforzando.[WAIT]@¡Su falta de empeño enrarece el aire[BREAK]  con el que debería estar inflando el globo![WAIT]@Este es el último juego, debería usted[BREAK]  tomárselo con seriedad.[END]
 703-14:@*clap*[PAUSE 20 00] *clap*[PAUSE 20 00] *clap*![WAIT]@You're so young, yet you've mastered so[BREAK]  much![WAIT]@I hereby deem you fit to meet Master Porky.[END]
-703-14E:
+703-14E:@*aplauso*[PAUSE 20 00] *aplauso*[PAUSE 20 00] *aplauso*[WAIT]@¡Pese a su corta edad, es usted[BREAK]  todo un talento![WAIT]@El Amo Porky estará encantado de recibirle.[END]
 703-15:@Now, then! Please go and pay Master Porky a[BREAK]  wonderful visit![END]
-703-15E:
+703-15E:@Ahora, vayan a presentarle sus respetos,[BREAK]  si son tan amables.[END]
 703-16:@That isn't your balloon, Master [LUCAS 23 02 00].[WAIT]@Yours is over here.[END]
-703-16E:
+703-16E:@No, señorito [LUCAS 23 02 00].[WAIT]@Su globo es este.[END]
 703-17:[END]
-703-17E:
+703-17E:[END]
 
 [Container 704]
 704-0:@Master [LUCAS 23 02 00] and friends![WAIT]@I have been waiting for you.[WAIT]@I've changed my hat, so perhaps you don't[BREAK]  recognize me,[WAIT]  but I was the chauffeur of that[BREAK]  difficult-to-drive and far-too-long limousine.[END]
-704-0E:
+704-0E:@¡Señorito [LUCAS 23 02 00]![WAIT]@Le he estado esperando.[WAIT]@He cambiado de sombrero, así que[BREAK]  puede que no me reconozca,[WAIT]  pero soy el chófer de la laaarga limusina[BREAK]  que le trajo a la ciudad.[END]
 704-1:@I'm pleased to see that you've made it this far.[WAIT]@I will now determine if you're fit to meet with[BREAK]  Master Porky or not.[WAIT]@Kindly follow me, if you would.[END]
-704-1E:
+704-1E:@Me congratula que haya llegado tan lejos.[WAIT]@Ahora valoraré si es usted digno o no[BREAK]  de ver al Amo Porky.[WAIT]@Sígame, si es tan amable.[END]
 
 [Container 705]
 705-0:@All right! Things are really heating up now![END]
-705-0E:
+705-0E:@¡Bien! ¡Las cosas van a ponerse al rojo vivo![END]
 705-1:[END]
-705-1E:
+705-1E:[END]
 
 [Container 706]
 706-0:@At last, we're at the final game.[WAIT]@Please come this way, if you would.[END]
-706-0E:
+706-0E:@Y por fin, el último juego.[WAIT]@Vengan por aquí, si son tan amables.[END]
 706-1:[END]
-706-1E:
+706-1E:[END]
 
 [Container 707]
 707-0:[END]
-707-0E:
+707-0E:[END]
 707-1:[END]
-707-1E:
+707-1E:[END]
 
 [Container 709]
 709-0:@Thick, tangled-up vines block the entrance.[END]
@@ -18561,61 +18561,61 @@
 709-2E:@El tiempo no fluye en estas lianas.[WAIT]@¿Verter las [ITEM CA 00] sobre ellas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 709-3:@[CLAUS 22 05 00] gave his final breath.[END]
-709-3E:
+709-3E:@[CLAUS 22 05 00] exhaló su último aliento.[END]
 709-4:[END]
-709-4E:
+709-4E:[END]
 709-5:[END]
-709-5E:
+709-5E:[END]
 709-6:[END]
-709-6E:
+709-6E:[END]
 709-7:[END]
-709-7E:
+709-7E:[END]
 709-8:[END]
-709-8E:
+709-8E:[END]
 709-9:[END]
-709-9E:
+709-9E:[END]
 709-10:[END]
-709-10E:
+709-10E:[END]
 709-11:@No one can stop [LUCAS 23 02 00] from pulling[BREAK]  the Needle.[WAIT][PAUSE 30 00]  No one.[END]
-709-11E:
+709-11E:@Nadie puede evitar que [LUCAS 23 02 00][BREAK]  extraiga la Aguja.[WAIT][PAUSE 30 00]  Nadie.[END]
 709-12:@[LUCAS 23 02 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00] Thank you.[WAIT]  [CLAUS 22 05 00] was just hasty, that's all.[WAIT]@You'll forgive your hasty brother, won't you?[WAIT]@.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 40 00][WAIT]@Alright. This is it.[WAIT]  The time has come for you to pull the Dragon's[BREAK]  last Needle.[WAIT][PAUSE 20 00]@Are you ready?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-709-12E:
+709-12E:@[LUCAS 23 02 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00] Gracias.[WAIT]  [CLAUS 22 05 00] no era él mismo.[WAIT]@¿Crees que podrás perdonar a tu hermano?[WAIT]@.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 40 00][WAIT]@Bien. Ha llegado la hora.[WAIT]  La hora de que extraigas la última[BREAK]  Aguja del Dragón.[WAIT][PAUSE 20 00]@¿Estás preparado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 709-13:@You've made it here. [PAUSE 30 00]You've made it this far.[WAIT]@You'll be all right.[END]
-709-13E:
+709-13E:@Has llegado muy lejos. [PAUSE 30 00]Has llegado hasta aquí.[WAIT]@Todo va a ir bien.[END]
 709-14:@Both [HINAWA 22 08 00] and [CLAUS 22 05 00][BREAK]  have entrusted fate to you.[END]
-709-14E:
+709-14E:@Tanto [HINAWA 22 08 00] como [CLAUS 22 05 00][BREAK]  te han confiado este deber.[END]
 709-15:@Believe in yourself, and pull that final Needle.[WAIT]@Nothing needs to be sealed away anymore.[WAIT]@Let's make the Dark Dragon sealed[BREAK]  underground our new friend.[WAIT]@Pass your heart on to the Dragon![WAIT]@Pray to it from the bottom of your heart.[WAIT]  Ask it to protect all life in this world.[WAIT]@Me, and everyone else...[BREAK]@We all believe in you.[WAIT]@So now you need to believe in yourself.[WAIT]@Now go.[WAIT]  The Dragon is waiting to wake up.[END]
-709-15E:
+709-15E:@Cree en ti mismo, y extrae esa Aguja.[WAIT]@Ya nada tiene que permanecer sellado.[WAIT]@Hagamos del Dragón oscuro[BREAK]  nuestro nuevo amigo.[WAIT]@¡Entrégale tu corazón al Dragón![WAIT]@Rézale con toda tu alma.[WAIT]  Por todas las vidas de este mundo.[WAIT]@Yo... los demás...[BREAK]@Todos confiamos en ti.[WAIT]@Tú también deberías confiar en ti mismo.[WAIT]@Adelante.[WAIT]  El Dragón está aguardando su despertar.[END]
 709-16:@Your life,[PAUSE 30 00] and the lives of all who believe in[BREAK]  you...[WAIT]@Will you put it all on the line,[PAUSE 40 00] and pull the final[BREAK]  Needle?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-709-16E:
+709-16E:@Tu vida,[PAUSE 30 00] y las vidas de todos aquellos[BREAK]  que confían en ti...[WAIT]@¿Lo vas a poner todo en juego,[PAUSE 40 00][BREAK]  y vas a extraer la última Aguja?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 709-17:[END]
-709-17E:
+709-17E:[END]
 
 [Container 711]
 711-0:@[END]
 711-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 711-1:[END]
-711-1E:
+711-1E:[END]
 
 [Container 712]
 712-0:@[END]
 712-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 712-1:[END]
-712-1E:
+712-1E:[END]
 
 [Container 713]
 713-0:[END]
-713-0E:
+713-0E:[END]
 713-1:[END]
-713-1E:
+713-1E:[END]
 
 [Container 800]
 800-0:@[LUCAS 23 02 00].[WAIT]@Welcome to my room![WAIT]@This is the REAL 100th floor that you wanted[BREAK]  to come to oh-so-badly![PAUSE 0F 00][WAIT]@Again, I welcome you, my beloved, detestable[BREAK]  pests.[WAIT]@I was the one who invited you here.[WAIT]@So you're free to come inside if you wish.[WAIT]@It's just,[PAUSE 1E 00] I've given orders to let no one enter[BREAK]  my room[WAIT]  to that little attack toy you see right there.[PAUSE 1E 00][WAIT]@Who knows, maybe this is where we'll say[BREAK]  goodbye, even though I invited you here.[WAIT]@Alright, let's turn it on![BREAK]  Say hello to the Natural Killer Cyborg![END]
-800-0E:
+800-0E:@[LUCAS 23 02 00].[WAIT]@¡Bienvenido a mi cuarto![WAIT]@¡Este es el VERDADERO piso 100[BREAK]  al que tanto queríais llegar![PAUSE 0F 00][WAIT]@Bienvenidos, mis queridos[BREAK]  y detestables pelmazos.[WAIT]@He sido yo quien os ha invitado aquí.[WAIT]@Así que sois libres de entrar, si queréis.[WAIT]@El caso es que,[PAUSE 1E 00] le he dado órdenes[BREAK]  de acabar con cualquier intruso[WAIT]  a ese pequeñajo que tenéis delante.[PAUSE 1E 00][WAIT]@Resulta irónico tener que deciros adiós,[BREAK]  cuando he sido yo quien os ha invitado.[WAIT]@¡Bien, pongámoslo en marcha![BREAK]  ¡Decidle hola al Exterminador porcino![END]
 800-1:[END]
-800-1E:
+800-1E:[END]
 
 [Container 801]
 801-0:@Board the boat?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
