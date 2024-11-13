@@ -110,7 +110,7 @@
 0-44:@[42 FF F1 FF] got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 0-44E:@¡[42 FF F1 FF] consiguió [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 0-45:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-0-45E:@¡Conseguiste [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
+0-45E:@¡Has conseguido [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 // Used with key items, plays the "found something good" music
 //Repeats: 0-45, 836-4, 839-5
 0-46:@Got [EF 91][ITEM F0 FF]...[PAUSE 40 00][END]
@@ -396,7 +396,7 @@
 0-164:@Set everyone to Level 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
 0-164E:@¿Subir a todos al nivel 99?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Sí[ENDCHOICES][END]
 0-165:@A story is a series of memories.[WAIT]@Memories are remembered with other[BREAK]  memories,[WAIT]  and in turn become memories themselves.[WAIT]@If you don't take care to preserve your[BREAK]  memories,[PAUSE 40 00] you'll forget them.[WAIT]@So, please tell us frogs your memories of[BREAK]  everything so far...[WAIT]  That is what people refer to as "saving".[WAIT]@Now, then...[EVENT][END]
-0-165E:@Una historia es una serie de recuerdos.[WAIT]@Estos se agrupan entre sí al ser[BREAK]  recordados,[WAIT]  convirtiéndose así en nuevos recuerdos.[WAIT]@Si no te aseguras de guardar tus[BREAK]  recuerdos,[PAUSE 40 00] los perderás.[WAIT]@Así que, por favor, cuéntale todos tus[BREAK]  recuerdos a las ranas que veas...[WAIT]  Esto es lo que la gente llama "guardar".[WAIT]@Dicho esto...[EVENT][END]
+0-165E:@Una historia es una serie de recuerdos.[WAIT]@Estos se agrupan entre sí cuando son[BREAK]  recordados,[WAIT]  convirtiéndose en nuevos recuerdos.[WAIT]@Si no te aseguras de guardar tus[BREAK]  recuerdos,[PAUSE 40 00] los perderás.[WAIT]@Así que, por favor, cuéntale todos tus[BREAK]  recuerdos a las ranas que veas...[WAIT]  Esto es lo que la gente llama "guardar".[WAIT]@Dicho esto...[EVENT][END]
 0-166:@*hop*[BREAK]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 0-166E:@*hop*[BREAK]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 0-167:@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
@@ -11603,7 +11603,7 @@
 259-1:@You buy good things.[WAIT]@You have a good eye.[END]
 259-1E:@Buena elección.[WAIT]@Tienes buen ojo.[END]
 259-2:@Then I won't sell to you. Heheheh.[END]
-259-2E:@Pues entonces no te vendo nada. Je, je, je.[END]
+259-2E:@Pues entonces no te vendo nada. Jejeje.[END]
 // Repeats: 259-2, 881-13
 259-3:@The smartest, bravest, and toughest chubster[BREAK]  of all time.[WAIT]  Here stands a statue of our great leader,[BREAK]  Master Porky.[END]
 259-3E:@El gordinflón más listo, duro y valiente[BREAK]  de todos los tiempos.[WAIT]  Dedicamos esta estatua a nuestro[BREAK]  gran líder, el Amo Porky.[END]
@@ -18619,23 +18619,23 @@
 
 [Container 801]
 801-0:@Board the boat?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-801-0E:
+801-0E:@¿Quieres subirte al bote?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 801-1:@The boat won't move now.[END]
-801-1E:
+801-1E:@El bote ya no se mueve.[END]
 
 [Container 802]
 802-0:[END]
-802-0E:
+802-0E:[END]
 802-1:[END]
-802-1E:
+802-1E:[END]
 802-2:@[42 FF 00 00] used the [ITEM C0 00]![EVENT][END]
-802-2E:
+802-2E:@¡[42 FF 00 00] ha usado el [ITEM C0 00]![EVENT][END]
 802-3:@For some weird reason, the iron pencil statue[BREAK]  was erased![END]
-802-3E:
+802-3E:@¡Por alguna extraña razón, el lápiz de hierro[BREAK]  se ha borrado![END]
 802-4:@For some weird reason, a pencil-shaped iron[BREAK]  statue is blocking the path.[END]
-802-4E:
+802-4E:@Por alguna extraña razón, un lápiz de hierro[BREAK]  está bloqueando el camino.[END]
 802-5:[END]
-802-5E:
+802-5E:[END]
 
 [Container 803]
 803-0:[HOTSPRING 00 00][END]
@@ -18720,267 +18720,267 @@
 803-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 803-27:@*hop*[BREAK]  Do you need something?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-803-27E:
+803-27E:@*hop*[BREAK]  ¿Necesitas algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 0-167, 803-27
 803-28:@I am the final frog in the game.[WAIT]@It's been such a short time, though it seems[BREAK]  long, too.[WAIT]@In any case, thank you for your continued[BREAK]  patronage throughout it all.[WAIT]@For me, and all the other frogs, I thank you.[WAIT]@*hop*[BREAK]  *teardrop*[END]
-803-28E:
+803-28E:@Soy la última rana del juego.[WAIT]@Aunque corta, nuestra relación[BREAK]  ha sido inolvidable.[WAIT]@En fin, quiero agradeceros vuestra[BREAK]  fidelidad hacia nuestros servicios.[WAIT]@En nombre de todas las ranas... Gracias.[WAIT]@*hop*[BREAK]  *lágrima*[END]
 803-29:[END]
-803-29E:
+803-29E:[END]
 
 [Container 804]
 804-0:@[END]
 804-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 804-1:[END]
-804-1E:
+804-1E:[END]
 
 [Container 805]
 805-0:@The beginning[PAUSE 30 00] of the end.[WAIT]@The end[PAUSE 38 00] of everything.[END]
-805-0E:
+805-0E:@El principio[PAUSE 30 00] del fin.[WAIT]@El fin[PAUSE 38 00] de todo.[END]
 805-1:@Let's be friends.[WAIT]@I'm Porky.[WAIT]@I'm really just this meek little boy.[END]
-805-1E:
+805-1E:@Seamos amigos.[WAIT]@Soy Porky.[WAIT]@Solamente soy un niño.[END]
 805-2:@Please dote over me more.[WAIT]@Please talk to me like good boys and girls.[BREAK]  You know, just like me.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-805-2E:
+805-2E:@Por favor, aceptadme.[WAIT]@Tratadme como a una buena persona.[BREAK]  Tratadme como a lo que soy.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 805-3:@Thanks[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@But,[PAUSE 20 00] to be honest,[PAUSE 20 00][WAIT]  you guys are[PAUSE 40 00] nothing but pests to me.[END]
-805-3E:
+805-3E:@Gracias[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 40 00][WAIT]@Pero,[PAUSE 20 00] para ser sincero,[PAUSE 20 00][WAIT]  vosotros...[PAUSE 40 00] no sois más que un incordio.[END]
 805-4:@That's[PAUSE 0C 00] not[PAUSE 0C 00] very[PAUSE 0C 00] nice,[PAUSE 0C 00] now is it?[WAIT]@Actually...[PAUSE 30 00] I'm not very nice either.[END]
-805-4E:
+805-4E:@Eso[PAUSE 0C 00] no[PAUSE 0C 00] ha sido[PAUSE 0C 00] muy generoso[BREAK]  [PAUSE 0C 00] por vuestra parte...[WAIT]@Pero bueno...[PAUSE 30 00] Yo tampoco lo soy.[END]
 805-5:@Come, [BONEY 23 05 00].[WAIT]@[PAUSE 20 00][LUCAS 23 02 00]. This is it...[PAUSE 30 00][BREAK]  This is finally it...[END]
-805-5E:
+805-5E:@Ven, [BONEY 23 05 00].[WAIT]@[PAUSE 20 00][LUCAS 23 02 00]. Esta es...[PAUSE 30 00][BREAK]  ...la hora de la verdad...[END]
 805-6:@Have we managed to corner the enemy...[BREAK]  or have we all been dragged here?[WAIT]@Hmm. I suppose it doesn't matter either way.[WAIT]@Right, [DUSTER 23 03 00]?[END]
-805-6E:
+805-6E:@¿Hemos logrado acorralar al enemigo...[BREAK]  o estamos justamente donde él quiere?[WAIT]@Mmm. Tampoco es que eso importe ahora.[WAIT]@¿Verdad, [DUSTER 23 03 00]?[END]
 805-7:@*cough*[PAUSE 28 00] *wheeze*[PAUSE 28 00] *cough*[WAIT]@Come a little closer[PAUSE 30 00] so I can see your face[BREAK]  better...[END]
-805-7E:
+805-7E:@*cof*[PAUSE 28 00] *jadeo*[PAUSE 28 00] *cof*[WAIT]@Acercaos[PAUSE 30 00] para que pueda ver[BREAK]  vuestra cara mejor...[END]
 805-8:@Oh, is that what you look like?[PAUSE 3C 00][WAIT]@I was the one who brought you here.[WAIT]@A traveler who has journeyed to and from[BREAK]  past and future.[WAIT]@I'm the most clever, most charming, and[BREAK]  most trouble-making boy ever...[WAIT]  ...Master Porky Minch![END]
-805-8E:
+805-8E:@Oh, ¿así que esos sois vosotros?[PAUSE 3C 00][WAIT]@He sido yo quien os ha traído aquí a todos.[WAIT]@Un viajero que ha sido testigo[BREAK]  del pasado y el futuro.[WAIT]@Soy el niño más listo, encantador y[BREAK]  problemático que haya habido jamás...[WAIT]  ...¡El Amo Porky Minch![END]
 805-9:@I welcome you once again,[WAIT]  you weak hangers-on pretending to be the last[BREAK]  survivors of this world![WAIT]@Spankety, spankety, spankety![WAIT]  Ahahahahaha![END]
-805-9E:
+805-9E:@¡Os doy la bienvenida de nuevo,[WAIT]  débiles parásitos con el afán de ser[BREAK]  los últimos supervivientes de este mundo![WAIT]@¡Chincha, chincha, chincha![WAIT]  ¡Jajajajaja![END]
 805-10:@*cough*[PAUSE 20 00] *cough*...[PAUSE 20 00] *wheeze*[PAUSE 20 00] *wheeze*[WAIT]@You resorted to blanking your memories to[BREAK]  create a new world[WAIT]  where humanity's past failures would never be[BREAK]  repeated...[WAIT]@How stupid can you be?![WAIT]  No matter how much you change the rules, no[BREAK]  matter how much you refuse to admit defeat,[WAIT]  in the end, the creatures known as "people"[BREAK]  will always sign their own death warrant[WAIT]  by acting out of stupidity and evil.[WAIT]@And then... mankind will be gone for good.[WAIT]@You could've been happy, if only you would've[BREAK]  done as I did[WAIT]  and obediently followed the visionary, selfish[BREAK]  desires of a great hero...[WAIT]@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 25 00] *wheeze*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]@Why is it you struggle to cling to life with such[BREAK]  puny minds, pitiable bodies, and feeble hearts?[END]
-805-10E:
+805-10E:@*cof*[PAUSE 20 00] *cof*...[PAUSE 20 00] *jadeo*[PAUSE 20 00] *jadeo*[WAIT]@Decidísteis borrar vuestros recuerdos[BREAK]  y crear un nuevo mundo[WAIT]  en el que los errores de la humanidad[BREAK]  no se repitiesen...[WAIT]@¡¿Cómo podéis ser tan estúpidos?![WAIT]  No importa cuánto cambiéis las reglas[BREAK]  o cuánto os neguéis a admitir la derrota,[WAIT]  al final, esas criaturas... esas "personas"[BREAK]  acabarán firmando su propia sentencia[WAIT]  al sucumbir a la estupidez y a la maldad.[WAIT]@Y entonces... la humanidad habrá desaparecido.[WAIT]@Podríais haber sido felices, si hubiéseis[BREAK]  hecho como yo[WAIT]  y hubiéseis obedecido los egoístas y visionarios[BREAK]  deseos de un gran héroe...[WAIT]@*jadeo*[PAUSE 20 00] *jadeo*[PAUSE 25 00] *jadeo*[PAUSE 20 00] *buf*[PAUSE 20 00] *buf*[WAIT]@¿Qué sentido tiene la vida para unos seres[BREAK]  de mente, cuerpo y corazón tan débiles?[END]
 805-11:@Well, no matter.[WAIT]  The curtain is about to fall on this pathetic[BREAK]  little play of yours.[WAIT]@Because, soon, the power of power will be[BREAK]  mine.[WAIT]@The world and everything in it has been my[BREAK]  oyster so far,[WAIT]  and now I'll end it all by acquiring the ultimate[BREAK]  power.[WAIT]@Heheheh heheh.[WAIT]@Aha ahahaha ahahahahahaha.[WAIT]@*cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 10 00] *cough*[PAUSE 2E 00][BREAK]  *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[PAUSE 10 00] *gasp*[WAIT]@Whew...[WAIT]@Though everything so far has been fun and[BREAK]  games, I've given you many a concession.[WAIT]@I was bored out of my mind and wanted to play[BREAK]  something more thrilling, you see.[WAIT]@But, now that we're face-to-face like this,[BREAK]  I won't hold anything back.[WAIT]@My slave...[PAUSE 30 00] My lifeless son will pull the final[BREAK]  Needle for me.[WAIT]@And, the moment he does, the Dragon should[BREAK]  awaken and do as I want.[WAIT]@At which time, I assume you fools will turn[BREAK]  into garbage or dust or something[WAIT]  and finally disappear for good.[WAIT]@Ahahaha.[WAIT]  I'll admit, that is kind of sad.[WAIT]@But I would be crushed under the weight of[BREAK]  boredom if it were any other way.[END]
-805-11E:
+805-11E:@Bueno, da igual.[WAIT]  Pronto, el telón caerá y pondrá fin[BREAK]  a esa lamentable obra que tenéis montada.[WAIT]@Porque pronto, el poder de los poderes[BREAK]  va a ser mío.[WAIT]@Todo el mundo y sus habitantes[BREAK]  están a mis pies,[WAIT]  y pienso acabar con todo, gracias[BREAK]  a ese poder sin límites.[WAIT]@Jejeje, jeje.[WAIT]@Jaja, jajaja, jajajajajaja.[WAIT]@*cof*[PAUSE 10 00] *cof*[PAUSE 10 00] *cof*[PAUSE 10 00] *cof*[PAUSE 2E 00][BREAK]  *buf*[PAUSE 10 00] *buf*[PAUSE 10 00] *buf*[PAUSE 10 00] *buf*[WAIT]@Fiuuu...[WAIT]@Aunque nos lo hayamos pasado muy bien,[BREAK]  ya os he dado más cancha de la que debería.[WAIT]@Entendedlo, no quería que la diversión[BREAK]  terminase demasiado rápido...[WAIT]@Pero, ahora que estamos cara a cara,[BREAK]  no me voy a contener.[WAIT]@Mi esclavo...[PAUSE 30 00] Mi exánime hijo[BREAK]  va a extraer la Aguja para mí.[WAIT]@Y cuando lo haga, el Dragón despertará[BREAK]  y hará todo lo que yo quiera.[WAIT]@Para entonces, supongo que vosotros[BREAK]  os convertiréis en polvo cósmico o algo así[WAIT]  y desapareceréis para siempre.[WAIT]@Jajaja.[WAIT]  En el fondo, me da mucha pena.[WAIT]@Pero si no lo hiciese, acabaría[BREAK]  muriéndome de puro aburrimiento.[END]
 805-12:@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 20 00] *wheeze*[WAIT]  *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[PAUSE 20 00] *gasp*[WAIT]@Do you understand now?[WAIT]  Do you understand the sadness Master Porky[BREAK]  bears, now that he's god-like?[WAIT]@Ahahaha. Aha ahahahaha.[WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 25 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[END]
-805-12E:
+805-12E:@*jadeo*[PAUSE 20 00] *jadeo*[PAUSE 20 00] *jadeo*[WAIT]  *buf*[PAUSE 20 00] *buf*[PAUSE 20 00] *buf*[PAUSE 20 00] *buf*[WAIT]@¿Lo entendéis ahora?[WAIT]  ¿Entendéis la tristeza del Amo Porky,[BREAK]  ahora que es un dios?[WAIT]@Jajaja. Ja, jajajaja.[WAIT]@*cof*[PAUSE 20 00] *cof*[PAUSE 25 00] *cof*[PAUSE 20 00] *cof*[PAUSE 20 00] *cof*[END]
 805-13:@Oh![WAIT]@You love your little dramatic plays, so this[BREAK]  couldn't have come at a better time for you![WAIT]@It seems the seventh and final Needle has just[BREAK]  been located deep underground, below here.[END]
-805-13E:
+805-13E:@¡Oh![WAIT]@Os gustan los dramas, ¿no?[BREAK]  ¡Pues esto os va a encantar![WAIT]@Parece ser que la séptima y última Aguja[BREAK]  acaba de ser localizada bajo nuestros pies.[END]
 805-14:@I refuse to help you anymore![END]
-805-14E:
+805-14E:@¡Me niego a seguir ayudándote![END]
 805-15:@Waha[PAUSE 20 00]...[WAIT]@Waha[PAUSE 20 00]...[WAIT]@Wahahahahaha![END]
-805-15E:
+805-15E:@Jua[PAUSE 20 00]...[WAIT]@Juaja[PAUSE 20 00]...[WAIT]@¡Juajajajajaja![END]
 805-16:@I assume you want to pull it too, right,[BREAK]  [LUCAS 23 02 00]?[WAIT]  Why not go and check it out then?[WAIT]  I'm even being fair enough to tell you where it[BREAK]  is.[WAIT]@That really will make this game all the more[BREAK]  fun![END]
-805-16E:
+805-16E:@Tú también quieres extraerla,[BREAK]  ¿verdad, [LUCAS 23 02 00]?[WAIT]  ¿Por qué no vas a buscarla?[WAIT]  Te he dicho incluso dónde encontrarla.[WAIT]@¡Esto va a hacer que el juego sea[BREAK]  todavía más divertido![END]
 805-17:@But I think I'll use my shortcut to give myself[BREAK]  a head start, if you don't mind![WAIT]  Ahahahahahahaha![WAIT]@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 2E 00][BREAK]  *wheeze*[PAUSE 20 00] *wheeze*[WAIT]@*gasp*[PAUSE 20 00] *gasp*[WAIT]@Bring it on! If you can catch up to me, that is![WAIT]  Here, you can use this elevator all you want![WAIT]@Spankety, spankety, spankety![PAUSE 14 00][WAIT]@*wheeze*[PAUSE 20 00] *gasp*[END]
-805-17E:
+805-17E:@¡Creo que voy a usar mi atajo para[BREAK]  salir con ventaja, si no te importa![WAIT]  ¡Jajajajajajaja![WAIT]@*cof*[PAUSE 20 00] *cof*[PAUSE 20 00] *cof*[PAUSE 2E 00][BREAK]  *jadeo*[PAUSE 20 00] *jadeo*[WAIT]@*buf*[PAUSE 20 00] *buf*[WAIT]@¡Vamos! ¡A ver quién llega antes![WAIT]  ¡Puedes usar el ascensor si quieres![WAIT]@¡Chincha, chincha, chincha![PAUSE 14 00][WAIT]@*jadeo*[PAUSE 20 00] *buf*[END]
 
 [Container 807]
 807-0:@I'm certain that [HINAWA 22 08 00] is watching[BREAK]  over us.[WAIT]@There's nothing to be afraid of.[END]
-807-0E:
+807-0E:@Estoy seguro de que [HINAWA 22 08 00][BREAK]  está velando por nosotros.[WAIT]@No hay nada que temer.[END]
 // all the text in here is unused in the game
 807-1:@[CLAUS 22 05 00]...[WAIT]@I wonder where he is now, and what he's[BREAK]  doing.[WAIT]@He's alive. I know it.[BREAK]@I've always had complete faith in that.[WAIT]@Until I find any clues leading to him, I'll keep on[BREAK]  searching, even if it takes 50 or 100 years.[END]
-807-1E:
+807-1E:@[CLAUS 22 05 00]...[WAIT]@Me pregunto dónde estará,[BREAK]  y qué estará haciendo.[WAIT]@Está vivo. Lo sé.[BREAK]@Nunca he dejado de creer en ello.[WAIT]@Voy a seguir buscándolo,[BREAK]  aunque me lleve 50 o 100 años encontrarle.[END]
 807-2:@[LUCAS 23 02 00].[WAIT]@Once you've made up your mind, there's no[BREAK]  need to hesitate.[WAIT]@I'm always behind you all the way.[END]
-807-2E:
+807-2E:@[LUCAS 23 02 00].[WAIT]@Si ya has tomado la decisión,[BREAK]  no dudes.[WAIT]@Cuentas con todo mi apoyo.[END]
 807-3:@Good luck.[END]
-807-3E:
+807-3E:@Buena suerte.[END]
 807-4:@If that old fogey's right and our memories[BREAK]  were all made up...[WAIT]@Then who exactly am I?[WAIT]@Was I really princess of Osohe Castle?[WAIT]@............[WAIT]@No, never mind.[WAIT]@Right now we gotta focus on the Needle.[END]
-807-4E:
+807-4E:@Si lo que dice ese tipo sobre nuestros[BREAK]  recuerdos es cierto...[WAIT]@¿Quién cojones soy yo?[WAIT]@¿De verdad soy la princesa de Osohe?[WAIT]@............[WAIT]@No, da igual.[WAIT]@Ahora tenemos que centrarnos en la Aguja.[END]
 807-5:@What was your mom like, [LUCAS 23 02 00]?[WAIT]@Was she nice?[WAIT]@...Huh?[WAIT]@No, uhh, it's just that I have no memory of my[BREAK]  mom.[WAIT]@I only asked 'cause I wondered what it's like to[BREAK]  have one.[END]
-807-5E:
+807-5E:@¿Cómo era tu madre, [LUCAS 23 02 00]?[WAIT]@¿Era buena?[WAIT]@¿...Eh?[WAIT]@No, eeeh, es sólo que no tengo[BREAK]  recuerdos de mi madre.[WAIT]@Lo preguntaba porque no sé[BREAK]  qué se siente al tener una.[END]
 807-6:@...............[WAIT]@Family, huh...[WAIT]@I wonder what ol' Ionia's up to...[END]
-807-6E:
+807-6E:@...............[WAIT]@Familia...[WAIT]@Me pregunto qué estará haciendo Ionia...[END]
 807-7:@Even if our memories are just fabrications, the[BREAK]  fact we're here now is real.[WAIT]@Let's go, [LUCAS 23 02 00]![BREAK]@Let's go and pull that final Needle![END]
-807-7E:
+807-7E:@Aunque nuestros recuerdos sean artificiales,[BREAK]  nuestro presente es real.[WAIT]@¡Vamos, [LUCAS 23 02 00]![BREAK]@¡Extraigamos la última Aguja![END]
 807-8:@Come to think of it...[WAIT]@All three of us are mother-less.[WAIT]@Talk about a big coincidence.[END]
-807-8E:
+807-8E:@Ahora que lo pienso...[WAIT]@Los tres perdimos a nuestras madres.[WAIT]@Es toda una coincidencia.[END]
 807-9:@My mom died a long time ago.[WAIT]@My dad raised me by himself.[WAIT]@He'd make food and teach me how to fish and[BREAK]  stuff.[WAIT]@He was a strict, but nice dad.[END]
-807-9E:
+807-9E:@Mi madre murió hace mucho.[WAIT]@Mi padre me crió él solo.[WAIT]@Me hacía la comida, me enseñó a pescar,[BREAK]  esas cosas...[WAIT]@Era estricto, pero era un buen padre.[END]
 807-10:@Even if my memories since childhood are fake,[WAIT]  Wess probably really is my real dad.[WAIT]@I get the feeling that there's definitely no[BREAK]  mistake about that.[END]
-807-10E:
+807-10E:@Incluso si todos mis recuerdos son falsos,[WAIT]  Wess es mi auténtico padre.[WAIT]@Algo en mi interior me dice que[BREAK]  no puede ser de otra forma.[END]
 807-11:@...[WAIT]@What do you suppose could be waiting up[BREAK]  ahead...?[END]
-807-11E:
+807-11E:@...[WAIT]@¿Qué creéis que nos esperará al final[BREAK]  de este camino...?[END]
 
 [Container 808]
 808-0:@Wha...?![BREAK]  Aren't you...[WAIT]  Aren't you Lucky, the bass player for the[BREAK]  DCMC?![WAIT]@Sweet! Lucky's back![WAIT]@That incredible bass line is finally back![WAIT]@Let's go, Mr. Lucky! Let's go![END]
-808-0E:
+808-0E:@¡¿Qu...?![BREAK]  Tú...[WAIT]  ¡Tú eres Lucky, el bajista de los DCMC![WAIT]@¡Increíble! ¡Lucky ha vuelto![WAIT]@¡El grupo vuelve a estar al completo![WAIT]@¡Vamos, Lucky! ¡Vamos![END]
 808-1:@Wha...?![BREAK]  Aren't you...[WAIT]  Aren't you Gorgeous, the bass player for the[BREAK]  DCMC?![WAIT]@Sweet! Gorgeous is back![WAIT]@That incredible bass line is finally back![WAIT]@Let's go, Mr. Gorgeous! Let's go![END]
-808-1E:
+808-1E:@¡¿Qu...?![BREAK]  Tú...[WAIT]  ¡Tú eres Gorgeous, el bajista de los DCMC![WAIT]@¡Increíble! ¡Gorgeous ha vuelto![WAIT]@¡El grupo vuelve a estar al completo![WAIT]@¡Vamos, Gorgeous! ¡Vamos![END]
 808-2:@Next stop, 100th floor.[END]
-808-2E:
+808-2E:@Próxima parada, piso 100.[END]
 808-3:[END]
-808-3E:
+808-3E:[END]
 
 [Container 810]
 810-0:@[LUCAS 23 02 00].[END]
-810-0E:
+810-0E:@[LUCAS 23 02 00].[END]
 810-1:@[LUCAS 23 02 00].[PAUSE 20 00] There's something that has[BREAK]  me concerned.[WAIT]@Could you let me go on ahead first?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-810-1E:
+810-1E:@[LUCAS 23 02 00].[PAUSE 20 00][BREAK]  Hay algo que me tiene preocupado.[WAIT]@Voy a adelantarme, ¿te parece bien?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 810-2:@Just say "yes" and don't ask why. Okay?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-810-2E:
+810-2E:@Solamente di "Sí" y no hagas preguntas.[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 810-3:@Thanks. Don't ask why.[WAIT]@But if it seems like I've been gone a long time,[BREAK]  then go ahead and keep going.[END]
-810-3E:
+810-3E:@Gracias. Siento tanto secretismo.[WAIT]@Si tardo demasiado tiempo en volver,[BREAK]  seguid adelante sin mí.[END]
 810-4:@You gonna go?[PAUSE 80 00][EVENT][END]
-810-4E:
+810-4E:@¿Vas a ir?[PAUSE 80 00][EVENT][END]
 810-5:[0C FF 80 00][END]
-810-5E:
+810-5E:[0C FF 80 00][END]
 // dunno what this is
 810-6:@The door is shut.[BREAK]  And the elevator is broken.[END]
-810-6E:
+810-6E:@La puerta está cerrada,[BREAK]  y el ascensor... destrozado.[END]
 810-7:[END]
-810-7E:
+810-7E:[END]
 
 [Container 811]
 811-0:@That... that masked man...[PAUSE 20 00][BREAK]  He's [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... He's your brother...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@I don't know why he's obeying this Porky guy,[WAIT]  but as a father, I've finally found the son I[BREAK]  lost.[WAIT]@[LUCAS 23 02 00]. Be happy.[WAIT]  I've finally,[PAUSE 30 00] finally found your brother.[END]
-811-0E:
+811-0E:@Ese... ese enmascarado...[PAUSE 20 00][BREAK]  Es [CLAUS 22 05 00].[WAIT]@[LUCAS 23 02 00]... Es tu hermano...[WAIT][PAUSE 10 00]  [CLAUS 22 05 00].[WAIT]@No sé por qué obedece a ese tal Porky,[WAIT]  pero por fin he encontrado al hijo[BREAK]  que me arrebataron.[WAIT]@[LUCAS 23 02 00]. Deberías estar contento.[WAIT]  Por fin,[PAUSE 30 00] por fin lo he encontrado.[END]
 811-1:@The final Needle[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Make sure YOU pull it.[WAIT]@I'll catch up with you in a bit...[WAIT]@Don't worry about me. Just hurry to the[BREAK]  Needle![END]
-811-1E:
+811-1E:@La última Aguja[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][BREAK]  [LUCAS 23 02 00][PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00][WAIT]@Tienes que ser TÚ quien la extraiga.[WAIT]@Te alcanzaré en un rato...[WAIT]@No te preocupes por mí.[BREAK]  ¡Extrae la Aguja![END]
 811-2:@I'm fine. I'm not hurt too bad.[WAIT]  [PAUSE 30 00]No, [CLAUS 22 05 00] didn't do this to me.[WAIT]@I tried to fight the "Porky" that's inside him.[END]
-811-2E:
+811-2E:@Estoy bien. Son heridas leves.[WAIT]  [PAUSE 30 00]No, eso no me lo ha hecho [CLAUS 22 05 00].[WAIT]@Ha sido el "Porky" que tiene dentro.[END]
 811-3:@Geez, you're persistent.[WAIT]  You're wondering about my hair, aren't you?[WAIT]  That's right.[WAIT]  I'm bald as a bean.[END]
-811-3E:
+811-3E:@Mira que eres insistente.[WAIT]  Te está intrigando lo de mi pelo, ¿verdad?[WAIT]  Pues sí.[WAIT]  Estoy calvo como una bombilla.[END]
 811-4:@What's that? "Bald as a bean" is a dumb way[BREAK]  of putting it?![WAIT]@When did you become such a bitter person?![WAIT]@Talking to me like this isn't very nice.[WAIT]@Quit it![END]
-811-4E:
+811-4E:@¿Eh? ¡¿Que esa es una comparación penosa?![WAIT]@¡¿Desde cuándo estás así de amargado?![WAIT]@No puedes hablarle así a tu padre.[WAIT]@¡Déjalo ya![END]
 811-5:@Stop! Stop! Stop right there~![END]
-811-5E:
+811-5E:@¡Quietos! ¡Quietos! ¡Quietos ahí~![END]
 811-6:@*cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[PAUSE 20 00] *cough*[WAIT]@This really is no time for games anymore.[WAIT]@I don't feel like letting you go any further.[WAIT]@If you're after the Needle, then don't worry.[WAIT]  My adorable little monster is on its way to it[BREAK]  as we speak.[WAIT]@*wheeze*[PAUSE 20 00] *wheeze*[PAUSE 2A 00] *gasp*[PAUSE 20 00] *gasp*[END]
-811-6E:
+811-6E:@*cof*[PAUSE 20 00] *cof*[PAUSE 20 00] *cof*[PAUSE 20 00] *cof*[WAIT]@Ya me he cansado de jueguecitos.[WAIT]@No voy a dejar que deis ni un paso más.[WAIT]@Oh, y no os preocupéis por la Aguja.[WAIT]  Mi adorable monstruito se está dirigiendo[BREAK]  hacia ella mientras hablamos.[WAIT]@*jadeo*[PAUSE 20 00] *jadeo*[PAUSE 2A 00] *buf*[PAUSE 20 00] *buf*[END]
 811-7:@...[PAUSE 15 00]Huh?[WAIT]  That monster's name is [CLAUS 22 05 00]?[WAIT]@Its name was [CLAUS 22 05 00]?![WAIT]@That almost sounds like a person's name![WAIT]@But now it's my robot.[WAIT]  Not even a fragment of life remains inside it.[WAIT]@It's Master Porky's slave robot![WAIT]  It does whatever I say![WAIT]@It acts on my will alone.[WAIT]  It's my double.[WAIT]  It doesn't know anything about who you are![WAIT]@*cough*[PAUSE 20 00] *cough*[END]
-811-7E:
+811-7E:@...[PAUSE 15 00]¿Eh?[WAIT]  ¿Que se llama [CLAUS 22 05 00]?[WAIT]@¡¿Que su nombre es [CLAUS 22 05 00]?![WAIT]@¡Eso casi suena como el nombre[BREAK]  de una persona![WAIT]@Pero ahora es mi robot.[WAIT]  Ya no es más que una carcasa carente de vida.[WAIT]@¡Es el esclavo robot del Amo Porky![WAIT]  ¡Hace todo lo que le digo![WAIT]@Sólo responde a mi voluntad.[WAIT]  Es mi doble.[WAIT]  ¡Ni siquiera sabe quién eres![WAIT]@*cof*[PAUSE 20 00] *cof*[END]
 811-8:@[PAUSE 18 00]Oh, my![END]
-811-8E:
+811-8E:@[PAUSE 18 00]¡Cielo santo![END]
 811-9:@As evil as old Porky here is, I feel bad for him[BREAK]  now.[END]
-811-9E:
+811-9E:@Aun con lo malo que es,[BREAK]  me siento mal por Porky.[END]
 811-10:@It's true that the "Absolutely Safe Capsule"[BREAK]  that the Mr. Saturns and I developed together[WAIT]  can protect one from every manner of danger.[WAIT]@It IS an absolutely[PAUSE 20 00] safe[PAUSE 20 00] capsule,[WAIT]  but once you enter it, you can never exit it[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
-811-10E:
+811-10E:@Sí, la "Capsula de Seguridad absoluta"[BREAK]  que los Mr. Saturn y yo construímos[WAIT]  protege a su pasajero de todo peligro.[WAIT]@Pero es TAL esa[PAUSE 20 00] seguridad[PAUSE 20 00] absoluta,[WAIT]  que una vez se entra, ya no se puede salir[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[END]
 811-11:@Even what's outside of the Absolutely Safe[BREAK]  Capsule[PAUSE 20 00] is absolutely safe.[WAIT]@I did tell Porky in a hushed voice that he[BREAK]  shouldn't use it yet[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@But all he can do now is live for eternity inside[BREAK]  the capsule, in absolute safety.[WAIT]@Who knows, in a way,[PAUSE 20 00] he may've gotten[BREAK]  exactly what he wanted.[WAIT]@What do you think?[WAIT]  Is it wrong of me to think this way?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-811-11E:
+811-11E:@La seguridad absoluta de esta cápsula[BREAK]  [PAUSE 20 00]es para los que están fuera de ella.[WAIT]@Le dije a Porky que todavía no debería usarla,[BREAK]  pero en voz muy baja[PAUSE 08 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 20 00][WAIT]@Ahora vivirá eternamente en su interior,[BREAK]  en absoluta seguridad.[WAIT]@Quién sabe, en cierto modo,[PAUSE 20 00] creo que[BREAK]  ha encontrado lo que buscaba.[WAIT]@¿Tú qué opinas?[WAIT]  ¿Está mal que piense así?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 811-12:@It's NOT wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  I wonder.[WAIT]  I somehow get the feeling it is.[END]
-811-12E:
+811-12E:@¿NO?[PAUSE 20 00] ¿Tú crees?[PAUSE 20 00][WAIT]  Qué curioso.[WAIT]  Tenía la sensación de que sí.[END]
 811-13:@It IS wrong,[PAUSE 20 00] you say?[PAUSE 20 00][WAIT]  Be that as it may, it's a little too late to do[BREAK]  anything now...[END]
-811-13E:
+811-13E:@¿SÍ?[PAUSE 20 00] ¿Tú crees?[PAUSE 20 00][WAIT]  En cualquier caso, ya no podemos[BREAK]  hacer nada...[END]
 811-14:@Want to roll him around a bit?[WAIT]  No, no, it's okay. It IS absolutely safe, after all.[END]
-811-14E:
+811-14E:@¿Quieres hacerlo rodar?[WAIT]  No, no pasa nada. ES absolutamente seguro.[END]
 811-15:@Rolly, rolly...[END]
-811-15E:
+811-15E:@Rueda, rueda...[END]
 811-16:@Whee! Rolly rolly![END]
-811-16E:
+811-16E:@¡Yupiii! ¡Rueda, rueda![END]
 811-17:@Porky is sticking his tongue out at you from[BREAK]  inside the Absolutely Safe Capsule.[END]
-811-17E:
+811-17E:@Porky te está sacando la lengua desde[BREAK]  el interior de la Cápsula de Seguridad absoluta.[END]
 811-18:@Hey, Alfie.[EVENT][END]
-811-18E:
+811-18E:@Ey, Alfie.[EVENT][END]
 // this is the same name the weird attic mice call you
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-19:@Hey, Alfie.[EVENT][END]
-811-19E:
+811-19E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-20:@Hey, Alfie.[EVENT][END]
-811-20E:
+811-20E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-21:@Hey, Alfie.[EVENT][END]
-811-21E:
+811-21E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-22:@Hey, Alfie.[EVENT][END]
-811-22E:
+811-22E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-23:@Hey, Alfie.[EVENT][END]
-811-23E:
+811-23E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-24:@Hey, Alfie.[EVENT][END]
-811-24E:
+811-24E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-25:@Hey, Alfie.[EVENT][END]
-811-25E:
+811-25E:@Ey, Alfie.[EVENT][END]
 // Repeats: 811-18, 811-19, 811-20, 811-21, 811-22, 811-23, 811-24, 811-25
 811-26:@Oh, [LUCAS 23 02 00]![EVENT][END]
-811-26E:
+811-26E:@¡Oh, [LUCAS 23 02 00]![EVENT][END]
 811-27:@Hi! It's me, the friendly item storage man![WAIT]@I can't believe I made it all the way here, too.[WAIT]@Anyway! How can I help you?[END]
-811-27E:
+811-27E:@¡Hola! ¡Soy yo, el chatarrero![WAIT]@Ni yo mismo sé cómo he acabado aquí.[WAIT]@¡Pero da igual! ¿Puedo ayudaros?[END]
 811-28:@We're right behind you all the way![END]
-811-28E:
+811-28E:@¡Os apoyaremos con todo hasta el final![END]
 811-29:[END]
-811-29E:
+811-29E:[END]
 811-30:[END]
-811-30E:
+811-30E:[END]
 811-31:[END]
-811-31E:
+811-31E:[END]
 811-32:[END]
-811-32E:
+811-32E:[END]
 811-33:[END]
-811-33E:
+811-33E:[END]
 
 [Container 816]
 816-0:@An ornamental plant.[END]
-816-0E:
+816-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 816-1:[END]
-816-1E:
+816-1E:[END]
 
 [Container 817]
 817-0:@An ornamental plant.[END]
-817-0E:
+817-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 817-1:@Sorry![WAIT]@I'm a little busy at the moment.[WAIT]  Could you save it for later?[END]
-817-1E:
+817-1E:@¡Disculpa![WAIT]@Ahora mismo estoy ocupado.[WAIT]  ¿Podrías dejarlo para luego?[END]
 817-2:@Someone's iiiiin here! [NOTE][END]
-817-2E:
+817-2E:@¡Ocuuupaaadooo! [NOTE][END]
 817-3:@I said, someone's in here![WAIT]@Being rushed like this makes me want to NOT[BREAK]  come out now, just to teach you a lesson![END]
-817-3E:
+817-3E:@¡He dicho que está ocupado![WAIT]@Cómo odio que me metan prisa...[BREAK]  ¡Pues ahora NO pienso salir! ¡Te fastidias![END]
 
 [Container 818]
 818-0:@This is surprisingly spick-and-span.[END]
-818-0E:
+818-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 818-1:@It looks like someone was just using this...[END]
-818-1E:
+818-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 818-2:@There's toilet paper here.[END]
-818-2E:
+818-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 818-3:@Cleaning tools are lying here.[END]
-818-3E:
+818-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 818-4:@The trash can is empty.[END]
-818-4E:
+818-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 818-5:[END]
-818-5E:
+818-5E:[END]
 
 [Container 819]
 819-0:@Whew! Made it just in time![END]
-819-0E:
+819-0E:@¡Fiuu! ¡Por los pelos![END]
 819-1:@[NOTE] I made it~ I made it~ I made it in time~! [NOTE][WAIT]  [NOTE] Oh~ how did I make it in such time~? [NOTE][END]
-819-1E:
+819-1E:@[NOTE] ¡Por los~ por los~ por los pelooos~! [NOTE][WAIT]  [NOTE] Oh~ por los pelooos no llegooo~ [NOTE][END]
 819-2:@A cheerful song can be heard from the other[BREAK]  side of the door.[END]
-819-2E:
+819-2E:@Del otro lado de la puerta te llega[BREAK]  una canción muy conmovedora.[END]
 819-3:[END]
-819-3E:
+819-3E:[END]
 
 [Container 820]
 820-0:@This is surprisingly spick-and-span.[END]
-820-0E:
+820-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 820-1:@It looks like someone was just using this...[END]
-820-1E:
+820-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 820-2:@There's toilet paper here.[END]
-820-2E:
+820-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 820-3:@Cleaning tools are lying here.[END]
-820-3E:
+820-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 820-4:@The trash can is empty.[END]
-820-4E:
+820-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 820-5:@This is surprisingly spick-and-span.[END]
-820-5E:
+820-5E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 820-6:@Give some thought to what a toilet is?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-820-6E:
+820-6E:@¿Quieres reflexionar sobre qué es un retrete?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 820-7:@If you reach any nice conclusions, please be[BREAK]  sure to tell your friends.[END]
-820-7E:
+820-7E:@Si llegas a alguna conclusión interesante,[BREAK]  cuéntasela a tus amigos.[END]
 820-8:@That's probably for the best.[END]
-820-8E:
+820-8E:@Sí, será lo mejor.[END]
 820-9:@It looks like someone was just using this...[END]
-820-9E:
+820-9E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 
 [Container 821]
@@ -18988,222 +18988,222 @@
 821-0E:@[END]
 // Repeats: 31-4, 649-0, 666-0, 821-0
 821-1:[END]
-821-1E:
+821-1E:[END]
 
 [Container 822]
 822-0:@An ornamental plant.[END]
-822-0E:
+822-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 822-1:@There must be something crazy going on inside[BREAK]  this restroom, huh?[END]
-822-1E:
+822-1E:@En este baño tiene que estar pasando[BREAK]  algo gordo...[END]
 822-2:@Hmm?[WAIT]@I'm jumping and flopping around because I want[BREAK]  to. Don't worry.[END]
-822-2E:
+822-2E:@¿Eh?[WAIT]@Estoy haciendo todo esto porque me apetece.[BREAK]  No te preocupes.[END]
 822-3:@N-never mind me![WAIT]@I'm fine here, so please go away![END]
-822-3E:
+822-3E:@¡D-déjame![WAIT]@¡Estoy bien! ¡Vete, por favor![END]
 
 [Container 823]
 823-0:@This is surprisingly spick-and-span.[END]
-823-0E:
+823-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 823-1:@It looks like someone was just using this...[END]
-823-1E:
+823-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 823-2:@There's toilet paper here.[END]
-823-2E:
+823-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 823-3:@Cleaning tools are lying here.[END]
-823-3E:
+823-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 823-4:@The trash can is empty.[END]
-823-4E:
+823-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 823-5:@Japanese style.[END]
-823-5E:
+823-5E:@A lo japonés.[END]
 823-6:@A duck type.[END]
-823-6E:
+823-6E:@Con forma de patito.[END]
 823-7:@For big people.[END]
-823-7E:
+823-7E:@Para gente grande.[END]
 
 [Container 824]
 824-0:@This is surprisingly spick-and-span.[END]
-824-0E:
+824-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 824-1:@It looks like someone was just using this...[END]
-824-1E:
+824-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 824-2:@There's toilet paper here.[END]
-824-2E:
+824-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 824-3:@Cleaning tools are lying here.[END]
-824-3E:
+824-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 824-4:@The trash can is empty.[END]
-824-4E:
+824-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 824-5:@Flush?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-824-5E:
+824-5E:@¿Quieres tirar de la cadena?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 824-6:@Nothing out of the ordinary here.[END]
-824-6E:
+824-6E:@Nada fuera de lo común.[END]
 824-7:@Flush a whole bunch of times?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-824-7E:
+824-7E:@¿Quieres tirar muchas veces de la cadena?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 824-8:@Welcome! How good of you to visit![PAUSE 30 00][BREAK]  Wait a minute! What am I saying?![WAIT]  This is a bathroom! What the heck's your[BREAK]  problem?![EVENT][END]
-824-8E:
+824-8E:@¡Bienvenido! ¡Me alegro de verte![PAUSE 30 00][BREAK]  ¡Un momento! ¡¿Pero qué estoy diciendo?![WAIT]  ¡Esto es un baño![BREAK]  ¡¿Qué narices pasa contigo?![EVENT][END]
 824-9:@What're you doing in here, anyways?[WAIT]@All in a big group, no less.[END]
-824-9E:
+824-9E:@¿Qué se te ha perdido aquí?[WAIT]@¿Y por qué vienes acompañado?[END]
 824-10:@We're friendly ghosts who used to live the[BREAK]  easy life in Osohe Castle.[WAIT]@But some Pigmasks crammed us all in here the[BREAK]  other day.[END]
-824-10E:
+824-10E:@Somos un grupo de fantasmas,[BREAK]  solíamos vivir en el castillo Osohe.[WAIT]@Pero el otro día, unos Puercaretos[BREAK]  nos embutieron aquí.[END]
 824-11:@People give ghosts the cold shoulder whenever[BREAK]  they don't seem mean.[END]
-824-11E:
+824-11E:@La gente se aprovecha de nosotros porque[BREAK]  no somos fantasmas malvados.[END]
 824-12:@GHOSTS![END]
-824-12E:
+824-12E:@¡FANTASMAS![END]
 824-13:[END]
-824-13E:
+824-13E:[END]
 
 [Container 825]
 825-0:@Look at the walls...[PAUSE 2E 00] Look at the door...[PAUSE 2E 00][BREAK]  What else was there to do, again?[END]
-825-0E:
+825-0E:@Mirar a las paredes...[PAUSE 2E 00] Mirar a la puerta...[PAUSE 2E 00][BREAK]  ¿Qué más puedo hacer?[END]
 825-1:@Outta the way,[PAUSE 18 00] outta the way,[PAUSE 18 00] outta the way![END]
-825-1E:
+825-1E:@¡Paso,[PAUSE 18 00] paso,[PAUSE 18 00] pasooooo![END]
 825-2:@For whatever reason, this one just happens to[BREAK]  be mixed in with all the others,[WAIT]  but I'll have you know this is MY personal[BREAK]  thunderbox![WAIT]@It is NOT for everyone else![END]
-825-2E:
+825-2E:@No sé cómo he acabado aquí,[BREAK]  mezclado con los demás,[WAIT]  ¡pero que sepas que este[BREAK]  es MI urinario personal![WAIT]@¡NO es de uso público![END]
 825-3:@Ahem. I'm trying to read.[END]
-825-3E:
+825-3E:@Ejem. Estoy intentando leer.[END]
 825-4:@Thank god I'm such a fast runner![WAIT]  I made it just in the nick of time![END]
-825-4E:
+825-4E:@¡Menos mal que he sido rápido![WAIT]  ¡He podido llegar justo a tiempo![END]
 825-5:[END]
-825-5E:
+825-5E:[END]
 
 [Container 826]
 826-0:@An ornamental plant.[END]
-826-0E:
+826-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 826-1:[END]
-826-1E:
+826-1E:[END]
 
 [Container 827]
 827-0:@This is surprisingly spick-and-span.[END]
-827-0E:
+827-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 827-1:@It looks like someone was just using this...[END]
-827-1E:
+827-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 827-2:@There's toilet paper here.[END]
-827-2E:
+827-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 827-3:@Cleaning tools are lying here.[END]
-827-3E:
+827-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 827-4:@The trash can is empty.[END]
-827-4E:
+827-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 827-5:[END]
-827-5E:
+827-5E:[END]
 
 [Container 828]
 828-0:@An ornamental plant.[END]
-828-0E:
+828-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 828-1:[END]
-828-1E:
+828-1E:[END]
 
 [Container 829]
 829-0:@An ornamental plant.[END]
-829-0E:
+829-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 829-1:@I'm trying to eat here![END]
-829-1E:
+829-1E:@¡Estoy intentando comer![END]
 // Repeats: 829-1, 879-1
 
 [Container 830]
 830-0:@This is surprisingly spick-and-span.[END]
-830-0E:
+830-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 830-1:@It looks like someone was just using this...[END]
-830-1E:
+830-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 830-2:@There's toilet paper here.[END]
-830-2E:
+830-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 830-3:@Cleaning tools are lying here.[END]
-830-3E:
+830-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 830-4:@The trash can is empty.[END]
-830-4E:
+830-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 830-5:[END]
-830-5E:
+830-5E:[END]
 
 [Container 831]
 831-0:@This is surprisingly spick-and-span.[END]
-831-0E:
+831-0E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 831-1:@It looks like someone was just using this...[END]
-831-1E:
+831-1E:@Parece que alguien ha estado usando esto...[END]
 // Repeats: 818-1, 820-1, 820-9, 823-1, 824-1, 827-1, 830-1, 831-1
 831-2:@There's toilet paper here.[END]
-831-2E:
+831-2E:@Aquí hay papel higiénico.[END]
 // Repeats: 818-2, 820-2, 823-2, 824-2, 827-2, 830-2, 831-2
 831-3:@Cleaning tools are lying here.[END]
-831-3E:
+831-3E:@Diversos útiles de limpieza.[END]
 // Repeats: 818-3, 820-3, 823-3, 824-3, 827-3, 830-3, 831-3
 831-4:@The trash can is empty.[END]
-831-4E:
+831-4E:@La papelera está vacía.[END]
 // Repeats: 818-4, 820-4, 823-4, 824-4, 827-4, 830-4, 831-4
 831-5:@A clean toilet is a mirror of the heart.[WAIT]@Wipe it and polish it until it sparkles.[END]
-831-5E:
+831-5E:@El retrete es el espejo del alma.[WAIT]@Límpialo hasta que quede reluciente.[END]
 831-6:@A card that says "Out to Lunch" is lying[BREAK]  here.[END]
-831-6E:
+831-6E:@Hay una nota que pone "He salido a comer".[END]
 831-7:@Tons and tons of toilet paper.[END]
-831-7E:
+831-7E:@Una montaña de papel higiénico.[END]
 831-8:@This is surprisingly spick-and-span.[END]
-831-8E:
+831-8E:@Está como los chorros del oro.[END]
 // Repeats: 818-0, 820-0, 820-5, 823-0, 824-0, 827-0, 830-0, 831-0, 831-8
 831-9:[END]
-831-9E:
+831-9E:[END]
 
 [Container 832]
 832-0:[END]
-832-0E:
+832-0E:[END]
 832-1:[END]
-832-1E:
+832-1E:[END]
 
 [Container 833]
 833-0:@An ornamental plant.[END]
-833-0E:
+833-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 833-1:[END]
-833-1E:
+833-1E:[END]
 
 [Container 834]
 834-0:@Heheheh![BREAK]  You seem to be having quite the tough time![WAIT]@Did you enjoy my special all-you-can-pee toilet[BREAK]  dungeon?[WAIT]@Now, then! I have some sad news for you![WAIT]@This place you're at now[PAUSE 3C 00] isn't really the 100th[BREAK]  floor! It's a fake![WAIT]@Ahahahahaha![WAIT]@You're nothing but a cheap toy crawling around[BREAK]  in the palm of my hand![WAIT]@Alright! Allow me to invite you to the REAL[BREAK]  100th floor![WAIT]  Heh heh.[WAIT]@Board the elevator just ahead.[WAIT]@I'll be waiting for you![END]
-834-0E:
+834-0E:@¡Jejeje![BREAK]  ¡Parece que las estáis pasando canutas![WAIT]@¿Os ha gustado mi mazmorra especial[BREAK]  para meones?[WAIT]@¡En fin, tengo malas noticias para vosotros![WAIT]@El lugar en el que estáis,[PAUSE 3C 00] ¡no es el piso 100![BREAK]  ¡Os he engañado![WAIT]@¡Jajajajaja![WAIT]@¡Sois como monos andando en círculos[BREAK]  por la palma de mi mano![WAIT]@¡Ahora, permitidme que os invite[BREAK]  al VERDADERO piso 100![WAIT]  Je, je.[WAIT]@Subid ya al ascensor.[WAIT]@¡Allí os espero![END]
 834-1:@There are signs that someone was here.[END]
-834-1E:
+834-1E:@Parece que alguien ha estado aquí.[END]
 // this is phrased the way that the dung text in Scaraba was phrased
 
 [Container 835]
 835-0:@This is the wonderful Hippo Pool.[WAIT]@Here, you can swim with Hippo Launchers,[BREAK]  gaze at Hippo Launchers,[WAIT]  and observe Hippo Launchers eating.[WAIT]@You can even fight them![PAUSE 28 00] That's dangerous,[BREAK]  though.[END]
-835-0E:
+835-0E:@Bienvenidos a la Hipopiscina.[WAIT]@Aquí podéis nadar con las Hipolanzaderas,[BREAK]  observar a las Hipolanzaderas,[WAIT]  ver comer a las Hipolanzaderas...[WAIT]@¡Hasta podéis pelear con ellas![PAUSE 28 00][BREAK]  Aunque no es muy recomendable...[END]
 835-1:@"Hippo Launchers"[WAIT]@Hippopotami that have been fancied-up and[BREAK]  equipped with powerful missiles.[WAIT]@Incredibly popular, even among women and[BREAK]  senior citizens.[WAIT]@Improvements to create household pet[BREAK]  versions are currently underway.[END]
-835-1E:
+835-1E:@"Hipolanzaderass"[WAIT]@Hipopótamos reconstruidos y[BREAK]  armados con poderosos misiles.[WAIT]@Increíblemente populares, incluso[BREAK]  entre mujeres y ancianos.[WAIT]@Actualmente, se está trabajando[BREAK]  en una versión doméstica.[END]
 835-2:@This room's temperature and humidity are[BREAK]  displayed here.[WAIT]@That's all.[END]
-835-2E:
+835-2E:@Un medidor de temperatura[BREAK]  y humedad ambiental.[WAIT]@Eso es todo.[END]
 // Repeats: 835-2, 839-1
 835-3:[END]
-835-3E:
+835-3E:[END]
 
 [Container 836]
 836-0:@I wanna do research so bad.[WAIT]@I wanna research more and more and more.[WAIT]@If only I had research funding, I could improve[BREAK]  the Hippo Launchers even more and more.[WAIT]@Would you like to know how I'd improve them?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-836-0E:
+836-0E:@Me muero por investigar.[WAIT]@Me muero por investigar más y más.[WAIT]@Si me diesen fondos para investigar, podría[BREAK]  mejorar las Hipolanzaderas más y más.[WAIT]@¿Quieres saber cómo las mejoraría?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 836-1:@I'd make it so Hippo Launchers can brush their[BREAK]  teeth on their own,[WAIT]  go to the bathroom at night before bed,[WAIT]  and fetch the newspaper.[PAUSE 1E 00][WAIT]  You know, those kinds of improvements.[END]
-836-1E:
+836-1E:@Haría que fuesen capaces de cepillarse[BREAK]  los dientes ellas solitas,[WAIT]  que fuesen al baño antes de dormir,[WAIT]  que trajesen el periódico...[PAUSE 1E 00][WAIT]  Ya sabes, esa clase de mejoras.[END]
 836-2:@Oh, c'mon, hear me out.[WAIT]@I'd make it so Hippo Launchers can brush their[BREAK]  teeth on their own,[WAIT]  go to the bathroom at night before bed,[WAIT]  and fetch the newspaper.[PAUSE 1E 00][WAIT]  You know, those kinds of improvements.[END]
-836-2E:
+836-2E:@Oh, vamos, escúchame.[WAIT]@Haría que fuesen capaces de cepillarse[BREAK]  los dientes ellas solitas,[WAIT]  que fuesen al baño antes de dormir,[WAIT]  que trajesen el periódico...[PAUSE 1E 00][WAIT]  Ya sabes, esa clase de mejoras.[END]
 836-3:@[42 FF F1 FF] opened the present.[EVENT][END]
-836-3E:
+836-3E:@[42 FF F1 FF] abrió el regalo.[EVENT][END]
 // Repeats: 836-3, 839-4
 836-4:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-836-4E:@¡Recibiste [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
+836-4E:@¡Has conseguido [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
 836-5:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 836-5E:@Dentro del regalo había[BREAK]  [EF 91][ITEM F0 FF].[WAIT]@Pero no puedes cargar con más cosas.[END]
@@ -19211,643 +19211,643 @@
 
 [Container 837]
 837-0:@It appears[PAUSE 20 00] that you guys appear[PAUSE 20 00] to be[BREAK]  suspicious guys.[WAIT]@I[PAUSE 0F 00]- I[PAUSE 0F 00]- I[PAUSE 0F 00]- I'll beat you up good![END]
-837-0E:
+837-0E:@Vosotros...[PAUSE 20 00] sin duda...[PAUSE 20 00][BREAK]  ¡sois muy sospechosos![WAIT]@¡O[PAUSE 0F 00]-o[PAUSE 0F 00]-o[PAUSE 0F 00]-os voy a machacar![END]
 837-1:@Go! Go![BREAK]  Get 'em, my [ENEMYNAME F0 FF]![END]
-837-1E:
+837-1E:@¡Vamos![BREAK]  ¡A por ellos, [ENEMYNAME F0 FF]![END]
 837-2:@Aaah! My [ENEMYNAME F0 FF]!![PAUSE 32 00][WAIT]@Curse you! You'll pay for this![END]
-837-2E:
+837-2E:@¡Aaah! ¡¡Mi [ENEMYNAME F0 FF]!![PAUSE 32 00][WAIT]@¡Recórcholis! ¡Vais a pagar por esto![END]
 837-3:[END]
-837-3E:
+837-3E:[END]
 837-4:@Stupid-heads![END]
-837-4E:
+837-4E:@¡Tontainas![END]
 837-5:@Back, are ya?![WAIT]@You guys really ARE suspicious![WAIT]@I[PAUSE 0F 00]- I[PAUSE 0F 00]- I[PAUSE 0F 00]- I'll beat you up good![END]
-837-5E:
+837-5E:@¡¿Otra vez vosotros?![WAIT]@¡Eso os hace todavía MÁS sospechosos![WAIT]@¡O[PAUSE 0F 00]-o[PAUSE 0F 00]-o[PAUSE 0F 00]-os voy a machacar![END]
 837-6:@Go! Go! Go! Go![BREAK]  Get 'em, my [ENEMYNAME F0 FF]![END]
-837-6E:
+837-6E:@¡Vamos! ¡Vamos![BREAK]  ¡A por ellos, [ENEMYNAME F0 FF]![END]
 837-7:[END]
-837-7E:
+837-7E:[END]
 
 [Container 838]
 838-0:@[END]
 838-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 838-1:[END]
-838-1E:
+838-1E:[END]
 
 [Container 839]
 839-0:@We bring you a breaking news alert.[WAIT]@Some idiots have been seen pretending to be[BREAK]  sea monkeys in the middle of a pond.[WAIT]@Wahahahahaha! I'm talking about you guys![WAIT]@Getting all covered in mud so you can fight for[BREAK]  your lives...[WAIT]  It's all so ridiculous![BREAK]  *snicker*[WAIT]@Alright, then. Get on the next elevator.[WAIT]  I think I'm gonna sit back and watch even[BREAK]  more of your stupidity in action.[WAIT]@Come on! Don't give up![WAIT]  You're so close to the real 100th floor now![WAIT]@Ahahahahaha![END]
-839-0E:
+839-0E:@Noticias de última hora.[WAIT]@Nos han informado sobre unos idiotas que[BREAK]  se creen monos marinos en un estanque.[WAIT]@¡Jajajajajaja! ¡Me estoy refiriendo a vosotros![WAIT]@Peleando por vuestras vidas en medio[BREAK]  de un lodazal...[WAIT]  ¡Sois tan penosos![BREAK]  *risita*[WAIT]@En fin. Subid al siguiente ascensor.[WAIT]  Creo que voy a acomodarme y disfrutar[BREAK]  un poco más de vuestra estupidez.[WAIT]@¡Ánimo! ¡No os rindáis![WAIT]  ¡Ya estáis cerca del verdadero piso 100![WAIT]@¡Jajajajaja![END]
 839-1:@This room's temperature and humidity are[BREAK]  displayed here.[WAIT]@That's all.[END]
-839-1E:
+839-1E:@Un medidor de temperatura[BREAK]  y humedad ambiental.[WAIT]@Eso es todo.[END]
 // Repeats: 835-2, 839-1
 839-2:@They have such cute[PAUSE 28 00] butts.[WAIT]  Don't you agree?[END]
-839-2E:
+839-2E:@Sus pompis es tan[PAUSE 28 00] mono.[WAIT]  ¿No estáis de acuerdo?[END]
 839-3:[END]
-839-3E:
+839-3E:[END]
 839-4:@[42 FF F1 FF] opened the present.[EVENT][END]
-839-4E:
+839-4E:@[42 FF F1 FF] abrió el regalo.[EVENT][END]
 // Repeats: 836-3, 839-4
 839-5:@Got [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
-839-5E:@¡Recibiste [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
+839-5E:@¡Has conseguido [EF 91][ITEM F0 FF]![PAUSE 40 00][END]
 // Repeats: 0-45, 836-4, 839-5
 839-6:@Inside the present, there [EF 97][BREAK]  [EF 91][ITEM F0 FF].[WAIT]@But you can't carry any more stuff.[END]
 839-6E:@Dentro del regalo había[BREAK]  [EF 91][ITEM F0 FF].[WAIT]@Pero no puedes cargar con más cosas.[END]
 // Repeats: 0-82, 836-5, 839-6
 839-7:[END]
-839-7E:
+839-7E:[END]
 
 [Container 840]
 840-0:@[END]
 840-0E:@[END]
 // Repeats: 210-11, 233-50, 711-0, 712-0, 804-0, 838-0, 840-0
 840-1:[END]
-840-1E:
+840-1E:[END]
 
 [Container 855]
 855-0:@Welcome![BREAK]  This is the "Nice Person Hot Spring".[WAIT]@Using this will make you into a "nice person"[WAIT]  who respects Master Porky from the bottom[BREAK]  of your heart.[WAIT]@Use it until you're red in the face, and you'll[BREAK]  feel happy and revitalized as a "nice person".[WAIT]@Unlike with regular hot springs, all you have to[BREAK]  do is go inside a green-colored capsule,[WAIT]  which makes it very simple and convenient![END]
-855-0E:
+855-0E:@¡Bienvenidos![BREAK]  ¡Estas son las "Aguas termales puras".[WAIT]@Un baño en ellas y te convertirás en una[WAIT]  "buena persona", totalmente fiel[BREAK]  al gran Amo Porky.[WAIT]@Permanece dentro hasta que la cara se te[BREAK]  ponga roja y te sientas "buena persona".[WAIT]@¡Al contrario que las demás aguas termales,[BREAK]  sólo tienes que meterte dentro de un tubo,[WAIT]  lo que las hace mucho más fáciles de usar![END]
 855-1:[END]
-855-1E:
+855-1E:[END]
 
 [Container 856]
 856-0:@(*glub* *glub*)[WAIT]@I'm gonna be a wonderful steak for Master[BREAK]  Porky...[END]
-856-0E:
+856-0E:@(*glub* *glub*)[WAIT]@Voy a ser un delicioso filete[BREAK]  para el Amo Porky...[END]
 856-1:@(*glub* *glub* *glub*)[WAIT]@Master Porky is wonderful...[WAIT]  Master Porky is cool...[END]
-856-1E:
+856-1E:@(*glub* *glub* *glub*)[WAIT]@El Amo Porky es maravilloso...[WAIT]  El Amo Porky es lo más...[END]
 856-2:@(*glub* *glub*)[WAIT]@It's so much fun... (*glub* *glub*)[WAIT]  This city is so much fun...[END]
-856-2E:
+856-2E:@(*glub* *glub*)[WAIT]@Qué divertido... (*glub* *glub*)[WAIT]  Esta ciudad es muy divertida...[END]
 856-3:@(*glub* *glub*)[WAIT]@Reconstructed... with... a lion...[WAIT]  So happy...[END]
-856-3E:
+856-3E:@(*glub* *glub*)[WAIT]@Fusionarme... con... un león...[WAIT]  Soy feliz...[END]
 856-4:@(*glub* *glub*)[WAIT]@Let's have a grand ol' time in Master Porky's[BREAK]  city of memories...[END]
-856-4E:
+856-4E:@(*glub* *glub*)[WAIT]@Nos lo vamos a pasar muy bien en la ciudad[BREAK]  de los recuerdos del Amo Porky...[END]
 856-5:@(*bloop* *bloop*)[WAIT]@Thiiiis feeeeels soooo niiice~.[END]
-856-5E:
+856-5E:@(*blup* *blup*)[WAIT]@Quéeee gustiiiitoooo~.[END]
 856-6:@(*glub* *glub*)[WAIT]@Someday I'm gonna become a Pigmask...[WAIT]  ...and make a world of Master Porky,[WAIT]  by Master Porky,[WAIT]  for Master Porky...[END]
-856-6E:
+856-6E:@(*glub* *glub*)[WAIT]@Algún día me convertiré en un Puercareto...[WAIT]  ...y crearé un mundo nuevo y mejor,[WAIT]  por y para el Amo Porky...[END]
 856-7:@(*bloop* *bloop*)[WAIT]@Just the idea that a chicken like me can be[BREAK]  useful to Master Porky in some way[WAIT]  makes me oh-so-happy.[END]
-856-7E:
+856-7E:@(*blup* *blup*)[WAIT]@Saber que incluso una gallina como[BREAK]  yo puede serle útil al Amo Porky...[WAIT]  me hace muy feliz.[END]
 856-8:@(*glub* *glub*)[WAIT]@Thank you, Master Porky.[END]
-856-8E:
+856-8E:@(*glub* *glub*)[WAIT]@Gracias, Amo Porky.[END]
 856-9:@(*glub* *glub*)[WAIT]@Hurrah for Master Porky...![END]
-856-9E:
+856-9E:@(*glub* *glub*)[WAIT]@¡Viva el Amo Porky...![END]
 856-10:@(*glub* *glub*)[WAIT]@Spankety spankety.[END]
-856-10E:
+856-10E:@(*glub* *glub*)[WAIT]@Chincha, chincha.[END]
 856-11:@(*glub* *glub*)[WAIT]@An alligator-dog combination...[END]
-856-11E:
+856-11E:@(*glub* *glub*)[WAIT]@Una mezcla de perro y cocodrilo...[END]
 856-12:@(*glub* *glub*)[WAIT]@O-oink...[END]
-856-12E:
+856-12E:@(*glub* *glub*)[WAIT]@O-oink...[END]
 856-13:@(*glub* *glub*)[WAIT]@Reconstruct animals...[BREAK]  Make ferocious...[END]
-856-13E:
+856-13E:@(*glub* *glub*)[WAIT]@Reconstruir animales...[BREAK]  Hacerlos feroces...[END]
 856-14:@(*bloop* *bloop*)[WAIT]@Bleergh. I feel sick.[WAIT]@I shouldn't have gotten in here.[END]
-856-14E:
+856-14E:@(*blup* *blup*)[WAIT]@Puaaaj. Me siento fatal.[WAIT]@No debería haberme metido aquí.[END]
 856-15:@(*glub* *glub*)[WAIT]@I am well... All thanks... All thanks to him...[WAIT]@It is all thanks to Master Porky.[END]
-856-15E:
+856-15E:@(*glub* *glub*)[WAIT]@Estoy bien... Todo gracias... a él...[WAIT]@Todo gracias al Amo Porky.[END]
 856-16:@(*bloop* *bloop*)[WAIT]@Let's sing...[WAIT]  Let's sing a song praising Master Porky...[END]
-856-16E:
+856-16E:@(*blup* *blup*)[WAIT]@Cantemos una canción...[WAIT]  Una canción de alabanza al Amo Porky...[END]
 856-17:@This green liquid shines ominously.[END]
-856-17E:
+856-17E:@Este líquido verde emite un brillo inquietante.[END]
 
 [Container 857]
 857-0:@This green liquid is the base component of the[BREAK]  "Nice Person Hot Spring".[WAIT]@Soak in it until you're red in the face and your[BREAK]  personality will turn gentle[WAIT]  and make you into a "nice person" who loves[BREAK]  Master Porky.[END]
-857-0E:
+857-0E:@Este líquido verde es el componente base[BREAK]  de las "Aguas termales puras".[WAIT]@Sumérgete en él hasta que tu cara[BREAK]  se enrojezca y tu personalidad se suavice,[WAIT]  haciendo de ti una "buena persona",[BREAK]  leal al Amo Porky.[END]
 857-1:@(*glub* *glub*)[WAIT]  A story is a series of memories.[WAIT]@Memories are remembered with other[BREAK]  memories, (*glub* *glub*)[WAIT]  and in turn become memories themselves.[WAIT]@If you don't take care to preserve your[BREAK]  memories,[PAUSE 40 00] you'll forget them.[WAIT]@So, (*glub* *glub*)[PAUSE 28 00][WAIT]  please tell us frogs your memories of[BREAK]  everything so far...[WAIT]  That is what (*glub* *glub*) people refer to as [BREAK]  "saving".[WAIT]@Now, then...[WAIT]@(*glub* *glub*)[WAIT]  Will you save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-857-1E:
+857-1E:@(*glub* *glub*)[WAIT]  Una historia es una serie de recuerdos.[WAIT]@Estos se agrupan entre sí cuando son[BREAK]  recordados, (*glub* *glub*)[WAIT]  convirtiéndose en nuevos recuerdos.[WAIT]@Si no te aseguras de guardar tus[BREAK]  recuerdos,[PAUSE 40 00] los perderás.[WAIT]@Así que, (*glub* *glub*)[PAUSE 28 00][WAIT]  por favor, cuéntale todos tus[BREAK]  recuerdos a las ranas que veas...[WAIT]  Esto es lo que (*glub* *glub*)[BREAK]  la gente llama "guardar".[WAIT]@Dicho esto...[WAIT]@(*glub* *glub*)[WAIT]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 857-2:@(*glub* *glub*)[WAIT]  Save your game?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-857-2E:
+857-2E:@(*glub* *glub*)[WAIT]  ¿Quieres guardar la partida?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 857-3:@(*glub* *glub* *glub*)[WAIT]  Oh, I see...[WAIT]@Well, please be careful out there.[WAIT]@Give my regards to the next frog you meet.[END]
-857-3E:
+857-3E:@(*glub* *glub* *glub*)[WAIT]  Oh, ya veo...[WAIT]@Bueno, ten cuidado.[WAIT]@Saluda de mi parte a las demás ranas.[END]
 857-4:@(*glub* *glub* *glub*)[WAIT]@Please be careful out there.[WAIT]@Give my regards to the next frog you meet.[END]
-857-4E:
+857-4E:@(*glub* *glub* *glub*)[WAIT]@Por favor, ten cuidado.[WAIT]@Saluda de mi parte a las demás ranas.[END]
 857-5:@(*glub* *glub*)[WAIT]@Master Porky gave me freedom...[WAIT]  I'm free...[END]
-857-5E:
+857-5E:@(*glub* *glub*)[WAIT]@El Amo Porky me ha dado la libertad...[WAIT]  Soy libre...[END]
 857-6:@(*glub* *glub*)[WAIT]@I think I want to be reconstructed...[END]
-857-6E:
+857-6E:@(*glub* *glub*)[WAIT]@Quiero que me remodelen...[END]
 857-7:@(*glub* *glub*)[WAIT]@Ahh... This feels nice and warm...[WAIT]@I find I'm gradually starting to like Master[BREAK]  Porky. Heheh.[END]
-857-7E:
+857-7E:@(*glub* *glub*)[WAIT]@Aaah... Qué calorcito más agradable...[WAIT]@Creo que me está empezando a caer[BREAK]  bien el Amo Porky. Jeje.[END]
 857-8:@(*glub* *glub*)[WAIT]@Master Porky takes very good care of us.[WAIT]  *spit* *spit* *spit*[BREAK]  *saliva* *spit* *spit*[END]
-857-8E:
+857-8E:@(*glub* *glub*)[WAIT]@El Amo Porky cuida bien de nosotros.[WAIT]  *escupe* *escupe*[BREAK]  *saliva* *escupe*[END]
 // this is an EarthBound reference, one of the Shark members says the last part
 857-9:@(*glub* *glub*)[WAIT]@I want (*glub* *glub*) to be a Pigmask...[END]
-857-9E:
+857-9E:@(*glub* *glub*)[WAIT]@Quiero (*glub* *glub*) ser un Puercareto...[END]
 857-10:@(*glub* *glub*)[WAIT]@Don't bother trying to struggle.[BREAK]  The final day is coming.[END]
-857-10E:
+857-10E:@(*glub* *glub*)[WAIT]@No intentes resistirte.[BREAK]  El fin se acerca.[END]
 857-11:@(*glub* *glub*)[WAIT]@I know I'm a sheep, but do you think I can[BREAK]  become a "nice person" this way...?[END]
-857-11E:
+857-11E:@(*glub* *glub*)[WAIT]@Siendo una oveja... ¿podría convertirme[BREAK]  en una "buena persona"...?[END]
 857-12:@(*glub* *glub*)[WAIT]@Everything ever is thanks to Master Porky.[END]
-857-12E:
+857-12E:@(*glub* *glub*)[WAIT]@Se lo debemos todo al Amo Porky.[END]
 857-13:@(*glub* *glub* *glub*)[WAIT]@Happyhappyhappyhappy[WAIT]  I'm so happy today...[END]
-857-13E:
+857-13E:@(*glub* *glub* *glub*)[WAIT]@Felizfelizfelizfelizfelizfeliz[WAIT]  Qué felicidad...[END]
 857-14:@(*glub* *glub*)[WAIT]@Yum![END]
-857-14E:
+857-14E:@(*glub* *glub*)[WAIT]@¡Ñam![END]
 857-15:@(*glub* *glub*)[WAIT]@I'm gonna reconstruct all uncool animals...[END]
-857-15E:
+857-15E:@(*glub* *glub*)[WAIT]@Voy a reconstruir a esos animales tan sosos...[END]
 857-16:@(*glub* *glub*)[WAIT]@I never brush my teeth! Woo![END]
-857-16E:
+857-16E:@(*glub* *glub*)[WAIT]@¡Nunca me lavo los dientes! ¡Wii![END]
 857-17:@Your attention, please.[PAUSE 1E 00][WAIT]@You appear quite exhausted there,[BREAK]  [42 FF 00 00]![WAIT]@But the real fun is just about to begin![WAIT]@Alright! Climb up those stairs just ahead![WAIT]@C'mon! Don't disappoint me, now![BREAK]  Ahahahaha![END]
-857-17E:
+857-17E:@Atención, por favor.[PAUSE 1E 00][WAIT]@¡Tienes pinta de estar cansado,[BREAK]  [42 FF 00 00]![WAIT]@¡Pero lo bueno aún está por llegar![WAIT]@¡Bien! ¡Sube por esas escaleras de ahí![WAIT]@¡Vamos! ¡No me decepciones![BREAK]  ¡Jajajaja![END]
 
 [Container 859]
 859-0:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 859-0E:@Una caja de madera.[BREAK]  De su interior sale un olor a plátano.[END]
 // Repeats: 253-1, 859-0, 860-1, 861-1
 859-1:[END]
-859-1E:
+859-1E:[END]
 
 [Container 860]
 860-0:@You guys have no tact whatsoever, do you?[WAIT]@Get out of there and get on the next elevator.[WAIT]@And then make it to the REAL 100th floor![END]
-860-0E:
+860-0E:@Qué poco tacto tenéis, chicos.[WAIT]@Salid de ahí y subid al siguiente ascensor.[WAIT]@¡Dirigíos al VERDADERO piso 100![END]
 860-1:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 860-1E:@Una caja de madera.[BREAK]  De su interior sale un olor a plátano.[END]
 // Repeats: 253-1, 859-0, 860-1, 861-1
 
 [Container 861]
 861-0:@Squeak squeak-squeeeak.[WAIT]  (I don't think Locria is coming back anymore.[PAUSE 2D 00][BREAK]  Oh, me?[PAUSE 1E 00][WAIT]  I'm a mouse Locria liked to dote over.[WAIT]  He had a creepy "Nwehehehehe" laugh,[WAIT]  so he might've seemed like a mean person in[BREAK]  most people's eyes,[WAIT]  but he was very nice to me, at least.[WAIT]  Do you think he'll be coming home soon?[WAIT]  I'm so lonely.)[END]
-861-0E:
+861-0E:@Chi, chi-chiiiii.[WAIT]  (No creo que Locria vaya a volver...[PAUSE 2D 00][BREAK]  Oh, ¿yo?[PAUSE 1E 00][WAIT]  Locria solía cuidar de mí.[WAIT]  Ese "Ñiejejejeje" suyo daba miedo,[WAIT]  así que, desde fuera, podría parecer[BREAK]  una mala persona,[WAIT]  pero siempre se portaba muy bien conmigo.[WAIT]  ¿Creéis que va a volver pronto a casa?[WAIT]  Estoy tan solo...)[END]
 861-1:@There's a wooden box here.[BREAK]  The scent of bananas wafts from it.[END]
 861-1E:@Una caja de madera.[BREAK]  De su interior sale un olor a plátano.[END]
 // Repeats: 253-1, 859-0, 860-1, 861-1
 
 [Container 863]
 863-0:@This is a gathering room for Master Porky's[BREAK]  fans.[WAIT]@Can you guys put your hands to your chest[WAIT]  and say from the bottom of your heart,[PAUSE 20 00][BREAK]  "I love you, Master Porky"?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-863-0E:
+863-0E:@Esto es un punto de reunión[BREAK]  para fans del Amo Porky.[WAIT]@¿Sois lo suficientemente fans como[WAIT]  para abrirle vuestro corazón y decir,[PAUSE 20 00][BREAK]  "Te quiero, Amo Porky"?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 863-1:@Alright, then.[BREAK]  Please make yourselves at home.[END]
-863-1E:
+863-1E:@Excelente.[BREAK]  Por favor, poneos cómodos.[END]
 863-2:@Then quit lurking around and get out of here.[END]
-863-2E:
+863-2E:@Entonces dejad de bichear y largo de aquí.[END]
 863-3:@Why can't we just let Master Porky take care[BREAK]  of everything?[END]
-863-3E:
+863-3E:@¿No estaría genial que el Amo Porky[BREAK]  tuviese control sobre todo?[END]
 863-4:@*giggle*[WAIT]@My job is tickling Master Porky under his chins.[END]
-863-4E:
+863-4E:@*risita*[WAIT]@Mi trabajo es hacerle cosquillas al Amo Porky.[END]
 863-5:@These are Master Porky's favorite[BREAK]  double-chocolate fried pork chips.[END]
-863-5E:
+863-5E:@Al Amo Porky le encantan estas patatas[BREAK]  porcinas bañadas en chocolate.[END]
 863-6:@Hey, you![END]
 863-6E:@¡Eh, vosotros![END]
 863-7:@What's with that cheeky attitude?![WAIT]@Don't you think you're acting a little too[BREAK]  friendly with Master Porky's snacks?![END]
-863-7E:
+863-7E:@P-pero... ¡seréis insolentes![WAIT]@¡¿Cómo os atrevéis a manosear[BREAK]  los aperitivos del Amo Porky?![END]
 863-8:@Tons of sweets and presents are lying here.[END]
-863-8E:
+863-8E:@Una montaña de golosinas y regalos.[END]
 863-9:@Food and drink excessively high in calories are[BREAK]  sitting here.[END]
-863-9E:
+863-9E:@Comida basura y refrescos[BREAK]  demasiado altos en calorías.[END]
 863-10:@This appears to be a present, but it's[BREAK]  unopenable, unusable, and untakeable.[END]
-863-10E:
+863-10E:@Parece un regalo, pero no puedes[BREAK]  ni abrirlo, ni usarlo, ni llevártelo...[END]
 863-11:@How about some oxygen for old times' sake...?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-863-11E:
+863-11E:@¿Quieres oxígeno? Por los viejos tiempos...[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 863-12:@Oxygen?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-863-12E:
+863-12E:@¿Quieres oxígeno?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 863-13:@...Oxygen![END]
-863-13E:
+863-13E:@...¡Oxígeno![END]
 // this is a pun that doesn't work in translation so I've left it literal
 863-14:@Your attention, please.[BREAK]  We have a report of lost children.[WAIT]@The detestable [LUCAS 23 02 00] and his pals[BREAK]  appear to be lost[PAUSE 1E 00] in Master Porky's fan room.[WAIT]  Hehehehe.[WAIT]@Attention, [LUCAS 23 02 00] and friends![PAUSE 0F 00][BREAK]  Attention, [LUCAS 23 02 00] and friends![PAUSE 0F 00][WAIT]  Come to the real 100th floor immediately,[PAUSE 30 00][BREAK]  if you dare![WAIT]@Ahahahahaha![END]
-863-14E:
+863-14E:@Atención, por favor.[BREAK]  Tenemos a unos niños extraviados.[WAIT]@El repelente [LUCAS 23 02 00] y sus amiguitos[BREAK]  parecen haberse perdido[PAUSE 1E 00] en la sala de fans.[WAIT]  Jejejeje.[WAIT]@¡Llamando a [LUCAS 23 02 00] y compañía![PAUSE 0F 00][BREAK]  ¡Llamando a [LUCAS 23 02 00] y compañía![PAUSE 0F 00][WAIT]  Venid al piso 100 inmediatamente,[PAUSE 30 00][BREAK]  ¡si os atrevéis![WAIT]@¡Jajajajaja![END]
 863-15:[END]
-863-15E:
+863-15E:[END]
 
 [Container 864]
 864-0:@A toolbox.[END]
-864-0E:
+864-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 864-1:@Lumber.[END]
-864-1E:
+864-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 864-2:@A dangerous-looking machine.[END]
-864-2E:
+864-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 864-3:@A big machine.[END]
-864-3E:
+864-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 864-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-864-4E:
+864-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 864-5:@A handcart.[END]
-864-5E:
+864-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 864-6:@A bag of cement.[END]
-864-6E:
+864-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 864-7:@Mixed cement.[END]
-864-7E:
+864-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 864-8:@A bucket.[WAIT]@It's filled with water.[END]
-864-8E:
+864-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 864-9:@Construction tools are lying all around.[END]
-864-9E:
+864-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 864-10:@Concrete is pouring out.[END]
-864-10E:
+864-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 864-11:@Construction tools are lying all around.[END]
-864-11E:
+864-11E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 864-12:@A toolbox.[END]
-864-12E:
+864-12E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 864-13:[END]
-864-13E:
+864-13E:[END]
 
 [Container 865]
 865-0:@A toolbox.[END]
-865-0E:
+865-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 865-1:@Lumber.[END]
-865-1E:
+865-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 865-2:@A dangerous-looking machine.[END]
-865-2E:
+865-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 865-3:@A big machine.[END]
-865-3E:
+865-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 865-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-865-4E:
+865-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 865-5:@A handcart.[END]
-865-5E:
+865-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 865-6:@A bag of cement.[END]
-865-6E:
+865-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 865-7:@Mixed cement.[END]
-865-7E:
+865-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 865-8:@A bucket.[WAIT]@It's filled with water.[END]
-865-8E:
+865-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 865-9:@Construction tools are lying all around.[END]
-865-9E:
+865-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 865-10:@Concrete is pouring out.[END]
-865-10E:
+865-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 865-11:[END]
-865-11E:
+865-11E:[END]
 
 [Container 866]
 866-0:@A toolbox.[END]
-866-0E:
+866-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 866-1:@Lumber.[END]
-866-1E:
+866-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 866-2:@A dangerous-looking machine.[END]
-866-2E:
+866-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 866-3:@A big machine.[END]
-866-3E:
+866-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 866-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-866-4E:
+866-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 866-5:@A handcart.[END]
-866-5E:
+866-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 866-6:@A bag of cement.[END]
-866-6E:
+866-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 866-7:@Mixed cement.[END]
-866-7E:
+866-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 866-8:@A bucket.[WAIT]@It's filled with water.[END]
-866-8E:
+866-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 866-9:@Construction tools are lying all around.[END]
-866-9E:
+866-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 866-10:@Concrete is pouring out.[END]
-866-10E:
+866-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 866-11:[END]
-866-11E:
+866-11E:[END]
 
 [Container 867]
 867-0:@A toolbox.[END]
-867-0E:
+867-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 867-1:@Lumber.[END]
-867-1E:
+867-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 867-2:@A dangerous-looking machine.[END]
-867-2E:
+867-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 867-3:@A big machine.[END]
-867-3E:
+867-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 867-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-867-4E:
+867-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 867-5:@A handcart.[END]
-867-5E:
+867-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 867-6:@A bag of cement.[END]
-867-6E:
+867-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 867-7:@Mixed cement.[END]
-867-7E:
+867-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 867-8:@A bucket.[WAIT]@It's filled with water.[END]
-867-8E:
+867-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 867-9:@Construction tools are lying all around.[END]
-867-9E:
+867-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 867-10:@Concrete is pouring out.[END]
-867-10E:
+867-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 867-11:[END]
-867-11E:
+867-11E:[END]
 
 [Container 868]
 868-0:@A toolbox.[END]
-868-0E:
+868-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 868-1:@Lumber.[END]
-868-1E:
+868-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 868-2:@A dangerous-looking machine.[END]
-868-2E:
+868-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 868-3:@A big machine.[END]
-868-3E:
+868-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 868-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-868-4E:
+868-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 868-5:@A handcart.[END]
-868-5E:
+868-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 868-6:@A bag of cement.[END]
-868-6E:
+868-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 868-7:@Mixed cement.[END]
-868-7E:
+868-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 868-8:@A bucket.[WAIT]@It's filled with water.[END]
-868-8E:
+868-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 868-9:@Construction tools are lying all around.[END]
-868-9E:
+868-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 868-10:@Concrete is pouring out.[END]
-868-10E:
+868-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 868-11:@I probably don't need to tell you this, but[BREAK]  whatever you do, do NOT tackle anyone![END]
-868-11E:
+868-11E:@Sé que es una obviedad, pero, hagas[BREAK]  lo que hagas... ¡NO embistas a nadie![END]
 868-12:@How good of you to come to this construction[BREAK]  site![WAIT]@You're interfering with the construction, but I[BREAK]  welcome you just the same![END]
-868-12E:
+868-12E:@¡Gracias por venir a visitar[BREAK]  esta zona en obras![WAIT]@¡Sois un estorbo para nosotros, pero[BREAK]  os damos la bienvenida igualmente![END]
 868-13:@Do you guys have business here at this[BREAK]  construction site?[WAIT]@If not, then get lost, okay?[END]
-868-13E:
+868-13E:@¿Habéis venido a esta zona en obras[BREAK]  por algún motivo en concreto?[WAIT]@Si no es así, ya estáis tardando en esfumaros.[END]
 
 [Container 869]
 869-0:@A toolbox.[END]
-869-0E:
+869-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 869-1:@Lumber.[END]
-869-1E:
+869-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 869-2:@A dangerous-looking machine.[END]
-869-2E:
+869-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 869-3:@A big machine.[END]
-869-3E:
+869-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 869-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-869-4E:
+869-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 869-5:@A handcart.[END]
-869-5E:
+869-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 869-6:@A bag of cement.[END]
-869-6E:
+869-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 869-7:@Mixed cement.[END]
-869-7E:
+869-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 869-8:@A bucket.[WAIT]@It's filled with water.[END]
-869-8E:
+869-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 869-9:@Construction tools are lying all around.[END]
-869-9E:
+869-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 869-10:@Concrete is pouring out.[END]
-869-10E:
+869-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 869-11:@When you're as experienced as I am, you're so[BREAK]  used to heights[WAIT]  that even near-falls aren't anything at all![END]
-869-11E:
+869-11E:@¡Una vez te acostumbras a trabajar[BREAK]  a gran altura,[WAIT]  estas cosas se convierten en rutina![END]
 869-12:@Watch it, you jerk![WAIT]@I would've fallen, had I not been me![BREAK]  You moron![END]
-869-12E:
+869-12E:@¡Ve con más cuidado, tarugo![WAIT]@¡De haber sido otro, me habría caído![BREAK]  ¡Zoquete![END]
 869-13:@Hey! You jerk![WAIT]@I seriously thought I was gonna fall that time![END]
-869-13E:
+869-13E:@¡Eh! ¡Tarugo![WAIT]@¡Esta vez creía que me iba a caer de verdad![END]
 
 [Container 870]
 870-0:@A toolbox.[END]
-870-0E:
+870-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 870-1:@Lumber.[END]
-870-1E:
+870-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 870-2:@A dangerous-looking machine.[END]
-870-2E:
+870-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 870-3:@A big machine.[END]
-870-3E:
+870-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 870-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-870-4E:
+870-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 870-5:@A handcart.[END]
-870-5E:
+870-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 870-6:@A bag of cement.[END]
-870-6E:
+870-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 870-7:@Mixed cement.[END]
-870-7E:
+870-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 870-8:@A bucket.[WAIT]@It's filled with water.[END]
-870-8E:
+870-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 870-9:@Construction tools are lying all around.[END]
-870-9E:
+870-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 870-10:@Concrete is pouring out.[END]
-870-10E:
+870-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 870-11:@What's that?[BREAK]  Am I not afraid of heights, you ask?[WAIT]@What're you talkin' about, you jerk?![WAIT]@Even if I was afraid of 'em, it's not like I can[BREAK]  just quit any time I want![WAIT]@That's what it means to be a father![END]
-870-11E:
+870-11E:@¿Cómo?[BREAK]  ¿Que si me dan miedo las alturas?[WAIT]@¡¿A qué viene esa pregunta, tarugo?![WAIT]@¡Y aunque así fuese, no podría[BREAK]  renunciar a este trabajo![WAIT]@¡Tengo que cumplir con mi deber de padre![END]
 
 [Container 871]
 871-0:@A toolbox.[END]
-871-0E:
+871-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 871-1:@Lumber.[END]
-871-1E:
+871-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 871-2:@A dangerous-looking machine.[END]
-871-2E:
+871-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 871-3:@A big machine.[END]
-871-3E:
+871-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 871-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-871-4E:
+871-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 871-5:@A handcart.[END]
-871-5E:
+871-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 871-6:@A bag of cement.[END]
-871-6E:
+871-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 871-7:@Mixed cement.[END]
-871-7E:
+871-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 871-8:@A bucket.[WAIT]@It's filled with water.[END]
-871-8E:
+871-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 871-9:@Construction tools are lying all around.[END]
-871-9E:
+871-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 871-10:@Concrete is pouring out.[END]
-871-10E:
+871-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 871-11:@What's that?![BREAK]  Is this the 100th floor, you ask?[WAIT]@Of course it isn't! Duh![END]
-871-11E:
+871-11E:@¡¿Cómo?![BREAK]  ¿Que si este es el piso 100?[WAIT]@¡Pues claro que no! ¡Pfff![END]
 871-12:@This building's made out of concrete and[BREAK]  lumber![END]
-871-12E:
+871-12E:@¡Este edificio está hecho de madera[BREAK]  y hormigón![END]
 871-13:[END]
-871-13E:
+871-13E:[END]
 
 [Container 872]
 872-0:@A toolbox.[END]
-872-0E:
+872-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 872-1:@Lumber.[END]
-872-1E:
+872-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 872-2:@A dangerous-looking machine.[END]
-872-2E:
+872-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 872-3:@A big machine.[END]
-872-3E:
+872-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 872-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-872-4E:
+872-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 872-5:@A handcart.[END]
-872-5E:
+872-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 872-6:@A bag of cement.[END]
-872-6E:
+872-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 872-7:@Mixed cement.[END]
-872-7E:
+872-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 872-8:@A bucket.[WAIT]@It's filled with water.[END]
-872-8E:
+872-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 872-9:@Construction tools are lying all around.[END]
-872-9E:
+872-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 872-10:@Concrete is pouring out.[END]
-872-10E:
+872-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 872-11:@Risk pulling the lever to see what happens?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-872-11E:
+872-11E:@¿Quieres tirar de la palanca y ver qué pasa?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 872-12:@Don't pull levers anymore, okay?[END]
-872-12E:
+872-12E:@No tires de más palancas, ¿vale?[END]
 872-13:@There are all sorts of buttons here.[END]
-872-13E:
+872-13E:@Botones hasta aburrir.[END]
 872-14:@Don't touch! Danger![WAIT]@Pulling of this lever by anyone other than[BREAK]  construction personnel is forbidden.[END]
-872-14E:
+872-14E:@¡No tocar! ¡Peligro![WAIT]@El uso de esta palanca está prohibido[BREAK]  a todo el personal ajeno a la obra.[END]
 872-15:@What am I doing here, you ask?[WAIT]@What do you think?! Construction work! Duh![WAIT]@Amateurs like you could never hope to[BREAK]  understand how complicated this job is![END]
-872-15E:
+872-15E:@¿Que qué hago aquí?[WAIT]@¡¿A ti qué te parece?! ¡Trabajar! ¡Pfff![WAIT]@¡Los novatillos como tú jamas van a entender[BREAK]  lo complicado que es este trabajo![END]
 872-16:@A very heavy-looking steel ball.[END]
-872-16E:
+872-16E:@Una bola de hierro. Parece PESADA.[END]
 872-17:[END]
-872-17E:
+872-17E:[END]
 
 [Container 873]
 873-0:@A toolbox.[END]
-873-0E:
+873-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 873-1:@Lumber.[END]
-873-1E:
+873-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 873-2:@A dangerous-looking machine.[END]
-873-2E:
+873-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 873-3:@A big machine.[END]
-873-3E:
+873-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 873-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-873-4E:
+873-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 873-5:@A handcart.[END]
-873-5E:
+873-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 873-6:@A bag of cement.[END]
-873-6E:
+873-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 873-7:@Mixed cement.[END]
-873-7E:
+873-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 873-8:@A bucket.[WAIT]@It's filled with water.[END]
-873-8E:
+873-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 873-9:@Construction tools are lying all around.[END]
-873-9E:
+873-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 873-10:@Concrete is pouring out.[END]
-873-10E:
+873-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 873-11:[END]
-873-11E:
+873-11E:[END]
 
 [Container 874]
 874-0:@A toolbox.[END]
-874-0E:
+874-0E:@Una caja de herramientas.[END]
 // Repeats: 864-0, 864-12, 865-0, 866-0, 867-0, 868-0, 869-0, 870-0, 871-0, 872-0, 873-0, 874-0
 874-1:@Lumber.[END]
-874-1E:
+874-1E:@Unos troncos.[END]
 // Repeats: 864-1, 865-1, 866-1, 867-1, 868-1, 869-1, 870-1, 871-1, 872-1, 873-1, 874-1
 874-2:@A dangerous-looking machine.[END]
-874-2E:
+874-2E:@Esta máquina parece peligrosa.[END]
 // Repeats: 864-2, 865-2, 866-2, 867-2, 868-2, 869-2, 870-2, 871-2, 872-2, 873-2, 874-2
 874-3:@A big machine.[END]
-874-3E:
+874-3E:@Una máquina enorme.[END]
 // Repeats: 864-3, 865-3, 866-3, 867-3, 868-3, 869-3, 870-3, 871-3, 872-3, 873-3, 874-3
 874-4:@It's not clear what this is used for, but it's[BREAK]  probably a machine used for construction.[END]
-874-4E:
+874-4E:@Su función no está muy clara, pero tiene que[BREAK]  ser una máquina usada en la construcción.[END]
 // Repeats: 864-4, 865-4, 866-4, 867-4, 868-4, 869-4, 870-4, 871-4, 872-4, 873-4, 874-4
 874-5:@A handcart.[END]
-874-5E:
+874-5E:@Una carretilla.[END]
 // Repeats: 864-5, 865-5, 866-5, 867-5, 868-5, 869-5, 870-5, 871-5, 872-5, 873-5, 874-5
 874-6:@A bag of cement.[END]
-874-6E:
+874-6E:@Un saco de cemento.[END]
 // Repeats: 864-6, 865-6, 866-6, 867-6, 868-6, 869-6, 870-6, 871-6, 872-6, 873-6, 874-6
 874-7:@Mixed cement.[END]
-874-7E:
+874-7E:@Una mezcla de cemento.[END]
 // Repeats: 864-7, 865-7, 866-7, 867-7, 868-7, 869-7, 870-7, 871-7, 872-7, 873-7, 874-7
 874-8:@A bucket.[WAIT]@It's filled with water.[END]
-874-8E:
+874-8E:@Un cubo.[WAIT]@Está lleno de agua.[END]
 // Repeats: 864-8, 865-8, 866-8, 867-8, 868-8, 869-8, 870-8, 871-8, 872-8, 873-8, 874-8
 874-9:@Construction tools are lying all around.[END]
-874-9E:
+874-9E:@Cuánta herramienta hay por el suelo...[END]
 // Repeats: 864-9, 864-11, 865-9, 866-9, 867-9, 868-9, 869-9, 870-9, 871-9, 872-9, 873-9, 874-9
 874-10:@Concrete is pouring out.[END]
-874-10E:
+874-10E:@No para de expulsar hormigón.[END]
 // Repeats: 864-10, 865-10, 866-10, 867-10, 868-10, 869-10, 870-10, 871-10, 872-10, 873-10, 874-10
 874-11:@Future site of the Great Porky Swimming Bath.[END]
-874-11E:
+874-11E:@Próximamente: Bañera del Gran Porky.[END]
 874-12:@Attention, workers.[WAIT]@Some idiots have snuck onto the construction[BREAK]  site and are causing loads of trouble.[PAUSE 3C 00][WAIT]@Idiots! Idiots! Idiots![BREAK]  You idiots! I'm talking about you guys![WAIT]@Come on, now. How about you actually try to[BREAK]  come to the 100th floor already?[WAIT]@You're really starting to irritate me![WAIT]@You're making my dentures itch like crazy![WAIT]@Get on the next elevator already![END]
-874-12E:
+874-12E:@Atención, trabajadores.[WAIT]@Unos tarugos se han colado en la zona[BREAK]  en construcción y están montando jaleo.[PAUSE 3C 00][WAIT]@¡Tarugos! ¡Tarugos! ¡Tarugos![BREAK]  ¡Tarugos! ¡Estoy hablando de vosotros![WAIT]@¿Qué tal si ponéis un poco más de empeño[BREAK]  en llegar de una vez al piso 100?[WAIT]@¡Estáis empezando a mosquearme![WAIT]@¡Y encima me pica la dentadura postiza![WAIT]@¡Subid ya a ese maldito ascensor![END]
 874-13:[END]
-874-13E:
+874-13E:[END]
 
 [Container 875]
 875-0:[END]
-875-0E:
+875-0E:[END]
 875-1:[END]
-875-1E:
+875-1E:[END]
 
 [Container 877]
 877-0:[HOTSPRING 00 00][END]
@@ -19932,7 +19932,7 @@
 877-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 877-27:@An eye-watering stench hangs in the air.[END]
-877-27E:
+877-27E:@Un pestazo indescriptible flota en el aire.[END]
 
 [Container 878]
 878-0:[HOTSPRING 00 00][END]
@@ -20023,18 +20023,18 @@
 878-28E:@Hay un montón de postales dentro.[WAIT]@¿Quieres leerlas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 180-32, 878-28
 878-29:@There's nothing in the mailbox.[WAIT]@[PAUSE 20 00]Except for the 1000 rat corpses.[END]
-878-29E:
+878-29E:@No hay nada en el buzón.[WAIT]@[PAUSE 20 00]Aparte de los mil cadáveres de rata.[END]
 878-30:@Reeeaaally sweet-smelling drinks.[END]
-878-30E:
+878-30E:@Bebidas de olor dulceeeeee.[END]
 878-31:@A tart smell wafts through the air.[END]
-878-31E:
+878-31E:@En el aire flota un aroma a pastel.[END]
 
 [Container 879]
 879-0:@An ornamental plant.[END]
-879-0E:
+879-0E:@Una planta de adorno.[END]
 // Repeats: 816-0, 817-0, 822-0, 826-0, 828-0, 829-0, 833-0, 879-0
 879-1:@I'm trying to eat here![END]
-879-1E:
+879-1E:@¡Estoy intentando comer![END]
 // Repeats: 829-1, 879-1
 
 [Container 880]
@@ -20120,75 +20120,75 @@
 880-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 880-27:@What do you think?[WAIT]@It's much more spacious than it appears on the[BREAK]  outside, wouldn't you agree?[WAIT]@We'll arrive at New Pork City shortly, so[BREAK]  please relax and enjoy yourselves for a while.[END]
-880-27E:
+880-27E:@¿Qué les parece?[WAIT]@Desde fuera, no parece tan espaciosa,[BREAK]  ¿no están de acuerdo?[WAIT]@Pronto llegaremos a Nueva Pork.[BREAK]  Relájense y disfruten del trayecto.[END]
 880-28:@A tabletop game.[WAIT]@It looks like you can play it, but you can't.[END]
-880-28E:
+880-28E:@Una recreativa de las antiguas.[WAIT]@Parece que puedes jugar, pero no.[END]
 880-29:@A 9-foot billiard table.[WAIT]@The pockets have been designed to be quite[BREAK]  large.[WAIT]@It looks like you can play it, but you can't.[END]
-880-29E:
+880-29E:@Una gran mesa de billar.[WAIT]@Los agujeros son bastante más grandes[BREAK]  de lo normal.[WAIT]@Parece que puedes jugar, pero no.[END]
 880-30:@A big, fluffy sofa.[WAIT]@It looks like you can sit on it, but you can't.[END]
-880-30E:
+880-30E:@Un sofá grande y mullido.[WAIT]@Parece que puedes sentarte, pero no.[END]
 880-31:@A big, fluffy sofa.[WAIT]@You can relax on it. Will you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-880-31E:
+880-31E:@Un sofá grande y mullido.[WAIT]@¿Quieres relajarte un rato en él?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 880-32:@What is this feeling?![END]
-880-32E:
+880-32E:@¡¿Qué es esta sensación?![END]
 880-33:@Would you like to sit in the passenger seat?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-880-33E:
+880-33E:@¿Quieres sentarte en el asiento de pasajeros?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 880-34:@Grownup drinks are lined up here.[WAIT]@It's spicy, bitter, yucky poison, so kids can't[BREAK]  drink it.[WAIT]@Oh, wait. Grownups can't drink it, either.[END]
-880-34E:
+880-34E:@Diversas bebidas para adultos.[WAIT]@Son veneno puro.[BREAK]  Los niños no deberían beberlas.[WAIT]@Oh, espera... los adultos tampoco.[END]
 880-35:@A blackjack table.[WAIT]@It's not a playable blackjack table, though.[END]
-880-35E:
+880-35E:@Una mesa de Blackjack.[WAIT]@Parece que puedes jugar, pero no.[END]
 880-36:@This is one of those famous champagne[BREAK]  towers.[WAIT]@Actually, upon closer inspection, it's only a[BREAK]  painting.[END]
-880-36E:
+880-36E:@Una de esas famosas torres[BREAK]  de copas de champán.[WAIT]@Aunque, si te fijas bien,[BREAK]  solamente es un dibujo.[END]
 880-37:@A stage.[WAIT]@It looks like you could sing a song from it, but[BREAK]  you can't even get on it.[END]
-880-37E:
+880-37E:@Un escenario.[WAIT]@Parece que puedes subir y cantar[BREAK]  una canción en él, pero no.[END]
 880-38:@Master [LUCAS 23 02 00].[WAIT]@Is this your first time to New Pork City?[WAIT]@It's quite a different place from Tazmily, so I[BREAK]  expect you'll find it rather surprising.[WAIT]@Hahaha.[END]
-880-38E:
+880-38E:@Señorito [LUCAS 23 02 00].[WAIT]@¿Es esta su primera vez en Nueva Pork?[WAIT]@Es un lugar bastante diferente a Tazmily,[BREAK]  confío en que le va a sorprender.[WAIT]@Jajaja.[END]
 880-39:@Do you know Master Porky,[BREAK]  Master [LUCAS 23 02 00]?[WAIT]@This is the first time he's ever offered anyone[BREAK]  an invitation, you know.[END]
-880-39E:
+880-39E:@¿Conoce al Amo Porky,[BREAK]  señorito [LUCAS 23 02 00]?[WAIT]@Es la primera vez que el amo le envía[BREAK]  una invitación a alguien, ¿sabe?[END]
 880-40:@Oh, this photo?[WAIT]@It's of my wife and daughter.[WAIT]@My wife's well-known in the neighborhood for[BREAK]  her sense of humor.[END]
-880-40E:
+880-40E:@¿Oh, esta foto?[WAIT]@Son mi mujer y mi hija.[WAIT]@Mi mujer es famosa en el vecindario[BREAK]  por su sentido del humor.[END]
 880-41:@I've been doing this job for a long time now,[BREAK]  you see...[WAIT]@So I've been thinking about finally retiring[WAIT]  and possibly taking over the egg stand my[BREAK]  wife's family runs.[WAIT]@Hahaha.[END]
-880-41E:
+880-41E:@Llevo muchos años en este oficio,[BREAK]  ¿sabe?...[WAIT]@Así que he estado pensando en retirarme[WAIT]  y hacerme cargo de la huevería[BREAK]  de mis suegros.[WAIT]@Jajaja.[END]
 880-42:@Oh![WAIT]  See that ice cream cone-like cloud[PAUSE 15 00] beneath the[BREAK]  duck-shaped cloud[PAUSE 15 00] up and east of there?[PAUSE 2E 00][WAIT]@No, not there![WAIT]@By the mountain ridge that looks like a mouse[BREAK]  taking a bite out of a sunflower seed.[WAIT]@No! Not there! Before that...[BREAK]  Aaaaaahhhhh![PAUSE 0F 00][WAIT]  Too late! We just passed it![END]
-880-42E:
+880-42E:@¡Oh![WAIT]  ¿Ve esa nube con forma de helado[PAUSE 15 00] bajo esa[BREAK]  otra con forma de pato,[PAUSE 15 00] ahí al este?[PAUSE 2E 00][WAIT]@¡No, ahí no![WAIT]@Al lado de esa cordillera que parece un ratón[BREAK]  comiéndose una pipa de girasol.[WAIT]@¡No! ¡Ahí no! Justo en...[BREAK]  ¡Aaaaaah![PAUSE 0F 00][WAIT]  ¡Ya nada! ¡La hemos pasado![END]
 880-43:@I truly hate to say this, but you really are[BREAK]  distracting me.[WAIT]  Could I possibly ask that you refrain from[BREAK]  talking to me?[END]
-880-43E:
+880-43E:@Siento tener que decirle esto, pero[BREAK]  está usted distrayéndome.[WAIT]  ¿Sería tan amable de poner fin[BREAK]  a esta conversación?[END]
 880-44:@Yes![WAIT]@There it is![WAIT]@Say hello[PAUSE 20 00] to New Pork City![END]
-880-44E:
+880-44E:@¡Sí![WAIT]@¡Hemos llegado![WAIT]@¡Díganle hola a[PAUSE 20 00] Nueva Pork![END]
 880-45:[END]
-880-45E:
+880-45E:[END]
 
 [Container 881]
 881-0:@Welcome.[WAIT]@This is the Empire Porky Building, home of the[BREAK]  great Master Porky.[END]
-881-0E:
+881-0E:@Bienvenidos.[WAIT]@Este es el Empire Porky, residencia[BREAK]  del gran Amo Porky.[END]
 881-1:@Welcome![BREAK]  *smile* *smile*[WAIT]@The elevator repairs have finally been finished.[WAIT]@Please feel free to take it to whichever floor[BREAK]  your heart leads you.[END]
-881-1E:
+881-1E:@¡Bienvenidos![BREAK]  *sonrisa* *sonrisa*[WAIT]@Las reparaciones del ascensor han terminado.[WAIT]@No duden en usarlo para subir al piso[BREAK]  que su corazón les dicte.[END]
 881-2:@For some reason I like being talked to from[BREAK]  behind like that...[END]
-881-2E:
+881-2E:@No sé por qué, pero me encanta[BREAK]  que me hablen desde atrás...[END]
 // this is said when you talk to the receptionist from behind
 881-3:@So you finally came too, [LUCAS 23 02 00]?[WAIT]@Is [FLINT 23 01 00] still out looking for his[BREAK]  missing son?[WAIT]@If only he'd come to me for serious help, we[BREAK]  might've been able to find him...[WAIT]@He's an awkward fellow,[PAUSE 18 00] that father of yours.[END]
-881-3E:
+881-3E:@Al final has venido, ¿eh, [LUCAS 23 02 00]?[WAIT]@¿Y [FLINT 23 01 00]?[BREAK]  ¿Todavía sigue buscando a tu hermano?[WAIT]@Si me hubiese pedido ayuda, seguro que[BREAK]  ya lo habríamos encontrado...[WAIT]@Es un tipo complicado,[PAUSE 18 00] este padre tuyo.[END]
 881-4:@Oh?[WAIT]@Even you wound up coming here?[WAIT]@Please, don't cause us any more trouble.[END]
-881-4E:
+881-4E:@¿Oh?[WAIT]@¿Tú por aquí?[WAIT]@Por favor, no nos causes más problemas.[END]
 881-5:@Oh? What's this?[BREAK]  Well, if it isn't [LUCAS 23 02 00].[WAIT]@I've come here to study up on Master Porky,[BREAK]  our great leader.[END]
-881-5E:
+881-5E:@¿Qué ven mis ojos?[BREAK]  Pero si es [LUCAS 23 02 00].[WAIT]@He venido aquí para aprender más[BREAK]  sobre el gran Amo Porky.[END]
 881-6:@I just know that someday our dear little Ollie[BREAK]  will become as important as Master Porky[WAIT]  and make life so much easier for us.[WAIT]@Ohohohoho![END]
-881-6E:
+881-6E:@Algún día, nuestro Ollie llegará a ser[BREAK]  tan importante como el Amo Porky,[WAIT]  y nos haría la vida aún más fácil.[WAIT]@¡Jojojojo![END]
 881-7:@Heya![WAIT]@It's me! I'm as depressed as ever![WAIT]@C'mon! You should cheer up, too![WAIT]@I know! Let's be depressed together![END]
-881-7E:
+881-7E:@¡Ey![WAIT]@¡Soy yo! ¡Y estoy tan depre como siempre![WAIT]@¡Vamos! ¡Tú también deberías animarte![WAIT]@¡Ya sé! ¡Deprimámonos juntos![END]
 881-8:@We may be tiny, but we're still living beings.[BREAK]  We eke out our lives as mole crickets.[WAIT]@We mole crickets have finally started to make[BREAK]  forays into the big city.[WAIT]@We have all sorts of wonderful goods that we[BREAK]  found lying on the... [PAUSE 0F 00]I mean, stocked up on.[WAIT]@At low, low prices that no one can compete[BREAK]  with, even![WAIT]@Would you like to take a look?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-881-8E:
+881-8E:@Incluso nosotros, los grillos topo, nos[BREAK]  ganamos la vida como mejor podemos.[WAIT]@Finalmente, hemos iniciado nuestra[BREAK]  incursión en la gran ciudad.[WAIT]@Tenemos una amplia gama de objetos[BREAK]  que encontramos tirados... [PAUSE 0F 00]eeeh, de precio.[WAIT]@¡Nadie puede competir con nuestras ofertas![WAIT]@¿Quieres echar un ojo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 881-9:@If you happen to see any of my fellow mole[BREAK]  crickets anywhere, give them my regards.[WAIT]@*twinkle*[END]
-881-9E:
+881-9E:@Si coincides con alguno de mis colegas grillo[BREAK]  topo, dales un saludo de mi parte.[WAIT]@*guiño*[END]
 881-10:@Oh, okay![WAIT]@These kinds of things happen all the time when[BREAK]  you're on the forefront of business evolution.[WAIT]@I hope you'll come see me again sometime,[BREAK]  though![END]
-881-10E:
+881-10E:@¡Oh, vale![WAIT]@Este tipo de cosas ocurren constantemente[BREAK]  cuando lideras la evolución del mercado.[WAIT]@¡No obstante, espero volver a verte pronto![END]
 881-11:@I sell dangerous things. You want?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
 881-11E:@Vendo material peligroso. ¿Quieres algo?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 259-0, 881-11
 881-12:@You have a good eye.[END]
-881-12E:
+881-12E:@Tienes buen ojo.[END]
 881-13:@Then I won't sell to you. Heheheh.[END]
-881-13E:@Pues entonces no te vendo nada. Je, je, je.[END]
+881-13E:@Pues entonces no te vendo nada. Jejeje.[END]
 // Repeats: 259-2, 881-13
 
 [Container 882]
@@ -20274,175 +20274,175 @@
 882-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 882-27:[END]
-882-27E:
+882-27E:[END]
 
 [Container 883]
 883-0:@Service repairs in progress.[END]
-883-0E:
+883-0E:@Reparaciones en curso.[END]
 883-1:@Has anyone ever seen Master Porky before?[WAIT]@How old do you think he is?[WAIT]@He must be amazing to build a city like this.[END]
-883-1E:
+883-1E:@¿Alguien ha llegado a ver al Amo Porky?[WAIT]@¿Cuántos años tendrá?[WAIT]@Seguro que es una persona increíble.[END]
 883-2:@That statue of Master Porky looks a lot like a[BREAK]  kid, don't you think?[WAIT]@What do you think's up with that?[END]
-883-2E:
+883-2E:@La estatua del Amo Porky esa parece[BREAK]  un niño pequeño, ¿no te parece?[WAIT]@¿Qué crees que significa?[END]
 883-3:@Oh, [LUCAS 23 02 00].[WAIT]@I was just on my way to the DCMC concert.[WAIT]@I've actually never seen them before,[WAIT]  even though I worked at the factory right next[BREAK]  to Titiboo for such a long time.[WAIT]  Hahaha.[END]
-883-3E:
+883-3E:@Oh, [LUCAS 23 02 00].[WAIT]@Ahora mismo iba al concierto de DCMC.[WAIT]@La verdad es que nunca los he visto actuar,[WAIT]  y eso que he trabajado durante mucho tiempo[BREAK]  a cinco minutos del club Titibú.[WAIT]  Jajaja.[END]
 883-4:@Oh, that reminds me, when I was working at[BREAK]  the factory, I found a doorknob on the ground.[WAIT]  No idea who it belonged to.[WAIT]@Normally I would've kept it and taken good[BREAK]  care of it,[WAIT]  but I was really irritated at the time, so I[BREAK]  threw it as hard and as far as I could instead.[END]
-883-4E:
+883-4E:@Oh, hablando del tema, cuando trabajaba[BREAK]  en la fábrica, me encontré un picaporte.[WAIT]  No sé de quién sería.[WAIT]@Normalmente, lo habría guardado[BREAK]  hasta que alguien lo reclamase,[WAIT]  pero ese día estaba muy enfadado,[BREAK]  y lo terminé lanzando lo más lejos posible.[END]
 883-5:@Hey, now.[WAIT]@You're sort of in the way.[END]
-883-5E:
+883-5E:@Eh, vosotros.[WAIT]@Estáis estorbando.[END]
 883-6:@This elevator broke, so I rushed to fix it.[WAIT]  For some reason, it wouldn't stop at the[BREAK]  concert hall on the 24th floor anymore.[WAIT]@But it works fine now.[END]
-883-6E:
+883-6E:@El ascensor se averió, y he venido a repararlo.[WAIT]  Por alguna razón, no paraba en[BREAK]  el auditorio del piso 24.[WAIT]@Pero ahora ya va bien.[END]
 883-7:@Wait a minute. You weren't thinking of going to[BREAK]  the 100th floor, were you?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-883-7E:
+883-7E:@Un momento. No estaréis pensando[BREAK]  en subir al piso 100, ¿verdad?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 883-8:@Oh, I take it you're going to the concert hall,[BREAK]  then.[WAIT]@Then you'll get to hear that cool, groovy, and[BREAK]  slightly-indecent and giggle-tastic DCMC sound[WAIT]  that you so long for![END]
-883-8E:
+883-8E:@Oh, entonces supongo que os dirigís[BREAK]  al auditorio.[WAIT]@¡Vais a poder disfrutar de los maravillosos,[BREAK]  rebeldes e irreverentes DCMC![END]
 883-9:@Then I apologize.[WAIT]@The repairs I just made allow the elevator to[BREAK]  stop at the 24th floor concert hall only.[WAIT]@So, please just take it to the 24th floor.[WAIT]@Please![WAIT]@Really, I think that would be for the best.[END]
-883-9E:
+883-9E:@Pues lo siento.[WAIT]@Desde que reparé el ascensor, sólo[BREAK]  se para en el auditorio del piso 24.[WAIT]@Así que, por favor, subid al piso 24.[WAIT]@¡Por favor![WAIT]@En serio, creo que sería lo mejor.[END]
 
 [Container 884]
 884-0:@Hurry! Hurry![END]
-884-0E:
+884-0E:@¡Deprisa! ¡Deprisa![END]
 884-1:@The DCMC have been incredible since their[BREAK]  Titiboo days![END]
-884-1E:
+884-1E:@¡Los DCMC están que se salen,[BREAK]  desde su debut en el Titibú![END]
 884-2:@What in the world am I doing here?[WAIT]@I'm sorry for bothering you.[END]
-884-2E:
+884-2E:@¿Se puede saber qué estoy haciendo aquí?[WAIT]@Perdona por las molestias.[END]
 884-3:@Hold it! Hold it![END]
 884-3E:@¡Echa el freno, madaleno![END]
 // Repeats: 38-61, 884-3
 884-4:@Oops. I tried to stop you out of instinct, the[BREAK]  instant I saw your face.[WAIT]@You're not in danger this time, though.[WAIT]@Are you here to see the concert?[BREAK]  I'm sure it'll be great.[END]
-884-4E:
+884-4E:@Uups. Ha sido ver tu cara e intentar[BREAK]  detenerte instintivamente.[WAIT]@Pero esta vez no corres peligro.[WAIT]@¿Has venido a ver el concierto?[BREAK]  Va a estar chulísimo.[END]
 884-5:@Even with the power out, this elevator still[BREAK]  works.[WAIT]@Does it have a different power source?[END]
-884-5E:
+884-5E:@Aun con el apagón, este ascensor[BREAK]  todavía funciona.[WAIT]@¿Es que usa otra fuente de energía?[END]
 884-6:@Whenever there's a blackout or everything is[BREAK]  dark is when I feel the most relaxed.[END]
-884-6E:
+884-6E:@Cuando hay un apagón o todo está[BREAK]  oscuro, me siento muy relajado.[END]
 884-7:@Whoa, now![WAIT]@[PAUSE 30 00]Whoops, I almost tried to stop you again for[BREAK]  some reason.[WAIT]@Stopping people must be in my genes or[BREAK]  something.[END]
-884-7E:
+884-7E:@¡Eh, eh![WAIT]@[PAUSE 30 00]Uups, ya iba a intentar detenerte otra vez[BREAK]  sin motivo alguno.[WAIT]@Tiene que ser algo que llevo en los genes...[END]
 
 [Container 885]
 885-0:@*sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00] *sniff*[PAUSE 20 00] *sniff*...[WAIT]@Something smells dog-like and kid-like.[WAIT]@Oh.[WAIT]@It's you guys.[WAIT]@...Don't worry, I'm not gonna do nothin',[BREAK]  though.[WAIT]@Let's just enjoy the concert together as fellow[BREAK]  DCMC fans![END]
-885-0E:
+885-0E:@*snif*[PAUSE 20 00] *snif*[PAUSE 20 00] *snif*[PAUSE 20 00] *snif*...[WAIT]@Aquí huele a perro y a niño.[WAIT]@Oh.[WAIT]@Sois vosotros.[WAIT]@Tranquilos, hoy no estoy de servicio,[BREAK]  así que...[WAIT]@¡Disfrutemos del concierto como los buenos[BREAK]  fans de DCMC que somos![END]
 885-1:@I dunno why, but you guys really get on my[BREAK]  nerves.[WAIT]@I have this intense desire to arrest you for[BREAK]  some reason.[WAIT]@I'll ignore it, though.[END]
-885-1E:
+885-1E:@No sé por qué, pero veros[BREAK]  me pone de mal humor.[WAIT]@Siento un irrefrenable deseo de arrestaros.[WAIT]@Pero intentaré ignorarlo.[END]
 885-2:@Being put in charge of the concert's security...[WAIT]  ...means we get to enjoy the show, too.[END]
-885-2E:
+885-2E:@Lo bueno de estar a cargo de la seguridad...[WAIT]  ...es poder disfrutar gratis del espectáculo.[END]
 885-3:@I love the boss' sense of, "Yeah, I'm great and[BREAK]  strong and manly, but the DCMC is my life!"[END]
-885-3E:
+885-3E:@Admiro esa actitud del jefe de, "Soy grande,[BREAK]  fuerte y machote, ¡pero DCMC es mi vida!"[END]
 885-4:@People are starting to say that THE bassist[BREAK]  has come back...[PAUSE 28 00] Or not.[PAUSE 28 00] Or something.[PAUSE 28 00] I think.[WAIT]@But if it's true, then this is gonna be the[BREAK]  greatest night ever![END]
-885-4E:
+885-4E:@Están diciendo por ahí que EL bajista[BREAK]  ha vuelto...[PAUSE 28 00] O no.[PAUSE 28 00] O algo.[PAUSE 28 00] Creo.[WAIT]@Como sea cierto... ¡esta va a ser[BREAK]  la mejor noche de mi vida![END]
 885-5:@Oh, I thought I recognized you from before.[WAIT]@Aren't you that kid I saved by the tunnel in[BREAK]  Tazmily?[WAIT]@Yeah. Yeah.[WAIT]@It looks like you've got a good head on your[BREAK]  shoulders now.[END]
-885-5E:
+885-5E:@Oh, ya decía yo que me sonabas de algo.[WAIT]@¿No eres ese chico al que salvé[BREAK]  en el túnel de Tazmily?[WAIT]@Sí. Sí.[WAIT]@Pareces haber madurado mucho desde aquello.[END]
 885-6:@The man next to me I'm holding hands with...[WAIT]@He's still with me after all this time.[WAIT]@I guess there's no question that he likes me,[BREAK]  huh?[WAIT]@If he were to suddenly kiss me...[WAIT]  Oh, I'm so nervous![BREAK]  *thump* *thump*[END]
-885-6E:
+885-6E:@El hombre que está de mi mano...[WAIT]@Ya lleva mucho tiempo conmigo.[WAIT]@Eso significa que le gusto, ¿no?[WAIT]@Si de repente decidiese besarme...[WAIT]  ¡Oh, qué nervios![BREAK]  *bum* *bum*[END]
 885-7:@The woman next to me I'm holding hands[BREAK]  with...[WAIT]@She's still with me after all this time.[WAIT]@I guess there's no question that she likes me,[BREAK]  huh?[WAIT]@If she were to suddenly kiss me...[WAIT]  Oh, I'm so nervous![BREAK]  *thump* *thump*[END]
-885-7E:
+885-7E:@La mujer que está de mi mano...[WAIT]@Ya lleva mucho tiempo conmigo.[WAIT]@Eso significa que le gusto, ¿no?[WAIT]@Si de repente decidiese besarme...[WAIT]  ¡Oh, qué nervios![BREAK]  *bum* *bum*[END]
 885-8:@I guess there's no chance of them starting the[BREAK]  concert over, huh?[END]
-885-8E:
+885-8E:@Supongo que es de ilusos esperar[BREAK]  que el concierto se reanude, ¿no?[END]
 885-9:@The chain of command is so screwed up.[WAIT]@What the Pigmasks are supposed to be doing,[BREAK]  what we're supposed to be doing...[WAIT]  ...it's such a big mess.[WAIT]@This just isn't gonna work out.[WAIT]@Doesn't it seem that way from your point of[BREAK]  view, too?[END]
-885-9E:
+885-9E:@Esta cadena de mando es desastrosa.[WAIT]@La supuesta labor de los Puercaretos,[BREAK]  nuestro propio papel en esto...[WAIT]  ...Es todo un lío enorme.[WAIT]@Esto no va a funcionar.[WAIT]@¿Tú qué opinas?[END]
 885-10:@It's all 'cause of those lousy intruders that the[BREAK]  DCMC concert got stopped![WAIT]@We DCMC fans oughta catch 'em ourselves[BREAK]  and make 'em pay![WAIT]  Grrrrr![END]
-885-10E:
+885-10E:@¡Han cancelado el concierto por culpa de[BREAK]  esos intrusos![WAIT]@¡Los fans de DCMC deberíamos atraparlos por[BREAK]  nuestra cuenta y darles una buena tunda![WAIT]  ¡Grrrrr![END]
 885-11:@The boss is in a real prickly mood...[END]
-885-11E:
+885-11E:@El jefe está que muerde...[END]
 885-12:@Maybe the boss is in a prickly mood because of[BREAK]  the horns on his head...[END]
-885-12E:
+885-12E:@Si el jefe está que muerde, a lo mejor[BREAK]  es porque tiene hambre...[END]
 885-13:@The man next to me I'm holding hands with...[WAIT]@While I was flailing around during the blackout,[BREAK]  I think our l[PAUSE 20 00]-lips t[PAUSE 20 00]-touched.[WAIT]  I w-[PAUSE 20 00]wonder if it was on purpose.[WAIT]@D[PAUSE 10 00]-d[PAUSE 10 00]-d[PAUSE 10 00]-do you suppose he l-[PAUSE 20 00]l-[PAUSE 20 00]likes me?[WAIT]@Oh, my heart's beating so fast![BREAK]  *thump* *thump*[END]
-885-13E:
+885-13E:@El hombre que está de mi mano...[WAIT]@Mientras iba a ciegas durante el apagón,[BREAK]  creo que nuestros l[PAUSE 20 00]-labios se j[PAUSE 20 00]-juntaron.[WAIT]  ¿Cr-[PAUSE 20 00]crees que lo habrá hecho a propósito?[WAIT]@E[PAUSE 10 00]-e[PAUSE 10 00]-e[PAUSE 10 00]-eso será que le gusto, ¿n-[PAUSE 20 00]n-[PAUSE 20 00]no?[WAIT]@¡Oh, cómo me late el corazón![BREAK]  *bum* *bum*[END]
 885-14:@The woman next to me I'm holding hands[BREAK]  with...[WAIT]@While I was flailing around during the blackout,[BREAK]  I think our l[PAUSE 20 00]-lips t[PAUSE 20 00]-touched.[WAIT]  I w-[PAUSE 20 00]wonder if it was on purpose.[WAIT]@D[PAUSE 10 00]-d[PAUSE 10 00]-d[PAUSE 10 00]-do you suppose she l-[PAUSE 20 00]l-[PAUSE 20 00]likes me?[WAIT]@Oh, my heart's beating so fast![BREAK]  *thump* *thump*[END]
-885-14E:
+885-14E:@La mujer que está de mi mano...[WAIT]@Mientras iba a ciegas durante el apagón,[BREAK]  creo que nuestros l[PAUSE 20 00]-labios se j[PAUSE 20 00]-juntaron.[WAIT]  ¿Cr-[PAUSE 20 00]crees que lo habrá hecho a propósito?[WAIT]@E[PAUSE 10 00]-e[PAUSE 10 00]-e[PAUSE 10 00]-eso será que le gusto, ¿n-[PAUSE 20 00]n-[PAUSE 20 00]no?[WAIT]@¡Oh, cómo me late el corazón![BREAK]  *bum* *bum*[END]
 885-15:@Oooooh myyyyy goddd![WAIT]@Dddoooon't be wwwaaanndderrring around in[BREAK]  this darkness![WAIT]@Wwwwhat Iiif I rrrran inttoooo someone and[BREAK]  disssslocattted a shoulder?![END]
-885-15E:
+885-15E:@¡Oooh, por favooor![WAIT]@¡Nooo vayáaais dandooo tuuumbos[BREAK]  en la oscuridaaad![WAIT]@¡¿Y si te chooocas con alguieeen[BREAK]  y te dislooocas un hombrooo?![END]
 
 [Container 886]
 886-0:@The crowd outside is so packed that the door[BREAK]  won't open![END]
-886-0E:
+886-0E:@¡Hay tanta gente ahí fuera[BREAK]  que la puerta no se abre![END]
 886-1:@Lucky![EVENT][END]
-886-1E:
+886-1E:@¡Lucky![EVENT][END]
 886-2:@Gorgeous![EVENT][END]
-886-2E:
+886-2E:@¡Gorgeous![EVENT][END]
 886-3:@Long time, no see, you bum![END]
-886-3E:
+886-3E:@¡Cuánto tiempo, holgazán![END]
 886-4:@Long time, no see![WAIT]@We've been having some pretty okay concerts[BREAK]  on our own since you left,[WAIT]  but with you here, it's gonna be like... Wow![END]
-886-4E:
+886-4E:@¡Dichosos los ojos![WAIT]@Hemos dado algunos conciertos bastante[BREAK]  majos por nuestra cuenta,[WAIT]  ¡pero contigo aquí, esto va a ser la repera![END]
 886-5:@Lucky!!![BREAK]@I missed you so much!!![WAIT]@How've you been?![END]
-886-5E:
+886-5E:@¡¡¡Lucky!!![BREAK]@¡Te echábamos mucho de menos!!![WAIT]@¡¿Qué tal te va la vida?![END]
 886-6:@Gorgeous!!![BREAK]@I missed you so much!!![WAIT]@How've you been?![END]
-886-6E:
+886-6E:@¡¡¡Gorgeous!!![BREAK]@¡Te echábamos mucho de menos!!![WAIT]@¡¿Qué tal te va la vida?![END]
 886-7:@Lucky![WAIT]@It's good to see you again![END]
-886-7E:
+886-7E:@¡Lucky![WAIT]@¡Qué bien verte de nuevo![END]
 886-8:@Gorgeous![WAIT]@It's good to see you again![END]
-886-8E:
+886-8E:@¡Gorgeous![WAIT]@¡Qué bien verte de nuevo![END]
 886-9:@All living things on these islands have been[BREAK]  gathered here, in New Pork City.[WAIT]@A great, undefiable power has prepared a[BREAK]  festival for the end of all life...[END]
-886-9E:
+886-9E:@Todos los seres vivos de estas islas[BREAK]  están reunidos aquí, en Nueva Pork.[WAIT]@Es como un festival para celebrar[BREAK]  el fin de toda existencia...[END]
 886-10:@We can see through this Porky guy's[BREAK]  shallow-brained plans like they're nothing.[WAIT]@Why's that, you ask?[WAIT]@'Cause we're so drunk on our music that he[BREAK]  can't fool us with his nonsensical crap![END]
-886-10E:
+886-10E:@Estamos al corriente de los[BREAK]  descerebrados planes de Porky.[WAIT]@¿Que cómo es posible?[WAIT]@¡Pues porque estamos tan metidos en nuestra[BREAK]  música que no nos puede engañar[WAIT]  con semejantes gilichorradas![END]
 886-11:@I dunno who this Porky guy is,[WAIT]  but with all five DCMC members back[BREAK]  together, nothing can scare us now![WAIT]@Well, if I think about it really hard, MAYBE I can[BREAK]  think of something that can scare us,[WAIT]  but, no, nothing can scare us now![END]
-886-11E:
+886-11E:@No sé quién será ese tal Porky,[WAIT]  ¡pero con los DCMC reunidos de[BREAK]  nuevo, no hay nada que temer![WAIT]@Bueno, pensándolo fríamente, PUEDE[BREAK]  que sí haya algo a lo que temer...[WAIT]  ¡Bah, al cuerno! ¡No hay nada que temer![END]
 886-12:@Hey, Lucky.[WAIT]@Let's forget our worries and just enjoy the[BREAK]  music like the old days![END]
-886-12E:
+886-12E:@Eh, Lucky.[WAIT]@¡Aparquemos las preocupaciones[BREAK]  y disfrutemos de la música![END]
 886-13:@We even have your afro wig all ready to go![END]
-886-13E:
+886-13E:@¡Incluso te hemos traído tu peluca afro![END]
 886-14:@Hey, Gorgeous.[WAIT]@Let's forget our worries and just enjoy the[BREAK]  music like the old days![END]
-886-14E:
+886-14E:@Eh, Gorgeous.[WAIT]@¡Aparquemos las preocupaciones[BREAK]  y disfrutemos de la música![END]
 886-15:@Hey, Lucky![WAIT]  I wanna hear your bass-playin', too![WAIT]@Let's hear it![END]
-886-15E:
+886-15E:@¡Eh, Lucky![WAIT]  ¡Quiero volver a escuchar ese bajo![WAIT]@¡Dale caña![END]
 886-16:@Hey, Gorgeous![WAIT]  I wanna hear your bass-playin', too![WAIT]@Let's hear it![END]
-886-16E:
+886-16E:@¡Eh, Gorgeous![WAIT]  ¡Quiero volver a escuchar ese bajo![WAIT]@¡Dale caña![END]
 886-17:@Alright! Let's jam![END]
-886-17E:
+886-17E:@¡Muy bien! ¡Música![END]
 886-18:@What song'll it be?[END]
-886-18E:
+886-18E:@¿Y qué canción tocamos?[END]
 886-19:@We had your bass polished to a shine![END]
-886-19E:
+886-19E:@¡Le hemos sacado brillo a tu bajo![END]
 886-20:@An afro wig.[END]
-886-20E:
+886-20E:@Una peluca afro.[END]
 886-21:@Put it on?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-886-21E:
+886-21E:@¿Quieres ponértela?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 886-22:@He's smiling nostalgically.[END]
-886-22E:
+886-22E:@Está sonriendo con nostalgia.[END]
 886-23:@This brings back memories of Club Titiboo.[WAIT]@*giggle*[WAIT]  ...is what they had me do all the time, as I[BREAK]  recall.[PAUSE 3C 00][WAIT]@*giggle*[PAUSE 2E 00][BREAK]  Yeah, I've definitely lost my knack for that.[END]
-886-23E:
+886-23E:@Esto me trae recuerdos del club Titibú.[WAIT]@*risita*[WAIT]  ...Recuerdo cuando tenía que[BREAK]  hacer esto todo el rato.[PAUSE 3C 00][WAIT]@*risita*[PAUSE 2E 00][BREAK]  Ya no me sale tan bien como antes.[END]
 886-24:@All right, everyone.[WAIT]@This may be the last time you'll ever get to[BREAK]  hear us play.[PAUSE 3C 00][WAIT]@And...[PAUSE 0F 00][WAIT]@This might also be the last time...[WAIT]  ...we ever get to perform.[END]
-886-24E:
+886-24E:@Escuchad todos.[WAIT]@Puede que esta sea la última vez[BREAK]  que nos oigáis tocar.[PAUSE 3C 00][WAIT]@Y también...[PAUSE 0F 00][WAIT]@Puede que esta sea...[WAIT]  ...nuestra última actuación.[END]
 886-25:@To all you wonderful music-lovers who've[BREAK]  gathered here on this special day...[WAIT]@You're our greatest happiness of all![WAIT]@Tonda Gossa![WAIT]@We're gonna rock until you drop![WAIT]@No.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00] We're gonna rock until EVERYONE drops![WAIT]@We're gonna do this thing non-stop![BREAK]  Let's do it![END]
-886-25E:
+886-25E:@A todos vosotros, amantes de la música,[BREAK]  reunidos aquí, en este día tan especial...[WAIT]@¡Sois nuestra mayor felicidad![WAIT]@¡Tonda Gossa![WAIT]@¡Vamos a tocar hasta desmayarnos![WAIT]@No.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 20 00] ¡Hasta que TODOS se desmayen![WAIT]@¡Hasta el mismísimo final![BREAK]  ¡Dale![END]
 886-26:@Tonda Gossa![BREAK]  Thanks, everyone![WAIT]@Let's move right on to the next song![BREAK]  No break![END]
-886-26E:
+886-26E:@¡Tonda Gossa![BREAK]  ¡Gracias a todos![WAIT]@¡Pasemos a la siguiente canción![BREAK]  ¡Sin intermedios![END]
 886-27:@*tsk* *tsk* *tsk*[WAIT]@Looks like someone's stopped our concert by[BREAK]  force.[END]
-886-27E:
+886-27E:@*tsk* *tsk* *tsk*[WAIT]@Parece que alguien nos ha saboteado[BREAK]  el concierto.[END]
 886-28:@Attention, all goody two-shoes inside the[BREAK]  Empire Porky Building.[WAIT]@The final game has begun.[WAIT]@Please gather up what puny wisdom and[BREAK]  pathetic courage you have[WAIT]  and come to the 100th floor.[END]
-886-28E:
+886-28E:@Atención, mis queridos corderitos[BREAK]  en el interior del Empire Porky.[WAIT]@El juego final acaba de empezar.[WAIT]@Haced acopio de vuestra lastimosa[BREAK]  sabiduría y patético coraje, y subid[WAIT]  al piso 100.[END]
 886-29:@However, there's no guarantee the elevator[BREAK]  will work how you want it to![WAIT]@Wahahahaha![WAIT]@Well, I'll be waiting for you on the 100th floor![END]
-886-29E:
+886-29E:@¡Eso sí, no os garantizo que el ascensor[BREAK]  funcione como vosotros esperáis![WAIT]@¡Juajajajaja![WAIT]@¡Bien, os estaré esperando en el piso 100![END]
 886-30:@You're the only bassist the DCMC can ever[BREAK]  have.[WAIT]@Without you, we're without a bass.[END]
-886-30E:
+886-30E:@Eres el único bajista digno de los DCMC.[WAIT]@Sin ti, el bajo no tiene sentido.[END]
 886-31:@The concert got stopped, but we ain't glum.[WAIT]@We got luck on our side.[WAIT]@We've always had dumb luck on our side![WAIT]@Tonda Gossa![END]
-886-31E:
+886-31E:@Nos han cancelado el concierto, pero da igual.[WAIT]@La suerte está con nosotros.[WAIT]@¡La suerte de los audaces![WAIT]@¡Tonda Gossa![END]
 886-32:@[LUCAS 23 02 00], was it?[WAIT]@We leave Lucky in your hands.[PAUSE 1E 00][WAIT]@Oh, wait! I mean [DUSTER 23 03 00]![WAIT]  I forgot, he's not Lucky![WAIT]  Hahaha![END]
-886-32E:
+886-32E:@[LUCAS 23 02 00], ¿verdad?[WAIT]@Dejamos a Lucky en tus manos.[PAUSE 1E 00][WAIT]@¡Quiero decir, [DUSTER 23 03 00]![WAIT]  ¡Perdón, es la costumbre![WAIT]  ¡Jajaja![END]
 886-33:@[LUCAS 23 02 00], was it?[WAIT]@We leave Gorgeous in your hands.[PAUSE 1E 00][WAIT]@Oh, wait! I mean [DUSTER 23 03 00]![WAIT]  I forgot, he's not Gorgeous![WAIT]  Hahaha![END]
-886-33E:
+886-33E:@[LUCAS 23 02 00], ¿verdad?[WAIT]@Dejamos a Gorgeous en tus manos.[PAUSE 1E 00][WAIT]@¡Quiero decir, [DUSTER 23 03 00]![WAIT]  ¡Perdón, es la costumbre![WAIT]  ¡Jajaja![END]
 886-34:@Do you think the concert might not've been[BREAK]  stopped[WAIT]  had we played Porky's lullaby song or[BREAK]  something instead?[END]
-886-34E:
+886-34E:@¿Crees que el concierto no habría[BREAK]  sido interrumpido[WAIT]  si le hubiésemos tocado una nana a Porky[BREAK]  o algo por el estilo?[END]
 // reference to Mother 1?
 886-35:@Clear out! Get out of my way![BREAK]  Clear out! Get out of my way![WAIT]@All these kids and dogs and such...[WAIT]  Quit loitering around, all of you![END]
-886-35E:
+886-35E:@¡Apartaos! ¡Quitaos de en medio![BREAK]  ¡Apartaos! ¡Quitaos de en medio![WAIT]@Estos niños y sus perros...[WAIT]  ¡Dejad ya de molestar![END]
 886-36:@Supposedly, some guys snuck into this building[BREAK]  to take on Master Porky.[WAIT]@I wonder who it was.[WAIT]@It'd be funny if it was you guys, huh?![BREAK]  Hahaha![END]
-886-36E:
+886-36E:@Al parecer, unos intrusos se han colado en[BREAK]  el edificio y están buscando al Amo Porky.[WAIT]@¿Quiénes serán?[WAIT]@¡Sería gracioso que fuéseis vosotros![BREAK]  ¡Jajaja![END]
 886-37:@Hey, hey, hey![END]
-886-37E:
+886-37E:@¡Eh, eh, eh![END]
 886-38:@What a lame attempt at a blackout this is.[WAIT]@Can you see my nose hair?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-886-38E:
+886-38E:@Qué penoso amago de apagón.[WAIT]@Oye, ¿se me ve el pelo de la nariz?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 886-39:@Oh? Then it must be pretty dark in here.[END]
-886-39E:
+886-39E:@¿Oh? Pues sí que está oscuro, entonces.[END]
 886-40:@I'd been worrying about it.[WAIT]@Is that weird? Is it funny? Is it fine?[END]
-886-40E:
+886-40E:@Me tiene muy mosqueado.[WAIT]@¿Es raro? ¿Cómico? ¿Elegante?[END]
 886-41:[END]
-886-41E:
+886-41E:[END]
 
 [Container 888]
 888-0:[END]
-888-0E:
+888-0E:[END]
 888-1:[END]
-888-1E:
+888-1E:[END]
 
 [Container 892]
 892-0:[HOTSPRING 00 00][END]
@@ -20531,72 +20531,72 @@
 
 [Container 894]
 894-0:@What do you want to do?[BREAK][MENU 07 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Change table[RIGHT][BREAK]  [LEFT]Attract mode[RIGHT][BREAK]  [LEFT]Warp to the Debug Magypsies[RIGHT][BREAK]  [LEFT]Unlock PSI[RIGHT][BREAK]  [LEFT]Heal party[RIGHT][BREAK]  [LEFT]Game Over[RIGHT][BREAK][ENDCHOICES][END]
-894-0E:
+894-0E:@¿Qué quieres hacer?[BREAK][MENU 07 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Cambiar tabla[RIGHT][BREAK]  [LEFT]Modo de demostración[RIGHT][BREAK]  [LEFT]Magipsis debug[RIGHT][BREAK]  [LEFT]Desbloquear PSI[RIGHT][BREAK]  [LEFT]Curar equipo[RIGHT][BREAK]  [LEFT]Fin de la partida[RIGHT][BREAK][ENDCHOICES][END]
 // This line goes unused, so we reuse it for our purposes
 // It said:@NO OPERATION[END]
 894-1:@CHAPTER 1    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-1E:
+894-1E:@CAPÍTULO 1    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Dale, reina[ENDCHOICES][END]
 894-2:@CHAPTER 2    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-2E:
+894-2E:@CAPÍTULO 2    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Simón[ENDCHOICES][END]
 894-3:@CHAPTER 3    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-3E:
+894-3E:@CAPÍTULO 3    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Sis[ENDCHOICES][END]
 894-4:@CHAPTER 4    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-4E:
+894-4E:@CAPÍTULO 4    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Sipi[ENDCHOICES][END]
 894-5:@CHAPTER 5    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-5E:
+894-5E:@CAPÍTULO 5    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Sí.[ENDCHOICES][END]
 894-6:@CHAPTER 6    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-6E:
+894-6E:@CAPÍTULO 6    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Non't[ENDCHOICES][END]
 894-7:@CHAPTER 7    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-7E:
+894-7E:@CAPÍTULO 7    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]No ni ná[ENDCHOICES][END]
 894-8:@CHAPTER 8    START[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-8E:
+894-8E:@CAPÍTULO 8    EMPEZAR[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO][ALTERNATEFONT]Si[ENDCHOICES][END]
 894-9:@Which table?[BREAK][MENU 06 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Table 1[RIGHT][BREAK]  [LEFT]Table 2[RIGHT][BREAK]  [LEFT]Table 3[RIGHT][BREAK]  [LEFT]Table 4[RIGHT][BREAK]  [LEFT]Table 5[RIGHT][BREAK][ENDCHOICES][END]
-894-9E:
+894-9E:@¿Cuál tabla?[BREAK][MENU 06 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Tabla 1[RIGHT][BREAK]  [LEFT]Tabla 2[RIGHT][BREAK]  [LEFT]Tabla 3[RIGHT][BREAK]  [LEFT]Tabla 4[RIGHT][BREAK]  [LEFT]Tabla 5[RIGHT][BREAK][ENDCHOICES][END]
 // There is an entry associated with this, however it goes unused (And it did nothing), so we reuse the line for our purposes
 // It said:@NO OPERATION[END]
 894-10:@GET ITEM [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-10E:
+894-10E:@¿CONSEGUIR [ITEM 5D 00]?[WAIT][MENU 02 00][MENUSPACENO]No[MENUSPACENO]Sí[ENDCHOICES][END]
 894-11:@Got [EF 11][ITEM 6F 00]![END]
-894-11E:@¡Conseguiste [EF 11][ITEM 6F 00]![END]
+894-11E:@¡Has conseguido [EF 11][ITEM 6F 00]![END]
 894-12:@SAVE?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-894-12E:
+894-12E:@¿GUARDAR?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 894-13:@OK[END]
-894-13E:
+894-13E:@OK[END]
 894-14:@Party Configuration:[BREAK][MENU 0E 00]  [LEFT]END[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Duster On/Off[RIGHT][BREAK]  [LEFT]Kumatora On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thomas On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Fassad On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
-894-14E:
+894-14E:@Configuración del equipo:[BREAK][MENU 0E 00]  [LEFT]TERMINAR[RIGHT][BREAK]  [LEFT]Flint On/Off[RIGHT][BREAK]  [LEFT]Lucas On/Off[RIGHT][BREAK]  [LEFT]Duster On/Off[RIGHT][BREAK]  [LEFT]Kumatora On/Off[RIGHT][BREAK]  [LEFT]Boney On/Off[RIGHT][BREAK]  [LEFT]Salsa On/Off[RIGHT][BREAK]  [LEFT]Wess On/Off[RIGHT][BREAK]  [LEFT]Thomas On/Off[RIGHT][BREAK]  [LEFT]Ionia On/Off[RIGHT][BREAK]  [LEFT]Fuel On/Off[RIGHT][BREAK]  [LEFT]Alec On/Off[RIGHT][BREAK]  [LEFT]Falhaz On/Off[RIGHT][BREAK]  [LEFT]Claus On/Off[RIGHT][BREAK][ENDCHOICES][END]
 // It's important to note that the game loads these options one by one. So making them too long means the user has to wait before being able to scroll left
 894-15:@Change whose level?[BREAK][MENU 08 00]  [LEFT]Flint's[RIGHT][BREAK]  [LEFT]Lucas's[RIGHT][BREAK]  [LEFT]Duster's[RIGHT][BREAK]  [LEFT]Kumatora's[RIGHT][BREAK]  [LEFT]Boney's[RIGHT][BREAK]  [LEFT]Salsa's[RIGHT][BREAK]  [LEFT]Wess's[RIGHT][BREAK]  [LEFT]Everyone's[RIGHT][BREAK][ENDCHOICES][END]
-894-15E:
+894-15E:@¿Cambiar el nivel de quién?[BREAK][MENU 08 00]  [LEFT]Flint[RIGHT][BREAK]  [LEFT]Lucas[RIGHT][BREAK]  [LEFT]Duster[RIGHT][BREAK]  [LEFT]Kumatora[RIGHT][BREAK]  [LEFT]Boney[RIGHT][BREAK]  [LEFT]Salsa[RIGHT][BREAK]  [LEFT]Wess[RIGHT][BREAK]  [LEFT]Todos[RIGHT][BREAK][ENDCHOICES][END]
 894-16:@Set it to what?[BREAK][MENU 10 00]  [LEFT]No Change[RIGHT][BREAK]  [LEFT]Level: 01[RIGHT][BREAK]  [LEFT]Level: 05[RIGHT][BREAK]  [LEFT]Level: 10[RIGHT][BREAK]  [LEFT]Level: 15[RIGHT][BREAK]  [LEFT]Level: 20[RIGHT][BREAK]  [LEFT]Level: 25[RIGHT][BREAK]  [LEFT]Level: 30[RIGHT][BREAK]  [LEFT]Level: 35[RIGHT][BREAK]  [LEFT]Level: 40[RIGHT][BREAK]  [LEFT]Level: 45[RIGHT][BREAK]  [LEFT]Level: 50[RIGHT][BREAK]  [LEFT]Level: 55[RIGHT][BREAK]  [LEFT]Level: 60[RIGHT][BREAK]  [LEFT]Level: 99[RIGHT][BREAK]  [LEFT]Level: 99 Max[RIGHT][BREAK][ENDCHOICES][END]
-894-16E:
+894-16E:@¿A qué nivel?[BREAK][MENU 10 00]  [LEFT]No cambiar[RIGHT][BREAK]  [LEFT]Nivel 1[RIGHT][BREAK]  [LEFT]Nivel 5[RIGHT][BREAK]  [LEFT]Nivel 10[RIGHT][BREAK]  [LEFT]Nivel 15[RIGHT][BREAK]  [LEFT]Nivel 20[RIGHT][BREAK]  [LEFT]Nivel 25[RIGHT][BREAK]  [LEFT]Nivel 30[RIGHT][BREAK]  [LEFT]Nivel 35[RIGHT][BREAK]  [LEFT]Nivel 40[RIGHT][BREAK]  [LEFT]Nivel 45[RIGHT][BREAK]  [LEFT]Nivel 50[RIGHT][BREAK]  [LEFT]Nivel 55[RIGHT][BREAK]  [LEFT]Nivel 60[RIGHT][BREAK]  [LEFT]Nivel 99[RIGHT][BREAK]  [LEFT]Nivel 99 Máx[RIGHT][BREAK][ENDCHOICES][END]
 894-17:@Fade Check[BREAK][MENU 14 00]  [LEFT]00: END[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]White[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Raster[RIGHT][BREAK]  [LEFT]Normal Battle[RIGHT][BREAK]  [LEFT]Boss Battle[RIGHT][BREAK]  [LEFT]LR Line 1[RIGHT][BREAK]  [LEFT]LR Line 2[RIGHT][BREAK]  [LEFT]L to R[RIGHT][BREAK]  [LEFT]R to L[RIGHT][BREAK]  [LEFT]D-U-D Lines[RIGHT][BREAK]  [LEFT]Quarter Div[RIGHT][BREAK]  [LEFT]Block Swirl[RIGHT][BREAK]  [LEFT]Swirl Layer[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]LR Waves[RIGHT][BREAK]  [LEFT]Shrink + Rotation[RIGHT][BREAK]  [LEFT]Random Blocks[RIGHT][BREAK]  [LEFT]Checkerboard[RIGHT][BREAK][ENDCHOICES][END]
-894-17E:
+894-17E:@Comprobar fade[BREAK][MENU 14 00]  [LEFT]00: FIN[RIGHT][BREAK]  [LEFT]Normal[RIGHT][BREAK]  [LEFT]Blanco[RIGHT][BREAK]  [LEFT]Iris[RIGHT][BREAK]  [LEFT]Ráster[RIGHT][BREAK]  [LEFT]Combate normal[RIGHT][BREAK]  [LEFT]Combate contra jefe[RIGHT][BREAK]  [LEFT]Línea ID 1[RIGHT][BREAK]  [LEFT]Línea ID 2[RIGHT][BREAK]  [LEFT]I a D[RIGHT][BREAK]  [LEFT]D a I[RIGHT][BREAK]  [LEFT]Líneas D-U-D[RIGHT][BREAK]  [LEFT]1/4[RIGHT][BREAK]  [LEFT]Remolino de bloques[RIGHT][BREAK]  [LEFT]Capa de remolino[RIGHT][BREAK]  [LEFT]Tri-Iris[RIGHT][BREAK]  [LEFT]Ondas ID[RIGHT][BREAK]  [LEFT]Encoger + rotación[RIGHT][BREAK]  [LEFT]Bloques aleatorios[RIGHT][BREAK]  [LEFT]Tablero de ajedrez[RIGHT][BREAK][ENDCHOICES][END]
 894-18:@Chapter 1: Event Selection[BREAK][MENU 0B 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Alec's House[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Fiery Forest[RIGHT][BREAK]  [LEFT]Rest at Inn[RIGHT][BREAK]  [LEFT]At Cliff[RIGHT][BREAK]  [LEFT]Enter Duster[RIGHT][BREAK]  [LEFT]Twins Found[RIGHT][BREAK]  [LEFT]In Jail[RIGHT][BREAK]  [LEFT]To Alec's[RIGHT][BREAK]  [LEFT]Drago Plateau[RIGHT][BREAK][ENDCHOICES][END]
-894-18E:
+894-18E:@Capítulo 1: selección[BREAK][MENU 0B 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Casa de Alec[RIGHT][BREAK]  [LEFT]Casa de Flint[RIGHT][BREAK]  [LEFT]Bosque en llamas[RIGHT][BREAK]  [LEFT]Descanso en la posada[RIGHT][BREAK]  [LEFT]En el risco[RIGHT][BREAK]  [LEFT]Entra Duster[RIGHT][BREAK]  [LEFT]Gemelos encontrados[RIGHT][BREAK]  [LEFT]En el calabozo[RIGHT][BREAK]  [LEFT]A lo de Alec[RIGHT][BREAK]  [LEFT]Meseta Drago[RIGHT][BREAK][ENDCHOICES][END]
 894-19:@Chapter 2: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Wess's House[RIGHT][BREAK]  [LEFT]Osohe Castle[RIGHT][BREAK]  [LEFT]Poltergeist[RIGHT][BREAK]  [LEFT]Noble Spittoon[RIGHT][BREAK]  [LEFT]Osohe Again[RIGHT][BREAK]  [LEFT]Wess's Dance[RIGHT][BREAK]  [LEFT]Egg of Light[RIGHT][BREAK]  [LEFT]Washed Up[RIGHT][BREAK][ENDCHOICES][END]
-894-19E:
+894-19E:@Capítulo 2: selección[BREAK][MENU 09 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Casa de Wess[RIGHT][BREAK]  [LEFT]Castillo Osohe[RIGHT][BREAK]  [LEFT]Poltergeist[RIGHT][BREAK]  [LEFT]Escupidera noble[RIGHT][BREAK]  [LEFT]De vuelta en Osohe[RIGHT][BREAK]  [LEFT]Baile de Wess[RIGHT][BREAK]  [LEFT]Huevo de la luz[RIGHT][BREAK]  [LEFT]Tirados de la cisterna[RIGHT][BREAK][ENDCHOICES][END]
 894-20:@Chapter 3: Event Selection[BREAK][MENU 0A 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]From Desert[RIGHT][BREAK]  [LEFT]Pork Bean[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Happy Sales[RIGHT][BREAK]  [LEFT]Box Delivery[RIGHT][BREAK]  [LEFT]To Castle[RIGHT][BREAK]  [LEFT]Back to Inn[RIGHT][BREAK]  [LEFT]Kumatora Helps[RIGHT][BREAK]  [LEFT]Forest[RIGHT][BREAK][ENDCHOICES][END]
-894-20E:
+894-20E:@Capítulo 3: selección[BREAK][MENU 0A 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Desde el desierto[RIGHT][BREAK]  [LEFT]Vaina porcina[RIGHT][BREAK]  [LEFT]Cementerio[RIGHT][BREAK]  [LEFT]Ventas felices[RIGHT][BREAK]  [LEFT]Entrega de las cajas[RIGHT][BREAK]  [LEFT]Al castillo[RIGHT][BREAK]  [LEFT]De vuelta a la posada[RIGHT][BREAK]  [LEFT]Kumatora al rescate[RIGHT][BREAK]  [LEFT]Bosque[RIGHT][BREAK][ENDCHOICES][END]
 894-21:@Chapter 4: Event Selection[BREAK][MENU 08 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Flint's House[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Factory[RIGHT][BREAK]  [LEFT]Ropeway[RIGHT][BREAK]  [LEFT]Violet's Room[RIGHT][BREAK]  [LEFT]Lucky's Room[RIGHT][BREAK]  [LEFT]Bon Voyage[RIGHT][BREAK][ENDCHOICES][END]
-894-21E:
+894-21E:@Capítulo 4: selección[BREAK][MENU 08 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Casa de Flint[RIGHT][BREAK]  [LEFT]Encrucijada[RIGHT][BREAK]  [LEFT]Fábrica[RIGHT][BREAK]  [LEFT]Teleférico[RIGHT][BREAK]  [LEFT]Cuarto de Violet[RIGHT][BREAK]  [LEFT]Cuarto de Lucky[RIGHT][BREAK]  [LEFT]Bon Voyage[RIGHT][BREAK][ENDCHOICES][END]
 894-22:@Chapter 5: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Unknown Valley[RIGHT][BREAK]  [LEFT]Clay Factory[RIGHT][BREAK]  [LEFT]Highway[RIGHT][BREAK]  [LEFT]Dump[RIGHT][BREAK]  [LEFT]Thunder Tower[RIGHT][BREAK]  [LEFT]King's Room[RIGHT][BREAK]  [LEFT]Generator[RIGHT][BREAK]  [LEFT]Tower Top[RIGHT][BREAK][ENDCHOICES][END]
-894-22E:
+894-22E:@Capítulo 5: selección[BREAK][MENU 09 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Valle Desconocido[RIGHT][BREAK]  [LEFT]Fábrica de Arcillosos[RIGHT][BREAK]  [LEFT]Autopista[RIGHT][BREAK]  [LEFT]Vertedero[RIGHT][BREAK]  [LEFT]Torre del trueno[RIGHT][BREAK]  [LEFT]Cuarto del rey[RIGHT][BREAK]  [LEFT]Generador[RIGHT][BREAK]  [LEFT]En lo alto de la torre[RIGHT][BREAK][ENDCHOICES][END]
 894-23:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble Pass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupichupyoi Temple[RIGHT][BREAK][ENDCHOICES][END]
-894-23E:
+894-23E:@Capítulo 7: selección[BREAK][MENU 09 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Residencia de ancianos[RIGHT][BREAK]  [LEFT]Casa Aeolia[RIGHT][BREAK]  [LEFT]Patio trasero del castillo[RIGHT][BREAK]  [LEFT]Cementerio[RIGHT][BREAK]  [LEFT]Encrucijada[RIGHT][BREAK]  [LEFT]Paso de Argilla[RIGHT][BREAK]  [LEFT]Casa de Ionia[RIGHT][BREAK]  [LEFT]Templo Chupichupyoi[RIGHT][BREAK][ENDCHOICES][END]
 894-24:@Chapter 8: Event Selection[BREAK][MENU 0D 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Inside Limo[RIGHT][BREAK]  [LEFT]NPC Arrival[RIGHT][BREAK]  [LEFT]Arcade[RIGHT][BREAK]  [LEFT]Sewers[RIGHT][BREAK]  [LEFT]24 F Reunion[RIGHT][BREAK]  [LEFT]To 100 F[RIGHT][BREAK]  [LEFT]Game 1[RIGHT][BREAK]  [LEFT]Game 2[RIGHT][BREAK]  [LEFT]Game 3[RIGHT][BREAK]  [LEFT]NK Cyborg[RIGHT][BREAK]  [LEFT]Mecha-Porkies[RIGHT][BREAK]  [LEFT]Final Needle[RIGHT][BREAK][ENDCHOICES][END]
-894-24E:
+894-24E:@Capítulo 8: selección[BREAK][MENU 0D 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]En la limusina[RIGHT][BREAK]  [LEFT]Llegada a Nueva Pork[RIGHT][BREAK]  [LEFT]Recreativos[RIGHT][BREAK]  [LEFT]Alcantarillas[RIGHT][BREAK]  [LEFT]Reunión piso 24[RIGHT][BREAK]  [LEFT]Al piso 100[RIGHT][BREAK]  [LEFT]Juego 1[RIGHT][BREAK]  [LEFT]Juego 2[RIGHT][BREAK]  [LEFT]Juego 3[RIGHT][BREAK]  [LEFT]Exterminador porcino[RIGHT][BREAK]  [LEFT]Mecha-Porkys[RIGHT][BREAK]  [LEFT]Última Aguja[RIGHT][BREAK][ENDCHOICES][END]
 894-25:@Select Lucas and Kumatora's ages:[BREAK][MENU 02 00][MENUSPACEYES]Kids[MENUSPACENO]Adolescents[ENDCHOICES][END]
-894-25E:
+894-25E:@Selecciona las edades de Lucas y Kumatora:[BREAK][MENU 02 00][MENUSPACEYES]Niños[MENUSPACENO]Adolescentes[ENDCHOICES][END]
 894-26:@Which attract mode?[BREAK][MENU 03 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Family[RIGHT][BREAK]  [LEFT]Others[RIGHT][BREAK][ENDCHOICES][END]
-894-26E:
+894-26E:@¿Qué modo de demostración?[BREAK][MENU 03 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Familia[RIGHT][BREAK]  [LEFT]Otros[RIGHT][BREAK][ENDCHOICES][END]
 // This line goes unused, so we reuse it for our purposes
 // It said:@Turned off 50 flags.[END]
 894-27:@Turn on all memo flags and obtain all maps.[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-27E:
+894-27E:@Encender todas las memo flags y[BREAK]  obtener todos los mapas.[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Síiiiii :D[ENDCHOICES][END]
 894-28:@Play the ending?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Yes[ENDCHOICES][END]
-894-28E:
+894-28E:@¿Ver el final?[WAIT][MENU 02 00][MENUSPACEYES]No[MENUSPACENO]Sí lol[ENDCHOICES][END]
 894-29:@Begin from where?[WAIT][MENU 04 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Ending start[RIGHT][BREAK]  [LEFT]Staff roll[RIGHT][BREAK]  [LEFT]END/Tree[RIGHT][BREAK][ENDCHOICES][END]
-894-29E:
+894-29E:@¿Empezar desde dónde?[WAIT][MENU 04 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Principio del fin[RIGHT][BREAK]  [LEFT]Créditos de desarrolladores[RIGHT][BREAK]  [LEFT]FIN/Árbol[RIGHT][BREAK][ENDCHOICES][END]
 
 [Container 900]
 900-0:[HOTSPRING 00 00][END]
@@ -20681,25 +20681,25 @@
 900-26E:[HOTSPRING 1A 00][END]
 // Repeats: 13-26, 14-26, 17-26, 36-26, 42-26, 55-26, 72-26, 77-26, 80-26, 96-26, 180-26, 181-26, 182-26, 192-26, 203-26, 207-26, 249-26, 250-26, 251-26, 252-26, 263-26, 327-26, 328-26, 329-26, 330-26, 331-26, 332-26, 373-26, 374-26, 375-26, 376-26, 377-26, 378-26, 379-26, 443-26, 467-26, 468-26, 469-26, 471-26, 472-26, 477-26, 803-26, 877-26, 878-26, 880-26, 882-26, 892-26, 900-26
 900-27:@This doorknob seems familiar.[END]
-900-27E:
+900-27E:@Este picaporte es familiar.[END]
 900-28:@You accidentally dropped it.[END]
-900-28E:
+900-28E:@Se te ha caído sin querer.[END]
 900-29:[END]
-900-29E:
+900-29E:[END]
 
 [Container 901]
 901-0:[END]
-901-0E:
+901-0E:[END]
 901-1:[END]
-901-1E:
+901-1E:[END]
 
 [Container 902]
 902-0:[END]
-902-0E:
+902-0E:[END]
 902-1:[END]
-902-1E:
+902-1E:[END]
 902-2:[END]
-902-2E:
+902-2E:[END]
 902-3:[END]
-902-3E:
+902-3E:[END]
 
