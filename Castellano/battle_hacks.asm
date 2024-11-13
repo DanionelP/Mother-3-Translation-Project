@@ -654,11 +654,6 @@ bne  +
 b    .cc_en_articles
 +
 
-cmp r0,#0x08                 // check for 0xEF08, which will print un articulo supongo no me acuerdo de como iban
-bne  +
-b    .cc_en_articles
-+
-
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .cc_it_articles
@@ -705,7 +700,8 @@ blt  +
 ldr  r0,=#0x2014724              // then load the second last item for the extra data, this location is used by another hack to save the second last item's id
 +
 ldrh r0,[r0,#0]                  // load the current item #
-lsl  r0,r0,#3                    // offset = item ID * 8 bytes
+mov r1,#9
+mul r0,r1                        // offset = item ID * 9 bytes
 ldr  r1,=#{item_extras_address}  // this is the base address of our extra item data table in ROM
 add  r0,r0,r1                    // r0 now has the proper address of the current item's data slot
 ldrb r0,[r0,r2]                  // load the proper line # to use from custom_text.bin
@@ -1715,11 +1711,6 @@ bne  +
 b    .ecc_en_articles
 +
 
-cmp  r0,#0x08                // check for 0xEF08, which will print a lowercase possessive if need be
-bne  +
-b    .ecc_en_articles
-+
-
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .ecc_it_articles
@@ -1909,8 +1900,7 @@ bne  +
 mov  r0,#149                      // if it is, then change it to the Pigmask
 +
 mov  r1,r0
-lsl  r0,r0,#2
-add  r0,r0,r1                     // offset = enemy ID * 5 bytes
+lsl  r0,r0,#3                     // offset = enemy ID * 8 bytes
 ldr  r1,=#{enemy_extras_address}  // this is the base address of our extra enemy data table in ROM
 add  r0,r0,r1                     // r0 now has address of this enemy's extra data entry
 ldrb r0,[r0,r2]                   // r0 now has the proper line # to use from custom_text.bin

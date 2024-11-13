@@ -2216,7 +2216,8 @@ sub  r2,r0,r2                    // r2 = argument - #0x10, this will make it eas
 ldr  r0,=#0x201A1FD              // this gets the current item #
 ldrb r0,[r0,#0]
 
-lsl  r0,r0,#3                    // r0 = item num * 8
+mov r1,#9
+mul r0,r1                        // r0 = item num * 9
 ldr  r1,=#{item_extras_address}  // this is the base address of our extra item data table in ROM
 add  r0,r0,r1                    // r0 now has the address of the correct item table
 ldrb r0,[r0,r2]                  // r0 now has the proper article entry #
