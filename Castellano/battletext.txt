@@ -282,7 +282,7 @@
 0087: It was a good experience![END]
 0087-E: ¡Fue toda una experiencia![END]
 0088: The enemy left a present![END]
-0088-E: ¡El enemigo dejó un regalo![END]
+0088-E: ¡El enemigo ha dejado un regalo![END]
 0089: Inside the present, there [17 EF][11 EF][10 FF]![END]
 0089-E: ¡Dentro, había [11 EF][10 FF]![END]
 008A: Inside the present, there [17 EF][11 EF][10 FF]![34 FF] Maybe.[END]
@@ -304,7 +304,7 @@
 0092: It's not a good idea to throw out [13 EF][10 FF].[END]
 0092-E: No es buena idea tirar [13 EF][10 FF].[END]
 0093: [10 FF] gave up [13 EF][11 FF]![END]
-0093-E: ¡[10 FF] dejó atrás [13 EF][11 FF]![END]
+0093-E: ¡[10 FF] ha dejado atrás [13 EF][11 FF]![END]
 0094: [10 FF] and company gave up [13 EF][11 FF]![END]
 0094-E: [10 FF] y compañía dejaron atrás [13 EF][11 FF]![END]
 0095: [END]
@@ -402,7 +402,7 @@
 00C3: [04 EF][10 FF] became tame![END]
 00C3-E: ¡[04 EF][10 FF] se calmó![END]
 00C4: [04 EF][10 FF] stopped moving![END]
-00C4-E: ¡[04 EF][10 FF] dejó de moverse![END]
+00C4-E: ¡[04 EF][10 FF] ha dejado de moverse![END]
 00C5: [04 EF][10 FF] was totally scrapped![END]
 00C5-E: ¡[04 EF][10 FF] es ahora un montón de chatarra![END]
 00C6: [04 EF][10 FF] disappeared![END]
@@ -759,7 +759,7 @@
 0175: [END]
 0175-E: [END]
 0176: [04 EF][12 FF] was tricked into turning around![END]
-0176-E: ¡[04 EF][12 FF] se dejó engañar y se dio la vuelta![END]
+0176-E: ¡[04 EF][12 FF] se ha dejado engañar y se ha dado la vuelta![END]
 0177: [END]
 0177-E: [END]
 0178: [33 FF]But it was a dud...[END]
@@ -785,7 +785,7 @@
 0182: [11 FF] grasped the [10 FF] tightly and pounced on the [12 FF]![32 FF][END]
 0182-E: ¡[11 FF] empuñó con firmeza el [10 FF] y se lo clavó al [12 FF]![32 FF][END]
 0183: It pierced the [12 FF]'s tough hide![32 FF][WAIT]The [12 FF] let out a howl![33 FF][END]
-0183-E: ¡Penetró a través de la dura piel del [12 FF]![32 FF][WAIT]¡El [12 FF] dejó escapar un aullido![33 FF][END]
+0183-E: ¡Penetró a través de la dura piel del [12 FF]![32 FF][WAIT]¡El [12 FF] ha dejado escapar un aullido![33 FF][END]
 0184: This isn't the best time for that.[END]
 0184-E: Ahora no es el mejor momento para eso.[END]
 0185: This isn't the best time for that.[END]
@@ -1491,7 +1491,7 @@
 02D2: Ionia lent [12 FF] her support![END]
 02D2-E: ¡Ionia le dio ánimos a [12 FF]![END]
 02D3: Ionia let out a tiny little scream![END]
-02D3-E: ¡Ionia dejó escapar un gritito![END]
+02D3-E: ¡Ionia ha dejado escapar un gritito![END]
 02D4: Ionia is batting her false eyelashes![END]
 02D4-E: ¡Ionia agitó sus pestañas postizas![END]
 02D5: [END]
@@ -1720,7 +1720,7 @@
 // Used by the enemies:  Great Antlion,  Great Antlion
 // Used by the action: 54
 0315: [04 EF][11 FF] scattered soot about![END]
-0315-E: ¡[04 EF][11 FF] dejó todo perdido de hollín![END]
+0315-E: ¡[04 EF][11 FF] lo ha dejado todo perdido de hollín![END]
 // Used by the enemy:  Soot Dumpling
 // Used by the action: 55
 0316: [04 EF][11 FF] vented its exhaust![END]
@@ -1759,7 +1759,7 @@
 // Used by the enemies:  Ten-Yeti,  Batangutan,  Monkalrus
 // Used by the actions: 65, 66
 0320: [04 EF][11 FF] fell on top of [45 EF][12 FF]![END]
-0320-E: ¡[04 EF][11 FF] se dejó caer sobre [45 EF][12 FF]![END]
+0320-E: ¡[04 EF][11 FF] se ha dejado caer sobre [45 EF][12 FF]![END]
 // Used by the enemy:  Mobile Grave
 // Used by the action: 68
 0321: [04 EF][11 FF] fired a whole bunch of missiles![END]
@@ -2176,7 +2176,7 @@
 0396-E: ¡[24 EF][11 FF] usó Escudo PSI [OMEGA]![END]
 // Used by the action: 182
 0397: [02 EF][11 FF] dropped down from the ceiling![END]
-0397-E: ¡[02 EF][11 FF] se dejó caer del techo![END]
+0397-E: ¡[02 EF][11 FF] se ha dejado caer del techo![END]
 // Used by the actions: 69, 183, 523
 0398: [04 EF][11 FF] unleashed a back kick![END]
 0398-E: ¡[04 EF][11 FF] soltó una patada lateral![END]
@@ -2213,11 +2213,11 @@
 // Used by the enemy:  Wound-Up Road Hog
 // Used by the action: 192
 03A1: [04 EF][11 FF] generated an intense burst of steam![END]
-03A1-E: ¡[04 EF][11 FF] dejó escapar un intenso chorro de vapor![END]
+03A1-E: ¡[04 EF][11 FF] ha dejado escapar un intenso chorro de vapor![END]
 // Used by the enemy:  Reconstructed Caribou
 // Used by the actions: 193, 303
 03A2: [04 EF][11 FF] vented an intense burst of steam![END]
-03A2-E: ¡[04 EF][11 FF] dejó escapar un intenso chorro de vapor![END]
+03A2-E: ¡[04 EF][11 FF] ha dejado escapar un intenso chorro de vapor![END]
 // Used by the enemy:  Baked Yammonster
 // Used by the action: 194
 03A3: [04 EF][11 FF] called for help![END]
@@ -3071,7 +3071,7 @@
 // Used by the enemies:  Eerie Smile,  Eerie Smile,  Unworked Clay,  Explosion,  Electric Catfish
 // Used by the actions: 449, 454
 04A8: [04 EF][11 FF] let out a scream![END]
-04A8-E: ¡[04 EF][11 FF] dejó escapar un grito![END]
+04A8-E: ¡[04 EF][11 FF] ha dejado escapar un grito![END]
 // Used by the enemies:  Eerie Smile,  Eerie Smile,  Unworked Clay,  Unworked Clay,  Explosion,  Explosion,  Electric Catfish,  Electric Catfish
 // Used by the actions: 453, 455
 04A9: [END]
@@ -3718,9 +3718,9 @@
 05AE: [04 EF][11 FF] is lost in dance![END]
 05AE-E: ¡[04 EF][11 FF] no puede parar de bailar![END]
 05AF: [04 EF][11 FF] stopped dancing![END]
-05AF-E: ¡[04 EF][11 FF] dejó de bailar![END]
+05AF-E: ¡[04 EF][11 FF] ha dejado de bailar![END]
 05B0: [04 EF][11 FF] stopped dancing![END]
-05B0-E: ¡[04 EF][11 FF] dejó de bailar![END]
+05B0-E: ¡[04 EF][11 FF] ha dejado de bailar![END]
 05B1: [END]
 05B1-E: [END]
 05B2: [04 EF][11 FF]'s offense decreased by [10 FF]![END]

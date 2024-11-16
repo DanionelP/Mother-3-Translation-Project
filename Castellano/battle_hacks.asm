@@ -674,6 +674,11 @@ bne  +
 b    .cc_it_articles
 +
 
+cmp r0,#0x15
+bne  +
+b    .cc_it_articles
++
+
 cmp  r0,#0x16                // check for 0xEF16, which will print a lowercase pronoun for items
 bne  +
 b    .cc_it_articles
@@ -1727,6 +1732,11 @@ b    .ecc_it_articles
 +
 
 cmp  r0,#0x13                // check for 0xEF13, which will print a lowercase article for items
+bne  +
+b    .ecc_it_articles
++
+
+cmp r0,#0x15
 bne  +
 b    .ecc_it_articles
 +

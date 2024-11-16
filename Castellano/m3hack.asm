@@ -1315,6 +1315,13 @@ org $8DD5D60; incbin gfx_sheriff2_[c].bin
 org $9640AD0; incbin gfx_knock.bin
 org $9692350; incbin gfx_ice.bin
 
+// Insert graphic for the CAST sprite
+org $9659AB0; incbin gfx_castleft.bin
+org $9658CB0; incbin gfx_castright.bin
+org $1A87871; db $00 // right part position
+org $1A87875; db $E0,$70,$61 // left part position, tile id and size respectively
+org $143710E; db $30 // collision
+
 // - General
 org $8E5D270; incbin gfx_end0_[c].bin
 org $8EEDE28; incbin gfx_end1_[c].bin
@@ -1369,9 +1376,11 @@ org $9C5F827; db $02                                 // hide trash sprite
 
 // - New Pork City
 org $8E8DBAC; incbin gfx_ticket_[c].bin
-org $8E9CB2C; incbin gfx_beauty_intern1_[c].bin
+org $8D3D33C; dd $9FDA810-$8D3B4E0
+org $9FDA810; incbin gfx_beauty_intern1_[c].bin
 org $8E9CEF0; incbin gfx_beauty_intern2_[c].bin
-org $8F15E9C; incbin gfx_beauty_extern_[c].bin
+org $8D3DE48; dd $9FDABF0-$8D3B4E0
+org $9FDABF0; incbin gfx_beauty_extern_[c].bin
 org $8F0A464; incbin gfx_heli_[c].bin
 org $8F0CE20; incbin gfx_arcade_top_[c].bin
 org $8F0D144; incbin gfx_arcade_bottom_[c].bin
@@ -1466,8 +1475,8 @@ org $8CFE2A8; incbin text_itemdescriptions.bin
 org $9F8F004; incbin text_special_itemdescriptions.bin
 
 // insert battle text
-org $9C92698; dd $0031FAA0
-org $9FB0400; incbin text_battletext.bin
+org $9C92698; dd $0031F9F0
+org $9FB0350; incbin text_battletext.bin
 
 // insert special text used by custom control codes
 define custom_text_address $8D0829C
@@ -1752,6 +1761,9 @@ org $91F2B71; db $07 //Four people
 
 //Fix issue where losing in the prologue removes all Claus' PPs.
 org $8001D5A; bl claus_pp_fix.main; pop {r1}; bx r1
+
+//Manage gender for status ailments in status menu //De momento no funciona
+//org $8044356; bl main_menu_hacks.status_gender
 
 //Fix issue with mouse in block 632 always displaying "Talking to Salsa/Boney"'s line when it can never be interacted with as Salsa
 org $9199FD4; dd $00E3CBF0

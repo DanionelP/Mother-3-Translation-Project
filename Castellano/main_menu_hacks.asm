@@ -1740,7 +1740,7 @@ push    {r6,r7}
 add     sp,#-0x8
 // ----------------------------------------------
 // Get the address of "Sell your "
-mov  r0,#0x7F
+mov  r0,#0x7D
 bl   $80486A0
 mov  r4,r0
 
@@ -5891,6 +5891,22 @@ mov  r0,#0
 
 .end:
 pop  {pc}
+
+
+//=============================================================================================
+// Gender for status ailments
+//=============================================================================================
+.status_gender:
+push {lr}
+mov  r1,r9
+ldrb r1,[r1,#0]
+cmp  r1,#0x4                 //Id for Kumatora (when Lucas is 1 instead of 0)
+bne  +
+add  r0,#0x8
++
+bl   $80486A0
+pop  {pc}
+
 
 //=============================================================================================
 // This set of hacks cleans the writing stack
