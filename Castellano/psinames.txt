@@ -14,31 +14,31 @@
 06:PK Starstorm
 06-E:PK Tormenta estelar
 07:PK Fire [ALPHA]
-07-E: PK Fuego [ALPHA]
+07-E:PK Fuego [ALPHA]
 08:PK Fire [BETA]
-08-E: PK Fuego [BETA]
+08-E:PK Fuego [BETA]
 09:PK Fire [GAMMA]
-09-E: PK Fuego [GAMMA]
+09-E:PK Fuego [GAMMA]
 0A:PK Fire [OMEGA]
-0A-E: PK Fuego [OMEGA]
+0A-E:PK Fuego [OMEGA]
 0B:PK Freeze [ALPHA]
-0B-E: PK Hielo [ALPHA]
+0B-E:PK Hielo [ALPHA]
 0C:PK Freeze [BETA]
-0C-E: PK Hielo [BETA]
+0C-E:PK Hielo [BETA]
 0D:PK Freeze [GAMMA]
-0D-E: PK Hielo [GAMMA]
+0D-E:PK Hielo [GAMMA]
 0E:PK Freeze [OMEGA]
-0E-E: PK Hielo [OMEGA]
+0E-E:PK Hielo [OMEGA]
 0F:PK Thunder [ALPHA]
-0F-E: PK Trueno [ALPHA]
+0F-E:PK Trueno [ALPHA]
 10:PK Thunder [BETA]
-10-E: PK Trueno [BETA]
+10-E:PK Trueno [BETA]
 11:PK Thunder [GAMMA]
-11-E: PK Trueno [GAMMA]
+11-E:PK Trueno [GAMMA]
 12:PK Thunder [OMEGA]
-12-E: PK Trueno [OMEGA]
+12-E:PK Trueno [OMEGA]
 13:PK Ground
-13-E: PK Terremoto
+13-E:PK Seísmo
 14:(EMPTY)
 14-E:(NADA)
 15:(EMPTY)

@@ -131,7 +131,7 @@
 03F:Big Enemy Encounter![END]
 03F-E:¡Un jefazo![END]
 040:Fight with Mecha-Drago[END]
-040-E:Combate con el Mecha-drago[END]
+040-E:Combate con el Mecha-Drago[END]
 041:Victorious...[END]
 041-E:Victoria...[END]
 042:Level Up![END]

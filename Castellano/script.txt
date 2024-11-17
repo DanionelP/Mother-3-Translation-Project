@@ -15118,7 +15118,7 @@
 428-0:@A garbage truck.[END]
 428-0E:@Un camión de la basura.[END]
 428-1:@Pretty sweet piloting, if I do say so myself![WAIT]@Well, here we are! Thunder Tower![WAIT]@Please hurry to the generator room[BREAK]  post-haste![END]
-428-1E:@¡Desde luego, soy un as del volante![WAIT]@¡Hemos llegado! ¡La Torre del trueno![WAIT]@¡Por favor, diríjase a la sala del generador[BREAK]  cuanto antes![END]
+428-1E:@¡Desde luego, soy un as al volante![WAIT]@¡Hemos llegado! ¡La Torre del trueno![WAIT]@¡Por favor, diríjase a la sala del generador[BREAK]  cuanto antes![END]
 428-2:@Don't get sidetracked![BREAK]  You need to hurry to the generator room![END]
 428-2E:@¡No se entretenga![BREAK]  ¡Tiene que ir a la sala del generador![END]
 428-3:@This is the staff entrance to Thunder Tower.[WAIT]@Say, Commander.[WAIT]  Did you ever find that embarrassing item of[BREAK]  yours that you accidentally threw away?[END]
@@ -15199,7 +15199,7 @@
 435-3:@Oh, yes. Mr. Fassad is here at Thunder Tower.[WAIT][PAUSE 10 00]@He seems the same as ever.[END]
 435-3E:@Oh, sí. El Sr. Falhaz también está aquí.[WAIT][PAUSE 10 00]@Parece el mismo de siempre.[END]
 435-4:@I wish they would make some new, angry[BREAK]  catfish at the Chimera Lab.[WAIT]@Huh?! You don't know about the Chimera Lab?![WAIT]@Surely you're joking again![END]
-435-4E:@OjaIá que creen algún nuevo tipo de siluro[BREAK]  en el Laboratorio quimera.[WAIT]@¡¿Eh?! ¡¿Que qué es el Laboratorio quimera?![WAIT]@¡Muy bueno, comandante![END]
+435-4E:@OjaIá que creen algún nuevo tipo de siluro[BREAK]  en el laboratorio Quimera.[WAIT]@¡¿Eh?! ¡¿Que qué es el laboratorio Quimera?![WAIT]@¡Muy bueno, comandante![END]
 435-5:@An electric catfish.[WAIT]@It's extremely weak now.[END]
 435-5E:@Un siluro eléctrico.[WAIT]@Parece estar muy débil.[END]
 

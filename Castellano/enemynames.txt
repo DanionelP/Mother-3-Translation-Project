@@ -325,7 +325,7 @@
 00A1: Scrapped Robot
 00A1-E: Robot destrozado
 00A2: Forlorn Junk Heap
-00A2-E: Chatarra desolado
+00A2-E: Chatarra desolada
 00A3: Surprise Box
 00A3-E: Caja sorpresa
 00A4: Battery Man

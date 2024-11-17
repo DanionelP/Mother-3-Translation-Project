@@ -374,7 +374,7 @@
 00B5: [02 EF][00 EF][01 EF] snuck up from behind![END]
 00B5-E: ¡Fuiste emboscado por [02 EF][00 EF][01 EF]![END]
 00B6: [02 EF][00 EF][01 EF] trapped you![END]
-00B6-E: ¡Fuiste atrapado por [02 EF][00 EF][01 EF]![END]
+00B6-E: ¡Fuiste atrapado por [03 EF][00 EF][01 EF]![END]
 00B7: You encountered [03 EF][00 EF][01 EF]![END]
 00B7-E: ¡Te topaste con [03 EF][00 EF][01 EF]![END]
 00B8: [02 EF][00 EF][01 EF] suddenly attacked![END]

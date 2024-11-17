@@ -430,7 +430,7 @@
 8E-E:[BREAK]Creada como regalo de[BREAK]cumpleaños de Porky.[BREAK]Sus costes de producción[BREAK]fueron astronómicos.[END]
 
 8F:[BREAK]A construction Chimera[BREAK]designed to destroy the[BREAK]old Chimera Lab to make[BREAK]way for a new building.[END]
-8F-E:[BREAK]Una quimera diseñada[BREAK]para demoler el antiguo[BREAK]Laboratorio Quimera y[BREAK]hacer hueco para otro.[END]
+8F-E:[BREAK]Una quimera diseñada[BREAK]para demoler el antiguo[BREAK]laboratorio Quimera y[BREAK]hacer hueco para otro.[END]
 
 90:[BREAK]This is getting out of hand.[BREAK]What's next, an anteater[BREAK]zombie? A platypus[BREAK]zombie?[END]
 90-E:[BREAK]Esto ya es pasarse...[BREAK]¿Qué será lo siguiente?[BREAK]¿Un tapir zombi?[BREAK]¿Un ornitorrinco zombi?[END]

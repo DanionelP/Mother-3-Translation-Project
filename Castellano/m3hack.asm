@@ -1239,7 +1239,8 @@ org $8F0E670; incbin gfx_lab1_[c].bin
 org $8F0E9E0; incbin gfx_lab2_[c].bin
 
 // Change OFE/DFE to OFF/DEF in Goods > Give screen
-org $9B90140; incbin gfx_offdef_[c].bin
+org $9B8FFC4; dd $9FDB000-$9B8FFC0
+org $9FDB000; incbin gfx_offdef_[c].bin
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256B20
@@ -1292,13 +1293,17 @@ org $90C4768; incbin gfx_lab_arrangement_3f_room1_[c].bin
 org $90C4DC8; incbin gfx_lab_arrangement_3f_room2_[c].bin
 
 // - Thunder Tower
-org $8D5FE3C; incbin gfx_thunder_elevator_extern_[c].bin
-org $8D530BC; incbin gfx_thunder_elevator_intern_[c].bin
+org $8D3B870; dd $12A0D20
+org $9FDC200; incbin gfx_thunder_elevator_extern_[c].bin
+org $8D3B720; dd $12A1020
+org $9FDC500; incbin gfx_thunder_elevator_intern_[c].bin
 
 // - Club Titiboo
 org $8D50A00; incbin gfx_club_keepout_[c].bin
-org $8DBA730; incbin gfx_ropeway_bottom_[c].bin
-org $8E1444C; incbin gfx_ropeway_top_[c].bin
+org $8D3BF2C; dd $12A0320
+org $9FDB800; incbin gfx_ropeway_bottom_[c].bin
+org $8D3C5D4; dd $12A0720
+org $9FDBC00; incbin gfx_ropeway_top_[c].bin
 org $8D5A2A8; incbin gfx_titiboo_oil_[c].bin
 
 // - Debug Room
@@ -1331,10 +1336,9 @@ org $9AF6480; incbin gfx_hp_pp_battle.bin
 org $9C9B108; incbin gfx_hp_pp.bin
 org $9B9C364; incbin gfx_various_menu1.bin
 org $9B9D564; incbin gfx_various_menu2_[c].bin
-org $9B9D808; incbin gfx_start_battle_[c].bin
+org $9B90030; dd $0044C040
+org $9FDC000; incbin gfx_start_battle_[c].bin
 org $9C97CE8; incbin gfx_exit_battle.bin
-//org $9C926C8; incbin gfx_combo.bin
-// org $9C5F340; incbin gfx_main_menu_[c].bin
 org $9CA6928; incbin gfx_music.bin
 org $967A0D0; incbin gfx_happy_end.bin
 org $993F270; incbin gfx_sprays.bin
@@ -1375,7 +1379,8 @@ org $9C5F827; db $02                                 // hide trash sprite
 
 
 // - New Pork City
-org $8E8DBAC; incbin gfx_ticket_[c].bin
+org $8D3CF34; dd $9FDC800-$8D3B4E0
+org $9FDC800; incbin gfx_ticket_[c].bin
 org $8D3D33C; dd $9FDA810-$8D3B4E0
 org $9FDA810; incbin gfx_beauty_intern1_[c].bin
 org $8E9CEF0; incbin gfx_beauty_intern2_[c].bin
@@ -2065,6 +2070,8 @@ incsrc credits_hacks.asm
 
 //disclaimer_palette:
 //incbin gfx_disclaimer_pal.bin
+
+org $90DF324; incbin gfx_theater_arrangement_[c].bin
 
 
 

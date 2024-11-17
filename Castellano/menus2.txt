@@ -276,7 +276,7 @@
 0088: @Once all of the Needles are[BREAK]  pulled, what will happen?[BREAK][BREAK]@The die is cast. There is no[BREAK]  choice but to go on.[END]
 0088-E: @Cuando todas las Agujas se hayan[BREAK]  extraído, ¿qué pasará?[BREAK][BREAK]@La suerte está echada. No hay[BREAK]  más remedio que seguir adelante.[END]
 0089: @This won't be easy to believe[BREAK]  at first...[BREAK][BREAK]@But it is said that deep in the[BREAK]  earth below these islands lies[BREAK]  an enormous sleeping dragon.[WAIT]@It isn't the lovable Drago from[BREAK]  the forest, and it isn't the[BREAK]  poor, modified Mecha-Drago,[BREAK]  either.[WAIT]@It's the Dragon from the[BREAK]  legend, or so they say.[END]
-0089-E: @Parecerá difícil de creer[BREAK]  al principio...[BREAK][BREAK]@Pero se dice que muy por debajo[BREAK]  de estas islas habita un enorme[BREAK]  dragón durmiente.[WAIT]@No es como los cariñosos Dragos[BREAK]  del bosque, y tampoco es como el[BREAK]  modificado Mecha-drago.[WAIT]@Es el Dragón de la leyenda,[BREAK]  o algo así dice la gente.[END]
+0089-E: @Parecerá difícil de creer[BREAK]  al principio...[BREAK][BREAK]@Pero se dice que muy por debajo[BREAK]  de estas islas habita un enorme[BREAK]  dragón durmiente.[WAIT]@No es como los cariñosos Dragos[BREAK]  del bosque, y tampoco es como el[BREAK]  modificado Mecha-Drago.[WAIT]@Es el Dragón de la leyenda,[BREAK]  o algo así dice la gente.[END]
 008A: @It's alive. It's your friend.[END]
 008A-E: @Está vivo. Es tu amigo.[END]
 008B: @It is said that once the[BREAK]  Dark Dragon awakens,[BREAK]  the world will perish...[BREAK][BREAK]@Is it really wise to continue[BREAK]  pulling the Needles like this?[END]
