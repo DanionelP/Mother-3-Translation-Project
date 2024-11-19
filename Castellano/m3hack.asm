@@ -1243,7 +1243,7 @@ org $9B8FFC4; dd $9FDB000-$9B8FFC0
 org $9FDB000; incbin gfx_offdef_[c].bin
 
 // Change MONOTOLY to MONOTOLI in the theater
-org $8D3E09C; dd $01256B20
+org $8D3E09C; dd $01256D20
 org $9F92200; incbin gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
@@ -1310,12 +1310,13 @@ org $8D5A2A8; incbin gfx_titiboo_oil_[c].bin
 org $8DB555C; incbin gfx_debug_[c].bin
 
 // - Tazmily
-org $8D3C0F0; dd $1288920
-org $9FC3E00; incbin gfx_bazar1_[c].bin
-org $8D3C0F4; dd $1288578
-org $9FC3A58; incbin gfx_bazar2_[c].bin
+org $8D3C0F0; dd $8F92A70-$8D3B4E0
+org $8F92A70; incbin gfx_bazar1_[c].bin
+org $8D3C0F4; dd $915BA30-$8D3B4E0
+org $915BA30; incbin gfx_bazar2_[c].bin
 org $9C68724; incbin gfx_bazar_credits.bin
-org $8DD6054; incbin gfx_sheriff1_[c].bin
+org $8D3C134; dd $91602A0-$8D3B4E0
+org $91602A0; incbin gfx_sheriff1_[c].bin
 org $8DD5D60; incbin gfx_sheriff2_[c].bin
 org $9640AD0; incbin gfx_knock.bin
 org $9692350; incbin gfx_ice.bin
@@ -1364,8 +1365,8 @@ org $9CFAB32; db $F8,$81 // "MISS" text, left 8 pixels (part 1)
 org $9CFAB3A; db $18 // "MISS" text, left 8 pixels (part 2)
 
 // - Titlescreen
-org $9BCDE60; dd $3F6474
-org $9FC4200; incbin gfx_main_menu_[c].bin
+org $9BCDE60; dd $2EB4
+org $9BD0C40; incbin gfx_main_menu_[c].bin
 org $9C5F838; db $F8,$C0,$00 // NEW GAME, part 1 ($00,$40,$00 => $FC,$C0,$00) position, size, zone
 org $9C5F83E; db $38,$40,$60 // NEW GAME, part 2 ($20,$40,$04 => $3C,$40,$60)
 org $9C5F848; db $00,$C0,$6F // make LOAD sprite larger + centered ($10,$40,$08 => $00,$C0,$6F)
@@ -2071,9 +2072,8 @@ incsrc credits_hacks.asm
 //disclaimer_palette:
 //incbin gfx_disclaimer_pal.bin
 
-org $90DF324; incbin gfx_theater_arrangement_[c].bin
-
-
+org $904E0E8; dd $F8F234
+org $9FDCC00; incbin gfx_theater_arrangement_[c].bin
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"
