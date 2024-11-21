@@ -694,9 +694,11 @@ org $8055BD8; dd $2004F26
 
 // New credits tileset
 org $9C5FE60; dd $00326614
-org $9C8D24E; db $00,$00,$00,$00,$00,$00
+//org $9C8D24E; db $00,$00,$00,$00,$00,$00
+org $9F86340; incbin gfx_credits_[c].bin
+org $9C86E98; incbin gfx_credits_arrangement.bin
 org $9F86140; incbin data_creditstable.bin
-org $9F86340; incbin font_creditsfont_[c].bin
+//org $9F86340; incbin font_creditsfont_[c].bin
 
 // This fixes something with the naming screens
 org $80428FE
@@ -2074,6 +2076,11 @@ incsrc credits_hacks.asm
 
 org $904E0E8; dd $F8F234
 org $9FDCC00; incbin gfx_theater_arrangement_[c].bin
+org $8DEE9F8; incbin gfx_titiboo_sign_[c].bin
+org $8E24C70; incbin gfx_club_titiboo_sign_[c].bin
+org $8D4FFC8; incbin gfx_titiboo_rug_[c].bin
+org $9C70DA4; incbin gfx_titiboo_credits.bin
+
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"

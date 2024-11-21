@@ -4466,7 +4466,7 @@
 50-21:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]This guy is definitely dog-like, but it seems[BREAK]  [PAUSE 20 00]he isn't a dog.[WAIT]@But, dude.[PAUSE 30 00][WAIT]@If by chance you ARE a dog.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  You'd be one of the best dogs to ever shake.[WAIT]@Heh.[END]
 50-21E:@[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00].[PAUSE 1E 00]Desde luego, tiene cara de perro...[BREAK]  [PAUSE 20 00]pero no creo que lo sea.[WAIT]@Ahora bien, tronco.[PAUSE 30 00][WAIT]@Si de verdad FUESES un perro.[PAUSE 20 00].[PAUSE 20 00].[PAUSE 80 00][BREAK]  Serías el mejor dando la patita.[WAIT]@Je.[END]
 50-22:@Wonderful![WAIT]@Come in, have lots of fun, and forget about[BREAK]  allllll your worries![END]
-50-22E:@¡Maravilloso![WAIT]@¡Entrad, pasadlo bien y olvidad[BREAK]  todas vuestras preocupaciones![END]
+50-22E:@¡Maravilloso![WAIT]@¡Entrad, pasadlo bien y olvidaos de[BREAK]  todas vuestras preocupaciones![END]
 50-23:@Please enjoy yourselves.[END]
 50-23E:@Que lo paséis bien.[END]
 50-24:@Good job![END]
