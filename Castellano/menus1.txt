@@ -227,7 +227,7 @@
 006F: [END]
 006F-E: En lágrimas[END]
 0070: [END]
-0070-E: Olvidadizo[END]
+0070-E: Olvidadiza[END]
 0071: [END]
 0071-E: Con náuseas[END]
 0072: [END]
