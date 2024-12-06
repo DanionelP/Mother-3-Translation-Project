@@ -1234,6 +1234,7 @@ org $9C8F34A; db $E8
 org $9C8F350; db $E8
 org $9C8F356; db $E8
 org $9C8DEB4; incbin gfx_healthscreen_[c].bin
+org $9C8EC48; incbin gfx_healthscreen_arrangement_[c].bin
 org $9C8DEA8; dd $9F87A20-$9C8DE98
 org $9F87A20; incbin gfx_healthtext_[c].bin
 
@@ -1359,9 +1360,9 @@ org $9CFA73A; db $FE,$81 // 2nd line, left 2 pixels (part 1)
 org $9CFA742; db $1E // 2nd line, left 2 pixels (part 2)
 org $9CFA74A; db $3E // 2nd line, left 2 pixels (part 3)
 org $9CFA752; db $5E // 2nd line, left 2 pixels (part 4)
-org $9CFAB1E; db $04 // 1st line, right 4 pixels (part 1)
-org $9CFAB26; db $24 // 1st line, right 4 pixels (part 2)
-org $8065658; db $3D // full 1st line, left 7 pixels back
+org $9CFAB1E; db $05 // 1st line, right 5 pixels (part 1)
+org $9CFAB26; db $25 // 1st line, right 5 pixels (part 2)
+org $8065658; db $3F // full 1st line, left 9 pixels back
 org $9CFAB30; db $FD // "MISS" text, up 3 pixels (part 2)
 org $9CFAB38; db $FD // "MISS" text, up 3 pixels (part 2)
 org $9CFAB32; db $F8,$81 // "MISS" text, left 8 pixels (part 1)
@@ -1370,16 +1371,15 @@ org $9CFAB3A; db $18 // "MISS" text, left 8 pixels (part 2)
 // - Titlescreen
 org $9BCDE60; dd $2EB4
 org $9BD0C40; incbin gfx_main_menu_[c].bin
-org $9C5F838; db $F8,$C0,$00 // NEW GAME, part 1 ($00,$40,$00 => $FC,$C0,$00) position, size, zone
-org $9C5F83E; db $38,$40,$60 // NEW GAME, part 2 ($20,$40,$04 => $3C,$40,$60)
+org $9C5F838; db $F7,$C0,$00 // NEW GAME, part 1 ($00,$40,$00 => $FC,$C0,$00) position, size, zone
+org $9C5F83E; db $37,$40,$60 // NEW GAME, part 2 ($20,$40,$04 => $3C,$40,$60)
 org $9C5F848; db $00,$C0,$6F // make LOAD sprite larger + centered ($10,$40,$08 => $00,$C0,$6F)
 org $9C5F852; db $FA,$41,$64 // SOUND PLAYER part 1
 org $9C5F858; db $1A,$40,$68 // SOUND PLAYER part 2
 org $9C5F85E; db $3A,$40,$6C // SOUND PLAYER part 3
 org $9C5F81C; db $C0,$C1,$1D // mini credits part 1
 org $9C5F822; db $00,$C0,$3D // mini credits part 2
-org $9C5F82C; db $E8,$80,$B8,$01,$5D         // mini credits part 3 (2 small dots on the left)
-org $9C5F827; db $02                                 // hide trash sprite
+org $9C5F826; db $F5,$10,$40,$00,$5E,$00,$F5,$00,$B8,$01,$5D // mini credits part 3 (put start and end of the sound credits)
 
 
 // - New Pork City
@@ -1403,7 +1403,8 @@ org $8F217FC; incbin gfx_porky_empire_[c].bin
 
 // - Highway
 org $8E748D0; incbin gfx_charge0_[c].bin
-org $8E2539C; incbin gfx_charge1_[c].bin
+org $8D3C724; dd $9FDD200-$8D3B4E0
+org $9FDD200; incbin gfx_charge1_[c].bin
 org $8EEC604; incbin gfx_charge2_[c].bin
 org $8ED4C38; incbin gfx_cafe_top_[c].bin
 org $8ED4930; incbin gfx_cafe_bottom_[c].bin
@@ -1563,9 +1564,13 @@ org $993DE30; incbin gfx_bellicon.bin
 org $9FABFE0; incbin gfx_bellicon_pal.bin
 
 // intro screen
-org $805AD14; bl introhackcode // bl extra_hacks.intro_screen // 
-org $9FAC000; incbin gfx_disclaimer_[c].bin
-org $9FAFE00; incbin gfx_disclaimer_pal.bin
+define disclaimer_address $9C9C800
+define disclaimer_pal_address $9CA1100
+define disclaimer_map_address $9CA2000
+org $805AD14; bl extra_hacks.intro_screen
+org {disclaimer_address}; incbin gfx_disclaimer_[c].bin
+org {disclaimer_pal_address}; incbin gfx_disclaimer_pal.bin
+org {disclaimer_map_address}; incbin gfx_disclaimer_map.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1
@@ -2081,7 +2086,6 @@ org $8DEE9F8; incbin gfx_titiboo_sign_[c].bin
 org $8E24C70; incbin gfx_club_titiboo_sign_[c].bin
 org $8D4FFC8; incbin gfx_titiboo_rug_[c].bin
 org $9C70DA4; incbin gfx_titiboo_credits.bin
-
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"

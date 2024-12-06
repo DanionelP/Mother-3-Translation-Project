@@ -460,7 +460,7 @@
 98-E:[BREAK]La variedad más rara de[BREAK]<fungus mobilus>.[BREAK]Ni se te o-o-ocurra[BREAK]c-c-comerte una.[END]
 
 99:[BREAK]Some may think he's more[BREAK]important than Mr. Batty,[BREAK]but he's actually at Mr.[BREAK]Batty's beck and call.[END]
-99-E:[BREAK]Se tiende a pensar que[BREAK]es más importante que el[BREAK]Sr. Murchiflado, pero en[BREAK]realidad es su lacayo.[END]
+99-E:[BREAK]Se tiende a pensar que[BREAK]es más importante que el[BREAK]Sr™ Murchiflado, pero en[BREAK]realidad es su lacayo.[END]
 
 9A:[BREAK]Has an incredible three, no,[BREAK]four exclamation marks in[BREAK]its name. That's just the[BREAK]kind of spider it is.[END]
 9A-E:[BREAK]Tiene tres, no, cuatro[BREAK]signos de exclamación en[BREAK]su nombre. Es de esa[BREAK]clase de arañas.[END]
@@ -496,7 +496,7 @@ A4:[BREAK]More than anything, it[BREAK]lives to terrify people. It[BREAK]sometim
 A4-E:[BREAK]Su cometido en la vida[BREAK]es aterrorizar a la gente.[BREAK]A veces se asusta él solo[BREAK]porque le hace gracia.[END]
 
 A5:Little Alkaline, Mr.[BREAK]Manganese, Li'l Lithium,[BREAK]Sir Nickle. They all look[BREAK]alike, but there are many[BREAK]different kinds.[END]
-A5-E:Alcalín, Mr. Magnesio,[BREAK]Mini-litio, Sr. Níquel...[BREAK]Se parecen entre sí, pero[BREAK]hay muchísimos tipos[BREAK]diferentes.[END]
+A5-E:Alcalín, Mr. Magnesio,[BREAK]Mini-litio, Sr™ Níquel...[BREAK]Se parecen entre sí, pero[BREAK]hay muchísimos tipos[BREAK]diferentes.[END]
 
 A6:A screw that holds[BREAK]Thunder Tower together.[BREAK]Even if 5 or 6 of them[BREAK]come loose, it's no big[BREAK]deal.[END]
 A6-E:Tornillo que sostiene la[BREAK]Torre del trueno.[BREAK]Aunque se soltasen 5 o 6,[BREAK]la estabilidad de esta no[BREAK]se vería afectada.[END]

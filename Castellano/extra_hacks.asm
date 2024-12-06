@@ -184,7 +184,7 @@ orr  r0,r1
 strh r0,[r2,#8]
 
 // Tile data
-ldr  r0,=#0x9FAC000
+ldr  r0,=#0x9C9C800
 ldr  r1,=#0x6008000
 swi  #0x12                         // LZ77UnCompVram
 // ldr  r2,=#0x1FE0
@@ -194,17 +194,10 @@ swi  #0x12                         // LZ77UnCompVram
 ldr  r0,=#0x6000000
 
 // Fill the first row with 0x0000
-mov  r1,#0
-mov  r2,#0
--
-strh r1,[r0,#0]
-add  r0,#2
-add  r2,#1
-cmp  r2,#0x20
-bne  -
+
 
 // Do the middle portion
-ldr  r1,=#0x1FE
+ldr  r1,=#0x258
 mov  r2,#0
 -
 mov  r3,#0x3F
@@ -220,17 +213,10 @@ cmp  r2,r1
 bne  -
 
 // Fill the last two rows with 0x0000
-mov  r1,#0
-mov  r2,#0
--
-strh r1,[r0,#0]
-add  r0,#2
-add  r2,#1
-cmp  r2,#0x40
-bne  -
+
 
 // Palette
-ldr  r0,=#0x9FAFE00
+ldr  r0,=#0x9CA1100
 mov  r1,#5
 lsl  r1,r1,#0x18
 mov  r2,#1

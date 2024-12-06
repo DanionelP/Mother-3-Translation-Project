@@ -370,7 +370,7 @@
 00B3: [END]
 00B3-E: [END]
 00B4: You snuck up on [03 EF][00 EF][01 EF] from behind![END]
-00B4-E: ¡Has pillado a [03 EF][00 EF][01 EF] por sorpresa![END]
+00B4-E: ¡Has pillado a [03 EF][00 EF][01 EF] por•sorpresa![END]
 00B5: [02 EF][00 EF][01 EF] snuck up from behind![END]
 00B5-E: ¡Has sido emboscado por [03 EF][00 EF][01 EF]![END]
 00B6: [02 EF][00 EF][01 EF] trapped you![END]
@@ -2457,7 +2457,7 @@
 // Used by the enemy:  Mr. Genetor
 // Used by the action: 370
 03E6: [04 EF][11 FF] is buzzing all around [12 FF]![END]
-03E6-E: ¡[04 EF][11 FF] se ha puesto a zumbar alrededor [46 EF][12 FF]![END]
+03E6-E: ¡[04 EF][11 FF] se ha puesto a zumbar alrededor•[46 EF][12 FF]![END]
 // Used by the enemy:  Firefly
 // Used by the actions: 256, 310
 03E7: [04 EF][11 FF] slapped with its tail![END]
@@ -3015,7 +3015,7 @@
 // Used by the enemy:  Lord Passion
 // Used by the action: 629
 0495: The barrier re-formed![WAIT][04 EF][11 FF]'s weakness changed![END]
-0495-E: ¡La barrera se ha formado de nuevo![WAIT]¡La debilidad [07 EF][11 FF] ha cambiado![END]
+0495-E: ¡La barrera se ha formado de nuevo![WAIT]¡La debilidad [06 EF][11 FF] ha cambiado![END]
 0496: [END]
 0496-E: [END]
 // Used by the action: 404

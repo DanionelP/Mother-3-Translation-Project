@@ -1263,13 +1263,13 @@ pop {pc}
 
 // Even
 //     char = ((byte - 7) ^ gfx_byte) + 3
-//     where gfx_byte = [1FAC000 + ((byte_address >> 1) % 3A10)]
+//     where gfx_byte = [1C9C800 + ((byte_address >> 1) % 3A10)]
 //.deven:
 //lsr  r0,r5,#1
 //ldr  r1,=#0x3A20
 //swi  #6 // Div -> r1 = r0 % r1
 //pop  {r0}
-//ldr  r2,=#0x9FAC000
+//ldr  r2,=#0x9C9C800
 //ldrb r1,[r2,r1]         // r1 = gfx_byte
 //sub  r0,#7
 //eor  r0,r1

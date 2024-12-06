@@ -83,7 +83,7 @@
 0028: Top Dogfish
 0028-E: Gran pescánido
 0029: Mr. Batty
-0029-E: Sr. Murchiflado
+0029-E: Sr™ Murchiflado
 002A: Greedy Mouse
 002A-E: Ratón gorrón
 002B: Firefly

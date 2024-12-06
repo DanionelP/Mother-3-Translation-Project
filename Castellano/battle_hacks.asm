@@ -654,6 +654,21 @@ bne  +
 b    .cc_en_articles
 +
 
+cmp r0,#0x07
+bne  +
+b    .cc_en_articles
++
+
+cmp r0,#0x08
+bne  +
+b    .cc_en_articles
++
+
+cmp r0,#0x09
+bne  +
+b    .cc_en_articles
++
+
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .cc_it_articles
@@ -1712,6 +1727,21 @@ b    .ecc_en_articles
 +
 
 cmp  r0,#0x06                // check for 0xEF06, which will print a lowercase possessive if need be
+bne  +
+b    .ecc_en_articles
++
+
+cmp r0,#0x07
+bne  +
+b    .ecc_en_articles
++
+
+cmp r0,#0x08
+bne  +
+b    .ecc_en_articles
++
+
+cmp r0,#0x09
 bne  +
 b    .ecc_en_articles
 +
