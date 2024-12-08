@@ -311,7 +311,7 @@
 009A: Bomb
 009A-E: Bomba
 009B: Super Bomb
-009B-E: Súper bomba
+009B-E: Súper•bomba
 009C: New Year's Eve Bomb
 009C-E: Bomba de nochevieja
 009D: Honey Shower
@@ -483,7 +483,7 @@
 00F0: Aeolia's Memento
 00F0-E: Recuerdo de Aeolia
 00F1: Tazmily Map
-00F1-E: Mapa de Tazmily
+00F1-E: Mapa de•Tazmily
 00F2: Osohe Sketch
 00F2-E: Esbozo de Osohe
 00F3: Underground Map

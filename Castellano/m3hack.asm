@@ -189,24 +189,6 @@ org $80427AE; db $67
 org $80C67C8; db $5E
 org $80C67CC; db $40
 
-// Re-center various main menu labels. Note that some rare labels may be missing still.
-org $8040456; db $BF         // Goods
-org $8040902; db $BF
-org $8040A82; db $C1         // Equip
-org $804121E; db $C1
-org $8043016; db $C1
-org $8040C26; db $C5         // PSI
-org $80410AE; db $BE         // Status
-org $804167E; db $A0         // Battle Memory
-org $8041886; db $C2         // Shop
-org $8041990; db $C2
-org $8041D00; db $C2
-org $804181A; db $C2
-org $8041F36; db $B9         // Item Dude
-org $80420AC; db $B9
-org $8042348; db $B9
-org $8041FA2; db $B9
-
 // centers Press the A Button for skill info thing
 org $80445B4; db $32
 
@@ -957,14 +939,33 @@ org $80226C0; bl main_script_hacks.end_line_multi_menu
 //                                  MISC OUTSIDE HACKS
 //============================================================================================
 
+// Re-center various main menu labels. Note that some rare labels may be missing still.
+org $8040456; db $BD       // Goods
+org $8040902; db $BD
+org $8040A82; db $C0       // Equip
+org $8043016; db $C0
+org $804121E; db $BB       // Skills
+org $8040C26; db $C5       // PSI
+org $80410AE; db $BE       // Status
+org $804167E; db $AF       // Battle Memory
+org $8041886; db $BE       // Shop
+org $8041990; db $BE
+org $8041D00; db $BE
+org $804181A; db $BE
+org $8041F36; db $B6       // Item Dude
+org $80420AC; db $B6
+org $8042348; db $B6
+org $8041FA2; db $B6
+
 // re-center various menu labels using these new x-coordinates
-org $80C20E8; db $BF         // Goods
-org $80C20EA; db $C1         // Equip
+org $80C20E8; db $BD         // Goods
+org $80C20EA; db $C0         // Equip
 org $80C20EC; db $C5         // PSI
 org $80C20EE; db $BE         // Status
-org $80C20F0; db $C1         // Sleep
+org $80C20F0; db $B7         // Sleep
 
 // centers all the Sleep Mode confirm text better
+org $8038564; db $19
 org $8038578; db $55
 org $803858C; db $91
 
@@ -1777,7 +1778,7 @@ org $91F2B71; db $07 //Four people
 org $8001D5A; bl claus_pp_fix.main; pop {r1}; bx r1
 
 //Manage gender for status ailments in status menu //De momento no funciona
-//org $8044356; bl main_menu_hacks.status_gender
+org $8044356; bl main_menu_hacks.status_gender
 
 //Fix issue with mouse in block 632 always displaying "Talking to Salsa/Boney"'s line when it can never be interacted with as Salsa
 org $9199FD4; dd $00E3CBF0
@@ -2086,6 +2087,7 @@ org $8DEE9F8; incbin gfx_titiboo_sign_[c].bin
 org $8E24C70; incbin gfx_club_titiboo_sign_[c].bin
 org $8D4FFC8; incbin gfx_titiboo_rug_[c].bin
 org $9C70DA4; incbin gfx_titiboo_credits.bin
+
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"

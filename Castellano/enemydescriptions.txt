@@ -7,19 +7,19 @@
 01-E:[BREAK]Alt:[END]100cm P:[END]100kg[BREAK]Personalidad:[END]despiadado[BREAK]Hábitat:[END]montañas[BREAK]Experiencia:[END]12345[END]
 
 02:[BREAK][BREAK]Someone has modified this[BREAK]gentle reindeer to make it[BREAK]aggressive.[END]
-02-E:[BREAK][BREAK]Alguien ha modificado a[BREAK]este gentil animal para volverlo agresivo.[END]
+02-E:[BREAK][BREAK]Alguien ha modificado a[BREAK]este tranquilo animal para[BREAK]volverlo agresivo.[END]
 
 03:[BREAK]The ghost of a musician[BREAK]who died before finishing[BREAK]his symphony. Beware of[BREAK]his captivating melodies.[END]
-03-E:[BREAK]El fantasma de un músico que murió sin completar[BREAK] su sinfonía. Ojo con sus cautivadoras melodías.[END]
+03-E:[BREAK]El fantasma de un músico[BREAK]que murió sin completar[BREAK]su sinfonía. Ojo con[BREAK]sus cautivadoras melodías.[END]
 
 04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
-04-E:Enorme serpiente que[BREAK]habita en los sótanos[BREAK]del Castillo Osohe.[BREAK]Despiértala y verás lo[BREAK]que es un tsunami.[END]
+04-E:Enorme serpiente que[BREAK]habita en los sótanos[BREAK]del Castillo Osohe.[BREAK]Despiértala, y verás lo[BREAK]que es un tsunami.[END]
 
 05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
-05-E:[BREAK][BREAK]Creado a partir de barro.[BREAK]Su triste mirada refleja[BREAK]su faceta trabajadora.[END]
+05-E:[BREAK][BREAK]Creado a partir de barro.[BREAK]Su triste mirada refleja[BREAK]lo trabajador que es.[END]
 
 06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
-06-E:[BREAK]Este furioso monstruo mecanizado fue en su día un amistoso y pacífico Drago.[END]
+06-E:[BREAK]Este furioso monstruo[BREAK]mecanizado era en su día[BREAK]un amistoso y pacífico[BREAK]Drago.[END]
 
 07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
 07-E:[BREAK]Tremendamente ruidoso.[BREAK]Contamina el aire sin[BREAK]piedad alguna con el[BREAK]humo de su motor.[END]
@@ -34,7 +34,7 @@
 0A-E:[END]
 
 0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
-0B-E:[BREAK]No, no es una mascota de una[BREAK]marca de pasta de dientes.[BREAK]Seguro que ni él mismo[BREAK]sabe lo que es.[END]
+0B-E:No, no es la mascota de [BREAK]una marca de pasta[BREAK]de dientes.[BREAK]Seguro que ni él mismo[BREAK]sabe lo que es.[END]
 
 0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
 0C-E:[BREAK]Lo creas o no, es Porky[BREAK]en carne y hueso.[BREAK]Es un anciano y un niño[BREAK]al mismo tiempo.[END]
@@ -46,13 +46,13 @@
 0E-E:[BREAK]¿Qué emociones oculta[BREAK]tras esa máscara?[BREAK]...Y aun más importante,[BREAK]¿quién es realmente?[END]
 
 0F:So fierce-looking he's[BREAK]afraid of his own[BREAK]reflection. Takes good[BREAK]care of his men and is a[BREAK]huge DCMC fan.[END]
-0F-E:Es tan fiero que hasta se[BREAK]asusta a sí mismo.[BREAK]Cuida bien de su tropa, y[BREAK]es fan a muerte de DCMC.[END]
+0F-E:[BREAK]Es tan fiero que hasta se[BREAK]asusta a sí mismo.[BREAK]Cuida bien de su tropa, y[BREAK]es fan a muerte de DCMC.[END]
 
 10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
-10-E:Tras saborear la derrota,[BREAK]se sometió a un intenso[BREAK]entrenamiento para[BREAK]fortalecerse.[END]
+10-E:[BREAK]Tras saborear la derrota,[BREAK]se sometió a un intenso[BREAK]entrenamiento para[BREAK]fortalecerse.[END]
 
 11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
-11-E:[BREAK]Un bajo de madera cuyos[BREAK]días de gloria terminaron.[BREAK]Guarda un profundo[BREAK]rencor a su sustituto.[END]
+11-E:[BREAK]Un bajo de madera cuyos[BREAK]días de gloria terminaron.[BREAK]Le guarda un profundo[BREAK]rencor a su sustituto.[END]
 
 12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
 12-E:[BREAK]Porky tuvo una rabieta y[BREAK]obligó al Dr. Andonuts y[BREAK]los Mr. Saturns a crear[BREAK]esta cápsula especial.[END]
@@ -88,7 +88,7 @@
 1C-E:[END]
 
 1D:Miraculously enough,[BREAK]Fassad has attained an[BREAK]even more powerful form.[BREAK]He may look funny, but he[BREAK]means serious business.[END]
-1D-E:Milagrosamente, Falhaz ha[BREAK]adoptado una forma aun[BREAK]más poderosa. Su aspecto[BREAK]podrá resultar gracioso,[BREAK]pero va muy en serio.[END]
+1D-E:Milagrosamente, Falhaz ha[BREAK]adoptado una forma aún[BREAK]más poderosa. Su aspecto[BREAK]podrá resultar gracioso,[BREAK]pero va muy en serio.[END]
 
 1E:[END]
 1E-E:[END]
@@ -130,16 +130,16 @@
 2A-E:[BREAK]Un murciélago nativo del[BREAK]bosque Amanecer. Adora[BREAK]la ambigüedad y tiende[BREAK]a ser algo indeciso.[END]
 
 2B:[BREAK]This mouse squirrels away[BREAK]anything and everything,[BREAK]even burying its worries[BREAK]and responsibilities.[END]
-2B-E:[BREAK]Este ratón esconde todo[BREAK]lo que se le ponga a tiro,[BREAK]hasta sus preocupaciones[BREAK] y responsabilidades.[END]
+2B-E:[BREAK]Este ratón esconde todo[BREAK]lo que se le ponga a tiro,[BREAK]hasta sus preocupaciones[BREAK]y responsabilidades.[END]
 
 2C:[BREAK]This monster is a small[BREAK]bug fused with a cheap[BREAK]lighter. It's doomed to a[BREAK]one-time use.[END]
 2C-E:[BREAK]Este monstruo es un[BREAK]insecto fusionado con un[BREAK]mechero barato. Está[BREAK]condenado a un único uso.[END]
 
 2D:Desperate to be embraced[BREAK]as sweet and delicious.[BREAK]Prefers to veg out[BREAK]underground as much as[BREAK]possible.[END]
-2D-E:Ansía ser considerado[BREAK]dulce y sabroso.[BREAK]Prefiere pasar el rato[BREAK]enterrado bajo suelo.[END]
+2D-E:[BREAK]Ansía ser considerado[BREAK]dulce y sabroso.[BREAK]Prefiere pasar el rato[BREAK]enterrado bajo suelo.[END]
 
 2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
-2E-E:[BREAK]Probablemente sus[BREAK]zumbantes alas hayan[BREAK]sido transplantadas de[BREAK]un insecto gigante.[END]
+2E-E:[BREAK]Probablemente, sus[BREAK]zumbantes alas hayan[BREAK]sido transplantadas de[BREAK]un insecto gigante.[END]
 
 2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
 2F-E:Robots basados en Porky[BREAK]cuando era niño. Creados[BREAK]en grupos de 11 para[BREAK]cosas como formar un[BREAK]equipo de fútbol.[END]
@@ -148,7 +148,7 @@
 30-E:[BREAK]Su mirada parece decir:[BREAK]<¡Los jabalíes tranquilos[BREAK]no merecen ser llamados[BREAK]jabalíes!>.[END]
 
 31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
-31-E:[BREAK]Comparada con las otras[BREAK]serpientes, no muerde[BREAK]tanto. Pero ojo, que[BREAK]moder, muerde.[END]
+31-E:[BREAK]Comparada con otras[BREAK]serpientes, no muerde[BREAK]tanto. Pero ojo, que[BREAK]moder, muerde.[END]
 
 32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
 32-E:[BREAK]Este pequeñajo se cree[BREAK]un dulce bollito, pero estar[BREAK]compuesto de hollín hace[BREAK]de él un mal aperitivo.[END]
@@ -163,7 +163,7 @@
 35-E:Vaga sin rumbo fijo,[BREAK]dejándose llevar por[BREAK]la corriente marina[BREAK]como una bolsa de[BREAK]plástico en el viento.[END]
 
 36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
-36-E:[BREAK]Luchar contra este mono[BREAK]metálico es toda una[BREAK]experiencia. Tenlo muy[BREAK]en cuenta.[END]
+36-E:[BREAK]Luchar contra este mono[BREAK]metálico es toda una[BREAK]experiencia.[BREAK]Tenlo muy en cuenta.[END]
 
 37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
 37-E:[BREAK]Cuando no se mueve,[BREAK]parece una piedra.[BREAK]Cuando se mueve,[BREAK]también lo parece.[END]
@@ -199,7 +199,7 @@
 41-E:[BREAK]Se entierra bajo suelo[BREAK]usando el taladro de su[BREAK]nariz. Lo de llevar sirena[BREAK]es por puro capricho.[END]
 
 42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
-42-E:[BREAK]Prefiere la carne cruda,[BREAK]pero no le hace ascos[BREAK]a la seca. También le[BREAK]pierden las verduras.[END]
+42-E:[BREAK]Prefiere la carne cruda,[BREAK]pero no le hace ascos[BREAK]a la seca. También le[BREAK]chiflan las verduras.[END]
 
 43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
 43-E:[BREAK]Se aburría de estar[BREAK]plantado, así que decidió[BREAK]ponerse a caminar.[BREAK]¡Ya no hay vuelta atrás![END]
@@ -220,13 +220,13 @@
 48-E:Pese a estar muerto,[BREAK]campa a sus anchas por[BREAK]el cementerio, en busca[BREAK]de nuevas vidas que[BREAK]arrebatar.[END]
 
 49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
-49-E:[BREAK]Mordisquea sus propios[BREAK]huesos, a falta de comida.[BREAK]Su ojo colgante lo hace[BREAK]aún más encantador.[END]
+49-E:[BREAK]A falta de comida, muerde[BREAK]sus propios huesos.[BREAK]El ojo que le cuelga lo hace[BREAK]aún más encantador.[END]
 
 4A:[BREAK][BREAK]Endlessly lingers around[BREAK]graveyards all alone, its[BREAK]flames burning with regret.[END]
 4A-E:[BREAK][BREAK]Vaga eternamente por el[BREAK]cementerio. El pesar[BREAK]alimenta sus llamas.[END]
 
 4B:[BREAK]Wouldn't it be easier to[BREAK]visit a grave if the grave[BREAK]came to you? No, wait, it[BREAK]would just be creepy.[END]
-4B-E:[BREAK]¿No sería más fácil visitar[BREAK]una tumba si la tumba[BREAK]viniese a ti? No, espera...[BREAK]¡eso sería aterrador![END]
+4B-E:[BREAK]¿No sería más fácil visitar[BREAK]una tumba si la tumba[BREAK]viniese a ti? No, espera...[BREAK]¡eso daría mucho miedo![END]
 
 4C:[BREAK]Once it sticks, it won't[BREAK]come off easily. Even if[BREAK]you do manage to pull it[BREAK]off, the residue is gross.[END]
 4C-E:[BREAK]Una vez pegado, no saldrá[BREAK]fácilmente. Aunque te lo[BREAK]consigas quitar, el residuo[BREAK]que deja es asqueroso.[END]
@@ -244,7 +244,7 @@
 50-E:[BREAK]Hermanito y él no se[BREAK]aclaran con sus nombres.[BREAK]Aunque no lo parezca,[BREAK]es el hermano mayor.[END]
 
 51:[BREAK]Spends all day sniffing a[BREAK]faint odor lingering inside[BREAK]the barrel. Not a bad guy[BREAK]at heart.[END]
-51-E:[BREAK]Se pasa el día entero[BREAK]olfateando el fino aroma[BREAK]que flota dentro de su barril.[BREAK]En el fondo no es malo.[END]
+51-E:[BREAK]Se pasa el día entero[BREAK]olfateando el fino aroma[BREAK]que flota dentro del barril.[BREAK]En el fondo, no es malo.[END]
 
 52:[BREAK][BREAK]Caution. This is not[BREAK]strawberry jam. Please do[BREAK]not spread it on bread.[END]
 52-E:[BREAK][BREAK]¡Ojo! No es mermelada[BREAK]de fresa, así que no[BREAK]intentes untarlo en pan.[END]
@@ -274,7 +274,7 @@
 5A-E:[BREAK][BREAK]Esta capa flota de forma[BREAK]elegante en el viento.[BREAK]Moderna a la par que chula.[END]
 
 5B:[BREAK]Hasn't noticed that its[BREAK]master is long gone, and[BREAK]continues to bear his[BREAK]weight on its back.[END]
-5B-E:[BREAK]No es consciente de que[BREAK]su amo ya no está, y[BREAK]sigue cargando con su[BREAK]peso en la espada.[END]
+5B-E:[BREAK]No es consciente de que[BREAK]su amo ya no está, y[BREAK]sigue cargando con su[BREAK]peso en la espalda.[END]
 
 5C:No matter how long it[BREAK]takes, this door anxiously[BREAK]waits for someone to open[BREAK]it. It's been waiting for[BREAK]years now.[END]
 5C-E:No importa lo larga que[BREAK]sea la espera, aguarda[BREAK]impaciente el momento[BREAK]de su apertura.[BREAK]Lleva años esperando.[END]
@@ -289,22 +289,22 @@
 5F-E:[BREAK]Cava un hoyo y espera a[BREAK]que caigan hormigas en él.[BREAK]No le importa si en vez de[BREAK]hormigas caen humanos.[END]
 
 60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
-60-E:[BREAK]Vuela por todo el desierto[BREAK]rechinando sus dientes.[BREAK]Hace que sus oponentes[BREAK]se sientan avergonzados.[END]
+60-E:[BREAK]Vuela por todo el desierto[BREAK]rechinando sus dientes.[BREAK]Hace que sus enemigos[BREAK]se sientan avergonzados.[END]
 
 61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
-61-E:[BREAK]Los escarabajos recogen[BREAK]sus heces y ellos se[BREAK]comen a los escarabajos.[BREAK]No es que sea un trato[BREAK]muy justo.[END]
+61-E:Los escarabajos recogen[BREAK]sus heces y ellos se[BREAK]comen a los escarabajos.[BREAK]No es que sea un trato[BREAK]muy justo.[END]
 
 62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
 62-E:[BREAK]El Cactulobo tiene un[BREAK]Lobocactus firmemente[BREAK]pegado a su frente.[BREAK]Ambos se llevan muy bien.[END]
 
 63:[BREAK]If you rub your eyes after[BREAK]touching this guy, your[BREAK]legs will turn to goo. Be[BREAK]sure to wash your hands.[END]
-63-E:[BREAK]Si te frotas los ojos tras[BREAK]tocarle, tus piernas se[BREAK]volverían pringosas. Lo[BREAK]mejor sería usar guantes.[END]
+63-E:[BREAK]Si te frotas los ojos tras[BREAK]tocarlo, tus piernas se[BREAK]vuelven pringosas. Lo mejor[BREAK]sería usar guantes.[END]
 
 64:[BREAK]It looks like a mummified[BREAK]cat, but it's not a cat at[BREAK]all. It's something entirely[BREAK]different altogether.[END]
 64-E:[BREAK]Puede que parezca un gato[BREAK]momificado, pero no es un[BREAK]gato. Es algo totalmente[BREAK]distinto.[END]
 
 65:[BREAK]Adjective-wise, he's[BREAK]caught between his size[BREAK]and his age. It's all very[BREAK]confusing.[END]
-65-E:[BREAK]Vive atrapado entre su[BREAK]edad y su tamaño.[BREAK]Es todo muy confuso.[END]
+65-E:[BREAK][BREAK]Vive atrapado entre su[BREAK]edad y su tamaño.[BREAK]Es todo muy confuso.[END]
 
 66:Recently discovered on[BREAK]Tanetane Island. It's[BREAK]usually rotten, and[BREAK]attracts its food by[BREAK]dancing.[END]
 66-E:Extraño ser descubierto[BREAK]en la isla Tanetane.[BREAK]Su cuerpo está podrido,[BREAK]y atrae a sus víctimas[BREAK]bailando.[END]
@@ -331,13 +331,13 @@
 6D-E:Los huevos son todo un[BREAK]dilema para esta criatura.[BREAK]¿Debería incubarlos o[BREAK]zampárselos? Es incapaz[BREAK]de decidirse.[END]
 
 6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
-6E-E:Una quimera creada con lo[BREAK]primero que había a mano.[BREAK]Hay quien asegura que así[BREAK]salió mejor y todo.[END]
+6E-E:[BREAK]Una quimera creada con lo[BREAK]primero que había a mano.[BREAK]Hay quien dice que así[BREAK]ha salido mejor y todo.[END]
 
 6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
 6F-E:sorprende verlo salir del[BREAK]lago sin previo aviso.[BREAK]Sabe un par de trucos,[BREAK]como el de dar la patita[BREAK]bajo el agua.[END]
 
 70:[BREAK]Even the creators of this[BREAK]creature are too afraid to[BREAK]approach it. Stay out of its[BREAK]way, for your own good.[END]
-70-E:[BREAK]Ni sus propios creadores[BREAK]se atreven a acercarse a ella.[BREAK]Mantente alejado,[BREAK]por tu propio bien.[END]
+70-E:[BREAK]Ni sus propios creadores[BREAK]se atreven a acercarse[BREAK]a ella. Mantente alejado,[BREAK]por tu propio bien.[END]
 
 71:[BREAK][BREAK]A piggish creature with a[BREAK]primate-ish brain. It uses[BREAK]PSI, so don't take it lightly.[END]
 71-E:[BREAK][BREAK]Un cerdo con cerebro de[BREAK]primate. Ten cuidado[BREAK]con sus técnicas PSI.[END]
@@ -358,7 +358,7 @@
 76-E:Incluso esta tortuga local[BREAK]ha sido convertida en[BREAK]una máquina de matar,[BREAK]pero sigue siendo tan[BREAK]lenta como antes.[END]
 
 77:[BREAK]The Li'l Big Bro keeps his[BREAK]beloved Big Bro on his[BREAK]head. Great siblings, but[BREAK]just what ARE they?[END]
-77-E:[BREAK]El Hermanito mantiene en[BREAK]alto al Hermanote.[BREAK]Se llevan muy bien, pero,[BREAK]¿QUÉ demonios son?[END]
+77-E:[BREAK]El Hermanito mantiene en[BREAK]alto al Hermanote.[BREAK]Se llevan muy bien, pero,[BREAK]¿QUÉ narices son?[END]
 
 78:[BREAK]A strange creature whose[BREAK]wings are too weak for its[BREAK]heavy head. Watch out for[BREAK]its fleas.[END]
 78-E:[BREAK]Otro bicho raro, cuyas[BREAK]alas apenas aguantan el[BREAK]peso de su cabeza.[BREAK]Cuidado con sus pulgas.[END]
@@ -370,7 +370,7 @@
 7A-E:[BREAK]La silueta de las alas[BREAK]extendidas de este Titani[BREAK]bajo el cielo estrellado[BREAK]es una visión inolvidable.[END]
 
 7B:Lets out a sad howl when[BREAK]it meets the Batangutan[BREAK]with its head on it.[BREAK]Occasionally picks fights,[BREAK]too.[END]
-7B-E:Suele aullar débilmente[BREAK]cuando se encuentra con[BREAK]un Murciangután.[BREAK]De vez en cuando le da[BREAK]por buscarse peleas.[END]
+7B-E:Suele aullar débilmente[BREAK]cuando se encuentra con[BREAK]un Murciangután.[BREAK]De vez en cuando, le da[BREAK]por buscarse peleas.[END]
 
 7C:[BREAK]The parent's power comes[BREAK]from its child's support.[BREAK]Although an enemy, it's[BREAK]still quite admirable.[END]
 7C-E:[BREAK]El poder de la madre viene[BREAK]del apoyo de su retoño.[BREAK]Pese a ser un enemigo,[BREAK]es digno de admiración.[END]
@@ -379,7 +379,7 @@
 7D-E:[BREAK]Una robot que cuida de su[BREAK]amo: cocina, friega, hace[BREAK]la colada e incluso le[BREAK]corta los pelos de la nariz.[END]
 
 7E:[BREAK]The only non-mechanical[BREAK]part is a portion of its[BREAK]face. Only eats raw meat[BREAK]soaked in machine oil.[END]
-7E-E:[BREAK]Lo único que no ha sido[BREAK]mecanizado del todo[BREAK] es su cara. Sólo come[BREAK]carne bañada en gasolina.[END]
+7E-E:[BREAK]Lo único que no ha sido[BREAK]mecanizado del todo[BREAK]es su cara. Sólo come[BREAK]carne bañada en gasolina.[END]
 
 7F:[BREAK]Its rocket-based ramming[BREAK]attacks are intense.[BREAK]Doesn't seem to be that[BREAK]interested in outer space.[END]
 7F-E:[BREAK]Sus embestidas-cohete[BREAK]no son cosa de broma.[BREAK]No parece muy interesado[BREAK]en el espacio exterior.[END]
@@ -421,7 +421,7 @@
 8B-E:[BREAK]¿Cuál será su pose[BREAK]definitiva? Su sueño es[BREAK]lograr dominar todas[BREAK]las poses existentes.[END]
 
 8C:Three years later, the[BREAK]Spud Bug is now a[BREAK]respectable adult. But[BREAK]what does that even mean[BREAK]for a bug?[END]
-8C-E:Tres años más tarde, el[BREAK]Gusano patatero es ya un[BREAK]respetable adulto. Pero,[BREAK]¿acaso esto significa[BREAK]algo para un gusano?[END]
+8C-E:Tres años más tarde, el[BREAK]Gusano patatero es ya un[BREAK]respetable adulto. Pero,[BREAK]¿esto siquiera significa[BREAK]algo para un gusano?[END]
 
 8D:[BREAK]A rustic combination of a[BREAK]baked yam and a toy[BREAK]helicopter. It grates its[BREAK]body and sends gunk flying.[END]
 8D-E:[BREAK]Una tosca combinación de[BREAK]boniato y helicóptero[BREAK]de juguete. Ataca[BREAK]lanzando sus mondas.[END]
@@ -454,7 +454,7 @@
 96-E:[BREAK][BREAK]Soldados rechonchos[BREAK]y torpes que un día[BREAK]aparecieron por Tazmily.[END]
 
 97:See Zombie Man's page for[BREAK]her description, because[BREAK]they're exactly alike,[BREAK]pronouns aside. Not just[BREAK]because the writer is lazy.[END]
-97-E:Mira la descripción del[BREAK]Zombi, porque ambos son[BREAK]lo mismo. No, no es que el[BREAK]traductor sea un vago.[END]
+97-E:Mira la descripción del[BREAK]Señor zombi, porque[BREAK]los dos son lo mismo.[BREAK]No, no es que el traductor[BREAK]sea un vago.[END]
 
 98:[BREAK]The rarest member of[BREAK]<fungus mobilus>.[BREAK]Absolutely do not d-d-dare[BREAK]to ever e-e-eat one.[END]
 98-E:[BREAK]La variedad más rara de[BREAK]<fungus mobilus>.[BREAK]Ni se te o-o-ocurra[BREAK]c-c-comerte una.[END]
@@ -493,7 +493,7 @@ A3:[BREAK]A Clayman that has grown[BREAK]lonely. All sorts of garbage[BREAK]and 
 A3-E:[BREAK]Un Arcilloso sumido en la[BREAK]soledad. Su cuerpo se ha[BREAK]mezclado con toda clase[BREAK]de chatarra y basura.[END]
 
 A4:[BREAK]More than anything, it[BREAK]lives to terrify people. It[BREAK]sometimes startles itself[BREAK]and bursts into laughter.[END]
-A4-E:[BREAK]Su cometido en la vida[BREAK]es aterrorizar a la gente.[BREAK]A veces se asusta él solo[BREAK]porque le hace gracia.[END]
+A4-E:[BREAK]Su cometido en la vida[BREAK]es aterrorizar a la gente.[BREAK]A veces, se asusta él solo[BREAK]porque le hace gracia.[END]
 
 A5:Little Alkaline, Mr.[BREAK]Manganese, Li'l Lithium,[BREAK]Sir Nickle. They all look[BREAK]alike, but there are many[BREAK]different kinds.[END]
 A5-E:Alcalín, Mr. Magnesio,[BREAK]Mini-litio, Sr™ Níquel...[BREAK]Se parecen entre sí, pero[BREAK]hay muchísimos tipos[BREAK]diferentes.[END]
@@ -541,7 +541,7 @@ B3:[BREAK]Takes care of suspicious[BREAK]intruders, smoke in the[BREAK]kitchen, 
 B3-E:[BREAK]Se ocupa de los intrusos,[BREAK]del humo en la cocina[BREAK]y de calentar el agua[BREAK]de la bañera.[END]
 
 B4:This bad breeze causes[BREAK]trouble when it flips up[BREAK]skirts and blows off[BREAK]toupees. Unwelcome,[BREAK]indeed.[END]
-B4-E:Este molesto remolino[BREAK]se dedica a levantar[BREAK]faldas y hacer volar las[BREAK]pelucas de la gente.[BREAK]Un incordio, sin duda[END]
+B4-E:Este molesto remolino[BREAK]se dedica a levantar[BREAK]faldas y hacer volar las[BREAK]pelucas de la gente.[BREAK]Un incordio, sin duda.[END]
 
 B5:[END]
 B5-E:[END]
@@ -559,7 +559,7 @@ B9:The Beanling is a very[BREAK]mysterious creature. It's[BREAK]also quick to ru
 B9-E:El Judiablillo es un ser[BREAK]de lo más misterioso y[BREAK]escurridizo, así que[BREAK]siéntete orgulloso si[BREAK]consigues pillar a uno.[END]
 
 BA:[BREAK]A Beanling coated in[BREAK]sparkling syrup. You'll only[BREAK]come across this monster[BREAK]if you've got good luck.[END]
-BA-E:[BREAK]Un Judiablillo bañado en[BREAK]un brillante sirope.[BREAK]Sólo lo encontrarás si[BREAK]tienes buena suerte.[END]
+BA-E:[BREAK]Un Judiablillo bañado en[BREAK]sirope brillante.[BREAK]Sólo lo encontrarás si[BREAK]tienes buena suerte.[END]
 
 BB:A tiny, tiny forest that[BREAK]grows in the mole cricket[BREAK]hole. It's really more of a[BREAK]bush than a forest, but[BREAK]whatever.[END]
 BB-E:Un bosque pequeñito[BREAK]que suele crecer en[BREAK]zonas subterráneas.[BREAK]Tiene más de arbusto[BREAK]que de bosque.[END]

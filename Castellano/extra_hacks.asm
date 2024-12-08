@@ -177,51 +177,29 @@ lsl  r1,r1,#8
 orr  r0,r1
 strh r1,[r2,#0]
 
-// Set BG0 to 256-color mode; the following screen uses it anyway so we're good
-ldrh r0,[r2,#8]
-mov  r1,#0x80
-orr  r0,r1
-strh r0,[r2,#8]
-
 // Tile data
-ldr  r0,=#0x9C9C800
+ldr  r0,=#{disclaimer_address}
 ldr  r1,=#0x6008000
 swi  #0x12                         // LZ77UnCompVram
 // ldr  r2,=#0x1FE0
 // swi  #0xC
 
 // Map data
-ldr  r0,=#0x6000000
-
-// Fill the first row with 0x0000
-
-
-// Do the middle portion
-ldr  r1,=#0x258
-mov  r2,#0
--
-mov  r3,#0x3F
-and  r3,r0
-cmp  r3,#0x3C
-bne  +
-add  r0,#4
-+
-strh r2,[r0,#0]
-add  r0,#2
-add  r2,#1
-cmp  r2,r1
-bne  -
-
-// Fill the last two rows with 0x0000
-
+ldr  r0,=#{disclaimer_map_address}
+mov  r1,#6
+lsl  r1,r1,#0x18
+mov  r2,#2
+lsl  r2,r2,#8
+swi  #0xC
 
 // Palette
-ldr  r0,=#0x9CA1100
+ldr  r0,=#{disclaimer_pal_address}
 mov  r1,#5
+//Cambia el valor de el este codigo de arriba de #5 a #4 y en el juego ocurrirá un efecto superchulo sklfjñdlskjafñdlasjfkdñlsaj
 lsl  r1,r1,#0x18
 mov  r2,#1
-lsl  r2,r2,#8
-swi  #0xB
+lsl  r2,r2,#7
+swi  #0xC
 
 // Fade in
 ldr  r2,=#0x4000050

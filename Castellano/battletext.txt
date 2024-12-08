@@ -1804,7 +1804,7 @@
 // Used by the enemies:  Minor Robot,  Cuddle Bomb
 // Used by the action: 78
 032D: [04 EF][11 FF] threw a Super Bomb![END]
-032D-E: ¡[04 EF][11 FF] ha lanzado una Súper bomba![END]
+032D-E: ¡[04 EF][11 FF] ha lanzado una Súper•bomba![END]
 // Used by the action: 79
 032E: [04 EF][11 FF] threw a time bomb![END]
 032E-E: ¡[04 EF][11 FF] ha lanzado una bomba temporizada![END]
@@ -2227,7 +2227,7 @@
 03A4: [02 EF][10 FF] joined the fight![END]
 03A4-E: ¡[02 EF][10 FF] se ha unido a la batalla![END]
 03A5: But nobody came![END]
-03A5-E: ¡Pero no vino nadie![END]
+03A5-E: ¡Pero no ha venido nadie![END]
 03A6: [04 EF][11 FF] sowed some seeds around itself![31 FF][END]
 03A6-E: ¡[04 EF][11 FF] ha sembrado algunas semillas alrededor![31 FF][END]
 // Used by the enemy:  Pigtunia
@@ -2792,7 +2792,7 @@
 044F: [04 EF][11 FF] attacked, and then...[32 FF] [END]
 044F-E: [04 EF][11 FF] ha atacado, y después...[32 FF] [END]
 0450: [04 EF][11 FF] called for help![31 FF][BREAK]...But nobody came![END]
-0450-E: ¡[04 EF][11 FF] ha pedido ayuda![31 FF][BREAK]...¡Pero no vino nadie![END]
+0450-E: ¡[04 EF][11 FF] ha pedido ayuda![31 FF][BREAK]...¡Pero no ha venido nadie![END]
 // Used by the action: 34
 0451: [04 EF][11 FF] made an incredibly scary face![END]
 0451-E: ¡[04 EF][11 FF] ha puesto una mueca increíblemente aterradora![END]
@@ -3129,7 +3129,7 @@
 // Used by the enemy:  Pigmask Colonel
 // Used by the action: 577
 04B9: [04 EF][11 FF] came crashing down![END]
-04B9-E: ¡[04 EF][11 FF] se vino abajo![END]
+04B9-E: ¡[04 EF][11 FF] se ha venido abajo![END]
 // Used by the enemy:  Minerali
 // Used by the action: 645
 04BA: [04 EF][11 FF] crashed into the ground![WAIT][44 EF][12 FF] and company were hit by a shock wave![END]
@@ -3614,7 +3614,7 @@
 057A: [04 EF][11 FF]'s defense decreased by [10 FF]![END]
 057A-E: ¡[04 EF][11 FF] ha perdido [10 FF] punto(s) de defensa![END]
 057B: [04 EF][11 FF]'s body was enveloped by a shield![END]
-057B-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo![END]
+057B-E: ¡El cuerpo [06 EF][11 FF] ha sido cubierto por un escudo![END]
 057C: [END]
 057C-E: [END]
 057D: [END]
@@ -3624,7 +3624,7 @@
 057F: [04 EF][11 FF]'s shield was reinforced![END]
 057F-E: ¡El escudo [06 EF][11 FF] fue reforzado![END]
 0580: [04 EF][11 FF]'s body was enveloped by a Counter![END]
-0580-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo reflector![END]
+0580-E: ¡El cuerpo [06 EF][11 FF] ha sido cubierto por un escudo reflector![END]
 0581: [END]
 0581-E: [END]
 0582: [END]
@@ -3644,7 +3644,7 @@
 0589: [END]
 0589-E: [END]
 058A: [04 EF][11 FF]'s body was enveloped by a PSI Shield![END]
-058A-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo PSI![END]
+058A-E: ¡El cuerpo [06 EF][11 FF] ha sido cubierto por un escudo PSI![END]
 058B: [END]
 058B-E: [END]
 058C: [END]
@@ -3654,7 +3654,7 @@
 058E: [04 EF][11 FF]'s PSI Shield was reinforced![END]
 058E-E: ¡El escudo PSI [06 EF][11 FF] fue reforzado![END]
 058F: [04 EF][11 FF]'s body was enveloped by a PSI Counter![END]
-058F-E: ¡El cuerpo [06 EF][11 FF] fue cubierto por un escudo reflector PSI![END]
+058F-E: ¡El cuerpo [06 EF][11 FF] ha sido cubierto por un escudo reflector PSI![END]
 0590: [END]
 0590-E: [END]
 0591: [END]
@@ -3664,7 +3664,7 @@
 0593: [04 EF][11 FF]'s PSI Counter was reinforced![END]
 0593-E: ¡El escudo reflector [06 EF][11 FF] fue reforzado![END]
 0594: [04 EF][11 FF]'s offense increased by [10 FF]![END]
-0594-E: [END]
+0594-E: ¡[04 EF][11 FF] ha ganado [10 FF] punto(s) de fuerza![END]
 0595: [END]
 0595-E: [END]
 0596: [END]

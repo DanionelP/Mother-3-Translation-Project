@@ -777,54 +777,38 @@ b    .main_loop_next              // now jump back to the part of the main loop 
 
 .cc_cohorts:
 push {r1-r3}
-mov  r3,#0                       // r3 will be our total # of bytes changed
+mov  r3,#0                   // r3 will be our total # of bytes changed
 
-ldr  r0,=#0x2014322              // load the # of enemies
+
+ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1
-beq  .cc_cohorts_end             // don't print anything if there's only one enemy
+beq  .cc_cohorts_end         // don't print anything if there's only one enemy
 
-mov  r0,#3
-mov  r2,#40
-mul  r0,r2
-ldr  r2,=#{custom_text_address}
-add  r0,r0,r2                    // r0 now has " and "
-bl   custom_strlen               // count the length of our special string, store its length in r2
-add  r3,r3,r0
 
-ldr  r0,=#0x2014320              // load our current enemy #
+ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
-mov  r2,#5
-mul  r0,r2
-ldr  r2,=#{enemy_extras_address}
-add  r0,r0,r2
-ldrb r0,[r0,#0x4]                // load the line # for this enemy's possessive pronoun
-mov  r2,#40
-mul  r0,r2
-ldr  r2,=#{custom_text_address}
-add  r0,r0,r2                    // r0 now has the address to the appropriate possessive pronoun string
-bl   custom_strlen               // count the length of our special string, store its length in r2
-add  r3,r3,r0
+sub  r0,#1                   // subtract one for ease of use
 
-ldr  r0,=#0x2014322              // load the # of enemies
-ldrb r0,[r0,#0]
-sub  r0,#1                       // subtract one for ease of use
 
 push {r1}
 
-ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
+
+ldr  r1,=#0x8D0829C          // load r1 with the base address of our custom text array in ROM
 mov  r2,#40
 mul  r0,r2
-add  r0,r0,r1                    // r0 now has the address of the proper cohorts string
-pop  {r1}                        // restore r1 with the target address
-bl   custom_strlen               // count the length of our special string, store its length in r2
-add  r3,r3,r0                    // update special string length
+add  r0,r0,r1                // r0 now has the address of the proper cohorts string
+pop  {r1}                    // restore r1 with the target address
+bl   custom_strlen           // count the length of our special string, store its length in r2
+add  r3,r3,r0                // update special string length
+
 
 .cc_cohorts_end:
-mov  r0,r3                       // r0 now has the total # of bytes we added
+mov  r0,r3                   // r0 now has the total # of bytes we added
+
 
 pop  {r1-r3}
-b    .main_loop_next             // now jump back to the part of the main loop that increments and such
+b    .main_loop_next         // now jump back to the part of the main loop that increments and such
 
 //--------------------------------------------------------------------------------------------
 
@@ -1865,56 +1849,39 @@ b    .customcc_inc                // go to the common custom CC incrementing, et
 
 .ecc_cohorts:
 push {r1-r3}
-mov  r3,#0                       // r3 will be our total # of bytes changed
+mov  r3,#0                   // r3 will be our total # of bytes changed
 
-ldr  r0,=#0x2014322              // load the # of enemies
+
+ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
 cmp  r0,#1
-beq  +                           // don't print anything if there's only one enemy
+beq  +                       // don't print anything if there's only one enemy
 
-mov  r0,#3
-mov  r2,#40
-mul  r0,r2
-ldr  r2,=#{custom_text_address}
-add  r0,r0,r2                    // r0 now has the address of " and "
-bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
-add  r1,r1,r0
-add  r3,r3,r0
 
-ldr  r0,=#0x2014320              // load our current enemy #
+ldr  r0,=#0x2014322          // load the # of enemies
 ldrb r0,[r0,#0]
-mov  r2,#5
-mul  r0,r2
-ldr  r2,=#{enemy_extras_address}
-add  r0,r0,r2
-ldrb r0,[r0,#0x4]                // load the line # for this enemy's possessive pronoun
+sub  r0,#1                   // subtract one for ease of use
+
+
+push {r1}                    // now we're going to print "cohort/cohorts" stuff
+
+
+ldr  r1,=#0x8D0829C          // load r1 with the base address of our custom text array in ROM
 mov  r2,#40
 mul  r0,r2
-ldr  r2,=#{custom_text_address}
-add  r0,r0,r2                    // r0 now has the address to the appropriate possessive pronoun string
-bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
-add  r1,r1,r0
-add  r3,r3,r0
+add  r0,r0,r1                // r0 now has the address of the proper cohorts string
+pop  {r1}                    // restore r1 with the target address
+bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+add  r3,r3,r0                // we just copied the possessive pronoun now
 
-ldr  r0,=#0x2014322              // load the # of enemies
-ldrb r0,[r0,#0]
-sub  r0,#1                       // subtract one for ease of use
-
-push {r1}                        // now we're going to print "cohort/cohorts" stuff
-
-ldr  r1,=#{custom_text_address}  // load r1 with the base address of our custom text array in ROM
-mov  r2,#40
-mul  r0,r2
-add  r0,r0,r1                    // r0 now has the address of the proper cohorts string
-pop  {r1}                        // restore r1 with the target address
-bl   custom_strcopy              // r0 gets the # of bytes copied afterwards
-add  r3,r3,r0                    // we just copied the possessive pronoun now
 
 +
-mov  r0,r3                       // r0 now has the total # of bytes we added
+mov  r0,r3                   // r0 now has the total # of bytes we added
+
 
 pop  {r1-r3}
-b    .customcc_inc               // go to the common custom CC incrementing, etc. code
+b    .customcc_inc           // go to the common custom CC incrementing, etc. code
+
 
 //--------------------------------------------------------------------------------------------
 

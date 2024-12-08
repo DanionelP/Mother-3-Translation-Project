@@ -1548,7 +1548,7 @@ la
 a la 
 de la 
 -
-//Súper bomba
+//Súper•bomba
 Una 
 una 
 La 
@@ -2408,7 +2408,7 @@ lo
 al 
 del 
 -
-//Mapa de Tazmily
+//Mapa de•Tazmily
 Un 
 un 
 El 

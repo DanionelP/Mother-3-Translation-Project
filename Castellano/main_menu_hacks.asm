@@ -5868,6 +5868,20 @@ mov  r3,r0
 pop  {r0,pc}
 
 //=============================================================================================
+// Gender for status ailments
+//=============================================================================================
+.status_gender:
+push {lr}
+mov  r1,r9
+ldrb r1,[r1,#0]
+cmp  r1,#0x4                 //Id for Kumatora (when Lucas is 1 instead of 0)
+bne  +
+add  r0,#0x8
++
+bl   $80486A0
+pop  {pc}
+
+//=============================================================================================
 // This hack fixes the fact that if you lose the first battle Claus won't have any PP left
 //=============================================================================================
 
@@ -5891,22 +5905,6 @@ mov  r0,#0
 
 .end:
 pop  {pc}
-
-
-//=============================================================================================
-// Gender for status ailments
-//=============================================================================================
-.status_gender:
-push {lr}
-mov  r1,r9
-ldrb r1,[r1,#0]
-cmp  r1,#0x4                 //Id for Kumatora (when Lucas is 1 instead of 0)
-bne  +
-add  r0,#0x8
-+
-bl   $80486A0
-pop  {pc}
-
 
 //=============================================================================================
 // This set of hacks cleans the writing stack
@@ -6648,7 +6646,7 @@ mov  r2,#8
 mov  r3,r5
 bl   $8047B9C                //Order its printing
 
-mov  r0,#0x56
+mov  r0,#0x59
 bl   $80486A0                //Load up "Skills"
 str  r4,[sp,#0]
 mov  r1,#9
