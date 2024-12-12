@@ -385,7 +385,7 @@
 00BF: (EMPTY)
 00BF-E: (NADA)
 00C0: Pick
-00C0-E: Pick
+00C0-E: Púa
 00C1: Antlion
 00C1-E: Antillón
 00C2: Fierce Pork Trooper
@@ -489,9 +489,9 @@
 00F3: (EMPTY)
 00F3-E: (NADA)
 00F4: Portrait
-00F4-E: Retraro
+00F4-E: Retrato
 00F5: Friendly Ghost
-00F5-E: Fantasma amigo
+00F5-E: Fantasmigo
 00F6: Trash Can
 00F6-E: Cubo basura
 00F7: Steel Ball
@@ -561,9 +561,9 @@
 0117: Thunder
 0117-E: Trueno
 0118: Child Mouse
-0118-E: Ratón niño
+0118-E: Ratoncito
 0119: Dr. Andonuts
-0119-E: Dr. Andonuts
+0119-E: Dr™ Andonuts
 011A: Osohe Castle
 011A-E: Castillo Osohe
 011B: Mother Porkship

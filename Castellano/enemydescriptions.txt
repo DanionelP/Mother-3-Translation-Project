@@ -25,7 +25,7 @@
 07-E:[BREAK]Tremendamente ruidoso.[BREAK]Contamina el aire sin[BREAK]piedad alguna con el[BREAK]humo de su motor.[END]
 
 08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
-08-E:[BREAK]El robot generador de la[BREAK]Torre del trueno. Sus[BREAK]descargas paralizantes[BREAK]parecen decir "¡Tomaaa!".[END]
+08-E:[BREAK]El robot generador de la[BREAK]Torre del trueno. Sus[BREAK]descargas paralizantes[BREAK]parecen decir "¡Tomaaa·!".[END]
 
 09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
 09-E:[BREAK]¿Amigo o enemigo? Por[BREAK]mucho que sea pisoteado,[BREAK]este insecto siempre se[BREAK]mantiene optimista.[END]
@@ -70,7 +70,7 @@
 16-E:[END]
 
 17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
-17-E:[BREAK]¡No te dejes engañar por[BREAK]las nuevas falacias de Neo[BREAK]Falhaz! ¡Es más grande[BREAK]y más malo que nunca![END]
+17-E:[BREAK]¡No te dejes engañar por[BREAK]las nuevas falacias de Neo[BREAK]Falhaz! ¡Es más grande[BREAK]y más malo que nunca·![END]
 
 18:[END]
 18-E:[END]

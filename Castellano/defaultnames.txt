@@ -69,7 +69,7 @@
 21:Boney
 21-E:Toby
 22:Boney
-22-E:Boney
+22-E:
 23:Duster
 23-E:Duster
 24:Duster

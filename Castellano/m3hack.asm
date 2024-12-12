@@ -617,7 +617,7 @@ org $803E79F; db $E0
 //org $804DD76; db $20 // R
 
 // Allow characters to use more than one "Don't Care" name - From Jumpman
-//org $8050562; nop; nop
+org $8050562; nop; nop
 
 // Alter namable characters' name lengths
 org $80C69D4; db $08
@@ -1445,9 +1445,9 @@ org {enemynames_address}; incbin text_enemynames.bin
 org $8D23494; incbin text_enemynames_short.bin
 
 // insert music titles
-org $8086CF4; dd $09FD8000
-org $9C8F38C; dd $09FD8000
-org $9FD8000; incbin text_musicnames.bin
+org $8086CF4; dd $09FD7FF0
+org $9C8F38C; dd $09FD7FF0
+org $9FD7FF0; incbin text_musicnames.bin
 
 // inserts misc. sound player menu text
 org $9C926A0; dd $FF06D298

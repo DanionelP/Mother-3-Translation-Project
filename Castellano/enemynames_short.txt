@@ -1,6 +1,6 @@
 (nada)
 Caribú reconst.
-Don pasión
+Don Pasión
 Osoherpiente
 Arcilloso
 Mecha-Drago
@@ -209,53 +209,53 @@ Vapor
 Serpicuerda
 Serpicuerda
 Mesa Aeolia
-Straw
+Paja
 Vapor 2
-Mini-Elevator
+Mini-ascensor
 Drago
-Pork Trooper
+Puerc. feroz
 Green Train
-Pump Drago
+Drenadino
 Three Amigos
 Flower
 Rope Ladder
 Flame 3
 Flag
-Ropeway
+Teleférico
 (empty)
 Piece
 Flame 1
-Lotus Root
+Raíz de loto
 Clay
 Explosion
 Smoke
 Statue Head
 Carousel
 N. Dresser
-Fireflies
-Hinawa Cloth
-Catfish
-Broom
-Fish
-Sea Urchin
-Train
-Sign
-Sign
+Flamidópteros
+Ropa de Hinawa
+Siluro
+Escoba
+Pez
+Erizo de mar
+Tren
+Cartel
+Cartel
 (empty)
 Portrait
-Friendly Ghost
+Fantasmigo
 Trash Can
 Steel Ball
 Egg of Light
 Chestnut
 Rockin' Ghost
 Candle
-Mouse
+Ratón
 Energy Machine
 Light Blade
 Wine Glass
-Rope Snake
-Stinkbug
+Serpicuerda
+Chinche
 Garbage Truck
 Smoke
 Aeolia
