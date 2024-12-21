@@ -19,5 +19,5 @@ org $8BA2C34; dw $1A06       // length of sound data (minus header)
 org $8BA2C38; incbin sound_readysetgo_c.bin
 
 // Look Over There
-org $8B6B2E4; dw $1B38       // length of sound data
+org $8B6B2E4; dw $1870       // length of sound data
 org $8B6B2E8; incbin lookoverthere_eng.snd

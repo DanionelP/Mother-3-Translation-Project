@@ -323,6 +323,12 @@ org $80463F8
   bl main_menu_hacks.sell_text
   pop  {pc}
 
+// replaces the sell equipped item text routine
+org $80464A8
+  push {lr}
+  bl main_menu_hacks.sell_equipped_text
+  pop  {pc}
+
 // replaces the buy item text routine
 org $804626C
   push {lr}
@@ -603,7 +609,7 @@ org $804C77E; bl naming_screen_hacks.reprint_invalid_duplicated
 org $804E560; bl naming_screen_hacks.reprint_after_invalid_duplicated
 
 // If you use OAM for "Is this okay? Yes No", uncomment the line below
-org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
+//org $8042EFC; bl naming_screen_hacks.compare_currently_displayed_entry
 
 // Disable L and R alphabet switching
 org $803E79F; db $E0
@@ -946,7 +952,7 @@ org $8040A82; db $C0       // Equip
 org $8043016; db $C0
 org $804121E; db $BB       // Skills
 org $8040C26; db $C5       // PSI
-org $80410AE; db $BE       // Status
+org $80410AE; db $BF       // Status
 org $804167E; db $AF       // Battle Memory
 org $8041886; db $BE       // Shop
 org $8041990; db $BE

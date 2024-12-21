@@ -3,12 +3,10 @@
 @echo Converting non-script text files to data files
 @echo ---------------------------------------------------------
 @echo.
-@move /Y custom_text.txt custom_text_TMP.txt > NUL
 @python prepare_special_text.py custom_text_TMP.txt custom_text.txt
 @textconv
 @fix_custom_text text_custom_text.bin
 @rearrange_font font_mainfont.bin font_smallfont.bin font_castroll.bin font_mainfont_rearranged.bin font_castroll_rearranged.bin font_mainfont_used.bin font_smallfont_used.bin
-@move /Y custom_text_TMP.txt custom_text.txt > NUL
 @echo.
 @echo.
 @echo ---------------------------------------------------------

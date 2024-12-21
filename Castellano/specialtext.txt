@@ -1,10 +1,10 @@
-// Most of the text here is meant for undiscovered debug menus,
-// but you should probably translate it anyway.
-// The technique names at the end of the file are used in battle, though.
-// All things in this file must be 19 letters or less.
+// MoŠt of the•text here is meant for•undiscovered debug menus,
+// but you should probably•tƒanslate it•anyway.
+// The•technique names at the end of the•file are used in battle, though.
+// All•things in•this•file muŠt be 19 letters or•less.
 
 00:Pl. Movement Data
-00-E:Movimiento jugador
+00-E:Movimiento•jugador
 01:Attack
 01-E:Atacar
 02:Defend
@@ -13,18 +13,18 @@
 03-E:Huir
 04:Chapter 0 Attack
 04-E:Ataque capítulo 0
-05:Strange Attack
-05-E:Ataque extraño
-06:Duster:Behind
-06-E:Duster:Atrás
-07:Duster:Back Up
-07-E:Duster:Levantarse
-08:Duster:Pre.Strike
-08-E:Duster:Golpe inicial
+05:Stƒange Attack
+05-E:Ataque extƒaño
+06:DuŠter:Behind
+06-E:DuŠter:Atƒás
+07:DuŠter:Back Up
+07-E:DuŠter:Le‡antarse
+08:DuŠter:Pre.Strike
+08-E:DuŠter:Golpe inicial
 09:(EMPTY)
 09-E:(NADA)
 0A:DCMC Intrusion
-0A-E:Instrusión DCMC
+0A-E:InŠtrusión DCMC
 0B:Baccio's Line
 0B-E:Línea de Baccio
 0C:Baccio's Attack
@@ -57,13 +57,13 @@
 19-E:Lucas no ataca
 1A:(EMPTY)
 1A-E:(NADA)
-1B:Last Bash
+1B:LaŠt Bash
 1B-E:Último ataque
-1C:Last PSI
+1C:LaŠt PSI
 1C-E:Último PSI
-1D:Last Goods
-1D-E:Último objeto
-1E:Last Guard
+1D:LaŠt Goods
+1D-E:Último oËjeto
+1E:LaŠt Guard
 1E-E:Último defender
 1F:Flint: Special
 1F-E:Flint: Especial
@@ -72,11 +72,11 @@
 21:Power Smash
 21-E:Impacto brutal
 22:Strengthen Up
-22-E:Fortalecer
-23:Toughen Up
+22-E:øortalecer
+23:ôoughen Up
 23-E:Endurecer
-24:Duster: Thief
-24-E:Duster: Ladrón
+24:DuŠter: Thief
+24-E:DuŠter: Ladrón
 25:Wall Staple
 25-E:Clavos de pared
 26:Siren Beetle
@@ -86,15 +86,15 @@
 28:Smoke Bomb
 28-E:Bomba de humo
 29:Scary Mask
-29-E:Máscara susto
+29-E:Máscaƒa suŠto
 2A:Tickle Stick
-2A-E:Palo cosquillero
+2A-E:ùalo cosquillero
 2B:Boney: Sniff
 2B-E:Boney: Olfatear
 2C:Sniff
 2C-E:Olfatear
-2D:Salsa:Tricks
-2D-E:Salsa:Trucos
+2D:Salsa:ôricks
+2D-E:Salsa:ôrucos
 2E:Apologize
 2E-E:Disculparse
 2F:Make Laugh

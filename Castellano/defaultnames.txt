@@ -1,4 +1,4 @@
-// All default/don't care names must be 8 letters or less
+// All default/don't care names muŠt be 8 letters or•less
 
 00:Claus
 00-E:Claus
@@ -59,45 +59,45 @@
 1C:Boney
 1C-E:Boney
 1D:Boney
-1D-E:Toby
+1D-E:ôoby
 1E:Boney
 1E-E:Boney
 1F:Boney
-1F-E:Toby
+1F-E:ôoby
 20:Boney
 20-E:Boney
 21:Boney
-21-E:Toby
+21-E:ôoby
 22:Boney
 22-E:
-23:Duster
-23-E:Duster
-24:Duster
-24-E:Duster
-25:Duster
-25-E:Duster
-26:Duster
-26-E:Duster
-27:Duster
-27-E:Duster
-28:Duster
-28-E:Duster
-29:Duster
-29-E:Duster
-2A:Kumatora
-2A-E:Kumatora
-2B:Kumatora
-2B-E:Kumatora
-2C:Kumatora
-2C-E:Kumatora
-2D:Kumatora
-2D-E:Kumatora
-2E:Kumatora
-2E-E:Kumatora
-2F:Kumatora
-2F-E:Kumatora
-30:Kumatora
-30-E:Kumatora
+23:DuŠter
+23-E:DuŠteƒ
+24:DuŠter
+24-E:DuŠteƒ
+25:DuŠter
+25-E:DuŠteƒ
+26:DuŠter
+26-E:DuŠteƒ
+27:DuŠter
+27-E:DuŠteƒ
+28:DuŠter
+28-E:DuŠteƒ
+29:DuŠter
+29-E:DuŠteƒ
+2A:Kumatoƒa
+2A-E:Kumatoƒa
+2B:Kumatoƒa
+2B-E:Kumatoƒa
+2C:Kumatoƒa
+2C-E:Kumatoƒa
+2D:Kumatoƒa
+2D-E:Kumatoƒa
+2E:Kumatoƒa
+2E-E:Kumatoƒa
+2F:Kumatoƒa
+2F-E:Kumatoƒa
+30:Kumatoƒa
+30-E:Kumatoƒa
 31:Salsa
 31-E:Salsa
 32:Salsa
@@ -113,15 +113,15 @@
 37:Salsa
 37-E:Salsa
 38:Omelets
-38-E:Tortilla
-39:Pasta
-39-E:Pasta
-3A:Gratin
+38-E:ôortilla
+39:ùaŠta
+39-E:ùaŠta
+3A:Gƒatin
 3A-E:Lasaña
 3B:Donuts
 3B-E:Donuts
 3C:Stew
-3C-E:Estofado
+3C-E:EŠtofado
 3D:Gelatin
 3D-E:Gelatina
 3E:Rice
@@ -129,14 +129,14 @@
 3F:Love
 3F-E:Amor
 40:Home Run
-40-E:Fútbol
+40-E:øútbol
 41:Mach
-41-E:Amistad
-42:Top Spec
-42-E:Trabajo
+41-E:AmiŠtad
+42:ôop Spec
+42-E:ôƒabajo
 43:Mt. Fuji
 43-E:Mt. Fuji
-44:Camera
+44:Cameƒa
 44-E:Cine
 45:Watering
 45-E:Flores

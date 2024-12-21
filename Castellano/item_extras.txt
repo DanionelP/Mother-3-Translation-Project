@@ -18,7 +18,7 @@ lo
 al 
 del 
 -
-//Madero virgen
+//Madero•virgen
 Un 
 un 
 El 
@@ -28,7 +28,7 @@ lo
 al 
 del 
 -
-//Palo
+//ùalo
 Un 
 un 
 El 
@@ -38,7 +38,7 @@ lo
 al 
 del 
 -
-//Palo mejorado
+//ùalo mÊjoƒado
 Un 
 un 
 El 
@@ -48,7 +48,7 @@ lo
 al 
 del 
 -
-//Palo ergonómico
+//ùalo ergonómico
 Un 
 un 
 El 
@@ -58,7 +58,7 @@ lo
 al 
 del 
 -
-//Palo bueno
+//ùalo bueno
 Un 
 un 
 El 
@@ -68,7 +68,7 @@ lo
 al 
 del 
 -
-//Palo excelente
+//ùalo excelente
 Un 
 un 
 El 
@@ -78,7 +78,7 @@ lo
 al 
 del 
 -
-//Palo gracioso
+//ùalo gƒacioso
 Un 
 un 
 El 
@@ -88,7 +88,7 @@ lo
 al 
 del 
 -
-//Palo vigoroso
+//ùalo•vigoroso
 Un 
 un 
 El 
@@ -98,7 +98,7 @@ lo
 al 
 del 
 -
-//Palo inteligente
+//ùalo inteligente
 Un 
 un 
 El 
@@ -108,7 +108,7 @@ lo
 al 
 del 
 -
-//Palo maestro
+//ùalo maeŠtro
 Un 
 un 
 El 
@@ -118,7 +118,7 @@ lo
 al 
 del 
 -
-//Palo místico
+//ùalo míŠtico
 Un 
 un 
 El 
@@ -138,7 +138,7 @@ los
 a los 
 de los 
 n
-//Guantes duraderos
+//Guantes duƒaderos
 Unos 
 unos 
 Los 
@@ -158,7 +158,7 @@ los
 a los 
 de los 
 n
-//Guantes fuertes
+//Guantes•fuertes
 Unos 
 unos 
 Los 
@@ -188,7 +188,7 @@ los
 a los 
 de los 
 n
-//Guantes de lujo
+//Guantes de l‰jo
 Unos 
 unos 
 Los 
@@ -208,7 +208,7 @@ las
 a las 
 de las 
 n
-//Guantes místicos
+//Guantes míŠticos
 Unos 
 unos 
 Los 
@@ -228,7 +228,7 @@ los
 a los 
 de los 
 n
-//Zapatos resistentes
+//Zapatos resiŠtentes
 Unos 
 unos 
 Los 
@@ -258,9 +258,9 @@ los
 a los 
 de los 
 n
-//Calzado místico
-Un 
-un 
+//Calzado míŠtico
+El 
+el 
 El 
 el 
 o
@@ -308,15 +308,15 @@ los
 a los 
 de los 
 n
-//Yoyó práctico
-Un 
-un 
-El 
-el 
+//Ÿoyó pƒáctico
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
 //Garrote canino
 Un 
@@ -328,7 +328,7 @@ lo
 al 
 del 
 -
-//Panfleto DCMC
+//ùanfleto DCMC
 Un 
 un 
 El 
@@ -458,7 +458,7 @@ lo
 al 
 del 
 -
-//Collar blanco
+//Collar•blanco
 Un 
 un 
 El 
@@ -468,7 +468,7 @@ lo
 al 
 del 
 -
-//Collar marrón
+//Collar•marrón
 Un 
 un 
 El 
@@ -478,7 +478,7 @@ lo
 al 
 del 
 -
-//Collar negro
+//Collar•negro
 Un 
 un 
 El 
@@ -488,7 +488,7 @@ lo
 al 
 del 
 -
-//Collar a rayas
+//Collar•a ƒayas
 Un 
 un 
 El 
@@ -498,7 +498,7 @@ lo
 al 
 del 
 -
-//Collar rojo
+//Collar•rÒjo
 Un 
 un 
 El 
@@ -598,7 +598,7 @@ la
 a la 
 de la 
 -
-//Bandana rascón
+//Bandana ƒascón
 Una 
 una 
 La 
@@ -658,7 +658,7 @@ lo
 al 
 del 
 -
-//Gorro de vaca
+//Gorro de ‡aca
 Un 
 un 
 El 
@@ -758,7 +758,7 @@ lo
 al 
 del 
 -
-//Gorra DCMC
+//Gorƒa DCMC
 Una 
 una 
 La 
@@ -778,7 +778,7 @@ la
 a la 
 de la 
 -
-//Brazal Aries
+//Bƒazal Aries
 Un 
 un 
 El 
@@ -788,7 +788,7 @@ lo
 al 
 del 
 -
-//Brazal Acuario
+//Bƒazal Acuario
 Un 
 un 
 El 
@@ -798,7 +798,7 @@ lo
 al 
 del 
 -
-//Brazal Piscis
+//Bƒazal Piscis
 Un 
 un 
 El 
@@ -808,7 +808,7 @@ lo
 al 
 del 
 -
-//Brazal Capricornio
+//Bƒazal Capricornio
 Un 
 un 
 El 
@@ -818,7 +818,7 @@ lo
 al 
 del 
 -
-//Brazal Tauro
+//BƒazaÙ ôauro
 Un 
 un 
 El 
@@ -828,7 +828,7 @@ lo
 al 
 del 
 -
-//Brazal Géminis
+//Bƒazal Géminis
 Un 
 un 
 El 
@@ -838,7 +838,7 @@ lo
 al 
 del 
 -
-//Brazal Cáncer
+//Bƒazal Cáncer
 Un 
 un 
 El 
@@ -848,7 +848,7 @@ lo
 al 
 del 
 -
-//Brazal Leo
+//Bƒazal Leo
 Un 
 un 
 El 
@@ -858,7 +858,7 @@ lo
 al 
 del 
 -
-//Brazal Virgo
+//Bƒazal Virgo
 Un 
 un 
 El 
@@ -868,7 +868,7 @@ lo
 al 
 del 
 -
-//Brazal Libra
+//Bƒazal Libƒa
 Un 
 un 
 El 
@@ -878,7 +878,7 @@ lo
 al 
 del 
 -
-//Brazal Escorpio
+//Bƒazal Escorpio
 Un 
 un 
 El 
@@ -888,7 +888,7 @@ lo
 al 
 del 
 -
-//Brazal Sagitario
+//Bƒazal Sagitario
 Un 
 un 
 El 
@@ -938,7 +938,7 @@ la
 a la 
 de la 
 -
-//Pan de nueces
+//ùan de nueces
 Un 
 un 
 El 
@@ -958,7 +958,7 @@ la
 a la 
 de la 
 -
-//Leche fresca
+//Leche•fresca
 -
 -
 La 
@@ -978,17 +978,17 @@ la
 a la 
 de la 
 -
-//Yogur
-Un 
-un 
-El 
-el 
+//Ÿogur
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
-//Seta comestible
+//Seta comeŠtible
 Una 
 una 
 La 
@@ -998,17 +998,17 @@ la
 a la 
 de la 
 -
-//Té lohés
-Un 
-un 
-El 
-el 
+//ôé lohés
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
-//Carne de ternera
+//Carne de•terneƒa
 -
 -
 La 
@@ -1018,7 +1018,7 @@ la
 a la 
 de la 
 -
-//Huevo fresco
+//Huevo•fresco
 Un 
 un 
 El 
@@ -1028,7 +1028,7 @@ lo
 al 
 del 
 -
-//Pastelillo podrido
+//ùaŠtelillo podrido
 Un 
 un 
 El 
@@ -1038,7 +1038,7 @@ lo
 al 
 del 
 -
-//Bavarois podrido
+//Ba‡arois podrido
 Un 
 un 
 El 
@@ -1058,7 +1058,7 @@ lo
 al 
 del 
 -
-//Patatas porcinas
+//ùatatas porcinas
 Unas 
 unas 
 Las 
@@ -1068,7 +1068,7 @@ las
 a las 
 de las 
 n
-//Plátano lujoso
+//Plátano l‰joso
 Un 
 un 
 El 
@@ -1078,7 +1078,7 @@ lo
 al 
 del 
 -
-//Panecillo
+//ùanecillo
 Un 
 un 
 El 
@@ -1128,7 +1128,7 @@ la
 a la 
 de la 
 -
-//Patatas urbanas
+//ùatatas urbanas
 Unas 
 unas 
 Las 
@@ -1178,7 +1178,7 @@ lo
 al 
 del 
 -
-//Estofado de cerdo
+//EŠtofado de cerdo
 Un 
 un 
 El 
@@ -1188,7 +1188,7 @@ lo
 al 
 del 
 -
-//Bolitas sinceras
+//Bolitas•sinceƒas
 Unas 
 unas 
 Las 
@@ -1198,17 +1198,17 @@ las
 a las 
 de las 
 n
-//Tofu de fresa
-Un 
-un 
-El 
-el 
+//ôofu de•fresa
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
-//Arroz afortunado
+//Arroz•afortunado
 - 
 - 
 El 
@@ -1228,7 +1228,7 @@ la
 a la 
 de la 
 -
-//Sopa de langosta
+//Sopa de langoŠta
 Una 
 una 
 La 
@@ -1248,15 +1248,15 @@ lo
 al 
 del 
 -
-//Ternera doble
+//ôerneƒa doble
 -
 -
-La 
-la 
+LÅ 
+lÅ 
 a
 la
-a la 
-de la 
+a lÅ 
+de lÅ 
 -
 //Pollo a la plancha
 -
@@ -1278,7 +1278,7 @@ lo
 al 
 del 
 -
-//Pasta con pasado
+//ùaŠta con pasado
 -
 -
 La 
@@ -1308,7 +1308,7 @@ la
 a la 
 de la 
 -
-//Bistec
+//BiŠtec
 Un 
 un 
 El 
@@ -1318,7 +1318,7 @@ lo
 al 
 del 
 -
-//Estofado de niño pijo
+//EŠtofado de niño pÎjo
 Un 
 un 
 El 
@@ -1328,7 +1328,7 @@ lo
 al 
 del 
 -
-//Batido pijo
+//Batido pÎjo
 Un 
 un 
 El 
@@ -1358,15 +1358,15 @@ la
 a la 
 de la 
 -
-//Tartaleta mágica
-Una 
-una 
-La 
-la 
+//ôartaleta mágica
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
 a
 la
-a la 
-de la 
+a lÅ 
+de lÅ 
 -
 //Pudin mágico
 Un 
@@ -1378,7 +1378,7 @@ lo
 al 
 del 
 -
-//Pastel mágico
+//ùaŠtel mágico
 Un 
 un 
 El 
@@ -1398,7 +1398,7 @@ lo
 al 
 del 
 -
-//Anti-parálisis
+//Anti-paƒálisis
 Un 
 un 
 El 
@@ -1408,7 +1408,7 @@ lo
 al 
 del 
 -
-//Cigarra despertadora
+//Cigarƒa despertadoƒa
 Una 
 una 
 La 
@@ -1478,17 +1478,17 @@ la
 a la 
 de la 
 -
-//Taza de vidafideos
-Una 
-una 
-La 
-la 
+//ôaza de•vidafideos
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
 a
 la
-a la 
-de la 
+a lÅ 
+de lÅ 
 -
-//Huevo termal
+//Huevo•termal
 Un 
 un 
 El 
@@ -1548,7 +1548,7 @@ la
 a la 
 de la 
 -
-//Súper bomba
+//Súper•bomba
 Una 
 una 
 La 
@@ -1558,7 +1558,7 @@ la
 a la 
 de la 
 -
-//Bomba de nochevieja
+//Bomba de nocheviÊja
 Una 
 una 
 La 
@@ -1568,7 +1568,7 @@ la
 a la 
 de la 
 -
-//Ducha melífera
+//Ducha melífeƒa
 Una 
 una 
 La 
@@ -1608,7 +1608,7 @@ lo
 al 
 del 
 -
-//Pistola sódica
+//PiŠtola sódica
 Una 
 una 
 La 
@@ -1618,7 +1618,7 @@ la
 a la 
 de la 
 -
-//Spray de fuerza
+//Spƒay de•fuerza
 Un 
 un 
 El 
@@ -1628,7 +1628,7 @@ lo
 al 
 del 
 -
-//Spray de defensa
+//Spƒay de defensa
 Un 
 un 
 El 
@@ -1638,7 +1638,7 @@ lo
 al 
 del 
 -
-//Fortificador
+//øortificador
 Un 
 un 
 El 
@@ -1648,7 +1648,7 @@ lo
 al 
 del 
 -
-//Encanijador
+//EncanÎjador
 Un 
 un 
 El 
@@ -1718,7 +1718,7 @@ la
 a la 
 de la 
 -
-//Combinado vegetal
+//Combinado•vegetal
 Un 
 un 
 El 
@@ -1738,17 +1738,17 @@ la
 a la 
 de la 
 -
-//Yoyó de amigo
-Un 
-un 
-El 
-el 
+//Ÿoyó de amigo
+EÙ 
+eÙ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
-//Colmillo Drago
+//Colmillo Dƒago
 El 
 el 
 El 
@@ -1778,15 +1778,15 @@ lo
 al 
 del 
 -
-//Yoyó punzante
-Un 
-un 
-El 
-el 
+//Ÿoyó punzante
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
 //Jersey de punto
 Un 
@@ -1818,7 +1818,7 @@ lo
 al 
 del 
 -
-//Palabras de ánimo
+//ùalabƒas de ánimo
 Unas 
 unas 
 Las 
@@ -1838,7 +1838,7 @@ lo
 al 
 del 
 -
-//Grillo topo junior
+//Grillo•topo•junior
 El 
 el 
 El 
@@ -1858,17 +1858,17 @@ la
 a la 
 de la 
 -
-//Té sospechoso
-Un 
-un 
-El 
-el 
+//ôé sospechoso
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
-//Colgante flamíguero
+//Colgante•flamíguero
 Un 
 un 
 El 
@@ -1888,7 +1888,7 @@ lo
 al 
 del 
 -
-//Colgante fulminante
+//Colgante•fulminante
 Un 
 un 
 El 
@@ -1898,7 +1898,17 @@ lo
 al 
 del 
 -
-//Broche del coraje
+//Broche del coƒaje
+El 
+el 
+El 
+el 
+o
+lo
+al 
+del 
+-
+//VeŠtido souvenir
 Un 
 un 
 El 
@@ -1908,7 +1918,7 @@ lo
 al 
 del 
 -
-//Vestido souvenir
+//Borƒa-lápices
 Un 
 un 
 El 
@@ -1918,17 +1928,7 @@ lo
 al 
 del 
 -
-//Borra-lápices
-Un 
-un 
-El 
-el 
-o
-lo
-al 
-del 
--
-//Broche Franklin
+//Broche øƒanklin
 Un 
 un 
 El 
@@ -1958,7 +1958,7 @@ la
 a la 
 de la 
 -
-//Gorra infantil
+//Gorƒa infantil
 Una 
 una 
 La 
@@ -1968,7 +1968,7 @@ la
 a la 
 de la 
 -
-//Pepinillos sabrosos
+//Pepinillos•sabrosos
 Unos 
 unos 
 Los 
@@ -1978,7 +1978,7 @@ los
 a los 
 de los 
 n
-//Sombrero rojo
+//Sombrero rÒjo
 Un 
 un 
 El 
@@ -1998,7 +1998,7 @@ lo
 al 
 del 
 -
-//Pájaro
+//ùájaro
 Un 
 un 
 El 
@@ -2018,7 +2018,7 @@ la
 a la 
 de la 
 -
-//Aguas del tiempo
+//Aguas deÙ tiempo
 Las 
 las 
 Las 
@@ -2038,7 +2038,7 @@ la
 a la 
 de la 
 -
-//Cuaderno de Frigia
+//Cuaderno de ørigia
 El 
 el 
 El 
@@ -2058,7 +2058,7 @@ lo
 al 
 del 
 -
-//Test
+//ôeŠt
 -
 -
 -
@@ -2178,7 +2178,7 @@ lo
 al 
 del 
 -
-//Máscara susto
+//Máscaƒa suŠto
 Una 
 una 
 La 
@@ -2188,7 +2188,7 @@ la
 a la 
 de la 
 -
-//Palo cosquillero
+//ùalo cosquillero
 Un 
 un 
 El 
@@ -2208,7 +2208,7 @@ la
 a la 
 de la 
 -
-//Escupidera noble
+//Escupideƒa noble
 La 
 la 
 La 
@@ -2238,15 +2238,15 @@ lo
 al 
 del 
 -
-//Trozo de tela
-Un 
-un 
-El 
-el 
+//ôrozo de•tela
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
 //Cuaderno porcino
 Un 
@@ -2298,15 +2298,15 @@ la
 a la 
 de la 
 -
-//Transceptor
-Un 
-un 
-El 
-el 
+//ôƒansceptor
+UÛ 
+uÛ 
+EÙ 
+eÙ 
 o
 lo
-al 
-del 
+aÙ 
+deÙ 
 -
 //Ticket
 Un 
@@ -2318,7 +2318,7 @@ lo
 al 
 del 
 -
-//Bestiario
+//BeŠtiario
 El 
 el 
 El 
@@ -2328,7 +2328,7 @@ lo
 al 
 del 
 -
-//Paloma mensajera
+//ùaloma mensajeƒa
 Una 
 una 
 La 
@@ -2338,7 +2338,7 @@ la
 a la 
 de la 
 -
-//Hoja y pintalabios
+//HÒja y pintalabios
 Una 
 una 
 La 
@@ -2368,7 +2368,7 @@ lo
 al 
 del 
 -
-//Recuerdo de Frigia
+//Recuerdo de ørigia
 El 
 el 
 El 
@@ -2408,7 +2408,7 @@ lo
 al 
 del 
 -
-//Mapa de Tazmily
+//Mapa de•ôazmily
 Un 
 un 
 El 
@@ -2428,7 +2428,7 @@ lo
 al 
 del 
 -
-//Mapa subterráneo
+//Mapa subterƒáneo
 Un 
 un 
 El 
@@ -2468,7 +2468,7 @@ lo
 al 
 del 
 -
-//Mapa del valle Saturn
+//Mapa deÙ ‡alle Saturn
 Un 
 un 
 El 
@@ -2478,9 +2478,9 @@ lo
 al 
 del 
 -
-//Mapa del fondo marino
-Un 
-un 
+//Mapa deÙ fondo marino
+El 
+el 
 El 
 el 
 o
@@ -2488,7 +2488,7 @@ lo
 al 
 del 
 -
-//Mapa de la cueva
+//Mapa de la cue‡a
 Un 
 un 
 El 
@@ -2518,7 +2518,7 @@ lo
 al 
 del 
 -
-//Mapa del lab. Quimera
+//Mapa del lab. Quimeƒa
 Un 
 un 
 El 
@@ -2528,9 +2528,9 @@ lo
 al 
 del 
 -
-//Mapa de madriguera
-Un 
-un 
+//Mapa de madrigueƒa
+El 
+el 
 El 
 el 
 o
@@ -2538,7 +2538,7 @@ lo
 al 
 del 
 -
-//Mapa de la autopista
+//Mapa de la autopiŠta
 Un 
 un 
 El 

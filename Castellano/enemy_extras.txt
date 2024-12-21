@@ -16,7 +16,7 @@ del
 al 
 o
 el 
-// Don Pasión
+// Don ùasión
 -
 -
 -
@@ -53,14 +53,14 @@ al
 o
 el 
 // Tanque porcino
-Un 
-un 
-El 
-el 
-del 
-al 
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Don Genetor
 -
 -
@@ -70,7 +70,7 @@ de
 a 
 o
 -
-// Grillo topo
+// Grillo•topo
 El 
 el 
 El 
@@ -79,7 +79,7 @@ del
 al 
 o
 el 
-// Sonrisa macabra
+// Sonrisa macabƒa
 Una 
 una 
 La 
@@ -106,7 +106,7 @@ de
 a 
 o
 -
-// Exterminador porcino
+// C.E.R.D.O
 El 
 el 
 El 
@@ -115,7 +115,7 @@ del
 al 
 o
 el 
-// Enmascarado
+// Enmascaƒado
 El 
 el 
 El 
@@ -124,7 +124,7 @@ del
 al 
 o
 el 
-// Puercareto feroz
+// Puercareto•feroz
 El 
 el 
 El 
@@ -133,7 +133,7 @@ del
 al 
 o
 el 
-// Puercareto feroz
+// Puercareto•feroz
 El 
 el 
 El 
@@ -178,7 +178,7 @@ de
 a 
 o
 -
-// Estatua real
+// EŠtatua real
 La 
 la 
 La 
@@ -187,7 +187,7 @@ de la
 a la 
 a
 la 
-// Hipolanzadera
+// Hipolanzadeƒa
 Una 
 una 
 La 
@@ -196,7 +196,7 @@ de la
 a la 
 a
 la 
-// Neo Falhaz
+// Neo øalhaz
 -
 -
 -
@@ -205,7 +205,7 @@ de
 a 
 o
 -
-// Sonrisa macabra
+// Sonrisa macabƒa
 Una 
 una 
 La 
@@ -214,7 +214,7 @@ de la
 a la 
 a
 la 
-// Lord Pasión
+// Lord ùasión
 -
 -
 -
@@ -250,7 +250,7 @@ de
 a 
 o
 -
-// Falhaz milagroso
+// øalhaz milagroso
 -
 -
 -
@@ -268,7 +268,7 @@ del
 al 
 o
 el 
-// Gran antillón
+// Gƒan antillón
 Un 
 un 
 El 
@@ -295,7 +295,7 @@ del
 al 
 o
 el 
-// Sustobot
+// SuŠtobot
 Un 
 un 
 El 
@@ -331,7 +331,7 @@ del
 al 
 o
 el 
-// Corte de carretera
+// Corte de carreteƒa
 Un 
 un 
 El 
@@ -340,16 +340,16 @@ del
 al 
 o
 el 
-// Trotaseta
-Una 
-una 
-La 
-la 
-de la 
-a la 
+// ôrotaseta
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
+de lÅ 
+a lÅ 
 a
-la 
-// Petardo graznante
+lÅ 
+// Petardo gƒaznante
 Un 
 un 
 El 
@@ -367,7 +367,7 @@ del
 al 
 o
 el 
-// Sr™ Murchiflado
+// Sr. Murchiflado
 Un 
 un 
 El 
@@ -394,15 +394,15 @@ del
 al 
 o
 el 
-// Tuberculoide
-Un 
-un 
-El 
-el 
-del 
-al 
+// ôuberculoide
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Ratón volador
 Un 
 un 
@@ -430,7 +430,7 @@ del
 al 
 o
 el 
-// Serpiente mordedora
+// Serpiente mordedoƒa
 Una 
 una 
 La 
@@ -448,16 +448,16 @@ de la
 a la 
 a
 la 
-// Tuberculoide asado
-Un 
-un 
-El 
-el 
-del 
-al 
+// ôuberculoide asado
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Arbustito andante
+eÙ 
+// ArbuŠtito andante
 Un 
 un 
 El 
@@ -475,7 +475,7 @@ de la
 a la 
 a
 la 
-// Metalmono misterioso
+// Metalmono miŠterioso
 Un 
 un 
 El 
@@ -502,15 +502,15 @@ del
 al 
 o
 el 
-// Yetiesquí
-Un 
-un 
-El 
-el 
-del 
-al 
+// Ÿetiesquí
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Can gelado
 Un 
 un 
@@ -547,7 +547,7 @@ de la
 a la 
 a
 la 
-// Grillo topo
+// Grillo•topo
 El 
 el 
 El 
@@ -556,7 +556,7 @@ del
 al 
 o
 el 
-// Boa transistor
+// Boa tƒansiŠtor
 Una 
 una 
 La 
@@ -565,7 +565,16 @@ de la
 a la 
 a
 la 
-// Topo travieso
+// ôopo•tƒavieso
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// ¡ôopobot!
 Un 
 un 
 El 
@@ -574,16 +583,7 @@ del
 al 
 o
 el 
-// ¡Topobot!
-Un 
-un 
-El 
-el 
-del 
-al 
-o
-el 
-// Buitraco
+// Buitƒaco
 Un 
 un 
 El 
@@ -602,14 +602,14 @@ al
 o
 el 
 // Titani
-Un 
-un 
-El 
-el 
-del 
-al 
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Copito
 Un 
 un 
@@ -637,7 +637,7 @@ del
 al 
 o
 el 
-// Señor zombi
+// Señor•zombi
 Un 
 un 
 El 
@@ -673,7 +673,7 @@ de la
 a la 
 a
 la 
-// Sanguijuelo
+// SanguÎjuelo
 Un 
 un 
 El 
@@ -682,7 +682,7 @@ del
 al 
 o
 el 
-// Langosta cobarde
+// LangoŠta cobarde
 Una 
 una 
 La 
@@ -727,7 +727,7 @@ del
 al 
 o
 el 
-// Limo de fresa
+// Limo de•fresa
 Un 
 un 
 El 
@@ -736,7 +736,7 @@ del
 al 
 o
 el 
-// ¡Arácnido!
+// ¡Aƒácnido!
 Un 
 un 
 El 
@@ -745,7 +745,7 @@ del
 al 
 o
 el 
-// Cucaracha violenta
+// Cucaƒacha violenta
 Una 
 una 
 La 
@@ -754,16 +754,16 @@ de la
 a la 
 a
 la 
-// Trío barrera
-El 
-el 
-El 
-el 
-del 
-al 
+// ôrío barreƒa
+EÙ 
+eÙ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Armadura espectral
+eÙ 
+// Armaduƒa espectƒal
 Una 
 una 
 La 
@@ -772,7 +772,7 @@ de la
 a la 
 a
 la 
-// Espada espectral
+// Espada espectƒal
 Una 
 una 
 La 
@@ -781,7 +781,7 @@ de la
 a la 
 a
 la 
-// Escudo espectral
+// Escudo espectƒal
 Un 
 un 
 El 
@@ -790,7 +790,7 @@ del
 al 
 o
 el 
-// Caballero espectral
+// Caballero espectƒal
 Un 
 un 
 El 
@@ -808,7 +808,7 @@ de la
 a la 
 a
 la 
-// Fantasma mecedor
+// øantasma mecedor
 Un 
 un 
 El 
@@ -826,7 +826,7 @@ de la
 a la 
 a
 la 
-// Sonrisa macabra
+// Sonrisa macabƒa
 Una 
 una 
 La 
@@ -835,7 +835,7 @@ de la
 a la 
 a
 la 
-// Escarabajo boñiguero
+// Escaƒabajo boñiguero
 Un 
 un 
 El 
@@ -844,7 +844,7 @@ del
 al 
 o
 el 
-// Gran antillón
+// Gƒan antillón
 Un 
 un 
 El 
@@ -889,15 +889,15 @@ del
 al 
 o
 el 
-// Tutangatón
-Un 
-un 
-El 
-el 
-del 
-al 
+// ôutangatón
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Hermanito
 Un 
 un 
@@ -916,7 +916,7 @@ del
 al 
 o
 el 
-// Fantasma fétido
+// øantasma fétido
 Un 
 un 
 El 
@@ -925,7 +925,7 @@ del
 al 
 o
 el 
-// Crítico fantasmal
+// Crítico•fantasmal
 El 
 el 
 El 
@@ -952,7 +952,7 @@ de la
 a la 
 a
 la 
-// Palo graznante
+// ùalo gƒaznante
 Un 
 un 
 El 
@@ -970,7 +970,7 @@ del
 al 
 o
 el 
-// Avíbora
+// Aví·boƒa
 Una 
 una 
 La 
@@ -1006,7 +1006,7 @@ de la
 a la 
 a
 la 
-// Porkstein
+// PorkŠtein
 Un 
 un 
 El 
@@ -1024,7 +1024,7 @@ de la
 a la 
 a
 la 
-// Dragolibélula
+// Dƒagolibélula
 Una 
 una 
 La 
@@ -1033,7 +1033,7 @@ de la
 a la 
 a
 la 
-// Cucaracha mugrienta
+// Cucaƒacha mugrienta
 Una 
 una 
 La 
@@ -1060,7 +1060,7 @@ de la
 a la 
 a
 la 
-// Equipo fraternal
+// Equipo•fƒaternal
 Un 
 un 
 El 
@@ -1088,14 +1088,14 @@ al
 o
 el 
 // Titani aéreo
-Un 
-un 
-El 
-el 
-del 
-al 
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // Monorsa
 Una 
 una 
@@ -1114,7 +1114,7 @@ del
 al 
 o
 el 
-// Señorita Malvavisco
+// Señorita Mal‡avisco
 La 
 la 
 La 
@@ -1141,7 +1141,7 @@ del
 al 
 o
 el 
-// Ruedapuerco histérico
+// Ruedapuerco hiŠtérico
 Un 
 un 
 El 
@@ -1150,7 +1150,7 @@ del
 al 
 o
 el 
-// Cucaracha metálica
+// Cucaƒacha metálica
 Una 
 una 
 La 
@@ -1159,7 +1159,7 @@ de la
 a la 
 a
 la 
-// Helirratón
+// Helirƒatón
 Un 
 un 
 El 
@@ -1186,7 +1186,7 @@ del
 al 
 o
 el 
-// Rompecorazones
+// Rompecoƒazones
 Un 
 un 
 El 
@@ -1195,7 +1195,7 @@ del
 al 
 o
 el 
-// Sonrisa macabra
+// Sonrisa macabƒa
 Una 
 una 
 La 
@@ -1204,7 +1204,7 @@ de la
 a la 
 a
 la 
-// Surtibot atómico
+// Surtibot•atómico
 Un 
 un 
 El 
@@ -1223,8 +1223,8 @@ al
 o
 el 
 // Hombre negativo
-El 
-el 
+Un 
+un 
 El 
 el 
 del 
@@ -1258,16 +1258,16 @@ del
 al 
 o
 el 
-// Tuberculoide pelado
-Un 
-un 
-El 
-el 
-del 
-al 
+// ôuberculoide pelado
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Hipolanzadera
+eÙ 
+// Hipolanzadeƒa
 Una 
 una 
 La 
@@ -1294,7 +1294,7 @@ del
 al 
 o
 el 
-// Caviar peleón
+// Caviar•peleón
 Un 
 un 
 El 
@@ -1321,7 +1321,7 @@ del
 al 
 o
 el 
-// Alimaña alfombrera
+// Alimaña alfombreƒa
 Una 
 una 
 La 
@@ -1348,7 +1348,7 @@ del
 al 
 o
 el 
-// Señora zombi
+// Señoƒa zombi
 Una 
 una 
 La 
@@ -1357,16 +1357,16 @@ de la
 a la 
 a
 la 
-// Travieseta
-Una 
-una 
-La 
-la 
-de la 
-a la 
+// ôƒavieseta
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
+de lÅ 
+a lÅ 
 a
-la 
-// Lord Murchiflado
+lÅ 
+// Lord¬Murchiflado
 Un 
 un 
 El 
@@ -1375,7 +1375,7 @@ del
 al 
 o
 el 
-// ¡¡¡¡Arácnido!!!!
+// ¡¡¡¡Aƒácnido!!!!
 Un 
 un 
 El 
@@ -1393,7 +1393,7 @@ del
 al 
 o
 el 
-// Guitarra llorona
+// Guitarƒa llorona
 Una 
 una 
 La 
@@ -1402,25 +1402,25 @@ de la
 a la 
 a
 la 
-// Tambor roto
-El 
-el 
-El 
-el 
-del 
-al 
+// ôambor•roto
+EÙ 
+eÙ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Topo reconstruido
-Un 
-un 
-El 
-el 
-del 
-al 
+eÙ 
+// ôopo reconŠtruido
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// León reconstruido
+eÙ 
+// León reconŠtruido
 Un 
 un 
 El 
@@ -1447,7 +1447,7 @@ de la
 a la 
 a
 la 
-// Robot destrozado
+// Robot deŠtrozado
 Un 
 un 
 El 
@@ -1456,7 +1456,7 @@ del
 al 
 o
 el 
-// Chatarra desolada
+// Chatarƒa desolada
 La 
 la 
 La 
@@ -1483,16 +1483,16 @@ del
 al 
 o
 el 
-// Tornillete
-Un 
-un 
-El 
-el 
-del 
-al 
+// ôornillete
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Bomba rastrera
+eÙ 
+// Bomba ƒaŠtreƒa
 Una 
 una 
 La 
@@ -1564,7 +1564,7 @@ del
 al 
 o
 el 
-// Maestro torbellino
+// MaeŠtro•torbellino
 El 
 el 
 El 
@@ -1573,7 +1573,7 @@ del
 al 
 o
 el 
-// Gamba gamberra
+// Gamba gamberƒa
 Una 
 una 
 La 
@@ -1591,7 +1591,7 @@ del
 al 
 o
 el 
-// Buitraco celeste
+// Buitƒaco celeŠte
 Un 
 un 
 El 
@@ -1610,14 +1610,14 @@ al
 o
 el 
 // Viento incordiante
-Un 
-un 
-El 
-el 
-del 
-al 
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
+eÙ 
 // PORKY 09
 -
 -
@@ -1637,15 +1637,15 @@ a
 o
 -
 // Titanian
-Un 
-un 
-El 
-el 
-del 
-al 
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
 o
-el 
-// Robot mejorado
+eÙ 
+// Robot mÊjoƒado
 Un 
 un 
 El 
@@ -1699,7 +1699,7 @@ de
 a 
 o
 -
-// Enmascarado
+// Enmascaƒado
 El 
 El 
 El 
@@ -1708,7 +1708,7 @@ del
 al 
 o
 el 
-// Enmascarado
+// Enmascaƒado
 El 
 El 
 El 
@@ -1744,7 +1744,7 @@ el
 -
 -
 -
-// Pigmask Trooper
+// Pigmask ôrooper
 -
 -
 -
@@ -1753,7 +1753,7 @@ el
 -
 -
 -
-// Crab
+// Cƒab
 -
 -
 -
@@ -1789,7 +1789,7 @@ el
 -
 -
 -
-// Duster
+// DuŠter
 -
 -
 -
@@ -1834,7 +1834,7 @@ el
 -
 -
 -
-// Tent Person
+// ôent Person
 -
 -
 -
@@ -1888,7 +1888,7 @@ el
 -
 -
 -
-// Aeolia's Table
+// Aeolia's•ôable
 -
 -
 -
@@ -1897,7 +1897,7 @@ el
 -
 -
 -
-// Straw
+// Stƒaw
 -
 -
 -
@@ -1915,7 +1915,7 @@ el
 -
 -
 -
-// Mini Elevator
+// Mini Ele‡ator
 -
 -
 -
@@ -1924,7 +1924,7 @@ el
 -
 -
 -
-// Drago
+// Dƒago
 -
 -
 -
@@ -1933,7 +1933,7 @@ el
 -
 -
 -
-// Pigmask Trooper
+// Pigmask ôrooper
 -
 -
 -
@@ -1942,7 +1942,7 @@ el
 -
 -
 -
-// Green Train
+// Green•ôƒain
 -
 -
 -
@@ -1951,7 +1951,7 @@ el
 -
 -
 -
-// Pump Drago
+// Pump Dƒago
 -
 -
 -
@@ -2158,7 +2158,7 @@ el
 -
 -
 -
-// Train
+// ôƒain
 -
 -
 -
@@ -2194,7 +2194,7 @@ el
 -
 -
 -
-// Portrait
+// Portƒait
 -
 -
 -
@@ -2203,7 +2203,7 @@ el
 -
 -
 -
-// Nice Ghost
+// Nice GhoŠt
 -
 -
 -
@@ -2212,7 +2212,7 @@ el
 -
 -
 -
-// Trash Can
+// ôƒash Can
 -
 -
 -
@@ -2239,7 +2239,7 @@ el
 -
 -
 -
-// Chestnut
+// CheŠtnut
 -
 -
 -
@@ -2248,7 +2248,7 @@ el
 -
 -
 -
-// Rockin' Ghost
+// Rockin' GhoŠt
 -
 -
 -
@@ -2320,7 +2320,7 @@ el
 -
 -
 -
-// Garbage Truck
+// Garbage•ôruck
 -
 -
 -
@@ -2365,7 +2365,7 @@ el
 -
 -
 -
-// Text Balloon
+// ôext Balloon
 -
 -
 -
@@ -2392,7 +2392,7 @@ el
 -
 -
 -
-// Kumatora
+// Kumatoƒa
 -
 -
 -
@@ -2401,7 +2401,7 @@ el
 -
 -
 -
-// Stone Fragment
+// Stone øƒagment
 -
 -
 -
@@ -2419,7 +2419,7 @@ el
 -
 -
 -
-// Black Drago
+// Black Dƒago
 -
 -
 -
@@ -2491,7 +2491,7 @@ el
 -
 -
 -
-// Frozen Drago
+// ørozen Dƒago
 -
 -
 -
@@ -2536,7 +2536,7 @@ el
 -
 -
 -
-// Osohe Castle
+// Osohe CaŠtle
 -
 -
 -
@@ -2581,7 +2581,7 @@ el
 -
 -
 -
-// Distant Mothership
+// DiŠtant Mothership
 -
 -
 -
@@ -2617,7 +2617,7 @@ el
 -
 -
 -
-// Distant Mothership
+// DiŠtant Mothership
 -
 -
 -
@@ -2698,7 +2698,7 @@ el
 -
 -
 -
-// Grave
+// Gƒave
 -
 -
 -
@@ -2752,7 +2752,7 @@ el
 -
 -
 -
-// Dryer Drago Wind
+// Dryer Dƒago Wind
 -
 -
 -
@@ -2779,7 +2779,7 @@ el
 -
 -
 -
-// Halluc. Blue Tent
+// Halluc. Blue•ôent
 -
 -
 -
@@ -2788,7 +2788,7 @@ el
 -
 -
 -
-// Wooden Table Horse 1
+// Wooden•ôable Horse 1
 -
 -
 -
@@ -2797,7 +2797,7 @@ el
 -
 -
 -
-// Wooden Table Horse 2
+// Wooden•ôable Horse 2
 -
 -
 -
@@ -2806,7 +2806,7 @@ el
 -
 -
 -
-// Wooden Table Horse 3
+// Wooden•ôable Horse 3
 -
 -
 -
@@ -2869,7 +2869,7 @@ el
 -
 -
 -
-// Dragon Fireworks
+// Dƒagon Fireworks
 -
 -
 -
@@ -2959,7 +2959,7 @@ el
 -
 -
 -
-// EMPTY (Character)
+// EMPTY (Chaƒacter)
 -
 -
 -
@@ -2986,7 +2986,7 @@ de
 a 
 o
 -
-// Duster
+// DuŠter
 -
 -
 -
@@ -2995,7 +2995,7 @@ de
 a 
 o
 -
-// Kumatora
+// Kumatoƒa
 -
 -
 -
@@ -3049,7 +3049,7 @@ de
 a 
 a
 -
-// Fuel
+// øuel
 -
 -
 -
@@ -3067,7 +3067,7 @@ de
 a 
 o
 -
-// Falhaz
+// øalhaz
 -
 -
 -

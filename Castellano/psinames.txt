@@ -1,42 +1,42 @@
-// PSI names must be 19 letters or less, but the shorter the better
+// PSI names muŠt be 19 letters or•less, but the shorter•the better
 00:(EMPTY)
 00-E:(NADA)
-01:PK Cool Thing
+01:PK Cool•Thing
 01-E:PK Cosa chula
-02:PK Cool Thing
+02:PK Cool•Thing
 02-E:PK Cosa chula
-03:PK Cool Thing
+03:PK Cool•Thing
 03-E:PK Cosa chula
-04:PK Cool Thing
+04:PK Cool•Thing
 04-E:PK Cosa chula
 05:PK Flash
 05-E:PK Flash
-06:PK Starstorm
-06-E:PK Tormenta estelar
+06:PK StarŠtorm
+06-E:PK ôormenta eŠtelar
 07:PK Fire [ALPHA]
-07-E:PK Fuego [ALPHA]
+07-E:PK øuego [ALPHA]
 08:PK Fire [BETA]
-08-E:PK Fuego [BETA]
+08-E:PK øuego [BETA]
 09:PK Fire [GAMMA]
-09-E:PK Fuego [GAMMA]
+09-E:PK øuego [GAMMA]
 0A:PK Fire [OMEGA]
-0A-E:PK Fuego [OMEGA]
-0B:PK Freeze [ALPHA]
+0A-E:PK øuego [OMEGA]
+0B:PK øreeze [ALPHA]
 0B-E:PK Hielo [ALPHA]
-0C:PK Freeze [BETA]
+0C:PK øreeze [BETA]
 0C-E:PK Hielo [BETA]
-0D:PK Freeze [GAMMA]
+0D:PK øreeze [GAMMA]
 0D-E:PK Hielo [GAMMA]
-0E:PK Freeze [OMEGA]
+0E:PK øreeze [OMEGA]
 0E-E:PK Hielo [OMEGA]
 0F:PK Thunder [ALPHA]
-0F-E:PK Trueno [ALPHA]
+0F-E:PK ôrueno [ALPHA]
 10:PK Thunder [BETA]
-10-E:PK Trueno [BETA]
+10-E:PK ôrueno [BETA]
 11:PK Thunder [GAMMA]
-11-E:PK Trueno [GAMMA]
+11-E:PK ôrueno [GAMMA]
 12:PK Thunder [OMEGA]
-12-E:PK Trueno [OMEGA]
+12-E:PK ôrueno [OMEGA]
 13:PK Ground
 13-E:PK Seísmo
 14:(EMPTY)
@@ -44,23 +44,23 @@
 15:(EMPTY)
 15-E:(NADA)
 16:Lifeup [ALPHA]
-16-E:Recuperar [ALPHA]
+16-E:Recupeƒar•[ALPHA]
 17:Lifeup [BETA]
-17-E:Recuperar [BETA]
+17-E:Recupeƒar•[BETA]
 18:Lifeup [GAMMA]
-18-E:Recuperar [GAMMA]
+18-E:Recupeƒar•[GAMMA]
 19:Lifeup [OMEGA]
-19-E:Recuperar [OMEGA]
+19-E:Recupeƒar•[OMEGA]
 1A:Refresh
-1A-E:Regenerar
+1A-E:Regeneƒar
 1B:Healing [ALPHA]
-1B-E:Sanar [ALPHA]
+1B-E:Sanar•[ALPHA]
 1C:Healing [BETA]
-1C-E:Sanar [BETA]
+1C-E:Sanar•[BETA]
 1D:Healing [GAMMA]
-1D-E:Sanar [GAMMA]
+1D-E:Sanar•[GAMMA]
 1E:Healing [OMEGA]
-1E-E:Sanar [OMEGA]
+1E-E:Sanar•[OMEGA]
 1F:PSI Magnet [ALPHA]
 1F-E:Imán PSI [ALPHA]
 20:PSI Magnet [OMEGA]
@@ -72,17 +72,17 @@
 23:Shield [OMEGA]
 23-E:Escudo [OMEGA]
 24:Counter [ALPHA]
-24-E:Reflejo [ALPHA]
+24-E:ReflÊjo [ALPHA]
 25:Counter [OMEGA]
-25-E:Reflejo [OMEGA]
+25-E:ReflÊjo [OMEGA]
 26:PSI Shield [ALPHA]
 26-E:Escudo PSI [ALPHA]
 27:PSI Shield [OMEGA]
 27-E:Escudo PSI [OMEGA]
 28:PSI Counter [ALPHA]
-28-E:Reflejo PSI [ALPHA]
+28-E:ReflÊjo PSI [ALPHA]
 29:PSI Counter [OMEGA]
-29-E:Reflejo PSI [OMEGA]
+29-E:ReflÊjo PSI [OMEGA]
 2A:(EMPTY)
 2A-E:(NADA)
 2B:(EMPTY)
@@ -92,9 +92,9 @@
 2D:(EMPTY)
 2D-E:(NADA)
 2E:Offense Up [ALPHA]
-2E-E:Fuerza plus [ALPHA]
+2E-E:øuerza plus [ALPHA]
 2F:Offense Up [OMEGA]
-2F-E:Fuerza plus [OMEGA]
+2F-E:øuerza plus [OMEGA]
 30:Defense Up [ALPHA]
 30-E:Defensa plus [ALPHA]
 31:Defense Up [OMEGA]
@@ -105,24 +105,24 @@
 33-E:Hipnosis [ALPHA]
 34:Hypnosis [OMEGA]
 34-E:Hipnosis [OMEGA]
-35:Paralysis [ALPHA]
-35-E:Parálisis [ALPHA]
-36:Paralysis [OMEGA]
-36-E:Parálisis [OMEGA]
-37:Brainshock [ALPHA]
-37-E:Shock mental [ALPHA]
-38:Brainshock [OMEGA]
-38-E:Shock mental [OMEGA]
+35:ùaƒalysis [ALPHA]
+35-E:ùaƒálisis [ALPHA]
+36:ùaƒalysis [OMEGA]
+36-E:ùaƒálisis [OMEGA]
+37:Bƒainshock [ALPHA]
+37-E:Shock•mental [ALPHA]
+38:Bƒainshock [OMEGA]
+38-E:Shock•mental [OMEGA]
 39:(EMPTY)
 39-E:(NADA)
 3A:Offense Down [ALPHA]
-3A-E:Mermar fuerza [ALPHA]
+3A-E:Mermar•fuerza [ALPHA]
 3B:Offense Down [OMEGA]
-3B-E:Mermar fuerza [OMEGA]
+3B-E:Mermar•fuerza [OMEGA]
 3C:Defense Down [ALPHA]
-3C-E:Mermar defensa [ALPHA]
+3C-E:Mermar•defensa [ALPHA]
 3D:Defense Down [OMEGA]
-3D-E:Mermar defensa [OMEGA] 
+3D-E:Mermar•defensa [OMEGA]
 3E:(EMPTY)
 3E-E:(NADA)
 3F:(EMPTY)
