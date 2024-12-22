@@ -575,7 +575,7 @@ org $8059246; push {lr}; bl naming_screen_hacks.credits2
 org $80591EC; push {lr}; bl naming_screen_hacks.credits3
 
 // Insert new letter selection screen
-org $9BA2DBC; incbin gfx_namingscreen.bin
+org $9BA2DBC; incbin ./gráficos/gfx_namingscreen.bin
 
 // Insert new coordinate tables
 org $9B8FF74; incbin data_namingscreen1.bin
@@ -668,14 +668,14 @@ org $804DCB2; db $10
 
 // Change the sanctuary screen arrangement to match the factory screen one
 org $804A0F8; db $48
-org $9BBB7BC; incbin gfx_factory_arrangement.bin
-org $9BBEFBC; incbin gfx_summary_arrangement.bin
-org $9BBFFBC; incbin gfx_flavours_arrangement.bin
+org $9BBB7BC; incbin ./gráficos/gfx_factory_arrangement.bin
+org $9BBEFBC; incbin ./gráficos/gfx_summary_arrangement.bin
+org $9BBFFBC; incbin ./gráficos/gfx_flavours_arrangement.bin
 
 // Change the sanctuary graphics to include the custom window border tiles
-org $9BB69FC; incbin gfx_sanctuaryborders.bin
-org $9BB89FC; incbin gfx_sanctuaryborders.bin
-org $9BAD5BC; incbin gfx_namingscreen.bin
+org $9BB69FC; incbin ./gráficos/gfx_sanctuaryborders.bin
+org $9BB89FC; incbin ./gráficos/gfx_sanctuaryborders.bin
+org $9BAD5BC; incbin ./gráficos/gfx_namingscreen.bin
 
 // Make the factory screen write its name to 2004F26
 org $8055BD8; dd $2004F26
@@ -683,8 +683,8 @@ org $8055BD8; dd $2004F26
 // New credits tileset
 org $9C5FE60; dd $00326614
 //org $9C8D24E; db $00,$00,$00,$00,$00,$00
-org $9F86340; incbin gfx_credits_[c].bin
-org $9C86E98; incbin gfx_credits_arrangement.bin
+org $9F86340; incbin ./gráficos/gfx_credits_[c].bin
+org $9C86E98; incbin ./gráficos/gfx_credits_arrangement.bin
 org $9F86140; incbin data_creditstable.bin
 //org $9F86340; incbin font_creditsfont_[c].bin
 
@@ -1193,44 +1193,44 @@ org $80B3F66; bl battle_hacks.item_steal_text2; b $80B3FE8
 //============================================================================================
 
 // Insert Osohe Sketch
-org $9B1F45C; incbin gfx_sketch_osohe_1.bin
-org $9B81B5C; incbin gfx_sketch_osohe_2.bin
+org $9B1F45C; incbin ./gráficos/gfx_sketch_osohe_1.bin
+org $9B81B5C; incbin ./gráficos/gfx_sketch_osohe_2.bin
 
 // Insert Thunder Tower Sketch
-org $9B5E8DC; incbin gfx_sketch_tower.bin
+org $9B5E8DC; incbin ./gráficos/gfx_sketch_tower.bin
 
 // Insert Highway Sketch
-org $9B73A7C; incbin gfx_sketch_highway.bin
+org $9B73A7C; incbin ./gráficos/gfx_sketch_highway.bin
 
 // Insert Laboratory Sketch
-org $9B6595C; incbin gfx_sketch_lab.bin
-org $9B6A9DC; incbin gfx_sketch_lab_arrangement.bin
+org $9B6595C; incbin ./gráficos/gfx_sketch_lab.bin
+org $9B6A9DC; incbin ./gráficos/gfx_sketch_lab_arrangement.bin
 
 // insert ATM graphics
-org $9AFD8D0; incbin gfx_frogatm.bin
+org $9AFD8D0; incbin ./gráficos/gfx_frogatm.bin
 
 // insert pencil sprite graphics
-org $98BBCD0; incbin gfx_pencil_sprites.bin
+org $98BBCD0; incbin ./gráficos/gfx_pencil_sprites.bin
 
 // insert nostalgia room statue graphics and new palette
-org $8F09C94; incbin gfx_statues_[c].bin
-org $8F7C4BC; incbin gfx_statues_pal.bin
+org $8F09C94; incbin ./gráficos/gfx_statues_[c].bin
+org $8F7C4BC; incbin ./gráficos/gfx_statues_pal.bin
 
 // Insert new chapter title screen graphics
 org $9AF3844; dd $0049C870
-org $9F90000; incbin gfx_chaptertitles_[c].bin
-org $9B03580; incbin gfx_chapt1-4_arrangement.bin
-org $9B05580; incbin gfx_chapt5-8_arrangement.bin
+org $9F90000; incbin ./gráficos/gfx_chaptertitles_[c].bin
+org $9B03580; incbin ./gráficos/gfx_chapt1-4_arrangement.bin
+org $9B05580; incbin ./gráficos/gfx_chapt5-8_arrangement.bin
 
 // Insert the special graphics for the start of Chapter 4
-org $98AA8D0; incbin gfx_3yearslater.bin
+org $98AA8D0; incbin ./gráficos/gfx_3yearslater.bin
 
 // Insert YOU WON! graphics to replace YOU WIN!
-org $9C98A28; incbin gfx_youwon.bin
-org $9CFB00C; incbin gfx_youwon_arrangement.bin
+org $9C98A28; incbin ./gráficos/gfx_youwon.bin
+org $9CFB00C; incbin ./gráficos/gfx_youwon_arrangement.bin
 
 // Insert text speed/window flavor graphics
-org $9BA0D9C; incbin gfx_flavours.bin
+org $9BA0D9C; incbin ./gráficos/gfx_flavours.bin
 
 // Insert new Health Screen graphics
 org $9C8F332; db $E8 // Move the flashy text up by 8 pixels
@@ -1240,123 +1240,123 @@ org $9C8F344; db $E8
 org $9C8F34A; db $E8
 org $9C8F350; db $E8
 org $9C8F356; db $E8
-org $9C8DEB4; incbin gfx_healthscreen_[c].bin
-org $9C8EC48; incbin gfx_healthscreen_arrangement_[c].bin
+org $9C8DEB4; incbin ./gráficos/gfx_healthscreen_[c].bin
+org $9C8EC48; incbin ./gráficos/gfx_healthscreen_arrangement_[c].bin
 org $9C8DEA8; dd $9F87A20-$9C8DE98
-org $9F87A20; incbin gfx_healthtext_[c].bin
+org $9F87A20; incbin ./gráficos/gfx_healthtext_[c].bin
 
 // insert new "LAB" graphics to replace "LABO"
-org $8F0E670; incbin gfx_lab1_[c].bin
-org $8F0E9E0; incbin gfx_lab2_[c].bin
+org $8F0E670; incbin ./gráficos/gfx_lab1_[c].bin
+org $8F0E9E0; incbin ./gráficos/gfx_lab2_[c].bin
 
 // Change OFE/DFE to OFF/DEF in Goods > Give screen
 org $9B8FFC4; dd $9FDB000-$9B8FFC0
-org $9FDB000; incbin gfx_offdef_[c].bin
+org $9FDB000; incbin ./gráficos/gfx_offdef_[c].bin
 
 // Change MONOTOLY to MONOTOLI in the theater
 org $8D3E09C; dd $01256D20
-org $9F92200; incbin gfx_monotoli_[c].bin
+org $9F92200; incbin ./gráficos/gfx_monotoli_[c].bin
 
 // silver star sprite for the battle memory star hack
 define star_sprite_address $9F86120
-org {star_sprite_address}; incbin gfx_starsprite.bin
+org {star_sprite_address}; incbin ./gráficos/gfx_starsprite.bin
 
 //Ver 1.3 stuff after this
 
 //Fixes TaneTane Island's glitched tileset
 
-org $9FAA450; incbin gfx_tanetane_layer1_arrangement_[c].bin
+org $9FAA450; incbin ./gráficos/gfx_tanetane_layer1_arrangement_[c].bin
 org $8F904B4; dd $0101A414 //Layer 1's pointer
-org $8FC9004; incbin gfx_tanetane_layer2_arrangement_[c].bin
-org $9FAA7B0; incbin gfx_tanetane_layer3_arrangement_[c].bin
+org $8FC9004; incbin ./gráficos/gfx_tanetane_layer2_arrangement_[c].bin
+org $9FAA7B0; incbin ./gráficos/gfx_tanetane_layer3_arrangement_[c].bin
 org $8F904BC; dd $0101A774 //Layer 3's pointer
 
 //Fixes the unused cutscene's tileset
 
-org $8FF423C; incbin gfx_cutscene_layer2_arrangement_[c].bin
-org $8FF44CC; incbin gfx_cutscene_layer3_arrangement_[c].bin
-org $90A596C; incbin gfx_cutscene_[c].bin
+org $8FF423C; incbin ./gráficos/gfx_cutscene_layer2_arrangement_[c].bin
+org $8FF44CC; incbin ./gráficos/gfx_cutscene_layer3_arrangement_[c].bin
+org $90A596C; incbin ./gráficos/gfx_cutscene_[c].bin
 
 //Changes Bom to Boom
-org $98202D0; incbin gfx_bom.bin
-org $8E8ECEC; incbin gfx_bom_npc_[c].bin
+org $98202D0; incbin ./gráficos/gfx_bom.bin
+org $8E8ECEC; incbin ./gráficos/gfx_bom_npc_[c].bin
 
 //Stuff for other translations
 
 // - Chimera Lab
-org $8D5CC7C; incbin gfx_lab_movie_[c].bin
-org $8D5D0A8; incbin gfx_lab_elevator1_[c].bin
-org $8D5E7E4; incbin gfx_lab_elevator_animation_[c].bin
-org $8D70DCC; incbin gfx_lab_elevator_animation2_[c].bin
-org $8D85B00; incbin gfx_lab_elevator_floors_[c].bin
-org $8E7D800; incbin gfx_lab_box1_[c].bin
-org $8D767F0; incbin gfx_lab_box2_[c].bin
-org $8E79DA8; incbin gfx_lab_box3_[c].bin
-org $8D70764; incbin gfx_lab_elevator2_[c].bin
+org $8D5CC7C; incbin ./gráficos/gfx_lab_movie_[c].bin
+org $8D5D0A8; incbin ./gráficos/gfx_lab_elevator1_[c].bin
+org $8D5E7E4; incbin ./gráficos/gfx_lab_elevator_animation_[c].bin
+org $8D70DCC; incbin ./gráficos/gfx_lab_elevator_animation2_[c].bin
+org $8D85B00; incbin ./gráficos/gfx_lab_elevator_floors_[c].bin
+org $8E7D800; incbin ./gráficos/gfx_lab_box1_[c].bin
+org $8D767F0; incbin ./gráficos/gfx_lab_box2_[c].bin
+org $8E79DA8; incbin ./gráficos/gfx_lab_box3_[c].bin
+org $8D70764; incbin ./gráficos/gfx_lab_elevator2_[c].bin
 //These are just in case you really need them
-org $90B9198; incbin gfx_lab_arrangement_b1f_[c].bin
-org $90C16DC; incbin gfx_lab_arrangement_2f_room2_[c].bin
-org $90BCF68; incbin gfx_lab_arrangement_1f_[c].bin
-org $90BE970; incbin gfx_lab_arrangement_1f_room_[c].bin
-org $90C0078; incbin gfx_lab_arrangement_2f_[c].bin
-org $90C2A54; incbin gfx_lab_arrangement_2f_room_[c].bin
-org $90C4768; incbin gfx_lab_arrangement_3f_room1_[c].bin
-org $90C4DC8; incbin gfx_lab_arrangement_3f_room2_[c].bin
+org $90B9198; incbin ./gráficos/gfx_lab_arrangement_b1f_[c].bin
+org $90C16DC; incbin ./gráficos/gfx_lab_arrangement_2f_room2_[c].bin
+org $90BCF68; incbin ./gráficos/gfx_lab_arrangement_1f_[c].bin
+org $90BE970; incbin ./gráficos/gfx_lab_arrangement_1f_room_[c].bin
+org $90C0078; incbin ./gráficos/gfx_lab_arrangement_2f_[c].bin
+org $90C2A54; incbin ./gráficos/gfx_lab_arrangement_2f_room_[c].bin
+org $90C4768; incbin ./gráficos/gfx_lab_arrangement_3f_room1_[c].bin
+org $90C4DC8; incbin ./gráficos/gfx_lab_arrangement_3f_room2_[c].bin
 
 // - Thunder Tower
 org $8D3B870; dd $12A0D20
-org $9FDC200; incbin gfx_thunder_elevator_extern_[c].bin
+org $9FDC200; incbin ./gráficos/gfx_thunder_elevator_extern_[c].bin
 org $8D3B720; dd $12A1020
-org $9FDC500; incbin gfx_thunder_elevator_intern_[c].bin
+org $9FDC500; incbin ./gráficos/gfx_thunder_elevator_intern_[c].bin
 
 // - Club Titiboo
-org $8D50A00; incbin gfx_club_keepout_[c].bin
+org $8D50A00; incbin ./gráficos/gfx_club_keepout_[c].bin
 org $8D3BF2C; dd $12A0320
-org $9FDB800; incbin gfx_ropeway_bottom_[c].bin
+org $9FDB800; incbin ./gráficos/gfx_ropeway_bottom_[c].bin
 org $8D3C5D4; dd $12A0720
-org $9FDBC00; incbin gfx_ropeway_top_[c].bin
-org $8D5A2A8; incbin gfx_titiboo_oil_[c].bin
+org $9FDBC00; incbin ./gráficos/gfx_ropeway_top_[c].bin
+org $8D5A2A8; incbin ./gráficos/gfx_titiboo_oil_[c].bin
 
 // - Debug Room
-org $8DB555C; incbin gfx_debug_[c].bin
+org $8DB555C; incbin ./gráficos/gfx_debug_[c].bin
 
 // - Tazmily
 org $8D3C0F0; dd $8F92A70-$8D3B4E0
-org $8F92A70; incbin gfx_bazar1_[c].bin
+org $8F92A70; incbin ./gráficos/gfx_bazar1_[c].bin
 org $8D3C0F4; dd $915BA30-$8D3B4E0
-org $915BA30; incbin gfx_bazar2_[c].bin
-org $9C68724; incbin gfx_bazar_credits.bin
+org $915BA30; incbin ./gráficos/gfx_bazar2_[c].bin
+org $9C68724; incbin ./gráficos/gfx_bazar_credits.bin
 org $8D3C134; dd $91602A0-$8D3B4E0
-org $91602A0; incbin gfx_sheriff1_[c].bin
-org $8DD5D60; incbin gfx_sheriff2_[c].bin
-org $9640AD0; incbin gfx_knock.bin
-org $9692350; incbin gfx_ice.bin
+org $91602A0; incbin ./gráficos/gfx_sheriff1_[c].bin
+org $8DD5D60; incbin ./gráficos/gfx_sheriff2_[c].bin
+org $9640AD0; incbin ./gráficos/gfx_knock.bin
+org $9692350; incbin ./gráficos/gfx_ice.bin
 
 // Insert graphic for the CAST sprite
-org $9659AB0; incbin gfx_castleft.bin
-org $9658CB0; incbin gfx_castright.bin
+org $9659AB0; incbin ./gráficos/gfx_castleft.bin
+org $9658CB0; incbin ./gráficos/gfx_castright.bin
 org $1A87871; db $00 // right part position
 org $1A87875; db $E0,$70,$61 // left part position, tile id and size respectively
 org $143710E; db $30 // collision
 
 // - General
-org $8E5D270; incbin gfx_end0_[c].bin
-org $8EEDE28; incbin gfx_end1_[c].bin
-org $8EEE358; incbin gfx_end2_[c].bin
-org $9AF4EA0; incbin gfx_currency.bin
-org $9AF6480; incbin gfx_hp_pp_battle.bin
-org $9C9B108; incbin gfx_hp_pp.bin
-org $9B9C364; incbin gfx_various_menu1.bin
-org $9B9D564; incbin gfx_various_menu2_[c].bin
+org $8E5D270; incbin ./gráficos/gfx_end0_[c].bin
+org $8EEDE28; incbin ./gráficos/gfx_end1_[c].bin
+org $8EEE358; incbin ./gráficos/gfx_end2_[c].bin
+org $9AF4EA0; incbin ./gráficos/gfx_currency.bin
+org $9AF6480; incbin ./gráficos/gfx_hp_pp_battle.bin
+org $9C9B108; incbin ./gráficos/gfx_hp_pp.bin
+org $9B9C364; incbin ./gráficos/gfx_various_menu1.bin
+org $9B9D564; incbin ./gráficos/gfx_various_menu2_[c].bin
 org $9B90030; dd $0044C040
-org $9FDC000; incbin gfx_start_battle_[c].bin
-org $9C97CE8; incbin gfx_exit_battle.bin
-org $9CA6928; incbin gfx_music.bin
-org $967A0D0; incbin gfx_happy_end.bin
-org $993F270; incbin gfx_sprays.bin
+org $9FDC000; incbin ./gráficos/gfx_start_battle_[c].bin
+org $9C97CE8; incbin ./gráficos/gfx_exit_battle.bin
+org $9CA6928; incbin ./gráficos/gfx_music.bin
+org $967A0D0; incbin ./gráficos/gfx_happy_end.bin
+org $993F270; incbin ./gráficos/gfx_sprays.bin
 
 //Insert hit and total damage graphics
-org $9C926C8; incbin gfx_combo.bin
+org $9C926C8; incbin ./gráficos/gfx_combo.bin
 org $9CFA738; db $FD // 2nd line, up 3 pixels (part 1)
 org $9CFA740; db $FD // 2nd line, up 3 pixels (part 2)
 org $9CFA748; db $FD // 2nd line, up 3 pixels (part 3)
@@ -1377,7 +1377,7 @@ org $9CFAB3A; db $18 // "MISS" text, left 8 pixels (part 2)
 
 // - Titlescreen
 org $9BCDE60; dd $2EB4
-org $9BD0C40; incbin gfx_main_menu_[c].bin
+org $9BD0C40; incbin ./gráficos/gfx_main_menu_[c].bin
 org $9C5F838; db $F7,$C0,$00 // NEW GAME, part 1 ($00,$40,$00 => $FC,$C0,$00) position, size, zone
 org $9C5F83E; db $37,$40,$60 // NEW GAME, part 2 ($20,$40,$04 => $3C,$40,$60)
 org $9C5F848; db $00,$C0,$6F // make LOAD sprite larger + centered ($10,$40,$08 => $00,$C0,$6F)
@@ -1391,34 +1391,34 @@ org $9C5F826; db $F5,$10,$40,$00,$5E,$00,$F5,$00,$B8,$01,$5D // mini credits par
 
 // - New Pork City
 org $8D3CF34; dd $9FDC800-$8D3B4E0
-org $9FDC800; incbin gfx_ticket_[c].bin
+org $9FDC800; incbin ./gráficos/gfx_ticket_[c].bin
 org $8D3D33C; dd $9FDA810-$8D3B4E0
-org $9FDA810; incbin gfx_beauty_intern1_[c].bin
-org $8E9CEF0; incbin gfx_beauty_intern2_[c].bin
+org $9FDA810; incbin ./gráficos/gfx_beauty_intern1_[c].bin
+org $8E9CEF0; incbin ./gráficos/gfx_beauty_intern2_[c].bin
 org $8D3DE48; dd $9FDABF0-$8D3B4E0
-org $9FDABF0; incbin gfx_beauty_extern_[c].bin
-org $8F0A464; incbin gfx_heli_[c].bin
-org $8F0CE20; incbin gfx_arcade_top_[c].bin
-org $8F0D144; incbin gfx_arcade_bottom_[c].bin
-org $8F0D480; incbin gfx_welcome_[c].bin
-org $8F1E0BC; incbin gfx_vikings_[c].bin
-org $8F1EA7C; incbin gfx_park_[c].bin
-org $8F15360; incbin gfx_amusement_[c].bin
-org $8F17844; incbin gfx_theater_[c].bin
-org $98EDAD0; incbin gfx_police.bin
-org $8F217FC; incbin gfx_porky_empire_[c].bin
+org $9FDABF0; incbin ./gráficos/gfx_beauty_extern_[c].bin
+org $8F0A464; incbin ./gráficos/gfx_heli_[c].bin
+org $8F0CE20; incbin ./gráficos/gfx_arcade_top_[c].bin
+org $8F0D144; incbin ./gráficos/gfx_arcade_bottom_[c].bin
+org $8F0D480; incbin ./gráficos/gfx_welcome_[c].bin
+org $8F1E0BC; incbin ./gráficos/gfx_vikings_[c].bin
+org $8F1EA7C; incbin ./gráficos/gfx_park_[c].bin
+org $8F15360; incbin ./gráficos/gfx_amusement_[c].bin
+org $8F17844; incbin ./gráficos/gfx_theater_[c].bin
+org $98EDAD0; incbin ./gráficos/gfx_police.bin
+org $8F217FC; incbin ./gráficos/gfx_porky_empire_[c].bin
 
 // - Highway
-org $8E748D0; incbin gfx_charge0_[c].bin
+org $8E748D0; incbin ./gráficos/gfx_charge0_[c].bin
 org $8D3C724; dd $9FDD200-$8D3B4E0
-org $9FDD200; incbin gfx_charge1_[c].bin
-org $8EEC604; incbin gfx_charge2_[c].bin
-org $8ED4C38; incbin gfx_cafe_top_[c].bin
-org $8ED4930; incbin gfx_cafe_bottom_[c].bin
+org $9FDD200; incbin ./gráficos/gfx_charge1_[c].bin
+org $8EEC604; incbin ./gráficos/gfx_charge2_[c].bin
+org $8ED4C38; incbin ./gráficos/gfx_cafe_top_[c].bin
+org $8ED4930; incbin ./gráficos/gfx_cafe_bottom_[c].bin
 
 //Put in a swapped version of the menu text palettes
 define alternate_menu_text_palette $9FABFC0
-org {alternate_menu_text_palette}; incbin gfx_menu_text_swapped_palette.bin
+org {alternate_menu_text_palette}; incbin ./gráficos/gfx_menu_text_swapped_palette.bin
 org $803FAA2; bl main_menu_hacks.add_extra_menu_palette
 
 //============================================================================================
@@ -1567,17 +1567,17 @@ org $804565C; bl extra_hacks.allenemies
 // New icon for bell ringer item
 org $8036E90; push {r4,lr}; bl extra_hacks.bellringer; pop {r4,pc}
 //org $8036EAC; bl extra_hacks.bellringer
-org $993DE30; incbin gfx_bellicon.bin
-org $9FABFE0; incbin gfx_bellicon_pal.bin
+org $993DE30; incbin ./gráficos/gfx_bellicon.bin
+org $9FABFE0; incbin ./gráficos/gfx_bellicon_pal.bin
 
 // intro screen
 define disclaimer_address $9C9C800
 define disclaimer_pal_address $9CA1100
 define disclaimer_map_address $9CA2000
 org $805AD14; bl extra_hacks.intro_screen
-org {disclaimer_address}; incbin gfx_disclaimer_[c].bin
-org {disclaimer_pal_address}; incbin gfx_disclaimer_pal.bin
-org {disclaimer_map_address}; incbin gfx_disclaimer_map.bin
+org {disclaimer_address}; incbin ./gráficos/gfx_disclaimer_[c].bin
+org {disclaimer_pal_address}; incbin ./gráficos/gfx_disclaimer_pal.bin
+org {disclaimer_map_address}; incbin ./gráficos/gfx_disclaimer_map.bin
 
 // enables hard mode when player name is "HARD MODE"
 org $8080A9A; bl extra_hacks.double_hp1
@@ -1665,29 +1665,29 @@ org $9198EE8; dd $00E3995C
 org $9FD2558; incbin logic_059.bin
 
 //Remove original gift box's collision of 058
-org $8FC547C; incbin gfx_forest_layer3_[c].bin
+org $8FC547C; incbin ./gráficos/gfx_forest_layer3_[c].bin
 
 //Remove overflows from 1D9
-org $8F77A3C; incbin gfx_ice_highroad_palette.bin
+org $8F77A3C; incbin ./gráficos/gfx_ice_highroad_palette.bin
 //Tileset graphics
 org $8D3CD38; dd $01297290
-org $9FD2770; incbin gfx_highroad_ice_1_[c].bin
+org $9FD2770; incbin ./gráficos/gfx_highroad_ice_1_[c].bin
 org $8D3D92C; dd $01297520
-org $9FD2A00; incbin gfx_highroad_ice_2_[c].bin
+org $9FD2A00; incbin ./gráficos/gfx_highroad_ice_2_[c].bin
 org $8D3D934; dd $01297860
-org $9FD2D40; incbin gfx_highroad_ice_3_[c].bin
+org $9FD2D40; incbin ./gráficos/gfx_highroad_ice_3_[c].bin
 org $8D3D938; dd $01297D90
-org $9FD3270; incbin gfx_highroad_ice_4_[c].bin
+org $9FD3270; incbin ./gráficos/gfx_highroad_ice_4_[c].bin
 
 //Map Tile Data
 org $904E134; dd $00F85BB4
-org $9FD3580; incbin gfx_highroad_ice_tiledata_[c].bin
+org $9FD3580; incbin ./gráficos/gfx_highroad_ice_tiledata_[c].bin
 
 //Layers info
 //org $8F91670; dd $01043E24
-//org $9FD3E60; incbin gfx_highroad_layer2_[c].bin
+//org $9FD3E60; incbin ./gráficos/gfx_highroad_layer2_[c].bin
 org $8F91674; dd $010442C4
-org $9FD4300; incbin gfx_highroad_layer3_[c].bin
+org $9FD4300; incbin ./gráficos/gfx_highroad_layer3_[c].bin
 
 //Insert new game logic for 1D9, we'll also move the one after it, since it's much smaller
 org $9199AE8; dd $0016DFEC
@@ -1717,14 +1717,14 @@ org $9364430; incbin logic_multi_debug.bin
 org $9360076; db $EC //Change pointer to another script that does the exact same thing.
 
 //Update K9000's battle and overworld sprites
-org $97977B0; incbin gfx_k9000_sprite.bin
-org $9CDF638; incbin gfx_k9000_battle_[c].bin
+org $97977B0; incbin ./gráficos/gfx_k9000_sprite.bin
+org $9CDF638; incbin ./gráficos/gfx_k9000_battle_[c].bin
 org $9C90EE0; dd $0004ECD8 //Repoint the sprite graphics
 org $9C90EE4; dd $0000084C //Update the length of the graphics
 
 //Update Nuclear Reactor Robot's battle and overworld sprites
-org $97690D0; incbin gfx_nuclear_sprite.bin
-org $9CDFE84; incbin gfx_nuclear_battle_[c].bin
+org $97690D0; incbin ./gráficos/gfx_nuclear_sprite.bin
+org $9CDFE84; incbin ./gráficos/gfx_nuclear_battle_[c].bin
 org $9C90DE0; dd $0004F524 //Repoint the sprite graphics
 org $9C90DE4; dd $000004B0 //Update the length of the graphics
 
@@ -1843,7 +1843,7 @@ org $91DF2AD; db $0A
 org $91EA604; incbin logic_leder_memo.bin
 
 //Fix 16x16 wall tile being walkable on in Tanetane's cliff
-org $90778E8; incbin gfx_tanetane_cliff_tilemap_[c].bin
+org $90778E8; incbin ./gráficos/gfx_tanetane_cliff_tilemap_[c].bin
 
 //Fix swapped gift box flags in tanetane
 org $91669E8; db $A8
@@ -1865,10 +1865,10 @@ org $9FD5F00; incbin logic_pointer_283.bin //Move ther pointers of the table nex
 org $919A02C; dd $00E3D2F0 //Point to the pointers
 
 //Fix issue in highway with slope that can be walked on
-org $9013AB4; incbin gfx_highway_layer3_[c].bin
-org $90D0140; incbin gfx_highway_graphics_[c].bin
+org $9013AB4; incbin ./gráficos/gfx_highway_layer3_[c].bin
+org $90D0140; incbin ./gráficos/gfx_highway_graphics_[c].bin
 org $8D3D91C; dd $00394C60
-org $9FD74D4; incbin gfx_highway_tilemap_[c].bin
+org $9FD74D4; incbin ./gráficos/gfx_highway_tilemap_[c].bin
 org $904E01C; dd $00F89B08
 
 //Fix issue with Porky in Absolutely Safe Capsule when comboed
@@ -2082,18 +2082,17 @@ incsrc credits_hacks.asm
 
 // Insert disclaimer graphics
 //disclaimer_graphics:
-//incbin gfx_disclaimer.bin
+//incbin ./gráficos/gfx_disclaimer.bin
 
 //disclaimer_palette:
-//incbin gfx_disclaimer_pal.bin
+//incbin ./gráficos/gfx_disclaimer_pal.bin
 
 org $904E0E8; dd $F8F234
-org $9FDCC00; incbin gfx_theater_arrangement_[c].bin
-org $8DEE9F8; incbin gfx_titiboo_sign_[c].bin
-org $8E24C70; incbin gfx_club_titiboo_sign_[c].bin
-org $8D4FFC8; incbin gfx_titiboo_rug_[c].bin
-org $9C70DA4; incbin gfx_titiboo_credits.bin
-
+org $9FDCC00; incbin ./gráficos/gfx_theater_arrangement_[c].bin
+org $8DEE9F8; incbin ./gráficos/gfx_titiboo_sign_[c].bin
+org $8E24C70; incbin ./gráficos/gfx_club_titiboo_sign_[c].bin
+org $8D4FFC8; incbin ./gráficos/gfx_titiboo_rug_[c].bin
+org $9C70DA4; incbin ./gráficos/gfx_titiboo_credits.bin
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"

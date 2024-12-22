@@ -25,7 +25,7 @@
 000B: Porky
 000B-E: Porky
 000C: N.K. Cyborg
-000C-E: C.E.R.D.O
+000C-E: C™E™R™D™O
 000D: Masked Man
 000D-E: Enmascaƒado
 000E: Fierce Pork ôrooper

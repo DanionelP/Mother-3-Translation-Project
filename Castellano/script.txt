@@ -49,9 +49,9 @@
 0-17:[BREAK][BREAK][BREAK][CENTER][LUCAS 23 02 00].[END]
 0-17E:[BREAK][BREAK][BREAK][CENTER][LUCAS 23 02 00].[END]
 0-18:[BREAK][BREAK][CENTER]ôo•think we would be blessed[BREAK][CENTER]with two children at once...[END]
-0-18E:[BREAK][BREAK][CENTER]Y•pensar•que•tendríamos [BREAK][CENTER]dos niños al mismo•tiempo...[END]
+0-18E:[BREAK][BREAK][CENTER]Y•pensar•que•tendríamos  [BREAK][CENTER]dos niños al mismo•tiempo...[END]
 0-19:[BREAK][BREAK][CENTER]I bet they'll accomplish things[BREAK][CENTER]together•that they couldn't•alone.[END]
-0-19E:[BREAK][BREAK][CENTER]EŠtoy seguro de que•juntos logƒaƒán[BREAK][CENTER]cosas que•jamás podrían por•sepaƒado.[END]
+0-19E:[BREAK][BREAK][CENTER]Seguro que•juntos•logƒaƒán cosas[BREAK][CENTER]que•jamás podrían por•separado.[END]
 0-20:[BREAK][BREAK][BREAK][CENTER]I'm sure•they'll argue a lot, too.[END]
 0-20E:[BREAK][BREAK][BREAK][CENTER]Sé que•tendƒán sus discusiones.[END]
 0-21:[BREAK][BREAK][CENTER]And I can see•them helping each[BREAK][CENTER]other•out when•they need it.[END]
@@ -71,7 +71,7 @@
 0-27:[BREAK][BREAK][CENTER]How do you want them[BREAK][CENTER]to grow up to be?[END]
 0-27E:[BREAK][BREAK][CENTER]¿Cómo•te guŠtaría que•fuesen[BREAK][CENTER]cuando crezcan?[END]
 0-28:[BREAK][BREAK][BREAK][CENTER]ôo be kind, juŠt like you.[END]
-0-28E:[BREAK][BREAK][BREAK][CENTER]Quiero que sean amables, como•tú.[END]
+0-28E:[BREAK][BREAK][CENTER]Quiero que sean amables,[BREAK][CENTER]como•tú.[END]
 0-29:[BREAK][BREAK][BREAK][CENTER]Oh. I was•juŠt going to say...[END]
 0-29E:[BREAK][BREAK][BREAK][CENTER]Oh, yo iba a decir™..[END]
 0-30:[BREAK][BREAK][BREAK][CENTER]...to be kind, juŠt like YOU.[END]
@@ -3120,7 +3120,7 @@
 33-31E:@Mmmgg[PAUSE 20 00] fggggg[PAUSE 20 00] ggg...[PAUSE 20 00][BREAK]  [PAUSE 08 00].[PAUSE 0A 00].[PAUSE 0C 00].[PAUSE 0E 00].[PAUSE 10 00].[PAUSE 20 00].[PAUSE 30 00]¡Puah![WAIT]@¡Ooh, por•fin me he quitado eŠto! [HEART][WAIT]@¡BaŠtaba con mover•la boca arriba[PAUSE 20 00] y abajo[PAUSE 20 00][BREAK]  paƒa que•fuese saliendo![WAIT]@¡Ooh, soy maƒavillosa·! [HEART][WAIT][PAUSE 20 00]@Siento ser•una plaŠta, pero,[BREAK]  ¿podrías ponerme de pie?[END]
 // Repeats: 33-31, 219-31
 33-32:@Thank you, darling! [HEART][WAIT]@I don't know what happened.[WAIT]  I was minding my own business, taking off my[BREAK]  makeup,[WAIT]  when suddenly I was physically assaulted![WAIT]@Oh, what•an unfabulous•time•to be attacked![END]
-33-32E:@¡Gƒacias, cielín! [HEART][WAIT]@No sé qué ha pasado.[WAIT]  EŠtaba yo•toda tƒanquila,[BREAK]  desmaquillándome y•tal,[WAIT]  ¡cuando de repente•fui agredida físicamente![WAIT]@¡Oigh, ‡aya momento paƒa ser•atacada·![END]
+33-32E:@¡Gƒacias, cielín! [HEART][WAIT]@No sé qué ha pasado.[WAIT]  EŠtaba yo•tƒanquila,[BREAK]  desmaquillándome y•tal,[WAIT]  ¡cuando de repente me•agredieron•físicamente![WAIT]@¡Oigh, ‡aya momento paƒa ser•atacada·![END]
 // Repeats: 33-32, 219-32
 33-33:@Oh, my! [HEART][EVENT][END]
 33-33E:@¡Oh, cielos! [HEART][EVENT][END]
@@ -9323,7 +9323,7 @@
 203-58E:@Gƒacias.[WAIT][PAUSE 40 00]@ùapá.[WAIT][PAUSE 20 00]@Siento no haberte escuchado.[END]
 // Repeats: 203-58, 263-58
 203-59:@I'm going[PAUSE 40 00] to•where Mom is now.[EVENT][END]
-203-59E:@Ahoƒa[PAUSE 40 00] me voy a ir•con mamá.[EVENT][END]
+203-59E:@Ahoƒa[PAUSE 40 00] me•voy a ir•con mamá.[EVENT][END]
 // Repeats: 203-59, 263-59
 203-60:@[LUCAS 23 02 00].[WAIT]@I hope[PAUSE 40 00] we meet•again someday.[END]
 203-60E:@[LUCAS 23 02 00].[WAIT]@Espero[PAUSE 40 00] que vol‡amos a vernos.[END]
@@ -11920,7 +11920,7 @@
 263-58E:@Gƒacias.[WAIT][PAUSE 40 00]@ùapá.[WAIT][PAUSE 20 00]@Siento no haberte escuchado.[END]
 // Repeats: 203-58, 263-58
 263-59:@I'm going[PAUSE 40 00] to•where Mom is now.[EVENT][END]
-263-59E:@Ahoƒa[PAUSE 40 00] me voy a ir•con mamá.[EVENT][END]
+263-59E:@Ahoƒa[PAUSE 40 00] me•voy a ir•con mamá.[EVENT][END]
 // Repeats: 203-59, 263-59
 263-60:@[LUCAS 23 02 00].[WAIT]@I hope[PAUSE 40 00] we meet•again someday.[END]
 263-60E:@[LUCAS 23 02 00].[WAIT]@Espero[PAUSE 40 00] que vol‡amos a vernos.[END]
@@ -18561,7 +18561,7 @@
 709-2E:@El•tiempo no•fluye en eŠtas lianas.[WAIT]@¿Verter•las [ITEM CA 00] sobre ellas?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 // Repeats: 25-2, 709-2
 709-3:@[CLAUS 22 05 00] gave his•final breath.[END]
-709-3E:@[CLAUS 22 05 00] exhaló su último aliento.[END]
+709-3E:@[CLAUS 22 05 00] ha exhalado su último aliento.[END]
 709-4:[END]
 709-4E:[END]
 709-5:[END]
@@ -18579,7 +18579,7 @@
 709-11:@No one can Štop [LUCAS 23 02 00] from pulling[BREAK]  the Needle.[WAIT][PAUSE 30 00]  No one.[END]
 709-11E:@Nadie puede evitar•que [LUCAS 23 02 00][BREAK]  extƒaiga la Ag‰ja.[WAIT][PAUSE 30 00]  Nadie.[END]
 709-12:@[LUCAS 23 02 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00] Thank you.[WAIT]  [CLAUS 22 05 00] was•juŠt haŠty, that's all.[WAIT]@Ÿou'll•forgive your•haŠty brotheƒ, won't you?[WAIT]@.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 40 00][WAIT]@Alright. This is it.[WAIT]  The•time has come•for•you•to pull•the Dƒagon's[BREAK]  laŠt Needle.[WAIT][PAUSE 20 00]@Are you ready?[WAIT][MENU 02 00][MENUSPACEYES]Ÿes[MENUSPACENO]No[ENDCHOICES][END]
-709-12E:@[LUCAS 23 02 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00] Gƒacias.[WAIT]  [CLAUS 22 05 00] se precipitó,[BREAK]  y no sabía lo que hacía.[WAIT]@¿Crees... que podƒás perdonarle?[WAIT]@.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 40 00][WAIT]@Bien. Ha llegado la hoƒa.[WAIT]  La hoƒa de que extƒaigas la última[BREAK]  Ag‰ja del Dƒagón.[WAIT][PAUSE 20 00]@¿EŠtás prepaƒado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
+709-12E:@[LUCAS 23 02 00].[PAUSE 08 00].[PAUSE 08 00].[PAUSE 10 00] Gƒacias.[WAIT]  [CLAUS 22 05 00] se había precipitado,[BREAK]  y no sabía lo que hacía.[WAIT]@¿Crees... que podƒás perdonarle?[WAIT]@.[PAUSE 18 00].[PAUSE 18 00].[PAUSE 40 00][WAIT]@Bien. Ha llegado la hoƒa.[WAIT]  La hoƒa de que extƒaigas la última[BREAK]  Ag‰ja del Dƒagón.[WAIT][PAUSE 20 00]@¿EŠtás prepaƒado?[WAIT][MENU 02 00][MENUSPACEYES]Sí[MENUSPACENO]No[ENDCHOICES][END]
 709-13:@Ÿou've made it here. [PAUSE 30 00]Ÿou've made it this•far™[WAIT]@Ÿou'll be all right.[END]
 709-13E:@Has llegado muy lÊjos. [PAUSE 30 00]Has llegado haŠta aquí.[WAIT]@ôodo•‡a a ir•bien.[END]
 709-14:@Both [HINAWA 22 08 00] and [CLAUS 22 05 00][BREAK]  have entruŠted•fate•to you.[END]
@@ -20584,7 +20584,7 @@
 894-23:@Chapter 7: Event Selection[BREAK][MENU 09 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Nursing Home[RIGHT][BREAK]  [LEFT]Aeolia's House[RIGHT][BREAK]  [LEFT]Courtyard[RIGHT][BREAK]  [LEFT]Cemetery[RIGHT][BREAK]  [LEFT]Cross Road[RIGHT][BREAK]  [LEFT]Stumble ùass[RIGHT][BREAK]  [LEFT]Ionia's House[RIGHT][BREAK]  [LEFT]Chupichupyoi•ôemple[RIGHT][BREAK][ENDCHOICES][END]
 894-23E:@Capítulo 7: selección[BREAK][MENU 09 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]Residencia de ancianos[RIGHT][BREAK]  [LEFT]Casa Aeolia[RIGHT][BREAK]  [LEFT]ùatio•tƒasero del caŠtillo[RIGHT][BREAK]  [LEFT]Cementerio[RIGHT][BREAK]  [LEFT]EncrucÎjada[RIGHT][BREAK]  [LEFT]ùaso de Argilla[RIGHT][BREAK]  [LEFT]Casa de Ionia[RIGHT][BREAK]  [LEFT]ôemplo Chupichupyoi[RIGHT][BREAK][ENDCHOICES][END]
 894-24:@Chapter 8: Event Selection[BREAK][MENU 0D 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]Inside Limo[RIGHT][BREAK]  [LEFT]NPC Arri‡al[RIGHT][BREAK]  [LEFT]Arcade[RIGHT][BREAK]  [LEFT]Sewers[RIGHT][BREAK]  [LEFT]24 F Reunion[RIGHT][BREAK]  [LEFT]ôo 100 F[RIGHT][BREAK]  [LEFT]Game 1[RIGHT][BREAK]  [LEFT]Game 2[RIGHT][BREAK]  [LEFT]Game 3[RIGHT][BREAK]  [LEFT]NK Cyborg[RIGHT][BREAK]  [LEFT]Mecha-Porkies[RIGHT][BREAK]  [LEFT]Final Needle[RIGHT][BREAK][ENDCHOICES][END]
-894-24E:@Capítulo 8: selección[BREAK][MENU 0D 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]En la limusina[RIGHT][BREAK]  [LEFT]Llegada a Nue‡a Pork[RIGHT][BREAK]  [LEFT]Recreativos[RIGHT][BREAK]  [LEFT]Alcantarillas[RIGHT][BREAK]  [LEFT]Reunión piso 24[RIGHT][BREAK]  [LEFT]Al piso 100[RIGHT][BREAK]  [LEFT]Juego 1[RIGHT][BREAK]  [LEFT]Juego 2[RIGHT][BREAK]  [LEFT]Juego 3[RIGHT][BREAK]  [LEFT]C.E.R.D.O[RIGHT][BREAK]  [LEFT]Mecha-Porkys[RIGHT][BREAK]  [LEFT]Última Ag‰ja[RIGHT][BREAK][ENDCHOICES][END]
+894-24E:@Capítulo 8: selección[BREAK][MENU 0D 00]  [LEFT]TERMINAR SELECCIÓN[RIGHT][BREAK]  [LEFT]En la limusina[RIGHT][BREAK]  [LEFT]Llegada a Nue‡a Pork[RIGHT][BREAK]  [LEFT]Recreativos[RIGHT][BREAK]  [LEFT]Alcantarillas[RIGHT][BREAK]  [LEFT]Reunión piso 24[RIGHT][BREAK]  [LEFT]Al piso 100[RIGHT][BREAK]  [LEFT]Juego 1[RIGHT][BREAK]  [LEFT]Juego 2[RIGHT][BREAK]  [LEFT]Juego 3[RIGHT][BREAK]  [LEFT]C™E™R™D™O[RIGHT][BREAK]  [LEFT]Mecha-Porkys[RIGHT][BREAK]  [LEFT]Última Ag‰ja[RIGHT][BREAK][ENDCHOICES][END]
 894-25:@Select Lucas and Kumatoƒa's ages:[BREAK][MENU 02 00][MENUSPACEYES]Kids[MENUSPACENO]Adolescents[ENDCHOICES][END]
 894-25E:@Selecciona las edades de Lucas y Kumatoƒa·:[BREAK][MENU 02 00][MENUSPACEYES]Niños[MENUSPACENO]Adolescentes[ENDCHOICES][END]
 894-26:@Which attƒact mode?[BREAK][MENU 03 00]  [LEFT]END SELECTION[RIGHT][BREAK]  [LEFT]øamily[RIGHT][BREAK]  [LEFT]Others[RIGHT][BREAK][ENDCHOICES][END]

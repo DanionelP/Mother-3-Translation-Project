@@ -202,9 +202,9 @@
 005F: Dance[END]
 005F-E: Baile[END]
 0060: OFF Down Mid[END]
-0060-E: Meha dado a bajar•ataque[END]
+0060-E: Medio a bajar•ataque[END]
 0061: DEF Down Mid[END]
-0061-E: Meha dado a bajar•defensa[END]
+0061-E: Medio a bajar•defensa[END]
 0062: Time Bomb[END]
 0062-E: Bomba temporizada[END]
 0063: ùaƒameters Up[END]
@@ -639,7 +639,7 @@
 0139: It had no•visible effect on [05 EF][12 FF]·![END]
 0139-E: ¡No ha tenido ningún efecto•visible en [05 EF][12 FF]·![END]
 013A: [12 FF] was healed completely![END]
-013A-E: ¡[12 FF] ha sido•totalmente cuƒad[08 EF]·![END]
+013A-E: ¡[12 FF] se ha cuƒado por•completo![END]
 013B: [12 FF] was revived![END]
 013B-E: ¡[12 FF] ha vuelto a la vida·![END]
 013C: Sucked away [05 EF][12 FF]'s PP![END]
@@ -2715,7 +2715,7 @@
 0431: It had no•visible effect on [05 EF][12 FF]·![END]
 0431-E: ¡No ha tenido ningún efecto•visible en [05 EF][12 FF]·![END]
 0432: [04 EF][12 FF] became perfectly•fine![END]
-0432-E: ¡[04 EF][12 FF] fue cuƒado por•completo![END]
+0432-E: ¡[04 EF][12 FF] se ha cuƒado por•completo![END]
 0433: [04 EF][11 FF] was revived![END]
 0433-E: ¡[04 EF][11 FF] ha vuelto a la vida·![END]
 0434: Sucked away [12 FF]'s PP![END]
@@ -2921,7 +2921,7 @@
 // Used by•the enemy:  Putrid Moldyman
 // Used by•the action: 549
 0477: [04 EF][11 FF] launched some Mini-Mecha-Dogs![WAIT]The Mini-Mecha-Dogs charged![END]
-0477-E: ¡[04 EF][11 FF] ha lanzado•‡arios Mini-Perrobots![WAIT]¡Los Mini-Perrobots atacaron![END]
+0477-E: ¡[04 EF][11 FF] ha lanzado•‡arios Mini-Perrobots![WAIT]¡Los Mini-Perrobots atacan![END]
 // Used by•the enemy:  K9000
 // Used by•the action: 555
 0478: [04 EF][11 FF] swung its•tentacles around![END]
@@ -4044,7 +4044,7 @@
 0651: The Masked Man looked around.[33 FF][END]
 0651-E: El Enmascaƒado ha miƒado alrededor.[33 FF][END]
 0652: [14 FF] jumped in•front of [15 FF]·![32 FF][END]
-0652-E: ¡[14 FF] ha saltado en•frente de [15 FF]·![32 FF][END]
+0652-E: ¡[14 FF] ha saltado enfrente de [15 FF]·![32 FF][END]
 0653: The Masked Man's attack[32 FF] dealt major•damage•to [14 FF].[33 FF][END]
 0653-E: El ataque del Enmascaƒado[32 FF] le ha causado daños•severos a [14 FF].[33 FF][END]
 0654: @[20 FF],[33 FF] please remember...[34 FF][BREAK]@I've been looking for•you[32 FF] for•so long...[34 FF][END]
