@@ -9,12 +9,16 @@ DOT = "•"
 Directory = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
 #Directory = "."
 Type = None
+CurrentFile = None
+COLONFILES = ["0-8E.txt", "0-15E.txt", "0-16E.txt", "0-41E.txt", "0-42E.txt", "castroll_names.txt", "custom_text.txt", "enemy_extras.txt",
+ "enemynames_short.txt", "item_extras.txt", "special_itemdescriptions.txt"]
 UTF8FILES = ["script.txt", "0-8E.txt", "0-15E.txt", "0-16E.txt", "0-41E.txt", "0-42E.txt"]
 SMALLFONTFILES = ["charnames.txt", "defaultnames.txt", "enemydescriptions.txt", "enemynames_short.txt"]
 SMALLFONTEXCEPTIONS = "j"
 class SubstitutionType(Enum):
     NORMAL = 1
     FORMATTED = 2
+    ORIGINAL = 3
 
 
 #functions and shit
@@ -26,7 +30,7 @@ def create_dict_from_file(fileName):
             dictionary[key] = ast.literal_eval(value)
     return dictionary
 
-def do_replacement(line, smallFont=False):
+def do_replacement(line, replType, smallFont=False, delMiscChar=False):
     for key, value in SAMEWORD.items():
         for i in value[1]:
             if smallFont and i in SMALLFONTEXCEPTIONS: #perdón pero es que no estaba funcionando como quería y no quería romperme tanto el coco
@@ -34,28 +38,33 @@ def do_replacement(line, smallFont=False):
             else:
                 normal = str(key + i)
                 formatted = str(value[0] + i)
-                if Type == SubstitutionType.NORMAL:
+                if replType in [SubstitutionType.NORMAL, SubstitutionType.ORIGINAL]:
                     line = line.replace(formatted, normal)
-                elif Type == SubstitutionType.FORMATTED:
+                elif replType == SubstitutionType.FORMATTED:
                     line = line.replace(normal, formatted)
     for key, value in BETWEENWORDS.items():
         for i in value:
             normal = str(key + " " + i)
             formatted = str(key + DOT + i)
-            if Type == SubstitutionType.NORMAL:
+            if replType in [SubstitutionType.NORMAL, SubstitutionType.ORIGINAL]:
                 line = line.replace(formatted, normal)
-            elif Type == SubstitutionType.FORMATTED:
+            elif replType == SubstitutionType.FORMATTED:
                 line = line.replace(normal, formatted)
+    if delMiscChar:
+        line = line.replace("®"," ").replace("·","").replace("•"," ").replace("™",".").replace("¬","  ").replace("©","@") #mierder ahhh code lo siento es muy tarde no quiero pensar
     return line
 
 def substitute(line, smallFont=False):
     global Type
+    if is_original_line(line) and not CurrentFile in COLONFILES:
+        line = do_replacement(line, SubstitutionType.NORMAL, smallFont, True)
+        return line
     if "[ALTERNATEFONT]" in line:
         parts = line.split('[ALTERNATEFONT]')
-        return do_replacement(parts[0]) + '[ALTERNATEFONT]' + parts[1]
+        return do_replacement(parts[0], Type) + '[ALTERNATEFONT]' + parts[1]
     if line[0] == "/":
         return line
-    return do_replacement(line, smallFont)
+    return do_replacement(line, Type, smallFont)
 
 def replaceFile(fileName):
     realFile = Directory + "//" + fileName
@@ -94,6 +103,11 @@ def add_sameword_characters():
             if i in SAMEWORD.keys():
                 BETWEENWORDS[key].append(SAMEWORD[i][0])
 
+def is_original_line(line):
+    if CurrentFile == "script.txt":
+        return not "E" in line.split(":")[0]
+    return not "-E" in line.split(":")[0]
+
 
 #shit and shit
 set_substitution_type()
@@ -103,6 +117,7 @@ add_sameword_characters()
 for file in os.listdir(Directory):
     fileExtension = os.path.splitext(file)[1]
     if fileExtension == ".txt" and file not in ["texttable.txt", "M3FontEditor.txt"]:
+        CurrentFile = file
         replaceFile(file)
         print("Se ha hecho el reemplazo en " + file)
 os.system('pause')
