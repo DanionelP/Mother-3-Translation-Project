@@ -709,6 +709,11 @@ bne  +
 b    .cc_it_articles
 +
 
+cmp  r0,#0x18                // check for 0xEF18, which adds "punto" or "puntos" depending on the number of points
+bne  +
+b    .cc_stat_plural
++
+
 mov  r0,#0                   // if this executes, it's an unknown control code, so treat it normally
 b    .main_loop_next         // jump back to the part of the main loop that increments and such
 
@@ -804,6 +809,31 @@ mov  r0,r3                   // r0 now has the total # of bytes we added
 pop  {r1-r3}
 b    .main_loop_next         // now jump back to the part of the main loop that increments and such
 
+//--------------------------------------------------------------------------------------------
+
+.cc_stat_plural:
+push {r1-r2}
+mov  r0,r8
+ldrh r2,[r0,#0x2A]           // load the number of digits of the stat change
+ldr  r1,[r0,#0x24]           // load the first digit of the stat change
+ldrh r1,[r1,#0]
+
+mov  r0,#57                  // ID of plural "puntos"
+cmp  r1,#0x11                // is the first digit 1?
+bne  +
+cmp  r2,#1                   // do we have only one digit?
+bne  +
+mov  r0,#56                  // ID of singular "punto"
+
++
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2
+pop  {r1-r2}
+
+bl   custom_strlen
+b    .main_loop_next
 
 //--------------------------------------------------------------------------------------------
 
@@ -1802,6 +1832,11 @@ bne  +
 b    .ecc_it_articles
 +
 
+cmp  r0,#0x18                // check for 0xEF18, which adds "punto" or "puntos" depending on the number of points
+bne  +
+b    .ecc_stat_plural
++
+
 b    .ecc_inc                // treat this code normally if it's not a valid custom control code
 
 //--------------------------------------------------------------------------------------------
@@ -1908,7 +1943,32 @@ mov  r0,r3                   // r0 now has the total # of bytes we added
  
 pop  {r1-r3}
 b    .customcc_inc           // go to the common custom CC incrementing, etc. code
- 
+
+//--------------------------------------------------------------------------------------------
+
+.ecc_stat_plural:
+push {r1-r2}
+mov  r0,r8
+ldrh r2,[r0,#0x2A]           // load the number of digits of the stat change
+ldr  r1,[r0,#0x24]           // load the first digit of the stat change
+ldrh r1,[r1,#0]
+
+mov  r0,#57                  // ID of plural "puntos"
+cmp  r1,#0x11                // is the first digit 1?
+bne  +
+cmp  r2,#1                   // do we have only one digit?
+bne  +
+mov  r0,#56                  // ID of singular "punto"
+
++
+mov  r2,#40
+mul  r0,r2
+ldr  r2,=#{custom_text_address}
+add  r0,r0,r2
+pop  {r1-r2}
+
+bl   custom_strcopy
+b    .customcc_inc
 
 //--------------------------------------------------------------------------------------------
 

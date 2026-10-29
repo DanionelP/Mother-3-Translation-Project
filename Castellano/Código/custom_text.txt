@@ -53,3 +53,5 @@ os
 as
 n
 •
+ punto
+ puntos
